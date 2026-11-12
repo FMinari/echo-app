@@ -17,7 +17,7 @@ import re
 PECAS = {
     "palavra": ("Escrever", "Palavra exata", "escreva: would  ·  várias opções: would/'d", None),
     "forma": ("Escrever", "Qualquer forma de…", "escreva a forma básica: have (pega has, had, 've)", None),
-    "pessoa": ("Pessoas e coisas", "Alguém ou algo", "I, you, Ross, the dog, it", "[t=PRP|NNP|NNPS|NN|NNS|EX]+"),
+    "pessoa": ("Pessoas e coisas", "Alguém ou algo", "I, you, Anna, the dog, it", "[t=PRP|NNP|NNPS|NN|NNS|EX]+"),
     "substantivo": ("Pessoas e coisas", "Substantivo", "dog, ideas, coffee", "[t=NN|NNS]"),
     "verbo_base": ("Verbos", "Verbo na forma básica", "go, eat, be", "[t=VB]"),
     "verbo_presente": ("Verbos", "Verbo no presente", "go, goes, am, is", "[t=VBP|VBZ]"),

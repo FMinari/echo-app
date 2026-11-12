@@ -1,0 +1,1000 @@
+There is a book on the desk.	Há um livro sobre a mesa.	20551
+There is a book on dancing on the desk.	Há um livro sobre danças em cima da mesa.	20554
+There is a map on the desk.	Há um mapa em cima da mesa.	20555
+There is a key on the desk.	Tem uma chave na escrivaninha.	20558
+I see a flower on the desk.	Vejo uma flor em cima da escrivaninha.	20559
+What is on the desk?	O que há em cima da carteira?	20561
+There is a dictionary on the desk.	Há um dicionário em cima da mesa.	20564
+There is an apple on the desk.	Há uma maçã na mesa.	20566
+There is one apple on the desk.	Tem uma maça na mesa.	20567
+There are no pens on the desk.	Não há canetas na mesa.	20569
+Is there a pen on the desk?	Há uma caneta sobre a carteira?	20571
+How many pens are there on the desk?	Quantas canetas há na mesa?	20572
+There is a pair of scissors on the desk.	Há uma tesoura em cima da carteira.	20578
+There were no more than two books on the desk.	Há não passa de dois livros sobre a mesa.	20584
+There is a cat under the desk.	Há um gato debaixo da escrivaninha.	20585
+Are there any books under the desk?	Há algum livro embaixo da mesa?	20588
+A cat appeared from under the desk.	Um gato saiu de debaixo da mesa.	20589
+The desk drawer is open.	A gaveta da mesa está aberta.	20590
+I agree with you to a degree.	Estou parcialmente de acordo com você.	20595
+What with joy and shame, she blushed to the ears.	De alegria e vergonha, ela corou até as orelhas.	20615
+Odd numbers alternate with even ones.	Números ímpares se alternam com os pares.	20644
+The magician had the children's attention.	O mágico havia captado a atenção das crianças.	20645
+Basically, I agree with your opinion.	Basicamente, eu concordo com a sua opinião.	20647
+That game is easy, once you learn the basic rules.	Aquele jogo é fácil, depois que você aprende as regras básicas.	20650
+I'll be glad to help him.	Ficarei feliz em ajudá-lo.	20658
+I'm willing to help him.	Eu estou disposto a ajudá-lo.	20659
+We gladly accept your offer.	Nós aceitamos sua oferta com prazer.	20660
+I'll be happy to answer your question.	Ficarei feliz de responder à sua pergunta.	20661
+I will gladly help you.	Ficarei feliz em ajudá-lo.	20664
+I am glad to accept your invitation.	Estou contente de aceitar o seu convite.	20667
+I will be very happy to accept your invitation.	Ficaria muito feliz de aceitar o seu convite.	20668
+I will be glad to help you.	Eu ficarei feliz em ajudá-lo.	20673
+I am ready to go with you.	Eu estou pronto para ir com vocês.	20674
+I'm glad you enjoyed it.	Estou feliz que tenha apreciado.	20675
+I'd be happy to attend your party.	Ficarei feliz em frequentar a sua festa.	20677
+Sensing danger, he ran away.	Sentindo o perigo, ele foi embora.	20691
+This doesn't mean the danger has passed.	Isto não significa que o perigo tenha passado.	20706
+I almost missed the train.	Eu quase perdi o trem.	20712
+Look out! There's a truck coming!	Olhe! Tem um caminhão vindo!	20718
+I was almost run over by a car.	Eu quase fui atropelado por um carro.	20721
+I hope my dream will come true.	Espero que meu sonho se realize.	20742
+Did you get your wish?	Seu desejo se realizou?	20743
+Sitting on the rock, she sang a sweet song as she combed her hair.	Ela cantava uma linda canção enquanto penteava os cabelos no rochedo.	20786
+Cancer can be cured if discovered in time.	O câncer pode ser curado se for descoberto na hora certa.	20801
+What languages do they speak in Korea?	Que línguas são faladas na Coreia?	20815
+A customs declaration is required.	Uma declaração alfandegária é obrigatória.	20816
+We hope to lower the tariff.	Nós esperamos reduzir a tarifa.	20819
+Give me any books you have on the subject.	Me dê quaisquer livros que você tenha sobre o assunto.	20822
+It's a small noisy apartment, but it's where I live and I call it home.	É um pequeno apartamento barulhento, mas é onde eu moro, e chamo-o de casa.	20829
+That was a close call.	Essa passou perto!	20836
+By mistake I boarded a train going in the opposite direction.	Sem querer eu embarquei em um trem que estava indo na direção oposta.	20837
+Correct my spelling if it's wrong.	Corrija minha ortografia se estiver errada.	20839
+Cross out all the wrong answers.	Marque com x todas as respostas erradas.	20842
+I must have made a mistake.	Devo ter cometido um erro.	20848
+Don't laugh at him for making a mistake.	Não ria dele por cometer um erro.	20849
+Don't be afraid of making mistakes.	Não tenha medo de errar.	20858
+People who are afraid of making mistakes will make no progress in English conversation.	As pessoas que têm medo de cometer erros nunca farão progresso em conversação em inglês	20864
+To err is human, to forgive divine.	Errar é humano; perdoar é divino.	20868
+We are looking forward to seeing you soon.	Nós estamos ansiosos para te ver logo.	20890
+I hope it won't be long before I can see you again.	Espero que não demore muito até que eu a veja de novo.	20892
+Let us settle the matter without a third party.	Vamos encerrar o assunto sem uma terceira opinião.	20897
+What I like best is going on Ferris wheels.	Andar de balsa é meu passatempo favorito.	20909
+Visiting all the tourist sights really wore me out.	Visitar todos os pontos turísticos realmente me deixou exausto.	20914
+The tourists wandered around the stores.	Os turistas perambulavam pelas lojas.	20917
+Have the tourists all gone on board?	Está toda a gente a bordo?	20922
+Tourism is important to the economy of my country.	O turismo é importante para a economia do meu país.	20928
+Canned food doesn't interest her.	Comida enlatada não lhe interessa.	20949
+I had no difficulty in finding his office.	Não tive dificuldade em encontrar o escritório dele.	20953
+That which is easily acquired is easily lost.	O que facilmente se ganha, facilmente se perde.	20954
+To make a long story short, we married.	Para encurtar a história, nós nos casamos.	20955
+People could have avoided many mistakes by simple experiments.	As pessoas poderiam ter evitado muitos erros através de experimentos simples.	20958
+The orchestra struck up nostalgic music.	A orquestra começou a tocar músicas nostálgicas.	20967
+The nurse soothed the crying child.	A enfermeira acalmou a criança que estava chorando.	20974
+Have you ever thought of becoming a nurse?	Você já pensou em virar enfermeira?	20981
+The nurse will tell you how to do it.	A enfermeira te dirá como fazê-lo.	20988
+The manager sat on the bench with his arms folded.	O técnico se sentou no banco com seus braços cruzados.	20990
+Sugar replaced honey as a sweetener.	O açúcar substituiu o mel como adoçante.	21001
+You shouldn't let children eat too many sweets.	Você não deveria deixar as crianças comerem tantos doces.	21009
+I'm cutting down on sweets.	Estou parando de comer doces.	21011
+Environmental pollution is causing abnormal weather conditions.	A poluição ambiental está causando condições climáticas anormais.	21016
+Fear of pollution discouraged people from building homes near power plants.	O temor da poluição desanimou as pessoas de construírem casas perto de centrais elétricas.	21017
+Teach me some kanji, please.	Me ensine alguns kanjis, por favor.	21023
+Sweat is dripping from his face.	O suor esta pingando do seu rosto.	21025
+I can't think of the right words with which to express my thanks.	Não consigo pensar nas palavras certas para expressar meus agradecimentos.	21047
+I don't know how to express my thanks.	Não sei como agradecer.	21049
+The patient got better little by little.	O paciente melhorou pouco a pouco.	21058
+The patient will soon recover from his illness.	O paciente vai se recuperar da doença logo.	21061
+Patients often die simply because they yield to their diseases.	Pacientes geralmente morrem simplesmente porque cedem às suas doenças.	21063
+The patient's life was in danger.	A vida do paciente estava em perigo.	21065
+The condition of the patients changes every day.	A condição dos pacientes muda todos os dias.	21067
+The construction of a highway will contribute to the growth of the suburbs.	A construção de uma autoestrada contribuirá para o crescimento dos subúrbios.	21073
+If the hay caught fire, it would be a real disaster.	Se o feno pegasse fogo, seria um total desastre.	21075
+Try to be generous and forgive.	Tente ser generoso e perdoe.	21078
+It's his greatest fault to be too generous.	Ser muito generoso é seu maior defeito.	21079
+Please add up the bill.	Coloque na conta, por favor.	21099
+May I have the check, please?	A conta, por favor.	21104
+The bill must be paid today.	A conta deve ser paga hoje.	21106
+The cold wind cut me to the bone.	O vento frio me cortou até os ossos.	21118
+The cold weather kept us indoors.	O tempo frio nos manteve dentro de casa.	21148
+It was cold, and in addition, it was windy.	Estava frio e, além disso, estava ventando.	21152
+When you breathe out in cold weather, you can see your breath.	Quando você expira no tempo frio, você pode ver sua respiração.	21164
+I find it hard to get up early on cold mornings.	Eu acho difícil acordar cedo em manhãs frias.	21166
+I'm cold. May I close the window?	Estou com frio. Posso fechar a janela?	21175
+Bring me a dry towel.	Traga-me uma toalha seca.	21186
+When I bite down, this tooth hurts.	Quando eu mordo, este dente dói.	21189
+I have lived in Kamakura for twelve years.	Vivo em Kamakura há doze anos.	21192
+The stock market is very active.	A bolsa de valores está bem ativa.	21204
+The price of the stock declined by half in a month.	O preço da ação caiu pela metade em um mês.	21211
+Stocks hit a new high.	As ações atingiram um novo recorde.	21219
+It was careless of you to leave your bag.	Você foi descuidada ao deixar sua mala.	21223
+You may leave your bag here.	Você pode deixar a bolsa aqui.	21226
+I need a bag. Will you lend me one?	Eu preciso de uma mala. Você me empresta uma?	21227
+Well begun is half done.	Bem começado é meio caminho andado.	21231
+The eagle does not catch flies.	A águia não captura moscas.	21232
+Don't step on the broken glass.	Não pise no vidro quebrado.	21238
+My forehead burned with fever.	Minha testa queimava de febre.	21247
+It's a piece of cake.	É mamão com açúcar.	21259
+Some learned to play musical instruments.	Alguns aprenderam a tocar instrumentos musicais.	21261
+The optimist looks into a mirror and becomes more optimistic, the pessimist more pessimistic.	O otimista olha em um espelho e se torna mais otimista, o pessimista mais pessimista.	21262
+After a storm comes a calm.	Depois da tempestade vem a calmaria.	21263
+I'm looking forward to it.	Não vejo a hora.	21276
+We enjoyed seeing the city, but we got a little tired.	Nós gostamos de ver a cidade, mas nos cansamos um pouco.	21278
+Did you have a good time?	Você se divertiu?	21279
+We are having a good time.	Estamos divertindo-nos muito.	21281
+I hope you're having fun.	Espero que esteja se divertindo.	21284
+Are you having a good time?	Você está se divertindo?	21285
+Did you have a good weekend?	Você passou um bom fim de semana?	21296
+Let's sing some merry songs.	Vamos cantar algumas canções alegres.	21303
+Pleasure is the source of pain.	O prazer é a raiz da dor.	21311
+I studied in England for six months when I was a student.	Eu estudei na Inglaterra por seis meses quando era estudante.	21352
+Students should develop their reading skills.	Os alunos deveriam desenvolver as suas habilidades de leitura.	21357
+Students should try not to be late.	Os alunos deveriam tentar não se atrasar.	21359
+Every student has access to the library.	Todo estudante tem acesso à biblioteca.	21361
+Students should make the most of their free time.	Estudantes deveriam aproveitar o tempo livre ao máximo.	21368
+All the students protested against the war.	Todos estudantes protestaram contra a guerra.	21375
+The student left without saying anything.	O estudante saiu sem dizer nada.	21376
+The teacher as well as his students has come.	O professor e também seus alunos vieram.	21382
+Each student has expressed his opinion.	Cada um dos estudantes expressou sua opinião.	21383
+Every student has free access to the library.	Todo discente tem acesso livre à biblioteca.	21386
+All the students attended the party.	Todos os alunos foram à festa.	21387
+All the students come from the US.	Todos os discentes vêm dos EUA.	21388
+Half of the students are absent.	Metade dos estudantes estão ausentes.	21394
+Half the students were absent.	A metade dos alunos estava ausente.	21395
+The students' lunch period is from twelve to one.	A hora do almoço para os estudantes é das doze à uma.	21396
+A majority of students dislike history.	A maioria dos estudantes odeia História.	21399
+The number of students is decreasing year by year.	O número de estudantes está caindo a cada ano.	21401
+I used to play tennis when I was a student.	Eu jogava tênis quando era estudante.	21404
+Almost all the students like English.	Quase todos os alunos gostam de inglês.	21406
+The students learned many poems by heart.	Os alunos aprenderam muitos poemas de cor.	21423
+The students learned this poem by heart.	Os alunos aprenderam este poema de cor.	21447
+The students were required to learn the Constitution by heart.	Exigiu-se dos estudantes que aprendessem a Constituição de cor.	21449
+A student wants to see you.	Um estudante quer te ver.	21456
+I am tired of eating at the school cafeteria.	Estou cansado de comer na cantina da escola.	21458
+You should avail yourself of every opportunity to learn.	Você deve aproveitar todas as oportunidades para aprender.	21459
+He is something of a scholar.	Ele tem uns ares de erudito.	21460
+Scholarly as he is, he can't be relied on.	Por mais erudito que seja, não se pode confiar nele.	21464
+It should be clear that the curriculum reform is mandatory in order to enhance interdisciplinary research.	Deveria ser claro que a reforma curricular é imperativa para reforçar a investigação interdisciplinar.	21470
+My time in school will be one of my happiest memories.	Meus tempos de escola serão umas das minhas lembranças mais felizes.	21472
+I usually went to bed at ten in my school days.	Nos meus tempos de escola eu normalmente ia para a cama às dez.	21474
+I met her on my way to school.	Eu a encontrei no meu caminho da escola.	21499
+I met Tom on my way to school.	Eu encontrei Tom no caminho da escola.	21501
+Wash your face before you go to school.	Lave o rosto antes de ir à escola.	21502
+School begins the day after tomorrow.	As aulas começam depois de amanhã.	21510
+Schools are expected to meet the needs of every child, regardless of ability.	Espera-se que as escolas supram as necessidades de cada criança, independente de suas habilidades.	21511
+The school adopted the new method of teaching English.	A escola adotou o novo método de ensinar inglês.	21514
+School begins on April the tenth.	A escola começa em 10 de abril.	21519
+Is your school far from your home?	A sua escola fica longe da sua casa?	21530
+What time does school begin?	A que horas começa a escola?	21531
+The school is farther than the station.	A escola fica mais longe do que a estação.	21533
+Does school start at eight-thirty?	A escola começa às oito e meia?	21546
+Our school begins at eight.	Nossa aula começa às oito.	21550
+The school is two kilometers ahead.	A escola fica dois quilômetros à frente.	21552
+School begins on April 8.	O colégio começa no dia oito de abril.	21553
+We celebrated the centenary anniversary day.	Celebramos o centenário.	21558
+You see some trees in front of the school.	Você vê algumas árvores na frente da escola.	21559
+You must follow school rules.	Você deve seguir as regras da escola.	21566
+Don't be late for school.	Não chegue atrasado na escola.	21582
+Some of the students were late for school.	Alguns dos estudantes chegaram atrasados à escola.	21588
+It's time to go to school.	É hora de ir à escola.	21595
+Instead of going to school, he stayed at home.	Ao invés de ir para a escola, ele ficou em casa.	21597
+You are not going to make it in time for school.	Você não vai chegar a tempo para a escola.	21598
+You are not supposed to smoke at school.	Não se deve fumar na escola.	21607
+At school he was always at the top of his class.	Na escola, ele sempre foi o melhor aluno da turma.	21608
+School is where we spend most of our time every day.	A escola é onde passamos a maior parte do nosso tempo todos os dias.	21635
+Our campus festival is to be held next week.	O festival do nosso campus vai ser na próxima semana.	21640
+Learning without thought is labor lost.	Aprender sem reflexão é uma perda de tempo.	21641
+The more you learn, the more you want to.	Quanto mais você aprende, mais você quer aprender.	21642
+The more you study, the more you discover your ignorance.	Quanto mais você estuda, mais você descobre sua ignorância.	21644
+The more we learn, the more we realize how little we know.	Quanto mais aprendemos, mais percebemos o quão pouco sabemos.	21645
+After the revolution, France became a republic.	Após a revolução, a França se tornou uma república.	21657
+The revolution ushered in a new era.	A revolução introduziu uma nova era.	21658
+The revolution has brought about many changes.	A revolução trouxe muitas mudanças.	21659
+Every member of the cabinet was present.	Todos os membros do gabinete estavam presentes.	21661
+One lump of sugar, please.	Um açúcar, por favor.	21663
+The house on the corner is ours.	A casa da esquina é nossa.	21672
+You want commitment, don't you?	Você quer compromisso, não quer?	21680
+She is rich, to be sure, but I don't think she's very smart.	Ela é rica, de fato, mas eu não acho ela muito inteligente.	21684
+She sings well, to be sure, but she can't act.	Ela canta bem, sem dúvida, mas ela não consegue atuar.	21689
+I did write to him.	Eu escrevi para ele.	21700
+It is true that he is over seventy.	É verdade que ele tem mais de setenta.	21703
+Each country has its own customs.	Todos os países têm os seus próprios costumes.	21756
+We had lunch at a roadside restaurant.	Almoçamos num restaurante à margem da estrada.	21767
+Give us a ride downtown.	Nos dê uma carona até o centro.	21771
+I cannot get the lid off.	Não consigo tirar a tampa.	21781
+Generally speaking, the climate of Japan is mild.	De um modo geral, o clima do Japão é ameno.	21784
+Altogether, things are going well.	No geral as coisas estão indo bem.	21793
+I like Chinese food in general.	Gosto de comida chinesa em geral.	21795
+In general, the relationship between parents and children is essentially based on teaching.	Em geral a relação entre pais e filhos é essencialmente baseada no ensino.	21801
+Generally speaking, women live longer than men.	De um modo geral, as mulheres vivem mais que os homens.	21802
+On the whole, the older a man grows, the more conservative he becomes.	Num geral, quanto mais velho um homem fica, mais ele se torna conservador.	21815
+On the whole, the Japanese are conservative.	Em geral, os japoneses são conservadores.	21816
+As a rule, Japanese people are not good at foreign languages.	Via de regra, os japoneses não são habilidosos em línguas estrangeiras.	21817
+The man and his horse that fell off the cliff were soon rescued.	O homem e o seu cavalo que caíram do rochedo logo foram resgatados.	21832
+Don't make fun of foreigners.	Não zombe de estrangeiros.	21850
+I don't feel like going out.	Não tenho vontade de sair.	21854
+Comb your hair before you go out.	Penteie os cabelos antes de sair.	21859
+It is better to stay in than go out.	É melhor ficar em casa que sair.	21863
+I would rather stay home than go out.	Eu preferia permanecer em casa do que sair.	21865
+It is difficult for foreign students to speak English well.	É difícil para os estudantes estrangeiros falar bem o inglês.	21878
+It is difficult for a foreigner to study Japanese.	É difícil para um estrangeiro estudar japonês.	21890
+It is difficult for foreigners to get used to Japanese meals.	É difícil para os estrangeiros se acostumarem com as refeições japonesas.	21891
+Foreign investors backed off because of regional political unrest.	Os investidores estrangeiros se afastaram por causa da inquietação da política local.	21892
+Speaking foreign languages is not easy.	Falar idiomas estrangeiros não é fácil.	21893
+You'll find it your advantage to know a foreign language.	Você descobrirá que saber uma língua estrangeira é vantagem.	21894
+It is almost impossible to learn a foreign language in a short time.	É quase impossível aprender uma língua estrangeira em pouco tempo.	21895
+The best way to learn a foreign language is to go to the country where it is spoken.	A melhor forma de se aprender uma língua estrangeira é ir ao país onde ela é falada.	21896
+To speak a foreign language well takes time.	Falar bem uma língua estrangeira leva tempo.	21897
+The best way to master a foreign language is to go to the country where it is spoken.	A melhor maneira de se dominar uma língua estrangeira é ir ao país em que ela é falada.	21898
+It takes a great deal of practice to master a foreign language.	É preciso muita prática para dominar uma língua estrangeira.	21900
+It is by no means easy to master a foreign language.	Não é fácil dominar uma língua estrangeira de jeito nenhum.	21901
+You must have a lot of patience to learn foreign languages.	Você deve ter muita paciência para aprender línguas estrangeiras.	21902
+Few people can speak a foreign language perfectly.	Poucas pessoas podem falar bem uma língua estrangeira.	21903
+Learning a foreign language is difficult.	Aprender uma língua estrangeira é difícil.	21904
+It takes years to master a foreign language.	Leva-se anos para dominar uma língua estrangeira.	21910
+Mastering a foreign language calls for patience.	Ficar bom em uma língua estrangeira requer paciência.	21915
+It's by no means easy to master a foreign language.	Não é nada fácil dominar uma língua estrangeira.	21919
+Some knowledge of foreign languages, of Spanish in particular, is essential.	Algum conhecimento de línguas estrangeiras, de espanhol em particular, é essencial.	21924
+Traveling abroad is very interesting.	Viajar ao exterior é muito interessante.	21925
+The best way to know a foreign country is to go there yourself.	A melhor maneira de conhecer um país é indo lá você mesmo.	21926
+I want to go abroad.	Quero viajar fora.	21938
+Stay informed about what is happening in foreign countries.	Mantenha-se informado sobre o que está acontecendo em países estrangeiros.	21942
+You learn a lot about your own country if you live abroad.	Você aprende bastante sobre seu próprio país se você vive no estrangeiro.	21947
+I haven't heard from my son who is overseas.	Eu não tenho notícias do meu filho que está no exterior.	21952
+The foreign executives visited the manufacturing plant.	Os executivos estrangeiros visitaram a unidade de produção.	21957
+Diplomatic dialogue helped put an end to the conflict.	A conversa diplomática ajudou a pôr fim ao conflito.	21962
+Don't be deceived by appearances.	Não se deixe levar pelas aparências.	21968
+He deceives others with his appearance.	Ele engana os outros com a sua aparência.	21969
+Judging from her appearance, she seems to be very rich.	A julgar por sua aparência, ela deve ser muito rica.	21975
+The air felt a little cold.	O ar estava um pouco frio.	21979
+Once outside, I gave a deep sigh of relief.	Uma vez do lado de fora, eu dei um grande suspiro de alívio.	21989
+It was pitch black outside.	Estava um breu lá fora.	21995
+It is getting dark outside.	Está escurecendo lá fora.	22002
+It is still light outside.	Ainda está claro lá fora.	22003
+It is getting lighter outside.	Está ficando mais claro lá fora.	22008
+No sooner had I gone out than it began to rain.	Assim que eu saí, começou a chover.	22018
+As soon as I went out, it began to rain.	Assim que eu saí, começou a chover.	22020
+Please invite us out to dinner.	Convide-nos para jantar.	22028
+I'm out of breath after running up the stairs.	Fiquei sem fôlego após correr escadas acima.	22039
+I fell down the stairs and hit my back very hard.	Caí da escada e levei uma pancada muito forte nas costas.	22041
+The settlers embraced the Christian religion.	Os colonos abraçaram a religião cristã.	22047
+I'm going to France to study painting.	Vou para a França estudar pintura.	22074
+You must not touch the paintings.	Você não deve tocar nas pinturas.	22077
+Never confuse art with life.	Nunca confunda a arte com a vida.	22079
+May I have your attention, please?	Posso ter sua atenção, por favor?	22084
+I don't have the slightest idea.	Não faço a menor ideia.	22089
+I will miss you all.	Sentirei saudade de todos.	22115
+I hope you are all well.	Espero que vocês todos estejam bem.	22120
+Be silent in the library, boys.	Façam silêncio na biblioteca, meninos.	22123
+Look at the blackboard, everyone.	Olhem todos para o quadro.	22126
+Everyone regarded him as a great singer.	Todos consideravam-no um ótimo cantor.	22131
+All of you are familiar with the truth of the story.	Todos vocês estão familiarizados com a história verdadeira.	22140
+Put the ashtray within eyes reach.	Coloque o cinzeiro onde eu possa ver.	22145
+The air by the sea is pure and healthy.	O ar do mar é limpo e saudável.	22153
+The pirates buried their treasure in the ground.	Os piratas enterraram seu tesouro na terra.	22160
+The pirates sailed the seven seas.	Os piratas navegavam pelos sete mares.	22163
+This is the first time I've had seaweed.	Esta foi a primeira vez que eu comi algas.	22164
+There was a violent storm at sea.	Houve uma tempestade violenta no oceano.	22169
+Which way is the beach?	Para que lado fica a praia?	22175
+They went to the beach.	Eles foram para a praia.	22177
+There were few people on the beach.	Havia poucas pessoas na praia.	22178
+We'll have a barbecue at the beach.	Teremos um churrasco na praia.	22180
+Would you like to travel abroad?	Você gostaria de viajar para o exterior?	22183
+I had a chance to travel abroad.	Eu tive uma chance de viajar para o exterior.	22186
+I've been invited on a trip abroad, but I don't want to go.	Fui convidado para uma viagem no exterior, mas eu não quero ir.	22187
+Unfair tariffs are imposed on foreign products.	Tarifas injustas são impostas a produtos estrangeiros.	22189
+Neptune is the eighth planet of the solar system.	Netuno é o oitavo planeta do sistema solar.	22212
+When I contemplate the sea, I feel calm.	Quando eu vejo o mar eu fico calmo.	22215
+The sea covers nearly three-fourths of the earth's surface.	O mar cobre cerca de três quartos da superfície da Terra.	22219
+The sea was as smooth as glass.	O mar estava liso como um espelho.	22225
+The ocean affords various kinds of resources.	O oceano dispõe de vários tipos de recursos.	22226
+The sea is very wide.	O mar é vastíssimo.	22230
+Who shall ever unravel the mysteries of the sea?	Quem algum dia desvendará os mistérios do mar?	22234
+Do you have a table with a view of the ocean?	Você tem uma mesa com vista para o oceano?	22240
+I cast my net into the sea.	Eu lancei minha rede ao mar.	22248
+The sea is to fish what the sky is to birds.	O mar é para os peixes o que o céu é para os pássaros.	22255
+You must be careful when swimming in the sea.	Você deve ter cuidado nadando no mar.	22256
+It is fun to swim in the sea.	É divertido nadar no mar.	22257
+Swimming in the sea is great fun.	Nadar no mar é uma ótima diversão.	22258
+The sea got rough, so that we had to give up fishing.	O mar se encrespou, de modo que tivemos de desistir da pesca.	22262
+The sun rose from the sea.	O sol surgiu do mar.	22266
+Winds from the sea are moist.	Os ventos que vêm do mar são úmidos.	22267
+The sea is not clear.	O mar não está claro.	22268
+Improved medical technology has been one of the spin-offs of the space program.	Tecnologias médicas melhoradas têm sido um dos resultados do programa espacial.	22270
+I have nothing particular to say.	Eu não tenho nada que dizer em particular.	22275
+We're on our way home.	Estamos a caminho de casa.	22283
+The monster's smile was cruel.	O sorriso do monstro foi cruel.	22285
+Some people pursue only pleasure.	Algumas pessoas buscam apenas o prazer.	22297
+The clock that got broken must be repaired right away.	O relógio que estragou deve ser consertado imediatamente.	22305
+Can you fix the broken radio?	Você pode consertar o rádio quebrado?	22306
+I order you to turn right.	Eu ordeno que você vire à direita.	22314
+Don't beat around the bush.	Pare de enrolar.	22322
+There are many problems to solve.	Há muitos problemas a resolver.	22330
+I will show you how to solve it.	Mostrarei a vocês como resolvê-lo.	22333
+Why don't you join in the conversation?	Por que você não se junta à conversa?	22341
+Send this parcel to him in care of his company.	Mande este pacote para ele aos cuidados da empresa dele.	22355
+Management of a company is different from ownership of a company.	A gestão de uma empresa é diferente da propriedade de uma empresa.	22360
+Call me at the office.	Me liga no escritório.	22364
+I had my wallet stolen on my way to the office.	Minha carteira foi roubada no caminho para o escritório.	22365
+The company presented him with a gold watch on the day he retired.	A empresa ofereceu-lhe um relógio de ouro no dia em que se aposentou.	22369
+The community is made up of individuals.	A comunidade é formada por indivíduos.	22386
+The company abandoned that project.	A companhia abandonou aquele projeto.	22393
+The company is in deficit.	A empresa está em déficit.	22420
+The meeting was last month.	A reunião foi no mês passado.	22429
+The meeting was put off until next Friday.	A reunião foi adiada para a sexta-feira seguinte.	22430
+The meeting began at five in the afternoon.	A reunião começou às cinco da tarde.	22434
+The meeting is held twice a month.	A reunião é realizada duas vezes ao mês.	22437
+The meeting begins at three.	A reunião começa às três.	22443
+The meeting will start at four o'clock sharp.	A reunião vai começar às quatro em ponto.	22444
+I had intended to attend the meeting.	Eu tinha a intenção de ir à reunião.	22450
+I don't know why the meeting was postponed.	Não sei por que a reunião foi adiada.	22455
+Could I have the check?	A conta, por favor.	22462
+Pay the cashier on the way out.	Pague ao caixa na saída.	22463
+The conference is to be held in Tokyo.	A conferência será em Tóquio.	22471
+The meeting will be held tomorrow.	A reunião acontecerá amanhã.	22479
+The meeting will be held this afternoon.	A reunião será realizada esta tarde.	22490
+The meeting is scheduled for 10 a.m.	A reunião está prevista para as 10h00.	22491
+The meeting ended on an optimistic note.	A reunião terminou com uma nota otimista.	22496
+The conference will commence in due course.	A conferência terá início em breve.	22499
+The meeting was held here.	A reunião foi aqui.	22502
+The meeting ended earlier than usual.	A reunião terminou mais cedo do que de costume.	22503
+The meeting is ten days away.	A reunião será em dez dias.	22511
+The council began at 9:00 and should be finished by 10:45.	O conselho começou às 9h00 e deverá terminar às 10h45.	22512
+Fix a date for the meeting.	Estabeleça uma data para o encontro.	22513
+The chairman of the meeting became ill.	O presidente da reunião ficou doente.	22516
+Please note the change in the meeting agenda.	Por favor, anote a mudança no livro de apontamentos.	22517
+Taking notes at each meeting is one of the official duties.	Tomar notas em cada reunião é uma das obrigações oficiais.	22520
+Sorry I'm late for the meeting.	Me desculpe por estar atrasado para a reunião.	22523
+How many people were present at the meeting?	Quantas pessoas estavam presentes na reunião?	22535
+The session will be prolonged again.	A sessão será prolongada de novo.	22544
+The audience filled the hall.	A audiência encheu o auditório.	22545
+The meeting took place yesterday.	A reunião aconteceu ontem.	22567
+The meeting was canceled because of the rain.	A reunião foi cancelada por causa da chuva.	22568
+How did you enjoy the party?	Que tal foi a festa?	22570
+It's been nice meeting you.	Foi um prazer conhecê-lo.	22587
+I'm glad to see you.	Alegro-me em vê-lo.	22588
+Come closer in order that you may see the screen better.	Aproxime-se para que possa ver a tela mais de perto.	22597
+I can't put up with it.	Eu não aguento isso.	22604
+Not all of us can speak English.	Nem todos nós falamos inglês.	22612
+We are very interested in the history.	Estamos muito interessados na história.	22629
+We had to walk the last leg of the journey.	Nós tivemos que andar na última parte da jornada.	22633
+We arrived here in the evening.	Nós chegamos aqui à noite.	22642
+We advanced under cover of darkness.	Avançamos sob o manto da escuridão.	22647
+We have achieved all our aims.	Nós atingimos todos os nossos objetivos.	22650
+We planted peanuts instead of cotton.	Plantamos amendoim em vez de algodão.	22651
+We'll likely go to the ball game tomorrow.	Na certa vamos ao jogo de futsal amanhã.	22652
+We danced in the subdued lighting.	Dançamos à meia-luz.	22654
+We were looking for buried treasure.	Estávamos procurando um tesouro enterrado.	22660
+We heard it from Mr Such and such.	Nós ouvimos do Sr. Tal e tal.	22661
+We should not resort to violence.	Não deveríamos recorrer à violência.	22663
+We were attacked by swarms of bees.	Fomos atacados por um enxame.	22666
+We gave our mother a watch.	Demos um relógio de presente à nossa mãe.	22667
+We sailed against the wind.	Nós navegamos contra o vento.	22679
+We went to New York by plane.	Nós fomos a Nova Iorque de avião.	22689
+We traveled to Mexico by plane.	Viajamos para o México de avião.	22690
+We assume that he is honest.	Nós supomos que ele seja honesto.	22708
+We banished him from the country.	Nós o banimos do país.	22714
+We have lost sight of him.	Nós o perdemos de vista.	22716
+We tried to cheer him up by taking him out.	Nós tentamos animá-lo levando-o para fora.	22717
+We opposed his plan to build a new road.	Nós nos opusemos ao seu plano de construir uma nova estrada.	22736
+We got into his car and went to the sea.	Entramos no carro dele e fomos ao mar.	22737
+We were surprised to see his injuries.	Ficamos surpresos ao ver suas feridas.	22738
+We are under his command.	Estávamos sob seu comando.	22739
+We were shocked at the news of his death.	Ficamos chocados com a notícia de sua morte.	22740
+We compared his work with hers.	Comparamos o trabalho dele com o dela.	22742
+We cannot help admiring his talent.	Não podemos nos abster de admirar o seu talento.	22744
+We thought much of his first novel.	Consideramos muito sua primeira novela.	22745
+We were surprised at his conduct.	Ficamos surpresos com a sua conduta.	22746
+We were greatly surprised at the news of his sudden death.	A notícia de sua repentina morte muito nos surpreendeu.	22747
+We are sorry for his mistake.	Sentimos muito pelo seu erro.	22748
+We were afraid that we might hurt his feelings.	Estávamos com medo de machucar seus sentimentos.	22749
+We were all greatly amused by his jokes.	Todos nós ficamos imensamente entretidos com suas piadas.	22752
+We should have told him the truth.	Deveríamos ter-lhe contado a verdade.	22755
+We showed him some pictures of the Alps.	Nós lhe mostramos algumas fotos dos Alpes.	22761
+We took his success for granted.	Nós aceitamos o sucesso dele como algo muito natural.	22764
+We expect that he'll help us.	Esperamos que nos ajude.	22768
+We went to the museum.	Fomos ao museu.	22771
+We work on every day of the week except Sunday.	Nós trabalhamos todos os dias da semana, exceto domingo.	22776
+We should have taken the schedule into consideration.	Deveríamos ter levado em conta o horário.	22780
+We are confronted with a difficult situation.	Nós estamos sendo confrontados com uma situação difícil.	22786
+We hold the same principles.	Nós temos os mesmos princípios.	22789
+We lack an incentive for pursuing the eastern market.	Não temos incentivo para buscar o mercado oriental.	22792
+We talked on the telephone.	Nós conversamos ao telefone.	22798
+We had better utilize our natural resources.	É melhor utilizarmos nossos recursos naturais.	22802
+We must try to conserve our natural resources.	Devemos tentar conservar nossos recursos naturais.	22804
+We took the enemy by surprise.	Nós surpreendemos o inimigo.	22808
+We haven't known each other long.	Não nos conhecemos há tempo.	22817
+We used to compete furiously in college.	Nós costumávamos competir furiosamente na universidade.	22825
+We arranged the books according to size.	Nós arrumamos os livros de acordo com o tamanho.	22826
+We arrived at a compromise.	Nós chegámos a um compromisso.	22828
+We have no choice but to compromise.	Vimo-nos obrigados a chegar a um compromisso.	22829
+We will explore every planet that goes around the sun.	Vamos explorar todos os planetas que giram à volta do sol.	22830
+We watched the sun setting behind the mountains.	Contemplámos o sol a pôr-se atrás da montanha.	22831
+We must make the best use of solar energy.	Nós devemos aproveitar o máximo da energia solar.	22832
+We are exploring new sources, such as solar and atomic energy.	Estamos explorando novas fontes, como as energias solar e atômica.	22833
+We must get over many difficulties.	Temos que superar muitas dificuldades.	22834
+We are forty-three in all.	Ao todo somos quarenta e três.	22837
+We looked out the window but saw nothing.	Olhámos pela janela mas nada vimos.	22838
+We must sow the seeds of mutual understanding.	Temos que lançar as sementes do entendimento mútuo.	22839
+We must beef up our organization.	Precisamos reforçar nossa organização.	22840
+We named my son after my grandfather.	Chamamos o meu filho como o meu avô.	22842
+There are seven of us.	Somos sete.	22844
+We need to distinguish right from wrong.	Devemos discernir o certo do errado.	22848
+We are entering a new phase in the war.	Nós estamos entrando numa nova fase na guerra.	22849
+We had to do without oil during the war.	Tínhamos de viver sem azeite durante a guerra.	22851
+We will never countenance terrorism.	Nunca apoiaremos o terrorismo.	22852
+We were driven to the wall.	Fomos levados para a parede.	22853
+We eat to live, not live to eat.	Nós comemos para viver, não vivemos para comer.	22859
+We must continue to study as long as we live.	Nós temos a obrigação de estudar durante toda a nossa vida.	22862
+We should make every effort to maintain world peace.	Devemos fazer todos os esforços para manter a paz mundial.	22870
+We exchanged phone numbers at the end of the gathering.	Nós trocamos nossos números de telefone no final do encontro.	22881
+We live in a three-bedroom house.	Nós moramos numa casa de três quartos.	22892
+We negotiated with the President about our working hours.	Nós negociamos com o presidente nossas horas de trabalho.	22920
+We're eating up a lot of time writing letters by hand.	Nós estamos consumindo muito tempo escrevendo cartas à mão.	22922
+We abandoned the project because of a lack of funds.	Abandonamos o projeto por causa de uma falta de fundos.	22944
+We were forced to work hard.	Nós fomos forçados a trabalhar duro.	22953
+We yawn when we are short of oxygen.	Nós bocejamos quando estamos com pouco oxigênio.	22954
+We stood on the top of the mountain.	Ficamos no topo da montanha.	22956
+We must do our job as best as we can.	Devemos fazer o nosso trabalho o melhor que pudermos.	22963
+We are in the era of atomic energy.	Estamos na era da energia atômica.	22976
+We searched the woods for the missing child.	Procuramos na floresta pelas crianças desaparecidas.	22984
+We sat on a bench in the park.	Sentamo-nos num banco no parque.	22993
+We need action, not words.	Precisamos de ações, não palavras.	23011
+We had to abandon our plan.	Tivemos que abandonar nosso plano.	23025
+Your help is vital to the success of our plan.	Sua ajuda é vital para o sucesso do nosso plano.	23026
+We have a good opinion of your invention.	Nós temos um bom parecer sobre a sua invenção.	23034
+We are attracted by what you are.	Estamos atraídos pelo o que você é.	23036
+We can get along very well without you.	Nós podemos nos dar muito bem sem você.	23038
+We take air and water for granted.	Nós não damos o devido valor ao ar e à água.	23039
+We have to bring our teaching methods up to date.	Devemos trazer à tona nossos métodos de ensino.	23043
+We set out on our journey full of hope.	Começamos nossa jornada cheios de esperança.	23052
+We are trying to keep the wolf from the door.	Estamos tentando manter o lobo longe da porta.	23053
+We must be alert to dangers.	Precisamos estar alertas aos perigos.	23056
+We turned left at the corner and drove north.	Nós viramos à esquerda na esquina e seguimos para o norte.	23065
+We must all take care to preserve our national heritage.	Devemos todos ter o cuidado em preservar nossa memória nacional.	23073
+All of us devoted ourselves to the development of our country.	Todos nós nos dedicamos ao desenvolvimento do nosso país.	23074
+We grew up within our family circle.	Nós crescemos dentro do nosso círculo familiar.	23087
+We danced to the music.	Nós dançamos com a música.	23095
+We must rescue the environment from pollution.	Devemos preservar o meio ambiente da poluição.	23096
+We were lucky to win the battle.	Nós tivemos a sorte de ganhar a batalha.	23098
+We are facing a violent crisis.	Nós estamos encarando uma crise violenta.	23104
+We cannot follow your plan any longer.	Nós não podemos mais seguir o teu plano.	23118
+We never repent having eaten too little.	Nunca nos arrependemos de ter comido muito pouco.	23132
+We walked more quickly than usual.	Nós caminhamos mais rapidamente do que o normal.	23134
+We came upon them in New York.	Nós os encontramos em Nova York.	23138
+We killed time by playing cards.	Nós passamos o tempo jogando cartas.	23139
+We finally decided to give him over to the police.	Finalmente decidimos entregá-lo à polícia.	23147
+We actually saw the accident.	Nós realmente vimos o acidente.	23185
+We had native guides on our trip to the mountain.	Nós tínhamos guias nativos na nossa viagem para a montanha.	23189
+We began to see what we can deduce from it.	Começámos a perceber o que podemos deduzir a partir disso.	23211
+We have to abolish all nuclear weapons, because they are deadly to mankind.	Temos de eradicar todas as armas nucleares porque são fatais à humanidade.	23213
+We have left undone what we ought to have done.	Deixamos não feito o que devíamos ter feito.	23215
+We have to start at once.	Nós temos que começar de uma vez.	23218
+We often associate black with death.	Geralmente associamos o preto à morte.	23228
+We studied Greek culture from various aspects.	Nós estudamos diversos aspectos da cultura grega.	23246
+We use gestures as well as words to communicate with others.	Nós usamos gestos, assim como palavras, para nos comunicarmos com os outros.	23256
+We mustn't waste our energy resources.	Não devemos gastar nossos recursos energéticos.	23260
+We can communicate with each other in many ways.	Nós podemos nos comunicar um com outro com vários métodos.	23263
+We are always exposed to some kind of danger.	Sempre estamos expostos a algum tipo de perigo.	23268
+We had an early lunch and set out at 12:30.	Almoçámos cedo e partimos às 12h30.	23269
+We started all at once.	Começamos tudo de uma vez.	23270
+We will someday make the world a better place.	Vamos algum dia fazer do mundo um lugar melhor.	23271
+We hired a car for a week when we were in Italy.	Alugamos um carro por uma semana quando estávamos na Itália.	23274
+We must achieve our aim at any price.	Temos que alcançar nosso objetivo a qualquer preço.	23275
+We were nearly frozen to death.	Quase morremos congelados.	23280
+We expect you to carry out what you have once promised.	Esperamos que você cuide do que havia prometido.	23289
+We have breakfast at seven.	Tomamos café da manhã às sete.	23294
+We got to the station at six.	Chegamos na estação às seis.	23295
+We arrived at an agreement after two hours' discussion.	Chegamos a um acordo após duas horas de discussão.	23298
+We have to play fair, whether we win or lose.	Devemos jogar limpo, quer venhamos a ganhar ou a perder.	23313
+Our train went at 200 kilometers an hour.	Nosso trem veio a duzentos quilômetros por hora.	23323
+We cannot make a change in our schedule.	Não podemos alterar a nossa agenda.	23331
+Our friendship did not last.	A nossa amizade não durou.	23333
+Our baseball diamond is very small.	Nosso campo de baseball é muito pequeno.	23335
+In our culture, we can't be married to two women at once.	Na nossa cultura, não podemos nos casar com duas mulheres de uma vez.	23342
+Our total debts amount to ten thousand dollars.	Nossas dívidas totais somam dez mil dólares.	23344
+Even our brains are subject to the laws of physics.	Até nossos cérebros estão sujeitos às leis da física.	23350
+All our efforts were in vain.	Todos os nossos esforços foram em vão.	23353
+Our city sits on an active fault.	Nossa cidade está localizada numa falha ativa.	23355
+There are none of us who do not respect his honesty.	Não há nenhum de nós que não respeite a honestidade dele.	23356
+We have a traitor among us.	Há um traidor entre nós.	23357
+Our boat approached the small island.	O nosso barco se aproximou da pequena ilha.	23368
+Our ancestors knew how to read the stars.	Nossos ancestrais sabiam ler as estrelas.	23369
+Our character is affected by the environment.	Nosso caráter é influenciado pelo ambiente.	23377
+The ice will crack beneath our weight.	O gelo vai quebrar com o nosso peso.	23391
+Our debt is more than we can pay.	A nossa dívida é maior do que podemos pagar.	23394
+Our car was fast and soon got ahead of the other cars.	Nosso carro foi rápido e logo ficou à frente dos outros carros.	23395
+Our work is almost over.	Nosso trabalho está quase terminado.	23406
+Winter sports are very popular in our country.	Esportes de inverno são muito populares em nosso país.	23411
+Our plan was fully realized.	O nosso plano foi completamente realizado.	23423
+We will adopt your method at our school.	Adotaremos seu método em nossa escola.	23441
+Our company needs someone who feels at home when it comes to advanced technology.	Nossa empresa precisa de alguém que se sinta à vontade com tecnologia de ponta.	23444
+Our company makes use of the Internet.	Nossa empresa utiliza a internet.	23446
+Our meeting rarely starts on time.	As reuniões raramente começam à hora prevista.	23452
+Our team won the game.	Nosso time ganhou o jogo.	23458
+Our team is five points ahead.	Nosso time está cinco pontos à frente.	23459
+Our staff is eager to help you.	Nossa equipe está ansiosa para lhe ajudar.	23467
+Our soccer team beat all the other teams in the town.	Nosso time venceu todos os outros times da cidade.	23468
+Initially we had some problems with our computer system, but they've been sorted out now.	No início, tivemos alguns problemas com nosso sistema de computadores, mas eles estão resolvidos agora.	23469
+We are not short of oil in this country.	Não estamos com pouco petróleo nesse país.	23470
+Our club is affiliated with an international organization.	Nosso clube filiou-se a uma organização internacional.	23471
+Our class has increased in size.	Nossa classe cresceu em tamanho.	23472
+More than one student studies French in our class.	Mais de um aluno estuda francês na nossa classe.	23473
+No other boy in our class is more studious than Jack.	Nenhum outro garoto na nossa classe é mais estudioso que o Jack.	23474
+Our bodies respond to our feelings.	Nossos corpos respondem aos nossos sentimentos.	23476
+All our efforts were without result.	Todos os nossos esforços foram em vão.	23477
+Give us the tools, and we'll finish the job.	Dê-nos as ferramentas e terminaremos o trabalho.	23478
+Some members agree with us, some don't, and others haven't expressed their opinions.	Alguns membros concordam conosco, alguns não; outros não manifestaram suas opiniões.	23479
+All we need now is action, not discussion.	Tudo de que precisamos agora é ação, não discussão.	23481
+The God who gave us life, gave us liberty at the same time.	O Deus que nos deu a vida, deu-nos liberdade ao mesmo tempo.	23482
+We have a rich historical heritage.	Temos uma rica herança histórica.	23483
+We had no alternative but to fight.	Não temos escolha senão lutar.	23485
+We had an implicit agreement that we would support each other.	Tínhamos um acordo implícito de que nos iríamos apoiar mutuamente.	23488
+We had a slight difference of opinion.	Nós temos uma pequena diferença de opinião.	23489
+It is not necessary for us to attend the meeting.	Não é necessário que assistamos à reunião.	23490
+Let us do the work.	Deixe-nos fazer o trabalho.	23492
+We Germans fear God, but nothing else in the world.	Nós alemães tememos a Deus, mas a nenhuma outra coisa no mundo.	23493
+We're getting nowhere with those problems.	Não estamos chegando em nenhum lugar com esses problemas.	23494
+To our great surprise, she held her breath for three minutes.	Para nossa grande surpresa, ela prendeu a respiração por três minutos.	23496
+It is difficult for us to persuade him.	É difícil para nós persuadi-lo.	23497
+We were unable to make contact with them until it was too late.	Fomos incapazes de entrar em contato com eles antes que fosse tarde demais.	23498
+It is good for us to understand other cultures.	É bom para nós entender outras culturas.	23500
+Heat and light are necessary for our existence.	Calor e luz são necessários à nossa existência.	23503
+We have only a slender chance of success.	Temos apenas uma pequena chance de sucesso.	23505
+We know the truth, not only by reason, but also at heart.	Conhecemos a verdade, não só pela razão, mas também pelo coração.	23506
+I hope the weather clears up before we have to leave.	Espero que o tempo limpe antes de termos que partir.	23507
+Our meeting was just an accident.	Nosso encontro foi só por acaso.	23508
+What if we should fail?	E daí se tivéssemos fracassado?	23512
+We are the first to arrive.	Somos os primeiros a chegar.	23517
+Let us stop to think how much we depend upon atomic energy.	Paremos para pensar o quanto dependemos da energia atômica.	23518
+There's no need for us to argue about this.	Não há motivos para discutirmos sobre isso.	23523
+If we don't create an environment that enables instant Internet access, our company will also fall behind.	Nossa companhia será deixada para trás se nós não criarmos um ambiente no qual possamos ter acesso instantâneo à Internet.	23535
+Our country must develop its natural resources.	Nosso país precisa desenvolver seus próprios recursos naturais.	23554
+We import coffee from Brazil.	Nós importamos café do Brasil.	23557
+The pollution of our coasts is very serious.	A poluição em nossas costas é muito sério.	23560
+Our school adopted his teaching methods.	Nossa escola adotou seu método de ensino.	23561
+Our school has adopted a new teaching method.	Nossa escola adotou um novo método de ensino.	23562
+If only we had a garden!	Se pelo menos nós tivéssemos um jardim!	23576
+We decorated the Christmas tree with lights.	Decoramos a árvore de Natal com luzes.	23580
+Tom bats cleanup on our team.	Tom é o rebatedor de limpeza na nossa equipe.	23588
+A swarm of mosquitoes followed him.	Um enxame de mosquitos o seguiu.	23593
+They say that he hates to study.	Dizem que ele detesta estudar.	23596
+A mosquito just bit me.	Um mosquito acabou de me picar.	23597
+Fatigue is the natural result of overwork.	Fadiga é o resultado natural de excesso de trabalho.	23603
+Eating too much fat is supposed to cause heart disease.	Acredita-se que comer gordura demais causa afecções cardíacas.	23609
+Don't dwell on your past failures.	Não dê muita importância a seus passados insucessos​​.	23624
+Don't worry about the past.	Não se preocupe com o passado.	23628
+Have you ever had any serious illness?	Você já teve uma doença grave?	23634
+You must live in the present, not in the past.	Você deve viver no presente, não no passado.	23636
+Prices have risen by 50 percent during the past ten years.	Os preços subiram 50 por cento durante os últimos 10 anos.	23644
+It is no use crying over spilt milk.	Não adianta chorar pelo leite derramado.	23651
+Too much water drowned the miller.	Água demais afogou o moleiro.	23654
+Do you have anything to declare?	Você tem algo a declarar?	23665
+Make room for the baggage.	Abra espaço para a bagagem.	23671
+Would you carry my luggage upstairs?	Você poderia levar minhas malas lá para cima, por favor?	23672
+Could you carry my bags for me?	Você poderia carregar minhas malas para mim?	23676
+Please put your baggage on this scale.	Por favor ponha a sua bagagem na balança.	23678
+Where should I put my baggage?	Onde eu ponho a minha bagagem?	23684
+Will you look after my baggage?	Pode tomar conta da minha bagagem?	23687
+In case the shipment is delayed, we have special delay insurance.	Caso a bagagem atrase, nós temos um seguro especial para atrasos.	23689
+Have you finished packing yet?	Você já terminou de arrumar as malas?	23692
+It was clear that Hanako did not wish to marry Taro.	Estava claro que Hanako não queria se casar com Taro.	23714
+Hanako is set on going to Paris.	Hanako decidiu ir a Paris.	23716
+Hanako likes cake very much.	Hanako gosta muito de bolo.	23717
+Hanako grew taller than her mother.	Hanako ficou maior que a sua mãe.	23718
+The fireworks were set off on all sides.	Os fogos de artifícios foram lançados por todos os lados.	23728
+She was all the more beautiful dressed in her wedding costume.	Ela estava ainda mais bela em seu vestido de noiva.	23729
+The bride came into the room, with everyone staring at her.	A noiva entrou na sala, com todos olhando para ela.	23731
+The bride looked very beautiful.	A noiva parecia muito bonita.	23732
+The flower shop is opposite the park.	A floricultura fica em frente ao parque.	23736
+The flower shop is just across the street.	A floricultura é do outro lado da rua.	23737
+Happy are those who love flowers.	Felizes são aqueles que amam flores.	23738
+Flowers and trees need clean air and fresh water.	Flores e árvores precisam de ar limpo e água fresca.	23740
+The vase broke into fragments.	O vaso quebrou-se em pedaços.	23741
+Put some water into the vase.	Coloque um pouco de água no vaso.	23742
+The petals are floating on the water.	As pétalas estão flutuando sobre a água.	23743
+Flowers soon fade when they have been cut.	As flores murcham logo quando são cortadas.	23746
+The flowers were dying without water.	As flores estavam morrendo sem água.	23747
+The flowers died for lack of water.	As flores morreram por falta de água.	23748
+The flowers are beginning to grow and everything is becoming green.	As flores estão começando a crescer e tudo está ficando verde.	23750
+The flowers are already out of bloom.	As flores já desabrocharam.	23753
+The flowers are still in bloom.	As flores ainda estão em botões.	23755
+I've finished watering the flowers.	Terminei de aguar as flores.	23760
+Many weeds were growing among the flowers.	Muitas ervas daninhas estavam crescendo entre as flores.	23761
+I need not have watered the flowers. Just after I finished, it stared raining.	Eu não precisava ter regado as flores. Assim que eu terminei, começou a chover.	23764
+We must water the flower.	Precisamos aguar a flor.	23765
+The flower will come out soon.	A flor vai sair logo.	23770
+You might as well wait until Tuesday.	Você também pode esperar até terça.	23775
+I will have finished my homework by Tuesday.	Eu terei terminado minha lição de casa terça-feira.	23777
+Finishing the job by Tuesday will be a piece of cake.	Terminar o trabalho até terça-feira será mamão com açúcar.	23778
+Are you free on Tuesday?	Você está livre na terça?	23779
+It has been raining since Tuesday.	Está chovendo desde terça-feira.	23784
+We must finish everything before Tuesday morning.	Temos que terminar tudo antes da manhã de terça-feira.	23785
+It won't be long before we can travel to Mars.	Não vai demorar muito até podermos viajar para Marte.	23787
+Mars resembles our planet in some ways.	Marte se parece com o nosso planeta em alguns aspectos.	23789
+There is no sign of life on Mars.	Não há sinais de vida em Marte.	23791
+It is said that there is no life on Mars.	Diz-se que não há vida em Marte.	23792
+Is there any life on Mars?	Existe alguma forma de vida em Marte?	23793
+A big crowd gathered at the scene of the fire.	Uma multidão se reuniu junto ao incêndio.	23796
+Their plot to start a fire was discovered by the police.	O plano secreto dele de começar um incêndio foi descoberto pela polícia.	23797
+Fire cannot be prevented by half measures.	O incêndio não pode ser evitado com meias medidas.	23803
+In case of fire, dial 119.	Em caso de incêndio, disque 119.	23815
+In case of fire, press this button.	Em caso de incêndio, pressione este botão.	23816
+In case of a fire, use this emergency stairway.	Em caso de incêndio, utilize esta escada.	23818
+The cause of the fire is not known.	A causa do incêndio é desconhecida.	23824
+Half of the town burnt down in the fire.	Metade da cidade queimou no fogo.	23832
+I awoke with a start because of the fire.	Acordei subitamente por causa do incêndio.	23841
+The volcano has become active again.	O vulcão ficou ativo de novo.	23846
+In case of fire, call 119.	Em caso de incêncio, disque 119.	23851
+The origin of the fire is unknown.	A origem do incêndio é desconhecida.	23856
+Give me a light, would you?	Me dê uma luz, por favor?	23858
+The fire started in the kitchen.	O fogo começou na cozinha.	23866
+A fire can spread faster than you can run.	Um incêndio pode se espalhar mais rápido do que você pode correr.	23878
+Making use of fire may be regarded as man's greatest invention.	A manipulação do fogo pode ser vista como a maior invenção do homem.	23880
+It's dangerous to play around the fire.	É perigoso brincar perto do fogo.	23882
+No one can deny the fact that there is no smoke without fire.	Ninguém pode negar o fato de que não há fumaça sem fogo.	23883
+There is no smoke without fire.	Onde há fumaça há fogo.	23884
+It only adds fuel to the fire.	Só bota palha na fogueira.	23885
+I warmed myself at the fire.	Eu me aqueci junto ao fogo.	23886
+Keep away from the fire.	Mantenha-se longe do fogo.	23887
+Stay away from the fire.	Fique longe do fogo.	23888
+Be on your guard against fire.	Esteja atento contra incêndios.	23889
+We sat over a fire.	Sentamo-nos junto a uma fogueira.	23890
+Oxygen is needed for combustion.	O oxigênio é necessário para a combustão.	23891
+No one can deny the fact that fire burns.	Ninguém pode negar o fato de que o fogo queima.	23893
+The fire has gone out and this room is cold.	O fogo se apagou e esta sala está fria.	23894
+Please keep the fire from going out.	Por favor, não deixe o fogo se apagar.	23895
+The fire is going out; will you add some wood?	O fogo está se apagando; você adiciona lenha?	23897
+As he had no way of making fire, he ate the fish raw.	Como ele não tinha como fazer, ele comeu o peixe cru.	23899
+The fire is burning furiously.	O fogo está queimando furiosamente.	23902
+The best swimmers are oftenest drowned.	Os melhores nadadores são os que com maior frequência se afogam.	23906
+In Kabuki not only talent but also heredity counts.	No cabúqui não só o talento, mas também a hereditariedade conta.	23910
+Kabuki is an old Japanese art.	O cabúqui é uma antiga arte japonesa.	23911
+He makes his living by singing.	Ele ganha a vida cantando.	23919
+The boy singing a song is my brother.	O garoto que está cantando uma música é meu irmão.	23920
+Let us sing a song.	Vamos cantar uma música.	23921
+She knew a lot of songs, too.	Ela também sabia um monte de canções.	23922
+As we were singing songs, we climbed to the top.	Enquanto estávamos cantando canções, subimos até o topo.	23923
+Singing is her strong point.	Cantar é o ponto forte dela.	23926
+I wish I were a good singer.	Queria ser um bom cantor.	23928
+Everything comes to those who wait.	Tudo chega àqueles que esperam.	23931
+Please help yourself to some fruit.	Por favor, sirva-se de algumas frutas.	23933
+Please help yourself to the fruit.	Por favor, sirva-se de algumas frutas.	23935
+Won't you have some fruit?	Não quer fruta?	23936
+Fruits decay in the sun.	As frutas se estragam ao sol.	23938
+Fruits tend to rot quickly.	As frutas tendem a se estragar logo.	23939
+I prefer apples to all the other fruits.	Eu prefiro maçãs a todas as outras frutas.	23941
+You seem to like fruit.	Você parece gostar de frutas.	23942
+The fruits are dried in the sun.	As frutas são secas no sol.	23944
+Fruits have seeds in them.	As frutas contêm sementes.	23945
+Few flowers develop into fruit.	Poucas flores tornam-se frutos.	23946
+Fruit trees require a large amount of space in which to grow.	Árvores frutíferas necessitam de muito espaço para crescer.	23947
+Let's play some video games to kill time.	Vamos jogar video game para matar o tempo.	23950
+If you are free, come around to see me.	Se estiver livre, venha me ver.	23955
+Don't you have anything better to do?	Você não tem nada melhor para fazer?	23956
+What do you do in your free time?	O que você faz durante o seu tempo livre?	23957
+Come and see me whenever you are free.	Sempre que você estiver livre venha e me veja.	23958
+Scientific research is not a mechanical routine, but a continuing struggle on the part of the scientist.	A pesquisa científica não é uma rotina mecânica, mas sim uma luta contínua por parte do cientista.	23966
+Scientific discoveries don't always make the world a better place.	Descobertas científicas nem sempre fazem do mundo um lugar melhor.	23968
+Scientists can easily compute the distance between planets.	Os cientistas podem calcular facilmente a distância entre planetas.	23972
+Scientists deal mainly with physical matters.	Os cientistas lidam principalmente com temas de física.	23973
+Scientists have come up with many explanations for why the sky is blue.	Os cientistas chegaram a muitas explicações sobre porque o céu é azul.	23974
+The scientist insisted on proceeding with the research.	O cientista insistiu em continuar com a pesquisa.	23976
+According to scientists, the atmosphere is getting warmer year after year.	De acordo com os cientistas, a atmosfera está ficando mais quente a cada ano.	23979
+Scientists say many factors bring about changes in weather.	Cientistas dizem que muitos fatores causam mudanças no clima.	23980
+I am determined to be a scientist.	Estou determinado a ser um cientista.	23981
+Scientists will come up with new methods of increasing the world's food supply.	Cientistas vão pensar em novos métodos para aumentar o suprimento de comida no mundo.	23982
+Scientists regard the discovery as important.	Cientistas consideram a descoberta importante.	23983
+Scientists began to find answers to these questions.	Cientistas começaram a encontrar respostas para essas perguntas.	23984
+Scientists are working hard to put an end to AIDS.	Cientistas estão trabalhando duro para acabar com a AIDS.	23985
+It is not good for a scientist to get emotional.	Não é bom um cientista ficar emotivo.	23987
+Technology has failed to ease the conflict between man and nature.	A tecnologia falhou em diminuir os conflitos entre o homem e a natureza.	23990
+Technology has given us immense power.	A tecnologia nos deu um poder imenso.	23994
+Science can be dangerous when applied carelessly.	A ciência pode ser perigosa quando aplicada descuidadamente.	23999
+Science has made rapid progress in this century.	A ciência progrediu rapidamente neste século.	24006
+I do not like science.	Não gosto da ciência.	24007
+Advances in science don't always benefit humanity.	Progresso científico não ajuda a humanidade sempre.	24014
+Advance in science is continuous.	É contínuo o avanço da ciência.	24015
+In science class, we drew pictures of cells.	Na aula de ciências, nós desenhamos células.	24018
+Science does not solve all the problems of life.	A ciência não soluciona todos os problemas da vida.	24021
+If science makes progress, we'll be able to solve such problems.	Se a ciência progredir, seremos capazes de resolver problemas como esses.	24023
+When science was less important than it is now, it was all very well to leave science to the scientists.	Quando a ciência era menos importante do que é hoje, não havia problema em deixá-la só para os cientistas.	24026
+Science produced the atomic bomb.	A ciência produziu a bomba atômica.	24027
+Sleep and wait for good luck.	Durma e confie na sorte.	24030
+My wife will be glad to see you, too.	Minha esposa ficará feliz em vê-lo também.	24032
+My wife is preparing dinner right now.	Minha esposa está preparando o jantar neste momento.	24033
+My wife often rings me up, while she travels abroad.	Minha esposa costuma me ligar quando viaja para o exterior.	24034
+I'm sick of listening to her complaints.	Estou cansado de ouvir suas reclamações.	24036
+There is no place like home.	Não há lugar como o nosso lar.	24038
+I have peace at home.	Eu tenho sossego em casa.	24043
+Unable to pay the rent, I asked him for assistance.	Como não pude pagar o aluguel, pedi a ajuda a ele.	24048
+How much is the rent per month?	Quanto custa o aluguel por mês?	24050
+Our rent is four times as much as it was ten years ago.	Nosso aluguel é quatro vezes mais do que era dez anos atrás.	24052
+Their cattle are all fat.	Todo o gado deles está gordo.	24058
+His whole family is like that.	A família inteira é assim.	24064
+Supporting his family was a great burden for him.	Apoiar sua família era um grande fardo para ele.	24065
+May I bring my family along?	Posso levar a minha família?	24068
+The whole family got out of the car.	Toda a família saiu do carro.	24070
+My family are all well.	Na minha família vão todos bem.	24072
+A family is the smallest unit of society.	A família é a menor instituição da sociedade.	24073
+The family is the most important unit in society.	A família é a instituição mais importante na sociedade.	24074
+The family is the basic unit of society.	A família é a instituição básica da sociedade.	24075
+May you and your family be happy.	Que você e sua família sejam felizes.	24085
+I feel homesick when I remember my family.	Sinto saudades de casa quando lembro de minha família.	24086
+I'd like to call my family.	Gostaria de ligar para a minha família.	24087
+My family will be away for a week.	Minha família vai estar fora por uma semana.	24090
+I've always wanted to go to Australia with my family.	Eu sempre quis ir para a Austrália com minha família.	24091
+It's great to have a family.	É ótimo ter uma família.	24093
+If it were not for my family, I would give up this job.	Se não fosse pela minha família, eu desistiria deste emprego.	24094
+The landlord told him to leave because he hadn't paid his rent.	O proprietário disse para ele sair porque não tinha pagado o aluguel.	24095
+I had to do all the housework, but I wish I had gone to the movies or shopping.	Tive que fazer todo o serviço doméstico, mas queria ter ido ao cinema ou fazer compras.	24100
+It's easier for me to have a job than to do housework.	Para mim é mais fácil trabalhar fora do que fazer o serviço doméstico.	24101
+Having finished all her housework, she sat down on the sofa to watch television.	Tendo terminado todo o trabalho doméstico, ela se sentou no sofá para ver televisão.	24102
+Lots of women both run a home and go out to work.	Muitas mulheres cuidam do lar e trabalham fora.	24103
+I got him to help me when I moved the furniture.	Consegui mandá-lo ajudar-me quando movi o móvel.	24104
+All the furniture was covered with dust.	Todos os móveis estavam cobertos de pó.	24106
+Some furniture is put together with glue.	Alguns móveis são pregados com cola.	24107
+The houses stand near to each other.	As casas ficam perto umas das outras.	24108
+The fronts of the houses were hung with flags.	Das fachadas das casas suspendiam-se bandeiras.	24109
+The houses looked like so many matchboxes.	As casas pareciam um monte de caixas de fósforo.	24110
+There are a lot of people who try to buy a house.	Há muitas pessoas que tentam comprar uma casa.	24111
+I'm getting a new house built.	Estou construindo uma casa nova.	24115
+Before you leave home, make sure your pets have enough food.	Antes de sair de casa, tenha certeza de que seus animais de estimação têm comida suficiente.	24117
+The weather was lovely when I left home.	O tempo estava encantador quando eu saí de casa.	24118
+As soon as I left home, it began to rain.	Assim que eu saí de casa, começou a chover.	24121
+I was leaving home when Tom telephoned me.	Estava saindo de casa quando Tom me ligou.	24122
+As I left the house, I remembered the key.	Assim que eu saí de casa, lembrei-me da chave.	24126
+We have made numerous improvements to our house since we bought it.	Fizemos numerosas reformas em casa desde que a compramos.	24127
+It took them two years to build the house.	Eles levaram dois anos para construir a casa.	24128
+I will take you home.	Vou te levar para casa.	24129
+I want you to refurbish the house.	Quero que você reforme a casa.	24130
+Could you please drive me home?	Você poderia me levar para casa, por favor?	24131
+Shall I drive you home?	Eu te levo para casa?	24133
+It is no inconvenience to drive you home.	Não é incômodo nenhum te levar para casa.	24134
+Are we to remove our shoes before entering the house?	Temos de retirar os sapatos antes de entrar na casa?	24135
+The telephone was ringing when I got home.	O telefone estava tocando quando eu cheguei em casa.	24140
+The house collapsed in an earthquake.	A casa ruiu num terremoto.	24142
+The house was burned to the ground.	A casa foi reduzida a cinzas.	24143
+The houses caught fire one after another.	As casas pegaram fogo uma atrás da outra.	24144
+The house was in flames.	A casa estava em chamas.	24147
+My house was on fire.	Minha casa estava pegando fogo.	24148
+We have two cats; one is white, and the other is black.	Temos dois gatos; um é branco e o outro é preto.	24149
+The house burned down completely.	A casa foi completamente queimada.	24150
+The house looked good; moreover, the price was right.	A casa parecia bonitinha, e além disso o preço era justo.	24151
+I spent the holidays decorating the house.	Passei as férias decorando a casa.	24154
+There are scarcely any flowers in our garden.	Quase não há flores em nosso jardim.	24155
+We are not cold in the house.	Não temos frio na casa.	24157
+All was silent in the house.	Tudo estava quieto na casa.	24158
+Every door in the house is locked.	Todas as portas da casa estão trancadas.	24159
+There wasn't anybody in the house.	Não havia ninguém na casa.	24161
+Let's take a rest in the garden instead of indoors.	Vamos descansar no jardim em vez de descansar lá de dentro.	24163
+You can't have lost your coat in the house.	Você não pode ter perdido o seu paletó na casa.	24164
+The basements of the houses are likely to have problems.	Os porões das casas provavelmente terão problemas.	24165
+A horse passed my house.	Um cavalo passou pela minha casa.	24166
+My son can count up to a hundred now.	Meu filho pode contar até cem agora.	24167
+There is a garden in front of the house.	Tem um jardim em frente à casa.	24168
+There was a traffic accident in front of the house yesterday.	Houve um acidente de trânsito em frente à casa ontem.	24170
+I made my whole family leave home.	Eu fiz toda a minha família sair de casa.	24171
+A fence runs around the house.	Uma cerca rodeia a casa.	24173
+I had to help with the housework.	Precisei ajudar com o serviço doméstico.	24174
+There is a garden at the back of my house.	Tem um jardim no fundo da minha casa.	24178
+There is a hut at the back of our house.	Tem uma cabana atrás da nossa casa.	24180
+Our dog buries its bones in the garden.	Nosso cachorro enterra os ossos dele no jardim.	24181
+Please wait outside of the house.	Por favor, espere fora da casa.	24184
+Our family consists of five members.	Nossa família consiste em cinco membros.	24187
+The rise in house prices enabled him to sell his house at a big profit.	O aumento no preço das casas possibilitou que ele vendesse a sua casa por um preço vantajoso.	24188
+I was almost home when the car ran out of gas.	Estava quase em casa quando acabou o combustível do carro.	24194
+This side of the house catches the morning sun.	Este lado da casa pega o sol da manhã.	24195
+The oven in my house didn't run well today.	O forno de casa não funcionou bem hoje.	24196
+There was a large garden behind the house.	Havia um grande jardim atrás da casa.	24197
+She scraped her shoes clean before she entered the house.	Ela bateu os sapatos antes de entrar na casa.	24198
+It is our custom to take off our shoes when we enter the house.	É nosso costume tirar os sapatos antes de entrar na casa.	24199
+Can you deliver it to my house?	Você pode entregar na minha casa?	24200
+Investing money in your home has some merit; when it is time to sell it you can get more money.	Investir dinheiro em sua casa tem algum mérito; quando é hora de vendê-la, você pode conseguir algum dinheiro a mais.	24201
+On arriving home, he laid himself on the floor.	Chegando em casa, ele deitou no chão.	24202
+When I got home, I found your letter waiting for me.	Quando cheguei em casa, encontrei a sua carta me esperando.	24205
+It seemed strange that the door was open when I got home.	Me pareceu estranho que a porta estivesse aberta quando cheguei em casa.	24207
+When I got home, I was very tired.	Quando cheguei em casa, estava muito cansado.	24208
+I'll give you a call when I get home.	Eu vou te ligar quando chegar em casa.	24209
+When I got home, I was very hungry.	Quando cheguei em casa, estava com muita fome.	24210
+I will give you a call as soon as I get home.	Eu te ligo assim que chegar em casa.	24211
+I had barely got home when the storm broke.	Eu mal tinha chegado em casa quando a tempestade começou.	24212
+He had been repairing the car and looked tired when I arrived home.	Ele estivera consertando o carro e parecia cansado quando chegou em casa.	24213
+When I got home, I found I had lost my wallet.	Quando eu cheguei em casa, eu descobri que tinha perdido minha carteira.	24215
+I've left my watch at home.	Deixei meu relógio em casa.	24216
+On my way home, I met him.	Quando voltava para casa, eu me encontrei com ele.	24218
+I met a dog on my way home.	Eu encontrei um cachorro no caminho de casa.	24219
+Please remember to post the letter on your way home.	Por favor, lembre-se de colocar a carta no correio no caminho de casa.	24221
+I did some shopping for Christmas on my way home.	Eu fiz algumas compras para o Natal enquanto voltava para casa.	24222
+Please give me leave to go home.	Por favor, me dê permissão para ir para casa.	24225
+Let me know when you'll return home.	Avise-me quando voltar para casa.	24226
+On her way home, Mary came across John.	No seu caminho de volta para casa, Mary encontrou John.	24227
+When I came home, my mother was standing by the door in tears.	Quando cheguei em casa, minha mãe estava parada na porta aos prantos.	24232
+As soon as I got home, it began to rain.	Assim que eu cheguei em casa, começou a chover.	24234
+It wasn't until I got home that I missed my umbrella.	Só dei por falta do meu guarda-chuva quando cheguei em casa.	24237
+When I came home, I felt very hungry.	Quando cheguei em casa, me deu muita fome.	24240
+My advice is for you to go home.	Meu conselho é que você vá para casa.	24241
+We spent a lot of money on furnishing our house.	Gastamos muito dinheiro mobiliando a nossa casa.	24243
+There was much food in the house.	Havia muita comida na casa.	24245
+We had a lot of furniture.	Tínhamos muitos móveis.	24246
+He is away from home.	Ele está longe de casa.	24249
+Entering the house, I tripped over the mat.	Ao entrar na casa, eu tropecei no tapete.	24250
+I left my card at home.	Deixei o meu cartão em casa.	24252
+I have spent a lot of money on my house.	Tenho gastado muito dinheiro em minha casa.	24253
+We have two dogs. One is black and the other is white.	Temos dois cachorros. Um é preto e o outro é branco.	24254
+I prefer going out to staying at home.	Prefiro sair a ficar em casa.	24255
+I'm just going to stay home.	Só vou ficar em casa.	24256
+I'll fix you some coffee.	Eu vou te preparar um café.	24257
+When I'm at home there's a lot of stuff to do; I don't even have time to watch TV.	Quando estou em casa, há muitas coisas para fazer; nem tenho tempo para ver televisão.	24260
+I would rather stay at home.	Eu preferiria ficar em casa.	24261
+I'd rather stay at home.	Preferiria ficar em casa.	24262
+If you take your shoes off before coming into the house you won't bring in any dirt from your shoes.	Se você tirar os seus sapatos antes de entrar na casa, não trará nenhuma poeira dos seus sapatos.	24263
+We will purchase a new car next week.	Nós compraremos um carro novo próxima semana.	24268
+Stop being lazy and find something to do.	Para de ser preguiçoso e encontra alguma coisa para fazer.	24271
+Feeling the house shake, I ran outside.	Sentindo a casa tremer, eu corri para fora.	24273
+As soon as he felt his house shake, he rushed out into the garden.	Assim que sentiu sua casa tremer, ele saiu correndo para o jardim.	24275
+I felt the house shake.	Eu senti a casa tremer.	24276
+Don't you feel the house shaking?	Você não está sentindo a casa tremer?	24277
+The house is on fire.	A casa está em chamas.	24278
+Several houses were carried away by the great flood.	Várias casas foram levadas pela grande enchente.	24279
+The house was carried away by the flood.	A casa foi levada pela enchente.	24280
+The house is on fire!	A casa está pegando fogo!	24281
+How long does it take to go to the office from your home?	Quanto tempo leva para ir da sua casa ao escritório?	24282
+I see the tower from my house.	Eu vejo a torre de casa.	24283
+The summer goods are now on sale.	As mercadorias de verão agora estão à venda.	24290
+I visited Hokkaido during summer vacation.	Eu visitei Hokkaido durante as férias de verão.	24296
+I'm thinking of going to the States during the summer vacation.	Estou pensando em ir para os Estados Unidos durante as férias de verão.	24297
+The summer vacation is only a week away.	Só falta uma semana para as férias de verão.	24302
+Summer vacation begins next Monday.	As férias de verão começam na próxima segunda.	24304
+How was your summer vacation?	Como foram suas férias de verão?	24309
+The summer vacation has come to an end too soon.	As férias de verão acabaram tão rápido.	24311
+I worked in a post office during the summer vacation.	Eu trabalhei numa agência de correios durante as férias de verão.	24318
+How much money was saved in preparation for the summer vacation?	Quanto dinheiro foi economizado na preparação para as férias de verão?	24319
+Many young people go abroad during summer vacation.	Muitos jovens viajam ao exterior durante as férias de verão.	24324
+I'm looking forward to your visit during summer vacation.	Estou esperando ansiosamente a sua visita durante as férias de verão.	24326
+There is nothing like summer and ice cream.	Não há nada como o verão e um sorvete.	24329
+The summer vacation is over.	As férias de verão acabaram.	24330
+The summer had gone before I knew it.	O verão se foi antes que eu me desse conta.	24337
+My plan for the summer is to go to Europe.	Meu plano para o verão é ir à Europa.	24343
+Summer is the season when women look most beautiful.	O verão é a estação do ano em que as mulheres ficam mais bonitas.	24350
+There are more cars on the road in the summer than in the winter.	Há mais carros na estrada no verão do que no inverno.	24354
+I'm already accustomed to the heat of summer.	Eu já estou acostumado com o calor do verão.	24359
+Some people like summer, and others like winter.	Algumas pessoas gostam do verão, outras do inverno.	24364
+They rented their house for the summer.	Eles alugaram sua casa para o verão.	24365
+What's Scotland like in summer?	Como é a Escócia no verão?	24368
+I like everything that comes with summer.	Eu gosto de tudo que vem com o verão.	24371
+We can see a lot of stars at night in summer.	No verão nós conseguimos ver muitas estrelas à noite.	24373
+Please conserve water in summer.	Por favor, economize água no verão.	24375
+We have much rain in summer but on the other hand we have little rain in winter.	Aqui chove muito no verão, mas, por outro lado, no inverno chove pouco.	24379
+In summer, they used to play on the beach all day long.	No verão, eles costumavam brincar na praia o dia todo.	24385
+I often go swimming at the beach in the summer.	No verão vou muitas vezes à praia para nadar.	24388
+What do you associate with summer?	O que você associa ao verão?	24392
+I want to go on a journey around the world if possible.	Quero fazer uma viagem ao redor do mundo, se possível.	24401
+Mr. Kato teaches us English.	Sr. Kato nos ensina inglês.	24405
+Kato asked him many questions about the United States.	Kato fez muitas perguntas sobre os Estados Unidos para ele.	24407
+Some stores discount the price.	Algumas lojas descontam o preço.	24414
+The prices are subject to change without notice.	Os preços estão sujeitos a alteração sem aviso prévio.	24417
+Prices are subject to change without notice.	Os preços são sujeitos a mudança sem aviso prévio.	24419
+The price reflects the demand.	O preço reflete a demanda.	24420
+Prices depend on supply and demand.	Os preços dependem da oferta e da demanda.	24422
+The price is double what it was last year.	O preço está o dobro do que era o ano passado.	24423
+Who do you think you are?	Quem você pensa que é?	24435
+Do you have any CDs?	Você tem CDs?	24438
+How long is the ride?	Quanto tempo dura a viagem?	24441
+Millions of trees have been cut down for fuel.	Milhões de árvores foram cortadas para se fazer combustível.	24444
+Hundreds of people work in this factory.	Centenas de pessoas trabalham nessa fábrica.	24445
+Hundreds of people were waiting outside the ticket office.	Centenas de pessoas estavam esperando do lado de fora da bilheteria.	24446
+We shot pheasants by the hundred.	Matamos centenas de faisões a tiro.	24449
+Hundreds of people were on the spot.	Centenas de pessoas estavam no lugar.	24450
+Hundreds of people called or wrote to the Gorilla Foundation.	Centenas de pessoas ligaram ou escreveram à Fundação Gorila.	24451
+Hundreds of buffaloes moved toward the lake.	Centenas de búfalos foram em direção ao lago.	24452
+I saw some monkeys climbing the tree.	Eu vi alguns macacos subindo na árvore.	24453
+I haven't seen him for years.	Eu não o vejo há anos.	24460
+I wonder if she will recognize me after all those years.	Será que ela me reconhece depois de todos esses anos?	24463
+How long have you been studying English?	Há quanto tempo você estuda inglês?	24464
+How long are you going to stay?	Quanto tempo você vai ficar?	24467
+It rained for several days on end.	Choveu por vários dias sem parar.	24472
+How long are you going to stay here?	Vai ficar por quanto tempo?	24473
+How many days does it usually take to get there?	Quantos dias leva normalmente para chegar aí?	24475
+How long will it take?	Quanto tempo vai levar?	24477
+Having heard it so many times, I can recite the poem by heart now.	Tendo-o ouvido tantas vezes, posso recitar o poema de cor agora.	24479
+He has lied to me again and again.	Ele mentiu para mim várias vezes.	24482
+Having lost the game over and over again, he finally gave in.	Tendo perdido o jogo várias e várias vezes, ele finalmente cedeu.	24484
+Having visited Rome many times, he knows it well.	Tendo visitado Roma muitas vezes, ele a conhece bem.	24485
+Read it again and again.	Leia de novo e de novo.	24486
+I tried again and again, but I couldn't succeed.	Eu tentei de novo e de novo, mas não consegui.	24487
+Thousands of foreigners visit Japan every year.	Milhares de estrangeiros visitam o Japão todos os anos.	24494
+Thousands of stars shone in the heavens.	Milhares de estrelas brilhavam no céu.	24495
+Thousands of people died of hunger.	Milhares de pessoas morreram de fome.	24500
+Some boats are on the lake.	Alguns botes estão no lago.	24502
+No man can be a patriot on an empty stomach.	Nenhum homem pode ser patriota com o estômago vazio.	24507
+How many children do you have?	Quantos filhos você tem?	24512
+Let no one appropriate a common benefit.	Não deixe ninguém se apropriar de um benefício comum.	24516
+How many people do you think have an ear for music?	Quantas pessoas você acha que têm ouvido para música?	24517
+Some brave passengers caught the pickpocket and turned him over to the police.	Alguns passageiros corajosos pegaram o batedor de carteira e o entregaram à polícia.	24520
+Some boys came into the classroom.	Alguns rapazes entraram na sala de aula.	24522
+Some of the drivers were laughing and yelling.	Alguns dos motoristas estavam rindo e gritando.	24528
+I can see some people walking across the street.	Eu vejo algumas pessoas andando pela rua.	24529
+Somebody caught me by the arm.	Alguém me pegou pelo braço.	24530
+I don't know where we'll arrive.	Não sei aonde vamos chegar.	24534
+Where can I buy a ticket?	Onde posso comprar um bilhete?	24537
+You may sit wherever you like.	Você pode sentar-se onde quiser.	24538
+Dozens of young people attended the demonstration.	Dezenas de jovens assistiram a demonstração.	24539
+Somebody had drowned her in the bathtub.	Alguém a afogou na banheira.	24545
+What time does it close?	A que horas fecha?	24546
+What time can you come?	A que horas você pode vir?	24565
+When should we make reservations?	Quando deveríamos fazer as reservas?	24566
+What time do you go to bed?	A que horas você vai dormir?	24570
+What time did you eat?	A que horas você comeu?	24571
+What time does it start?	A que horas começa?	24572
+What time will the game start?	Que horas começará o jogo?	24575
+What time do you get up?	Que hora você se levanta?	24579
+When did you get up?	Quando você se levantou?	24580
+When will you come home?	Quando você voltará para casa?	24581
+What time and where could we meet?	À que horas e onde podemos nos encontrar?	24585
+Can you please tell me what time the train leaves?	Você pode me dizer a que horas o trem parte, por favor?	24588
+Do you know what time the shop is closed?	Você sabe a que horas a loja fecha?	24589
+What time did you arrive there?	A que horas você chegou lá?	24590
+What time shall I come?	Que horas devo vir?	24594
+Do you know what the time is?	Você sabe que horas são?	24598
+Everything eventually gets easier with practice.	Com a prática, tudo no fim fica mais fácil.	24607
+Resignation is the first lesson of life.	A resignação é a primeira lição da vida.	24611
+All things must have an end.	Todas as coisas precisa ter um fim.	24617
+Don't carry anything to excess.	Não carregue nada ao excesso.	24618
+Take a mean position in everything.	Assuma uma posição média em tudo.	24622
+Do your best in everything.	Dê o melhor de si em tudo.	24623
+Whatever may happen, I am prepared for it.	O que quer que aconteça, eu estou preparado.	24639
+Why did she interrupt me?	Por que ela me interrompeu?	24645
+Why didn't you tell her?	Por que não contou a ela?	24646
+Do you know why they stopped talking?	Você sabe por que eles pararam de falar?	24649
+The reason is because I can speak Chinese.	Porque eu consigo falar chinês.	24654
+Why do you think so?	Por que você acha isso?	24655
+What did you go there for?	Por que você foi lá?	24656
+Some of the birds didn't fly.	Alguns daqueles pássaros não voaram.	24670
+What was it I left behind?	O que foi que eu deixei para trás?	24679
+What shall I go in?	O que devo usar?	24680
+What are you concerned about?	Com o que você está preocupado?	24684
+What are you laughing at?	Do que você está rindo?	24686
+A penny for your thoughts.	Um centavo pelos teus pensamentos.	24694
+What are you thinking about?	No que você está pensando?	24698
+Not knowing what to say, she remained silent.	Sem saber o que dizer, ela permaneceu em silêncio.	24700
+What one says is more important than how one says it.	O que você diz é mais importante do que como o diz.	24705
+What are you going to see?	O que você vai ver?	24709
+What will you have to drink?	O que desejas beber?	24714
+My view is different from his as to what should be done.	Minha visão é diferente da dele quanto ao que deveria ser feito.	24719
+Why are you so happy?	Por que está tão feliz?	24721
+What makes you so sad?	O que te deixa tão triste?	24722
+In doing anything, do your best.	Ao fazer qualquer coisa, faça o seu melhor.	24723
+No matter what you do, you must follow the correct order.	Não importa o que fizer, você deve seguir a ordem correta.	24727
+You should make as much effort as possible in whatever you do.	Você deveria se esforçar o máximo possível em tudo o que faz.	24728
+It is up to you to decide what to do.	É você que deve decidir o que fazer.	24732
+It is clear what must be done.	Está claro o que tem que ser feito.	24746
+What do you do to pass the time?	O que você faz para passar o tempo?	24747
+Not knowing what to do, I stood there silently.	Sem saber o que fazer, eu fiquei lá calado.	24748
+Not knowing what to do, I asked for his advice.	Sem saber o que fazer, pedi ajuda a ele.	24750
+Not knowing what to do, I did nothing.	Sem saber o que fazer, eu não fiz nada.	24755
+Tell me what to do.	Diga-me o que fazer.	24758
+What do you want to do?	O que você quer fazer?	24759
+What would you like to drink?	O que você gostaria de beber?	24765
+Not knowing what to say, I remained silent.	Sem saber o que dizer, eu permaneci em silêncio.	24770
+I love to jog more than anything else in the world.	Eu amo a corrida mais do que qualquer coisa no mundo.	24779
+The one resource more precious than any other was land.	O único recurso mais precioso que qualquer outro era a terra.	24782
+Above all, don't tell a lie.	Acima de tudo, não minta.	24788
+Are you sure you haven't forgotten anything?	Tem certeza de que não esqueceu nada?	24799
+You have nothing to fear.	Você não tem nada a temer.	24803
+You have no need to be ashamed.	Você não tem motivo para ficar com vergonha.	24804
+There is nothing to worry about.	Não há nada com o que se preocupar.	24807
+Nothing's gonna change my world.	Nada vai mudar meu mundo.	24812
+Having nothing to do, he went downtown.	Não tendo nada para fazer, ele foi ao centro da cidade.	24817
+There's nothing to do, so I may as well go to bed.	Não há nada para fazer, então eu posso muito bem ir para a cama.	24819
+Those who forget everything are happy.	Aqueles que tudo esquecem são felizes.	24824
+You didn't leave me shit.	Você não me deixou merda nenhuma.	24830
+Before everything you should take better care of your health.	Antes de tudo você deveria tomar conta melhor da sua saúde.	24834
+What were we talking about?	Sobre o que estávamos falando?	24835
+For what purpose did he come here?	Com que propósito ele veio aqui?	24842
+What flower do you like best?	De que flor você mais gosta?	24849
+Never hesitate to tell the truth.	Nunca hesite em dizer a verdade.	24851
+What made her so sad?	O que a deixou tão triste?	24852
+What do you play baseball for?	Por que você joga beisebol?	24853
+Why did her father go to Japan?	Por que o pai dela foi ao Japão?	24854
+What on earth do you want six copies of the same book for?	Pra que diabos você quer seis cópias do mesmo livro?	24855

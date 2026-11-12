@@ -1,0 +1,1000 @@
+Butterflies of this species are now extinct.	Essa espécie de borboleta já se encontra extinta.	65888
+Some wild animals are on the verge of extinction.	Alguns animais selvagens estão à beira da extinção.	65893
+Are you still having difficulty with physics?	Você ainda tem dificuldades em física?	65898
+Some companies are still debating whether to get Internet access.	Algumas empresas ainda estão debatendo se adquirem ou não acesso à Internet.	65902
+It's no use trying to fix it now.	É inútil tentar consertá-lo agora.	65905
+You can regret it all you want, but it won't do you any good now.	Você pode se arrepender disso, mas isso não lhe fará nenhum bem no momento.	65910
+The dogs were howling at the moon.	Os cães estavam uivando para a lua.	65927
+The dog growled at the strange man.	O cachorro rosnou para o homem estranho.	65930
+Never speak ill of others behind their backs.	Jamais fale mal dos outros pelas costas.	65942
+There is nothing to it.	Não há nada a fazer.	65943
+My cousin is having a baby next month.	Minha prima vai ter um filho mês que vem.	65946
+My cousin works in a shop near our home.	O meu primo trabalha em uma loja perto da nossa casa.	65949
+When will you go on a journey?	Quando você vai sair em jornada?	65954
+Whenever you come, you are always welcome.	Sempre que você vier, você sempre será bem-vindo.	65956
+It doesn't matter when you come.	Não importa quando você vem.	65959
+No matter when you come, I'll play a game of Japanese chess with you.	Não importa quando você vem, eu vou jogar um jogo de xadrez japonês com você.	65962
+When are you coming back?	Quando você vai voltar?	65965
+When did you see her?	Quando você a viu?	65968
+How soon are you going shopping?	Quando você vai fazer compras?	65978
+When are you going to leave?	Quando você vai partir?	65998
+When did you change your address?	Quando você mudou de endereço?	66006
+When will you bring back my umbrella?	Quando é que você vai devolver o meu guarda-chuva?	66010
+When can you let me know the result?	Quando você vai me deixar saber o resultado?	66015
+When did you graduate from high school?	Quando você se formou na faculdade?	66018
+Would you please tell me when to get off?	O senhor poderia me avisar quando tenho que descer?	66020
+When do you want to go?	Quando você quer ir?	66023
+I don't know exactly when I will be back.	Não sei exatamente quando estarei de volta.	66032
+He hasn't told me when he will return.	Ele não me disse quando voltará.	66034
+When did you open your new store?	Quando você abriu sua nova loja?	66036
+Every time I see him, he is smiling.	Toda vez que eu o vejo, ele está sorrindo.	66038
+It may rain at any time.	Pode chover a qualquer momento.	66040
+It may rain at any moment.	Pode chover a qualquer momento.	66041
+When did you get back from London?	Quando você voltou de Londres?	66043
+When are you going to Europe?	Quando você irá para a Europa?	66046
+Tell me when to stop.	Diga-me quando parar.	66047
+I always keep my word.	Eu sempre mantenho a palavra.	66049
+If you always travel by subway, you seldom surface other than at your stop.	Se você sempre viaja de metrô, você raramente vê outra coisa além da sua parada.	66067
+It's not easy being honest all the time.	Não é fácil ser honesto toda hora.	66070
+We must always consider the feelings of others.	Devemos sempre considerar os sentimentos dos outros.	66076
+People who talk about themselves all the time bore me.	As pessoas que sempre falam de si mesmas me aborrecem.	66077
+I arrived later than usual.	Eu cheguei mais atrasado do que o habitual.	66094
+As usual, he was late and made us wait for a long time.	Como sempre, ele estava atrasado e fez a gente esperar durante um longo tempo.	66108
+He was the kind of kid who was always showing off to his classmates.	Ele foi o tipo de criança que sempre se mostrava para os colegas de classe dele.	66124
+How long will you stay in Tokyo?	Quanto tempo ficará em Tóquio?	66136
+I will love you forever.	Eu sempre vou te amar!	66141
+I wish you a long and happy married life.	Desejo-lhe uma longa e feliz vida de casado.	66144
+How long are you going to keep whimpering about that? You can't change the past.	Quanto tempo você vai ficar choramingando por isso? Você não pode mudar o passado.	66146
+When are you going to stop laughing like an idiot?	Quando você vai parar de rir como um idiota?	66147
+How soon do you need it?	Para quando você precisa?	66149
+Until when are you staying?	Até quando você irá ficar?	66152
+Some day man will reclaim the desert for agriculture.	Um dia, o Homem irá reivindicar o deserto para a agricultura.	66162
+You should always apologize in person.	Você deve sempre se desculpar pessoalmente.	66183
+You can always count on me.	Você pode contar comigo sempre.	66184
+You may always use my dictionary.	Você pode usar o meu dicionário sempre que quiser.	66187
+You may use my typewriter at any time.	Você pode utilizar minha máquina de escrever a qualquer momento.	66189
+You may call me anytime.	Você pode me chamar a qualquer hora.	66191
+You can use it anytime.	Você pode usá-lo qualquer hora.	66194
+Come at any time you like.	Venha quando quiser.	66200
+I will be glad to help you anytime.	Ficarei feliz em te ajudar a qualquer hora.	66203
+There is always something to do.	Sempre há algo a fazer.	66205
+You can always reckon on me.	Você pode contar comigo sempre.	66213
+When do you play tennis?	Quando você joga tênis?	66219
+Once you have formed a bad habit, you can't get rid of it easily.	Uma vez que você forma um mau hábito, você não consegue se livrar dele facilmente.	66240
+Once a bad habit is formed, it is hard to get rid of it.	A partir do momento que um mau hábito é criado, é difícil livrar-se dele.	66241
+Who on earth are you?	Quem é você?	66254
+Did you speak at all?	Afinal, você falou alguma coisa?	66262
+Where ever did you buy it?	Onde foi que você comprou isso?	66275
+Why on earth did you do that?	Por que diabos você fez isso?	66298
+When did you buy it?	Quando você o comprou?	66301
+When shall I return the book?	Quando devo devolver o livro?	66304
+When did you get to know the fact?	Quando você soube do fato?	66308
+When did you hear the news?	Quando você escutou a notícia?	66312
+When did you go there?	Quando você foi lá?	66313
+Would you join me for lunch?	Gostaria de almoçar comigo?	66316
+Let's study hard and become great men.	Vamos estudar para nos tornarmos grandes homens.	66323
+When would it be convenient for you?	Quando seria conveniente para você?	66325
+When was this car washed?	Quando esse carro foi lavado?	66329
+Some day I want to go to New York.	Algum dia quero ir a Nova York.	66345
+Some day my dream will come true.	Algum dia meu sonho se tornará realidade.	66346
+You will succeed some day.	Você conseguirá um dia.	66348
+Someday your dream will come true.	Algum dia o seu sonho se tornará realidade.	66349
+Some day next month I plan to go to Kyoto.	Em algum dia no próximo mês eu planejo ir a Kyoto.	66351
+I'd like to visit England someday.	Gostaria de visitar a Inglaterra um dia.	66352
+I want to go abroad one day.	Quero viajar para fora um dia.	66354
+How long have you had this pain?	Há quanto tempo você sente essa dor?	66355
+I would like to visit New York someday.	Gostaria de visitar Nova York um dia.	66367
+I'd like to visit your country someday.	Gostaria de visitar o seu país um dia.	66374
+Some day we'll take a trip to India.	Um dia nós viajaremos à Índia.	66375
+Someday I'd like to go to England.	Um dia gostaria de ir para a Inglaterra.	66377
+I want to go to America some day.	Quero ir aos EUA um dia.	66378
+When can I see you?	Quando posso vê-lo?	66385
+When will you return the money to me?	Quando você irá me devolver o dinheiro?	66390
+When are you going to call the doctor's office?	Quando você vai ligar para o consultório do médico?	66392
+Please tell me when you are coming back.	Por favor diga quando vai voltar.	66401
+When and where did you come to know her?	Quando e onde você veio a conhecê-la?	66403
+Strawberries are now in season.	É época de morango.	66418
+I find Italian food very desirable.	Eu acho comida italiana muito desejável.	66425
+Did you ever visit Italy?	Você alguma vez visitou a Itália?	66430
+When are you going back to Italy?	Quando você retorna à Itália?	66431
+The population of Italy is about half as large as that of Japan.	A população da Itália é mais ou menos a metade da população do Japão.	66433
+The capital of Italy is Rome.	A capital da Itália é Roma.	66434
+Now that you are in Italy, you must absolutely see Naples.	Agora que você está na Itália, não pode deixar de visitar Nápoles.	66438
+You can stay here as long as you like.	Você pode ficar aqui até quando quiser.	66446
+Get me a chair, please.	Traga-me uma cadeira, por favor.	66451
+Move the chair nearer to the desk.	Mova a cadeira mais perto à escrivaninha.	66452
+At any rate, he was satisfied with the results.	De qualquer forma, ele estava satisfeito com os resultados.	66468
+It is not my intent to hurt you in any way.	Não é minha intenção machucar você de qualquer forma.	66472
+In any case, you are wrong in your conjecture.	Em qualquer caso, você está errado em suas suposições.	66473
+I will get in touch with you.	Eu entrarei em contato com você.	66477
+There is a cat on the chair.	Há um gato sobre a cadeira.	66484
+The chair is broken. You'd better get someone to fix it.	A cadeira está quebrada. É melhor você achar alguém que a conserte.	66488
+No matter how old I get, I'll still have the energy to play ping-pong.	Não importa minha idade, eu sempre terei energia para jogar pingue-pongue.	66510
+I don't care how much you say you love me. I know your feelings for her haven't changed.	Não me importa o quanto você diga que me ama. Eu sei que os seus sentimentos por ela não mudaram.	66517
+I always enjoy listening to classical music when I have some free time.	Eu sempre gosto de ouvir música clássica quando tenho um tempinho livre.	66532
+I have some questions to ask, but I don't want to bother you now.	Eu tenho algumas perguntas para fazer, mas não quero lhe incomodar agora.	66542
+Some families spend their vacation near the beach.	Algumas famílias passam as férias perto da praia.	66558
+Some apples rotted on the tree.	Algumas maçãs apodreceram na árvore.	66559
+The English are a practical people.	Os ingleses são um povo prático.	66570
+The English set a high value on freedom.	Os ingleses dão muito valor à liberdade.	66571
+The English love the unicorn as much as they love the lion.	Os ingleses amam o unicórnio tanto quanto amam o leão.	66576
+An Englishman's home is his castle.	A casa de um inglês é seu castelo.	66583
+An Englishman would not pronounce it like that.	Um inglês não pronunciaria isso dessa forma.	66587
+The English Channel separates England and France.	O canal da Mancha separa a Inglaterra e a França.	66593
+There are some differences between British English and American English.	Há algumas diferenças entre o inglês britânico e o inglês americano.	66595
+Who is the greatest poet in England?	Quem é o maior poeta na Inglaterra?	66611
+They drive on the left in England.	Na Inglaterra se dirige à esquerda.	66617
+No animal can exist without plants.	Nenhum animal consegue existir sem plantas.	66643
+No student is allowed to enter the room.	Nenhum aluno tem permissão para entrar na sala.	66645
+No action is in itself good or bad.	Nenhuma ação é em si mesma boa ou ruim.	66649
+You had better not go.	É melhor você não ir.	66651
+How do you like Texas so far?	O que achou do Texas até agora?	66656
+Jesus was born of Mary.	Jesus nasceu de Maria.	66666
+Just say yes or no.	Apenas diga sim ou não.	66672
+Get yourself a decent suit.	Arranje um traje decente.	66682
+It looks as if it's going to be a nice day.	Parece que vai ser um dia bonito.	66689
+It is a nice day, isn't it?	Está um dia agradável, não é?	66690
+A nice day, isn't it? How about going for a swim?	Está um dia bonito, não está? Que tal irmos nadar?	66691
+He is nice, but he's not the one for me.	Ele é legal, mas não é o cara certo para mim.	66703
+It seems to be becoming hard to get a good job.	Parece estar ficando difícil conseguir um bom emprego.	66719
+A good idea came into my head.	Uma boa ideia veio-me à cabeça.	66722
+I've got a good idea.	Tenho uma boa ideia.	66724
+Did you have a nice summer?	Você teve um bom verão?	66730
+The seasoning is just right.	O tempero está ideal.	66735
+Do you know a good restaurant?	Você conhece um bom restaurante?	66740
+Sure. What can I do?	Certo. O que eu posso fazer?	66742
+Sure. Do you know a good place?	Tudo bem. Você conhece um bom lugar?	66750
+Let me tell you this. No one can succeed without making an effort.	Deixa-me que te diga isto. Ninguém pode ter sucesso sem se esforçar.	66755
+You see, I left school when I was thirteen.	Veja, eu abandonei a escola quando tinha treze anos.	66756
+Let's go and watch the Easter parade.	Vamos sair e assistir ao desfile de páscoa.	66761
+I'll tell you a secret.	Contarei-te um segredo.	66765
+I bought a good camera.	Eu comprei uma boa câmera.	66769
+In other words, he is lazy.	Em outras palavras, ele é um preguiçoso.	66773
+It's a beautiful day, isn't it?	Está um dia bonito, não está?	66774
+No, she has never fallen in love.	Não, ela nunca se apaixonou.	66783
+No, I don't think that I am to blame.	Não, não acho que a culpa seja minha.	66790
+No, I've never been there.	Não, nunca estive lá.	66794
+No, I will go by bus.	Não, irei de ônibus.	66807
+This is a great apartment.	Esse é um grande apartamento.	66822
+They were treating me so rudely that I suddenly just lost it.	Eles estavam me tratando de forma tão rude que subitamente perdi a cabeça.	66825
+I have neglected you so long that I feel a bit shy in visiting you.	Eu tenho te negligenciado por tanto tempo que me sinto um pouco tímido em te visitar.	66828
+Ann seems to be ill.	Ann parece estar doente.	66835
+Ann is a little girl.	Ana é uma menininha.	66840
+Ann has a kind heart.	A Ana tem um bom coração.	66841
+Ann likes to write poems.	Ann gosta de escrever poemas.	66842
+Anne will not come to our party.	Anne não virá para a nossa festa.	66843
+Ann was in a hurry this morning.	Ann estava apressada hoje de manhã.	66847
+Ann wrote something on the blackboard.	Ann escreveu alguma coisa no quadro.	66848
+Anne will not accomplish anything.	Anne não realizará nada.	66851
+Ann has a weakness for chocolate.	Ann tem uma queda por chocolate.	66858
+Ann has just finished writing her report.	Ana acabou de terminar a escrita do relatório dela.	66860
+I wish I had not bought such a useless thing.	Queria não ter comprado uma coisa tão inútil.	66879
+I'm sorry I was so rude.	Me desculpe por eu ter sido tão rude.	66880
+He must be crazy to behave like that.	Ele deve estar louco para agir assim.	66883
+He should be put in prison.	Ele deveria ser colocado na cadeia.	66895
+You are crazy to lend money to him.	Você é louco de emprestar dinheiro para ele.	66897
+How did you come to know such a wonderful girl?	Como você veio a conhecer uma garota tão maravilhosa?	66900
+I had never seen such an exciting baseball game before.	Eu nunca tinha visto um jogo de basebol tão excitante.	66933
+I wish I hadn't spent so much money.	Queria não ter gastado tanto dinheiro.	66936
+I wish I had not spent so much money.	Queria não ter gastado tanto dinheiro.	66938
+She was the last person I had expected to see there.	Ela era a última pessoa que eu esperava encontrar lá.	66941
+It's the first time that anybody said something like that to me.	É a primeira vez que alguém me diz algo assim.	66943
+You've got to be crazy to do something like that.	Você tem que ser maluco para fazer alguma coisa assim.	66945
+Andersen was afraid of dogs, too.	Andersen tinha medo de cachorros também.	66953
+I was looking for Andy. Do you know where he is?	Estava procurando Andy. Você sabe onde ele está?	66954
+Andy is never late for a date.	Andy nunca chega atrasado a um encontro.	66955
+Andy must have practiced very hard.	Andy deve ter praticado muito.	66956
+You've got the wrong station.	Você está na estação errada.	66960
+What are you lining up for?	Esta fila é para quê?	66970
+Angola was once a Portuguese territory.	Angola já foi território português.	66973
+Nothing can be worse than that.	Nada pode ser pior que isso.	66991
+Can I see that one?	Posso ver aquele ali?	66995
+Do you have any allergies?	Você tem alguma alergia?	66996
+Those are our teachers' cars.	Aqueles são os carros dos nossos professores.	67000
+Those are my sister's books.	Esses são os livros da minha irmã.	67001
+What do you think of those Japanese writers?	O que você acha desses escritores japoneses?	67010
+Is that a picture of me?	Isso é uma foto minha?	67030
+That is a student whom my father teaches.	Aquele é um dos alunos do meu pai.	67031
+That is the picture that he painted.	Esse é o quadro que ele pintou.	67037
+That is the house where he lives.	Aquela é a casa onde ele vive.	67038
+That is not a horse, but a donkey.	Aquele não é um cavalo, é um burro.	67039
+Is that a cat or a dog?	Isso é um gato ou um cachorro?	67041
+One thing led to another.	Uma coisa levou à outra.	67050
+That is not my pen.	Essa não é a minha caneta.	67058
+That is the shop where I used to work.	Esta é a loja onde eu trabalhava.	67062
+That is the house where I was born.	Essa é a casa onde eu nasci.	67063
+That's the boy I saw yesterday.	Aquele é o menino que eu vi ontem.	67066
+That is the girl who waited on me in the shop yesterday.	Aquela é a moça que me atendeu na loja ontem.	67070
+That is an old camera.	Aquela é uma câmera velha.	67072
+Is that a cow or a buffalo?	Aquilo é uma vaca ou um búfalo?	67077
+That was a valuable experience.	Aquela foi uma experiência valorosa.	67078
+That is a leather belt.	Isso é um cinto de couro.	67079
+What does that sign say?	O que diz aquela placa?	67081
+What is the name of that river?	Como se chama aquele rio?	67083
+Is that the man whose wife was killed in the car accident?	É aquele o homem cuja esposa morreu no acidente de carro?	67087
+It is out of fashion.	Está fora de moda.	67089
+Is that a bus or a car?	Aquilo é um ônibus ou um carro?	67091
+That is not a tiger.	Aquilo não é um tigre.	67094
+It was such a wonderful movie that I saw it five times.	Foi um filme tão maravilhoso que eu o vi cinco vezes.	67096
+That is the boy who came here yesterday.	Este é o garoto que veio aqui ontem.	67101
+There is no more difficult task than that.	Não há tarefa mais difícil do que essa.	67108
+How many cars does Alex have?	Quantos carros tem Alex?	67111
+Alex seemed to learn nouns such as "paper," "key" and "cork," and color names such as "red," "green" and "yellow."	Alex parecia aprender substantivos tais como "papel", "chave" e "cortiça", e cores como "vermelho", "verde" e "amarelo".	67114
+Alex would correctly describe the object and color, even if he had never seen that object before.	Alex descreveria corretamente o objeto e a cor, mesmo se nunca tivesse visto esse objeto antes.	67116
+The worried housewife heard the telephone ring and quickly picked up the receiver.	A preocupada esposa ouviu o telefone tocar e, rapidamente, o atendeu.	67123
+That is our baseball field.	Esse é o nosso campo de beisebol.	67128
+That is the poet I met in Paris.	Aquele é o poeta que conheci em Paris.	67131
+Isn't that the Golden Gate Bridge?	Aquela não é a ponte Golden Gate?	67133
+I'm working for a trading firm.	Estou trabalhando para uma empresa comercial.	67141
+One day she met a wolf in the woods.	Um dia ela encontrou um lobo no bosque.	67150
+One day he set off on a long walk around the town.	Um dia ele foi numa longa caminhada pela vila.	67153
+One day I visited my aunt.	Um dia eu visitei minha tia.	67159
+One day I found a box there.	Um dia, encontrei uma caixa lá.	67172
+You are right to a certain extent.	Você está certo até certo ponto.	67181
+I agree with you to a certain extent.	Estou de acordo com você até um certo ponto.	67184
+One morning he saw a pretty girl.	Certa manhã ele viu uma linda garota.	67197
+Some people seemed to think the good times were going to last forever.	Algumas pessoas pareciam pensar que os bons tempos durariam para sempre.	67208
+What makes one person a genius and another person a fool?	O que faz de uma pessoa um gênio e de outra um tolo?	67210
+A man came to see me yesterday.	Um homem veio me ver ontem.	67215
+If a tree dies, plant another in its place.	Se uma árvore morrer, plante outra no seu lugar.	67229
+Certain poisons, properly used, are useful.	Alguns venenos, usados corretamente, são úteis.	67230
+What is right in one society can be wrong in another.	O que é certo em uma sociedade pode não ser em outra.	67240
+There lived a king in an old castle.	Lá vivia um rei num velho castelo.	67251
+A scholar made an excellent speech about human rights.	Um erudito fez um discurso excelente sobre direitos humanos.	67259
+Polite language, in a sense, spoils a casual atmosphere.	Uma linguagem polida, de certa forma, atrapalha uma atmosfera informal.	67270
+You have to be outside something, able to experience it from a distance, before it makes sense.	Você deve estar do lado de fora de algo, ser capaz de experimentar de uma certa distância, antes que isso faça sentido.	67283
+Write the alphabet in capitals.	Escreva o alfabeto em maiúsculas.	67288
+How many letters are there in the alphabet?	Quantas letras tem no alfabeto?	67289
+'A' comes before 'B' in the alphabet.	O "A" vem antes do "B" no alfabeto.	67291
+In the alphabet, B comes after A.	No alfabeto, o B vem depois do A.	67292
+Will you show me your photo album?	Você vai me mostrar seu álbum de fotos?	67293
+I'll have to find a part-time job.	Terei que encontrar um emprego de meio período.	67296
+The amount of time someone is willing to spend on something may communicate how important it is to him.	O quantidade de tempo que uma pessoa está disposta a gastar em algo pode indicar o quão importante isto é para ela.	67305
+Do you have anything non-alcoholic?	Você tem alguma bebida sem álcool?	67310
+He was under the influence of alcohol when he crashed his car.	Ele estava sob efeito de álcool quando bateu seu carro.	67313
+Does ALC's web site include an archive of English expressions?	O site da ALC inclui um arquivo de expressões em inglês?	67316
+Try to see things as they are.	Tente ver as coisas como elas são.	67319
+We often hear it said that ants are social animals.	Nós frequentemente ouvimos que as formigas são animais sociais.	67327
+I gave her all the money I had.	Eu lhe dei todo o dinheiro de que dispunha.	67335
+Alice, not knowing where to find the book, asked her mother where it was.	Como Alice não sabia onde encontrar o livro, perguntou para sua mãe onde ele estava.	67352
+Ants are swarming around the sugar.	As formigas estão fervilhando ao redor do açúcar.	67359
+You might at least say "thank you."	Você devia pelo menos dizer "obrigado".	67363
+I have more than enough time.	Eu tenho mais que tempo suficiente.	67374
+What is a cynic? A man who knows the price of everything, and the value of nothing.	O que é um cínico? Um homem que sabe o preço de tudo, e o valor de nada.	67380
+All things considered, he is a good teacher.	Considerando todas as coisas, ele é um bom professor.	67395
+Taking everything into consideration, the result is better than I expected.	Levando tudo em consideração, o resultado é melhor do que eu esperava.	67396
+The history of every country begins in the heart of a man or a woman.	A história de todo país começa no coração de um homem ou de uma mulher.	67400
+You must avail yourself of every opportunity.	Você deve se aproveitar de toda oportunidade.	67403
+There is a limit to everything.	Tudo tem limite.	67411
+The Arabic script was replaced by the Roman alphabet.	A escrita árabe foi substituída pelo alfabeto romano.	67421
+Arabic is written from right to left.	O árabe se escreve da direita para a esquerda.	67423
+They keep lambs for meat in Arabia.	Na Arábia, cria-se cordeiros pela carne.	67425
+The oak tree remained standing after the storm.	O carvalho permaneceu de pé após a tempestade.	67430
+The storm laid the village flat.	A tempestade destruiu a vila.	67431
+Oh, I'm sorry. I guess I have the wrong number.	Perdão. Devo ter ligado o número errado.	67432
+You should have telephoned in advance.	Você deveria ter telefonado com antecedência.	67433
+Let's get things ready beforehand.	Vamos preparar as coisas com antecedência.	67435
+I nearly made a mistake.	Eu quase cometi um erro.	67451
+The Americans are a democratic people.	Os Americanos são um povo democrático.	67464
+Americans have the right to bear arms.	Os americanos podem portar armas legalmente.	67465
+Americans eat a lot of meat.	Estado-unidenses comem um monte de carne.	67466
+Americans are very friendly people.	Os americanos são pessoas muito amigáveis.	67468
+Americans spend most of their lives working, being productive.	Americanos gastam grande parte de sua vida trabalhando, sendo produtivo.	67471
+He doesn't seem to be an American.	Ele não parece ser americana.	67487
+The first immigrants in American history came from England and the Netherlands.	Os primeiros imigrantes na história da América vieram da Inglaterra e dos Países Baixos.	67494
+The economic strength of the USA is not what it was.	O poder econômico dos EUA não é mais o que era.	67502
+There are fifty states in the United States.	Nos Estados Unidos há 50 estados.	67503
+The U.S. economy is the largest in the world.	A economia dos Estados Unidos é a maior do mundo.	67505
+I'm crazy about American football.	Sou maluco por futebol americano.	67513
+You can fly across America in about five hours.	Você pode atravessar os Estados Unidos de avião em cerca de cinco horas.	67517
+If you are to go to America, you had better learn English conversation.	Se você vai ir para a América, é melhor você aprender inglês.	67521
+Do you have any special reason why you want to go to America?	Você tem alguma razão especial para ir aos Estados Unidos?	67523
+America is second to none in natural resources.	A América é sem igual em recursos naturais.	67530
+America is ahead in space technology.	A tecnologia espacial dos EUA é muito mais avançada.	67539
+America is a country of immigrants.	Estados Unidos é um país de imigrantes.	67541
+The United States borders Canada.	Os Estados Unidos fazem fronteira com o Canadá.	67546
+What's your impression of the United States?	Qual é a sua impressão sobre os Estados Unidos?	67548
+America was discovered by Columbus in 1492.	A América foi descoberta em 1492 por Colombo.	67551
+In the justice system of the United States, there are twelve people on a jury.	No sistema penal dos Estados Unidos, há doze pessoas no júri.	67556
+Many criminals in America are addicted to drugs.	Muitos criminosos nos Estados Unidos são viciados em drogas.	67560
+I was getting used to living in America.	Eu estava me acostumando a viver nos Estados Unidos.	67569
+American politics are interesting to watch, especially during a presidential election.	A política norte-americana é interessante de ver, especialmente durante as eleições presidenciais.	67570
+American women didn't have the right to vote.	As mulheres americanas não tinham o direito de votar.	67574
+The American people elected Mr. Clinton President.	O povo americano elegeu o Sr. Clinton como presidente.	67581
+It was dark in the American house.	Estava escuro na casa americana.	67591
+You have to cross the ocean to get to America.	Você tem de cruzar o oceano para chegar à América.	67599
+Several races live together in America.	Nos Estados Unidos convivem várias raças.	67603
+I had many problems during my visit to the U.S., but overall, I had a good time.	Eu tive vários problemas durante a minha visita aos E.U.A. mas no geral, eu me diverti.	67606
+In the U.S., freedom of religion is one of the guarantees of the Bill of Rights.	Nos EUA, liberdade de religião é uma das garantias da Declaração de Direitos.	67619
+They speak English in America.	Nos Estados Unidos, fala-se inglês.	67625
+In the U.S., it is common for people to write a check instead of paying cash.	Nos EUA, é comum as pessoas passarem um cheque em vez de pagar em dinheiro.	67637
+In the U.S., you have the option, when you enter a restaurant, to sit in the smoking or non-smoking section.	Nos Estados Unidos você tem a opção, ao entrar num restaurante, de se sentar na seção de fumantes ou não-fumantes.	67640
+Every town in America has a library.	Cada cidade na América tem uma biblioteca.	67642
+Why do you think soccer isn't popular in the US?	Por que você acha que futebol não é popular nos Estados Unidos?	67644
+I will have graduated from college by the time you come back from America.	Eu terei me formado da faculdade quando você voltar dos Estados Unidos.	67647
+Don't depend on your parents too much.	Não dependa muito dos seus pais.	67653
+Don't take things so seriously.	Não leve as coisas tão a sério.	67658
+Don't blow your own horn too much.	Não se gabe muito.	67660
+I had not waited long before he came.	Eu não esperei muito antes de ele chegar.	67664
+Don't be too dependent on others.	Não seja muito dependente dos outros.	67672
+Don't be so serious. It's only a game.	Não leve tão a sério. É só um jogo.	67680
+I do not have much time.	Não tenho muito tempo.	67688
+Don't be discouraged because you are not very talented.	Não fique desanimado porque você não é muito talentoso.	67691
+There is not much hope.	Não há muita esperança.	67698
+It seems that you are not having a good time here.	Parece que você não está se divertindo aqui.	67700
+Such was her fright that she closed her eyes.	Tamanho era o medo dela que ela fechou os olhos.	67710
+Because I was too busy.	Porque estive muito ocupado.	67712
+You have changed so much that I can hardly recognize you.	Você mudou tanto que eu quase não o reconheço.	67727
+You shouldn't eat too much candy.	Você não devia comer tantos doces.	67735
+Don't spend too much money.	Não gaste muito dinheiro.	67737
+The Amazon is the second longest river in the world after the Nile.	O rio Amazonas é o segundo maior rio do mundo, depois do rio Nilo.	67739
+The Amazon is fed by a large number of tributaries.	O Amazonas é alimentado por um grande número de tributários.	67740
+The Apollo program greatly advanced our knowledge of space.	O programa Apollo avançou muito nosso conhecimento do espaço.	67743
+Africa is a continent; Greenland is not.	A África é um continente; a Groelândia não o é.	67748
+Africa is a continent, but Greenland is not.	A África é um continente, mas a Groenlândia não é.	67749
+Africa is exporting beef to Europe.	A África está exportando carne de boi para a Europa.	67750
+Have you ever been to Africa?	Você já esteve na África?	67754
+A lot of people in Africa go hungry.	Muitas pessoas na África estão famintas.	67759
+Many children die of starvation in Africa.	Muitas crianças morrem de fome na África.	67760
+I don't want to go out on a limb.	Eu não quero entrar em apuros.	67763
+It looks like a duck.	Parece um pato.	67766
+Can you tell a duck from a goose?	Você sabe diferenciar um pato de um ganso?	67768
+How much rent do you pay for the apartment?	Quanto você paga pelo aluguel do apartamento?	67772
+You must steer clear of that gang.	Você deve evitar aquela gangue.	67786
+Look at that shooting star.	Olha aquela estrela cadente.	67789
+What do those lights signify?	O que significam estas luzes?	67806
+She knows she's looking fine.	Ela sabe que está bonita.	67807
+That book is worth reading.	Vale a pena ler esse livro.	67818
+That book is a new book.	Este livro é um livro novo.	67821
+That room is not very large.	Esse quarto não é tão grande.	67832
+How many maids does that lady want to employ?	Quantas empregadas é que aquela senhora quer empregar?	67837
+They say there's a Picasso and three Renoirs in that museum.	Dizem que há um Picasso e três Renoirs neste museu.	67844
+That plane will take off at five.	Esse avião irá decolar às cinco.	67851
+If I had taken that plane, I would be dead now.	Se eu tivesse ido naquele avião, estaria morto agora.	67852
+That box is bigger than this one.	Aquela caixa é maior do que essa.	67859
+The white building was destroyed by the earthquake.	O prédio branco foi destruído pelo terremoto.	67862
+That cat has beautiful fur.	Esse gato tem um belo pelo.	67873
+She was the last person I expected to meet that day.	Ele era a última pessoa que eu esperava conhecer aquele dia.	67875
+That island has a tropical climate.	Aquela ilha tem um clima tropical.	67891
+How high is that tower?	Qual é a altura daquela torre?	67893
+That store sells a lot of imported goods.	Aquela loja vende muitos produtos importados.	67898
+They sell sugar and salt at that store.	Vendem-se açúcar e sal naquela loja.	67918
+That store no longer sells cosmetics.	Esta loja não vende mais cosméticos.	67924
+Do they sell notebooks at that store?	Eles vendem notebooks na loja?	67930
+Change buses at that stop.	Troque de ônibus naquela parada.	67935
+That brown one is mine, too.	Aquele marrom também é meu.	67945
+Keep watch on that man.	Fique de olho naquele homem.	67955
+He has an unpleasant look in his eyes.	Ele tem um olhar desagradável.	67960
+That man is an egotist through and through.	Aquele homem é um egoísta em todos os aspectos.	67962
+He often uses the slightest thing as a pretext for a fight with anybody.	Ele sempre usa as coisas mínimas como pretexto pra brigar com alguém.	67969
+It is no use asking a favor of that man.	Não adianta pedir favores àquele homem.	67983
+What he lacks is courage.	O que lhe falta é coragem.	67984
+We cannot tell how much that great statesman has done for his country.	Não temos como expressar o quanto aquele grande estadista fez por seu país.	67994
+The tycoon endowed each son with a million dollars.	Eu quero algo seco.	67995
+Look at that big hammer.	Olha aquele martelão.	68002
+He was living in England when the war broke out.	Ele estava morando na Inglaterra quando a guerra eclodiu.	68016
+His lectures are terribly boring.	Suas aulas são terrivelmente chatas.	68024
+Look at that mountain which is covered with snow.	Olhe essa montanha coberta pela neve.	68030
+That red tie doesn't go with your suit. Why don't you wear the green one?	Essa gravata vermelha não combina com o seu terno. Por que você não usa a verde?	68036
+That blue one is also mine.	Aquele azul também é meu.	68042
+That politician is full of ambition.	Aquele político é cheio de ambição.	68044
+He's going to have a heart attack.	Ele vai ter um ataque do coração.	68067
+He is an authority on physics.	Ele é perito em física.	68073
+It seems that he believes what he said is right.	Parece que ele acha que o que ele disse é certo.	68081
+That man is in love with my sister.	Aquele homem está apaixonado pela minha irmã.	68082
+He is a doctor and a university professor.	Ele é doutor e professor de uma universidade.	68097
+He must be Tom's brother.	Deve ser o irmão de Tom.	68103
+How long is he going to stay in Japan?	Por quanto tempo ele vai ficar no Japão?	68104
+His house is near the subway.	A casa dele fica perto do metrô.	68126
+Do you know if he has a girlfriend?	Você sabe se ele tem namorada?	68134
+I remember meeting that man at Cambridge before.	Eu me lembro de já ter encontrado aquele homem em Cambridge.	68136
+Don't get mixed up with those people.	Não se misture com esse povo.	68149
+I often go fishing with them.	Eu vou pescar com eles frequentemente.	68155
+I wonder who they are.	Eu me pergunto quem são eles.	68156
+They say that I'm an old woman.	Dizem que sou uma idosa.	68157
+Their baby is able to walk already.	O bebê deles já pode andar.	68161
+While they were away on holiday, their neighbours looked after the dog.	Enquanto eles estavam fora no feriado, seus vizinhos tomaram conta do cachorro.	68170
+I hope neither of them was injured in the crash.	Espero que nenhum deles tenha sido ferido no acidente.	68172
+I don't know who that man is.	Não sei quem é esse homem.	68173
+I don't know who the man is.	Eu não sei quem é o homem.	68174
+That's the woman who wants to see you.	É aquela mulher quem quer te ver.	68178
+How did you come to know that gentleman?	Como você veio a conhecer aquele cavalheiro?	68190
+That castle was built in ancient times.	Aquele castelo foi construído em tempos antigos.	68197
+That boy is his brother.	Aquele menino é irmão dele.	68199
+The boy tried moving the heavy sofa.	O menino tentou mover o sofá pesado.	68204
+That boy has black hair.	Esse menino tem cabelo preto.	68205
+That boy's name is Shintaro Wada.	O nome daquele garoto é Shintaro Wada.	68213
+That boy's hair is black.	O cabelo deste menino é preto.	68214
+That small star is brightest.	Aquela estrela pequena é a mais luminosa.	68228
+I wonder who that girl is.	Quem será essa menina?	68252
+Are you interested in that girl?	Você está interessado nessa garota?	68259
+You don't have to be very old to remember that event.	Você não precisa ser muito velho para se lembrar daquele acontecimento.	68263
+That kind of dress is now in fashion.	Esse tipo de vestido agora está na moda.	68267
+That car is too expensive for me to buy.	Esse carro é caro demais para mim.	68277
+That copy differs from the original.	Essa cópia está diferente do original.	68288
+That bicycle belongs to our school.	Essa bicicleta pertence à nossa escola.	68290
+I wish I had been kind to her then.	Queria ter sido gentil com ela agora.	68293
+I wish I had obeyed his directions.	Queria ter obedecido às suas instruções.	68294
+That clock is one minute fast.	Esse relógio está um minuto adiantado.	68299
+I wish I had been with you then.	Queria ter estado contigo naquele tempo.	68300
+Those children use bad words.	Essas crianças usam palavrões.	68321
+The job offer still stands.	A oferta de trabalho ainda está de pé.	68356
+You need good equipment to climb that mountain.	Você precisa de um bom equipamento para escalar aquela montanha.	68369
+Look at those black clouds.	Olhe essas nuvens escuras.	68380
+That black one is mine.	A preta é minha.	68383
+Look at those black clouds. It is going to rain.	Veja aquelas nuvens negras. Logo irá chover.	68384
+Is that black bag yours?	Essa bolsa preta é sua?	68385
+That country broke off diplomatic relations with the neighboring countries.	Este país rompeu as relações diplomáticas com os países vizinhos.	68389
+That fox must have killed the hen.	A raposa deve ter matado a galinha.	68404
+Don't let that dog come near me!	Não deixe esse cachorro chegar perto de mim!	68417
+How old that dog is!	Como aquele cachorro é velho!	68420
+That dog runs very fast.	Aquele cachorro corre bem rápido.	68421
+Is that dog male or female?	Esse cachorro é macho ou fêmea?	68424
+How old is that dog?	Quantos anos tem aquele cachorro?	68425
+Look at that building. Is it a temple?	Olha aquele prédio. É um templo?	68430
+That bridge is made of stone.	Aquela ponte é feita de pedra.	68449
+That bridge is very beautiful.	Essa ponte é muito bonita.	68450
+That bridge is anything but safe.	Aquela ponte é tudo menos segura.	68455
+That comedian is very funny.	Esse comediante é muito engraçado.	68471
+That nurse is very kind and polite.	Essa enfermeira é muito gentil e educada.	68475
+They teach Chinese at that school.	Ensina-se chinês naquela escola.	68488
+They adopted a new method of teaching English in that school.	Adotaram um novo método de ensinar inglês naquela escola.	68489
+Have a look at that picture.	Dê uma olhada nessa foto.	68497
+The company stopped losing money.	A companhia parou de perder dinheiro.	68506
+That company hires people without regard to race, religion, or nationality.	Essa empresa contrata pessoas sem distinção de raça, religião ou nacionalidade.	68510
+That song is very popular with young people.	Aquela música é muito popular entre os jovens.	68527
+I can't get that song out of my head.	Não consigo tirar essa música da cabeça.	68529
+Have you ever heard that song sung in French?	Você já ouviu esta canção cantada em francês?	68530
+I regret not having bought that house.	Eu me arrependo de não ter comprado essa casa.	68532
+That house belongs to him.	Aquela casa pertence a ele.	68535
+That house is very small.	Aquela casa é muito pequena.	68537
+That house belongs to me.	Aquela casa pertence a mim.	68539
+That house is much better than this.	Aquela casa é bem melhor do que esta.	68545
+Two families live in that house.	Duas famílias vivem naquela casa.	68550
+That music gets on his nerves.	Aquela música fica em seus nervos.	68554
+I've triumphed over that coward.	Triunfei sobre aquele medroso.	68558
+You should have seen the movie.	Você deveria ter visto o filme.	68565
+Seeing that movie is something like taking a trip to India.	Ver aquele filme é algo como viajar para a Índia.	68566
+They say that the movie is an interesting one.	Dizem que o filme é interessante.	68569
+That movie is worth seeing.	Aquele filme vale a pena ver.	68571
+That restaurant serves excellent food.	Aquele restaurante serve comida excelente.	68591
+The restaurant is always packed.	O restaurante sempre está cheio.	68594
+I'm staying at that hotel.	Eu estou hospedado naquele hotel.	68613
+That hotel serves very good food.	Esse hotel serve boa comida.	68614
+Don't sit on that bench.	Não sente naquele banco.	68619
+It is only a few months since that Frenchman came to Japan.	Aquele francês chegou ao Japão há apenas alguns meses.	68624
+Who is the woman dressed in pink?	Quem é aquela mulher vestida de rosa?	68628
+How many floors does that building have?	Quantos andares tem aquele edifício?	68629
+How high is that building?	Quão alto é aquele imóvel?	68630
+It's on the first floor of that building.	Fica no primeiro andar daquele edifício.	68635
+Those roses are very beautiful.	Essas rosas são muito bonitas.	68644
+That bus will take you to the zoo.	Aquele ônibus vai te deixar no zoológico.	68646
+I think that style of dress will return again next year.	Acho que esse estilo de vestido vai voltar novamente no ano que vem.	68653
+Let me have a look at that book of Tom's.	Deixe-me ver este livro que pertence a Tom.	68656
+Take the book that has been left on the table.	Pegue o livro que foi deixado sobre a mesa.	68672
+Have you finished knitting that sweater?	Você terminou de tricotar aquele suéter?	68681
+If you go to that supermarket, you can buy most things you use in your daily life.	Se você for a esse supermercado, poderá comprar a maioria das coisas que usa em seu dia a dia.	68682
+The show was very interesting. You should have seen it.	O show estava muito interessante. Vocês deveriam ter visto.	68685
+That is the girl whose father is a doctor.	Esta é a rapariga cujo pai é doutor.	68699
+May I eat that cake?	Posso comer aquele bolo?	68701
+Who is that pretty girl?	Quem é aquela menina bonita?	68706
+That guitar is so expensive that I can't buy it.	Aquele violão é tão caro que eu não posso comprá-lo.	68708
+That pretty girl is my sister.	Aquela garota bonita é minha irmã.	68714
+What did you do with that camera?	Que fizeste com essa câmara?	68716
+That toy is made of wood.	Aquele brinquedo é feito de madeira.	68727
+That naughty child needs a good beating.	Aquela criança travessa precisa de boas palmadas.	68737
+Go and beat up that bully.	Vai e dá uma surra nesse valentão.	68738
+You must talk to her in person.	Você deve falar com ela em pessoa.	68756
+You can take part in the meeting regardless of your age.	Você pode participar da reunião, seja qual for a sua idade.	68760
+How did you come to know each other?	Como vocês vieram a se conhecer?	68761
+Allow me to introduce my wife to you.	Permita-me te apresentar a minha esposa.	68765
+Never teach a child anything of which you are not yourself sure.	Nunca ensine a uma criança algo de que você não tenha certeza.	68773
+Nothing can bring you peace but yourself.	Nada pode trazê-lo paz além de você mesmo.	68781
+I love you with all my heart.	Te amo com todo meu coração.	68788
+It's my duty to help you.	É minha obrigação te ajudar.	68789
+I'm sorry, I can't help you.	Sinto muito em não poder ajudá-lo.	68790
+I will give you a ride in my car.	Eu vou te levar com o meu carro.	68793
+I never see you without thinking of Ken.	Eu nunca te vejo sem pensar no Ken.	68798
+You remind me of your father.	Você me lembra seu pai.	68802
+I was born to love you.	Eu nasci para te amar.	68812
+Can I call you Bob?	Posso te chamar de Bob?	68814
+I'd like to invite you to the party.	Gostaria de convidá-lo para a festa.	68815
+I'm thinking of taking you to see Mr Jenkins.	Estou pensando em te levar para ver o Sr. Jenkins.	68817
+I'm sorry I've kept you waiting so long.	Eu sinto muito ter feito você esperar por tanto tempo.	68822
+We are glad to have you in our class.	Estamos felizes em tê-lo na nossa classe.	68824
+You were talking in your sleep last night.	Você estava falando dormindo noite passada.	68828
+I wish you had been there.	Queria que você estivesse lá.	68830
+I wish you had come with us.	Queria que você tivesse vindo conosco.	68836
+Do you also like jazz?	Você também gosta de jazz?	68842
+Which period of history are you studying?	Que período da história você está estudando?	68851
+You will have to go to England next year.	Você terá de ir à Inglaterra no próximo ano.	68863
+Will you go to America next month?	Vais à América no mês que vem?	68869
+Can you walk with your eyes closed?	Você consegue caminhar com seus olhos fechados?	68891
+Please return the book by tomorrow.	Por favor, devolva o livro até amanhã.	68895
+You will be busy tomorrow.	Você estará ocupado amanhã.	68896
+Are you going to school tomorrow?	Você vai à escola amanhã?	68900
+Can you go to the beach tomorrow?	Você pode ir à praia amanhã?	68901
+You're not satisfied, are you?	Você não está satisfeito, não é?	68913
+You have only to practice every day.	Deve praticar todos os dias.	68914
+Do you run every day?	Você corre todo dia?	68918
+Do you go shopping every day?	Você vai fazer compras todos os dias?	68919
+You've never seen a genuine diamond.	Você nunca viu um diamante genuíno.	68929
+I wonder if you are truly happy.	Será que você é mesmo feliz?	68935
+You aren't busy, are you?	Você não está ocupado, está?	68947
+Do you go to school on foot?	Você vai a pé para a escola?	68952
+You don't have to study.	Você não precisa estudar.	68953
+Did you get over the cold?	Você se recuperou do resfriado?	68961
+What time do you usually leave home?	A que horas você geralmente sai de casa?	68965
+You are a beautiful butterfly.	Você é uma linda borboleta.	68974
+Have you ever traveled by air?	Você já viajou por transporte aéreo?	68975
+You are taller than she.	Você é maior do que ela.	68984
+What do you want to buy for her?	O que você quer comprar para ela?	68991
+Do you happen to know his name?	Por acaso você sabe o nome dele?	69013
+You should not laugh at his mistake.	Você não deve rir do erro dele.	69020
+Do you know his brother?	Você conhece o irmão dele?	69024
+All you had to do was to tell him the truth.	Tudo o que você tinha de fazer era dizer-lhe a verdade.	69028
+I wish you had not told him about the plan.	Queria que você não tivesse contado a ele sobre o plano.	69035
+Do you know where he lives?	Você sabe onde ele mora?	69044
+You know who he is.	Você sabe quem ele é.	69046
+Didn't you know that he passed away about two years ago?	Você não sabia que ele faleceu há cerca de dois anos atrás?	69047
+You are tall, but he is still taller.	Você é alto, mas ele ainda é mais alto.	69051
+You look young for your age.	Você parece jovem para a sua idade.	69053
+Have you ever been to Nikko?	Você já esteve em Nikko?	69059
+Do you have two books?	Você tem dois livros?	69061
+Have you ever been to Tokyo?	Você já esteve em Tóquio?	69073
+You have seen Tokyo Tower, haven't you?	Você já viu a Torre de Tóquio, não viu?	69076
+You don't have to get up early.	Você não tem que levantar cedo.	69089
+Do you know how old Miss Nakano is?	Você sabe a idade da senhorita Nakano?	69095
+You are equal to him in intelligence.	Você é igual a ele quanto à inteligência.	69100
+Who are you talking with?	Com quem o senhor está falando?	69105
+You are free to talk with anyone.	Você pode conversar com quem quiser.	69108
+You can swim very well.	Você nada muito bem.	69115
+You speak French very well. I wish I could speak it as well as you.	Você fala francês muito bem. Eu gostaria de poder falar bem como você.	69116
+I hear you're very rich.	Ouvi dizer que você é muito rico.	69118
+You must be more careful to avoid making a gross mistake.	Você deve ser mais cuidadoso para evitar cometer um erro grosseiro.	69124
+You must take care of yourself.	Você deve se cuidar.	69126
+You should make your attitude clear.	Seja claro nas suas atitudes.	69127
+Have you ever climbed Mt. Yari?	Você já escalou o Monte Yari?	69141
+You have to get up early.	Você tem de acordar cedo.	69143
+All you have to do is to do your best.	Tudo o que você tem que fazer é dar o melhor de si.	69145
+Did you ever travel abroad by ship?	Você já viajou para o exterior de navio?	69151
+Were you praised by the teacher?	Você foi elogiado pelo professor?	69153
+You were busy last week.	Você estava ocupado na semana passada.	69156
+Did you go to Ming's party last Saturday?	Você foi à festa de Ming no sábado passado?	69157
+Were you here last week?	Você esteve aqui na semana passada?	69158
+Have you been in Japan since last month?	Você está no Japão desde mês passado?	69159
+Were you in America last month?	Você esteve na América no mês passado?	69160
+You are not a student.	Você não é um estudante.	69165
+I have faith in your ability to do the right thing.	Tenho confiança no seu poder de fazer as coisas certas.	69171
+Are you interested in politics?	Você é interessado em política?	69172
+Are you good at mathematics?	Você é bom em matemática?	69177
+Can you cook a meal?	Você sabe fazer comida?	69197
+You must not eat too much.	Você não deve comer muito.	69199
+You swim well, don't you?	Você nada bem, não nada?	69203
+Do you play basketball well?	Você joga basquete bem?	69204
+Do you get along with your boss?	Você se relaciona bem com seu chefe?	69205
+You will be laughed at.	As pessoas rirão de você.	69206
+Do you have any money?	Você tem algum dinheiro?	69208
+Are you ten years old?	Você tem dez anos?	69226
+What do you have in your hand?	O que você tem na mão?	69234
+Do you have a car?	Você tem carro?	69236
+Have you ever eaten turkey?	Você já comeu peru?	69241
+You have a dictionary, don't you? Can I use it?	Você tem um dicionário, não é? Posso usá-lo?	69242
+You are free to go or stay.	Você é livre para ir ou ficar.	69244
+All you have to do is to clean your room.	Tudo o que você tem de fazer é limpar o seu quarto.	69255
+Did you talk about your hobby?	Você falou do seu passatempo?	69264
+You should not stick to your opinion.	Você não deve se aferrar à sua opinião.	69275
+Can you will yourself to fall asleep?	Você pode se forçar a dormir?	69278
+You must concentrate your attention on what you are doing.	Você deve concentrar sua atenção no que está fazendo.	69280
+Can you ride a bicycle?	Você sabe andar de bicicleta?	69284
+You should make good use of your time.	Você deveria fazer bom uso do seu tempo.	69287
+Will you go with us?	Você vai vir conosco?	69291
+I hope that you'll help me.	Espero que você me ajude.	69296
+I'm afraid you misunderstood me.	Acho que você me entendeu mal.	69297
+You are not as short as I.	Você não é tão baixo quanto eu.	69305
+Did you hear my son play the violin?	Você ouviu o meu filho tocar violino?	69310
+You must bear my advice in mind.	Você deve manter meu conselho em mente.	69311
+You are my pride and joy.	Você é o meu orgulho e a minha alegria.	69313
+You may use my typewriter.	Você pode usar minha máquina de escrever.	69323
+You remind me of a boy I used to know.	Você me lembra de um garoto que eu conhecia.	69330
+All you have to do is follow me.	Tudo que vocês têm de fazer é me seguir.	69337
+You may as well come with me.	Você também pode vir comigo.	69341
+You're the only person that I can trust.	Você é a única pessoa em quem posso confiar.	69348
+Do you know where I live?	Você sabe onde eu moro?	69349
+Do you believe that there is life after death?	Acreditas que há vida depois da morte?	69351
+Did you catch the first train?	Pegaste o primeiro trem?	69359
+You can use my desk if you want to.	Você pode usar minha escrivaninha, se quiser.	69360
+I believe you like your job.	Eu acredito que você gosta do seu trabalho.	69368
+Did you have a good sleep last night?	Você dormiu bem a noite passada?	69373
+Were you tired last night?	Você estava cansado na noite passada?	69374
+You should have seen that movie last night.	Você deveria ter visto o filme ontem à noite.	69376
+Did you drive her home last night?	Você a levou para na noite passada?	69377
+Did you enjoy yourself yesterday?	Você se divertiu ontem?	69380
+Did you play baseball yesterday?	Você jogou basebol ontem?	69381
+You were absent from school yesterday.	Você esteve ausente da escola ontem.	69388
+Did you go to school yesterday?	Você foi à escola ontem?	69389
+You were at home yesterday, weren't you?	Você estava em casa ontem, não estava?	69390
+Were you home last night?	Você estava em casa ontem à noite?	69392
+Did you watch TV yesterday?	Você assistiu televisão ontem?	69395
+What are you going to do tonight?	O que você vai fazer hoje à noite?	69405
+Where do you want to go this summer?	Para onde você quer ir nesse verão?	69410
+You don't have to work today.	Você não precisa trabalhar hoje.	69411
+Have you read today's paper?	Você leu o jornal de hoje?	69412
+Would you like to go to the zoo this afternoon?	Você gostaria de ir ao zoológico esta tarde?	69413
+What must you do now?	O que você tem que fazer agora?	69420
+Have you ever seen a whale?	Você já viu uma baleia?	69421
+Have you ever seen her?	Você já a viu?	69424
+Have you ever seen Tokyo Tower?	Você já viu a Torre de Tóquio?	69426
+Have you ever been to Kobe?	Você já esteve em Kobe?	69427
+Have you ever visited Kyoto?	Você já visitou Quioto?	69428
+Have you ever visited a foreign country?	Você já visitou um país estrangeiro?	69429
+Have you ever climbed Mt. Aso?	Você já escalou o monte Aso?	69430
+Do you like black cats?	Você gosta de gatos pretos?	69436
+He said that you had better go.	Ele disse que era melhor você ir embora.	69442
+Would you like to go?	Você gostaria de ir?	69445
+He said that you ought to go.	Ele disse que você deveria ir.	69446
+You can take whatever you like.	Você pode pegar o que quer que você goste.	69449
+You must do as you are told.	Você deve fazer o que te mandam.	69454
+I think you've gone too far.	Eu acho que você foi longe demais.	69455
+You must never resort to violence.	Jamais deves recorrer à violência.	69472
+Do you know how to cook fish?	Você sabe cozinhar peixe?	69489
+Where did you spend your holidays?	Onde passou suas férias?	69499
+Where will you go for the vacation?	Onde você irá nas suas férias?	69501
+You have a good memory.	Você tem boa memória.	69506
+You will drive me mad.	Você vai me deixar louco.	69507
+You need not run the risk.	Você precisa correr o risco.	69510
+You will soon get well.	Você ficará bom logo.	69518
+You play a musical instrument, don't you?	Você toca um instrumento musical, não é?	69519
+Do you go to school on foot or by bicycle?	Você vai para a escola a pé ou de bicicleta?	69525
+You go to school, don't you?	Você vai para escola, não é?	69527
+Have you ever been to a foreign country?	Você já esteve num país estrangeiro?	69531
+You are a very good artist.	Você é um artista muito bom.	69535
+Are you content with your position in the company?	Você está satisfeito com sua posição na empresa?	69537
+Are you interested in flowers?	Você está interessado em flores?	69540
+You don't have to stay home.	Vocês não precisam ficar em casa.	69555
+How many pencils do you have?	Quantos lápis você tem?	69560
+How many siblings do you have?	Quantos irmãos você tem?	69564
+She asked me how old I was.	Perguntou-me minha idade.	69579
+Why are you busy today?	Por que estás ocupado hoje?	69583
+How often did you visit Kyoto?	Com que frequência você visitou Quioto?	69586
+What are you gazing at?	O que você está olhando?	69594
+What are you trying to do?	Você que está tentando fazer?	69595
+What would you like to do?	O que você gostaria de fazer?	69596
+Do you have anything to read?	Você tem algo para ler?	69614
+You seem to have thought of something else.	Você parece ter pensado em algo diferente.	69617
+Do you want anything to eat?	Você quer alguma coisa para comer?	69619
+Do you believe in any religion?	Você acredita em alguma religião?	69620
+How many languages do you speak?	Quantos idiomas você fala?	69622
+Can you think of anything else?	Você consegue pensar em outra coisa?	69626
+Do you have anything to wear to the dance?	Você tem algo para vestir para a dança?	69627
+You have a genius for music.	Você é um gênio para música.	69628
+Are you interested in music?	Você tem interesse por música?	69629
+You should be more careful at a crosswalk.	Você deveria ter mais cuidado ao cruzar a faixa para pedestres.	69634
+Have you ever subscribed to any English language newspaper?	Você já assinou algum jornal de língua inglesa?	69639
+You have to speak English.	Você tem que falar em inglês.	69640
+Can you translate English into Japanese?	Você sabe traduzir do Inglês para o Japonês?	69644
+Have you finished your English homework yet?	Você já terminou o dever de inglês?	69649
+Can you write a letter in English?	Você pode escrever uma carta em inglês?	69655
+Can you communicate in English what you want to say?	Você pode comunicar em inglês o que você quer dizer?	69658
+You had better learn either English or French.	É melhor você aprender inglês ou francês.	69665
+Are you able to swim?	Você sabe nadar?	69668
+Do you know how to swim?	Você sabe nadar?	69669
+Do you know her at all?	Você a conhece mesmo?	69678
+How many times a week do you go shopping at a supermarket?	Quantas vezes por semana você vai fazer compras no supermercado?	69688
+You should follow your doctor's advice.	Você deve seguir o conselho do seu médico.	69690
+You are not a doctor.	Você não é médico.	69692
+You will see the difference.	Você verá a diferença.	69695
+You referred to my father.	Você se referiu ao meu pai.	69701
+Have you been to London?	Você esteve em Londres?	69703
+Do you know if Lucy can speak Japanese?	Você sabe se a Lúcia sabe falar japonês?	69706
+Do you like apples or oranges?	Você gosta de maçãs ou de laranjas?	69708
+You've never been to Europe, have you?	Você nunca esteve na Europa, não é?	69713
+Did you get good marks?	Você conseguiu notas boas?	69714
+You've got a great sense of humor.	Você tem um bom senso de humor.	69716
+You must study grammar more.	Você precisa estudar mais gramática.	69721
+You need to be more careful.	Você precisa ser mais cuidadoso.	69723
+You must do it much more carefully.	Você deve fazê-lo com muito mais cuidado.	69724
+You should study English harder.	Você devia estudar inglês com mais afinco.	69725
+I took it for granted that you were on our side.	Eu tinha certeza de que você estava do nosso lado.	69730
+I took it for granted that you would join us.	Eu tinha certeza de que você se uniria a nós.	69731
+I take for granted that you will be coming to the meeting.	Estou certo de que você virá à reunião.	69732
+I took it for granted that you would attend the meeting.	Estou certo de que você participará da reunião.	69733
+He as well as you is tired of this work.	Assim como você, ele está cansado deste trabalho.	69734
+Have you finished breakfast yet?	Você ainda não terminou o café da manhã?	69735
+Have you finished your lunch yet?	Você já terminou de almoçar?	69736
+You are no longer a baby.	Você não é mais nenhum bebê.	69737
+Have you finished the suggested reading?	Você já terminou a leitura recomendada?	69738
+Have you washed the car yet?	Você já lavou o carro?	69743
+Have you finished cleaning your room yet?	Você já terminou de limpar seu quarto?	69744
+You are not a child anymore.	Você não é mais uma criança.	69745
+Have you heard the news yet?	Você já ouviu as notícias?	69752
+You are by far the best swimmer of us all.	Você é, de longe, o melhor nadador entre nós.	69756
+You look as if you had seen a ghost.	Você parece ter visto um fantasma.	69758
+Did you really expect him to tell you the truth?	Você estava mesmo esperando que ele te contasse a verdade?	69764
+All you have to do is press the button.	Tudo que você tem que fazer é apertar o botão.	69766
+What do you have in your pocket?	O que você tem no seu bolso?	69768
+What did you say to Paula?	O que você falou para Paula?	69769
+Do you have a lot of pens?	Você tem muitas canetas?	69772
+You are very attractive in blue.	Você fica muito bem de azul.	69775
+Have you ever been to France?	Você já esteve na França?	69779
+Do you usually have tea for breakfast?	Você costuma tomar chá no café da manhã?	69781
+You should not go alone.	Você não deve ir sozinho.	69783
+Have you ever seen the picture painted by Picasso?	Você já viu a figura pintada por Picasso?	69784
+I hear that you play the piano.	Ouvi dizer que você toca piano.	69786
+What do you have in your bag?	O que tens na tua mala?	69790
+You must show your passport.	Você deve mostrar o passaporte.	69791
+Do you go to school by bus?	Você vai para a escola de ônibus?	69793
+Do you have a violin?	Você tem um violino?	69795
+Can you play the violin?	Você sabe tocar violino?	69796
+Do you know Noah's ark?	O senhor conhece a arca de Noé?	69799
+How long have you played soccer?	Faz quanto tempo que você joga futebol?	69819
+What train you are going to take?	Qual trem você vai pegar?	69823
+Which season do you like the best?	De qual estação do ano você gosta mais?	69826
+What subject do you like best?	De que matéria você gosta mais?	69827
+How did you solve the problem?	Como você resolveu o problema?	69830
+How long will you stay in Hakone?	Por quanto tempo você vai ficar em Hakone?	69835
+How long did you wait?	Quanto tempo você esperou?	69838
+Which CD do you want to listen to?	Qual CD você quer escutar?	69842
+Which box do you like better?	De qual caixa você gosta mais?	69849
+Which way did you choose?	Qual caminho você escolheu?	69850
+You can go wherever you want.	Você pode ir aonde quiser.	69857
+Where did you see Nancy?	Onde você viu Nancy?	69858
+Where do you play tennis?	Onde você joga tênis?	69860
+Where did you see the woman?	Onde você viu a mulher?	69862
+How do you come to school?	Como você vem para a escola?	69868
+How did you come by the money?	Como você arranjou esse dinheiro?	69869
+How did you come by these rare books?	Como você chegou a estes livros raros?	69870
+How did you pay for this computer?	Como você pagou por este computador?	69871
+Did you watch the soccer game on television?	Você assistiu a partida na televisão?	69883
+I hear that you are a good tennis player.	Ouvi dizer que você é um bom tenista.	69886
+You have come at an opportune time.	Você chegou no momento oportuno.	69888
+Do you know how to play chess?	Você sabe jogar xadrez?	69889
+You can dance, can't you?	Você sabe dançar, não sabe?	69890
+You had better stop smoking.	É melhor que você pare de fumar.	69896
+You don't smoke, do you?	Você não fuma, fuma?	69897
+How did you come by such a big sum of money?	Como você conseguiu ganhar tanto dinheiro?	69907
+You don't have to get up so early.	Você não tem de acordar tão cedo.	69910
+You should have kept it secret.	Você deveria ter mantido isto em segredo.	69916
+Did you make it for yourself?	Fizeste-o só?	69917
+Can you pick it up?	Você pode pegá-lo?	69923
+You have only to ask for it.	Você só tem que pedir.	69927
+And you are going to raise it in three days?	E você vai erguê-lo em 3 dias?	69930
+You may choose any of them.	Você pode escolher qualquer um.	69932
+Do you know what it is?	Sabe o que é?	69933
+Do you have that bottle?	Você está com aquela garrafa?	69944
+Can you open the window?	Pode abrir a janela?	69952
+You may open the window.	Você pode abrir a janela.	69953
+Are you in agreement with the new law?	Você está de acordo à nova lei?	69955
+You need to answer the question.	Você precisa responder à pergunta.	69962
+You had better make use of this opportunity.	É melhor você aproveitar esta oportunidade.	69983
+You should have seen the picture.	Vocês deveriam ter visto a figura.	69984
+You have only to push the button.	Você só tem que apertar o botão.	69990
+Were you able to pass the test?	Você conseguiu passar no teste?	69993
+You don't have to go there.	Você não tem que ir lá.	70003
+It is necessary for you to go there.	É necessário que você vá lá.	70004
+Did you see her there?	Tu a viste lá?	70008
+You did not say so.	Você não disse isso.	70009
+You would be saved a great deal of trouble.	Você teria evitado muitos problemas.	70011
+You are a nice boy.	Você é um menino gentil.	70013
+You must go at once.	Você precisa ir de vez.	70034
+You will be able to speak English soon.	Logo você vai ser capaz de falar inglês.	70035
+How long have you known Judy?	Há quanto tempo você conhece Judy?	70044
+You are wearing your shirt inside out.	Você está com a camisa do avesso.	70045
+Do you like San Francisco?	Você gosta de São Francisco?	70049
+Are you familiar with the rules of soccer?	Você está familiarizado com as regras do futebol?	70051
+You must make your parents happy.	Você deve fazer seus pais felizes.	70052
+Do you know what this is?	Você sabe o que é isto?	70064
+You don't play golf, do you?	Você não joga golfe, joga?	70065
+If you take this medicine, you'll feel better.	Se tomar este remédio, você se sentirá melhor.	70066
+Did you write this fairy tale by yourself?	Você escreveu este conto de fadas sozinho?	70071
+You don't have to answer this question.	Você não tem que responder a esta pergunta.	70082
+Have you ever heard this opera sung in Italian?	Você já ouviu esta ópera cantada em italiano?	70105
+Are you a teacher here or a student?	Você é professor aqui ou aluno?	70109
+You may as well wait here.	Você pode também esperar aqui.	70117
+What did you do yesterday?	O que você fez ontem?	70131
+Have you ever learned how to play the guitar?	Você já aprendeu tocar violão?	70133
+You do your best to put such thoughts out of his head.	Você faz o seu melhor para tirar tais pensamentos da cabeça dele.	70136
+What did you do with your camera?	O que você fez com sua câmera?	70139
+Did you call your friend in Canada?	Chamaste a tua amiga do Canadá?	70141
+You take after your mother. You remind me of her.	Você puxou a sua mãe. Você me lembra dela.	70143
+Do you remember your father's birthday?	Você se lembra da data de nascimento do seu pai?	70148
+Do you think he is dead?	Você pensa que ele está morto?	70155
+What do you do in your spare time?	O que você faz durante o seu tempo livre?	70157
+You must write your name in ink.	Você tem de escrever seu nome à caneta.	70167
+When will you come back to school?	Quando vai voltar para a escola?	70186
+When did you get home?	Quando você voltou para casa?	70187
+You are always complaining about your husband.	Você está sempre reclamando do seu marido.	70190
+You should always tell the truth.	Deve-se sempre dizer a verdade.	70195
+You don't have to be perfect all the time.	Você não precisa ser perfeito o tempo todo.	70197
+When do you practice the piano?	Quando você pratica piano?	70199
+How long have you been busy?	Por quanto tempo você esteve ocupado?	70210
+Do you have any apples?	Você tem maçãs?	70219
+Do you have a part-time job?	Você tem um emprego de meio período?	70222
+Are you American or French?	Você é americano ou francês?	70224
+You are all too quick.	Vocês são todos rápidos demais.	70232
+Do you think that dress suits her?	Você acha que aquele vestido cabe nela?	70236
+Do you know that crying boy?	Você conhece aquele menino que está chorando?	70240
+Do you believe in UFOs?	Acredita em OVNIs?	70253
+Have you ever returned home before seven?	Você já voltou para casa antes das sete?	70257
+You have never been to Okinawa, have you?	Tu nunca foste a Okinawa, pois não?	70265
+Have you known her since 1990?	Você a conhece desde 1990?	70267
+Were you home at ten?	Você estava em casa às dez?	70270
+Are you a student of a private high school?	Você é estudante de uma escola privada?	70288
+Did you use my camera?	Você usou a minha câmera?	70290
+Did you carry out your plan?	Você efetivou seu plano?	70295
+What time do you go home?	A que horas você vai para casa?	70296
+Do you use a word processor?	Você usa um editor de textos?	70299
+You shall see greater things than that.	Verás coisas maiores do que isso.	70306
+Have you ever heard her sing on the stage?	Você já a ouviu cantar no palco?	70309
+Did you read that thick book?	Você leu aquele livro grosso?	70313
+Tell me your story. I am all ears.	Me conte sua história. Sou todo ouvidos.	70319
+I'm sorry I opened your mail by mistake.	Desculpe-me por ter aberto a sua correspondência por engano.	70341
+Say hello to your friends.	Diga oi para as suas amigas.	70346
+Please write down your name.	Por favor, escreva seu nome.	70355
+Tell me what your name is.	Diga-me o seu nome.	70356
+How do you pronounce your name?	Como se pronuncia o seu nome?	70360
+May I ask you some questions about your name?	Eu posso te fazer algumas perguntas sobre o seu nome?	70364
+Write your name and address.	Escreva seu nome completo e endereço.	70366
+How do you spell your family name?	Como se soletra o seu sobrenome?	70371
+Your dreams have come true.	Seus sonhos tornaram-se realidade.	70375
+May all your dreams come true!	Que todos os seus sonhos se realizem!	70376
+Your sister can not speak English.	Sua irmã não fala Inglês.	70380
+Is your sister swimming in the river?	Sua irmã está nadando no rio?	70381
+I'd like to see your sister.	Gostaria de ver sua irmã.	70382
+Listen to me carefully with your book closed.	Ouça-me cuidadosamente com seu livro fechado.	70385
+Please lend me your book.	Por favor, empreste-me seu livro.	70388
+When is your book coming out?	Quando o seu livro será lançado?	70391
+What is your mother tongue?	Qual é a sua língua nativa?	70402
+Please forgive me for not answering your letter.	Por favor me perdoe por não ter respondido à sua carta.	70404
+Did you clean your room?	Você arrumou seu quarto?	70407
+Are there two windows in your room?	O teu quarto tem duas janelas?	70410
+I perceive by your face that you have good news.	Pela tua cara, parece-me que tens boas notícias.	70415
+You are correct in your judgement.	Você está certo em seu julgamento.	70421
+Your answer doesn't make sense.	A sua resposta não tem nenhum sentido.	70437
+Your suggestion seems irrelevant to our discussion here.	Tua sugestão parece irrelevante à nossa discussão.	70453
+What are your strong points?	Quais são os teus pontos fortes?	70461
+I wish I had listened to your advice.	Queria ter ouvido seu conselho.	70464
+I bought a pen for your birthday present.	Comprei uma caneta de presente para o seu aniversário.	70475
+Don't forget to give my best regards to your lovely wife.	Não esqueça de dar minhas saudações para a sua adorável esposa.	70488
+Please show me your stamp album.	Por favor, mostre-me seu álbum de selos.	70494
+Don't leave your baby crying.	Não abandone seu bebê quando ele chora.	70495
+I am happy to hear your voice.	Estou feliz de ouvir a sua voz.	70500
+I would like to hear your voice, too.	Eu também gostaria de ouvir a sua voz.	70501
+How tall are you, and how much do you weigh?	Qual é a sua altura e quanto você pesa?	70523
+I'll give you our answer after we go into your proposal in greater detail.	Direi a você nossa resposta depois que tivermos analisado mais detalhadamente sua proposta.	70534
+I just adore your new hat.	Eu simplesmente adoro o teu novo chapéu.	70541
+Your train leaves from Platform 10.	Seu trem parte da plataforma 10.	70550
+How old is your elder son?	Quantos anos tem seu filho mais velho?	70554
+Your job hangs by a thread.	O seu trabalho está pendurado por um fio.	70575
+May I take a picture of you?	Posso tirar uma foto sua?	70597
+Can I keep one of your pictures?	Posso ficar com uma das suas fotos?	70599
+Your question is hard to answer.	Sua pergunta não é fácil de responder.	70601
+Will you lend your dictionary to me?	Você me empresta o seu dicionário?	70606
+Can I use your dictionary?	Posso usar o seu dicionário?	70607
+Your bicycle is better than mine.	A sua bicicleta é melhor que a minha.	70611
+Your watch is on the desk.	Seu relógio está na mesa.	70616
+Does your watch keep good time?	Seu relógio está certo?	70620
+Your sister is a good pianist, isn't she?	A sua irmã é uma boa pianista, não é?	70628
+May I accompany you on your walk?	Posso acompanhá-lo em sua caminhada?	70642
+Can I borrow your umbrella?	Posso pegar o seu guarda-chuva emprestado?	70644
+We are counting on you for financial help.	Contamos com vocês por ajuda financeira.	70652
+Do you eat seaweed in your country?	Comem-se algas no seu país?	70660
+Do people drink tea in your country?	As pessoas bebem chá no teu país?	70662
+We ask you to account for your conduct.	Nós pedimos a você que se responsabilize pelos seus atos.	70665
+I will follow you wherever you go.	Eu irei te seguir aonde quer que você vá.	70666
+Your conduct gave rise to another problem.	Sua conduta originou outro problema.	70667
+Your ideas are all out of date.	Suas ideias são todas antiquadas.	70673
+You may choose any book you like.	Você pode escolher o livro que quiser.	70676
+Who is your favorite composer?	Quem é seu compositor favorito?	70680
+Who is your favorite author?	Quem é o seu autor favorito?	70681
+We are grateful to you for your help.	Somos gratos a você por sua ajuda.	70687
+Please close the door behind you.	Por favor, feche a porta atrás de você.	70688
+Don't you think you're putting the cart before the horse?	Você não acha que está colocando a carroça na frente dos bois?	70692
+Granting that you are right, we still can't approve of your plan.	Admitindo que você está certo, nós ainda não podemos aprovar seu plano.	70704
+You may be right about that.	Você pode estar certo sobre isso.	70706
+We will check to see if what you have said is really the truth.	Verificaremos se o que você disse é realmente a verdade.	70711
+Your dog is big and mine is small.	O teu cão é grande e o meu é pequeno.	70725
+Your dog always barks at me.	Seu cachorro sempre late para mim.	70727
+Even your faults do not lessen my respect for you, and in friendship this is what counts.	Mesmo seus defeitos não diminuem o meu respeito por você. E na amizade é isso que conta.	70733
+Your plan must fit in with mine.	O teu plano deve se encaixar no meu.	70737
+Your plan is a good one, but mine is a better one.	Teu plano é bom, mas meu plano é melhor.	70739
+Your prayer will be answered.	A tua oração será respondida.	70762
+I know exactly how you feel.	Eu entendo perfeitamente como se sente.	70763
+Could I use your desk?	Posso usar a sua carteira?	70764
+Attach a recent photograph to your application form.	Prenda uma foto recente ao seu requerimento.	70766
+Is your school far from here?	Sua escola fica longe daqui?	70776
+How many students are there in your school?	Quantos estudantes tem na sua escola?	70777
+Is Japanese taught in your school now?	Ensinam japonês na sua escola agora?	70780
+Your answer is anything but satisfactory to us.	A tua resposta é qualquer coisa, menos satisfatória a nós.	70782
+It's your turn to sing.	É sua vez de cantar.	70788
+Zeal for your house will consume me.	O zelo pela sua casa vai consumir-me.	70794
+What do you call your father?	Do que você chama o seu pai?	70800
+Could I use your pencil?	Posso usar seu lápis?	70807
+I'm very grateful for your help.	Eu sou muito grato por sua ajuda.	70810
+Without your support, we probably won't be able to put this plan into practice.	Sem o seu auxílio, nós provavelmente não poderemos colocar este plano em prática.	70815
+Your English leaves much to be desired.	O seu inglês deixa muito a desejar.	70824
+How does your opinion differ from his?	Em que a sua opinião difere da dele?	70834
+Your opinion seems to be out of date.	Sua opinião parece ser antiquada.	70835
+I would like to use your word processor.	Gostaria de usar seu processador de texto.	70845
+I want to be a good player like you.	Eu quero ser um bom jogador como você.	70849
+I wish I could speak English like you.	Eu gostaria de saber falar Inglês como você.	70850
+I wish I had a friend like you.	Queria ter um amigo como você.	70851
+Please allow me to carry your bag.	Por favor, deixe-me carregar a sua mala.	70866
+Have your roses come out yet?	Suas rosas já saíram?	70871
+I will find you your lost ring.	Vou encontrar seu anel perdido.	70876
+Shall I get some for you?	Pego um pouco para você?	70883
+Choose a dress you like.	Escolha um vestido de que goste.	70890
+Place your skis in an inverted V.	Posicione seus esquis num V invertido.	70891
+Your skirt is out of fashion.	A sua saia está fora de moda.	70892
+I hope that your parents will allow us to marry.	Espero que os seus pais permitam que nos casemos.	70899
+Your kindness really touches me.	Sua gentileza realmente me comove.	70904
+We'll never forget your kindness.	Nunca esqueceremos sua gentileza.	70907
+How are your studies going?	Como vão os seus estudos?	70917
+What should I call you?	Como eu deveria te chamar?	70924
+I hope and I know you did great!	Eu espero e sei que você foi excelente!	70929
+How many boys are there in your class?	Há quantos garotos na sua turma?	70931
+I am afraid I can't help you.	Lamento não poder ajudá-lo.	70938
+I'll be very happy if I can serve you.	Ficarei muito feliz se puder servi-lo.	70939
+Can your mother drive a car?	A sua mãe sabe dirigir?	70944
+Your mother is trying to break up our marriage.	Sua mãe está tentando acabar com nosso casamento.	70945
+Is your mother at home now?	A sua mãe está em casa agora?	70948
+Are you proud of your father?	Você está orgulhoso de seu pai?	70955
+Is your father a teacher?	O seu pai é professor?	70958
+How old is your father?	Quantos anos o seu pai tem?	70960
+Do you know where your father went?	Você sabe aonde o seu pai foi?	70969
+Your sister has a sense of beauty.	Sua irmã tem senso de beleza.	70973
+Your sister cannot swim well, can she?	A sua irmã não sabe nadar bem, sabe?	70974
+After what you have said, I shall be careful.	Depois do que disseste, hei de ser cuidadoso.	70977
+Deposit your money in the bank.	Deposite o seu dinheiro no banco.	70981
+What's your favorite television program?	Qual é o teu programa de televisão favorito?	70982
+You make life worth living.	Você torna a vida digna de ser vivida.	70984
+Your grandmother is a charming lady.	Sua avó é uma senhora encantadora.	70986
+I will do as you say.	Farei como dizes.	70990
+How old is your uncle?	Quantos anos tem seu tio?	70997
+How old is your grandfather?	Quantos anos tem seu avô?	71000
+It's just like you say.	É exatamente como você diz.	71010
+You're right in a sense.	Em certo sentido, você tem razão.	71012
+Let me give you an example.	Deixe eu te dar um exemplo.	71020
+Let me introduce my mother to you.	Deixe-me apresentar-lhe minha mãe.	71029
+Many people would agree with you.	Muitas pessoas concordariam com você.	71035
+I wish I had asked you for advice.	Queria ter pedido seu conselho.	71039
+May I ask you a question?	Posso lhe fazer uma pergunta?	71054
+I'll tell you about my father.	Vou lhe falar sobre o meu pai.	71055
+I will tell you the history of my life.	Vou te contar a história da minha vida.	71056
+I will show you my new car.	Vou te mostrar meu carro novo.	71057
+I am sending you a picture of my family.	Vou te enviar uma fotografia da minha família.	71058
+I want you to stay with me.	Quero que fiques comigo.	71059
+I would like you to go home with me.	Eu gostaria que fosses para casa comigo.	71060
+We would like you to join our company.	Nós gostaríamos que tu te juntasses à nossa empresa.	71061
+We do not insist that you do things our way.	Nós não insistimos que tu faças as coisas à nossa maneira.	71062
+I am pleased to see you again.	Estou contente por te ver de novo.	71063
+I will show you how to go to the park.	Vou mostrar-te como se vai para o parque.	71066
+I was scared that you might leave me.	Eu estava com medo que me fosses deixar.	71069
+I have no intention of telling you the result.	Não tenho intenção de te dizer o resultado.	71070
+There is an urgent message for you.	Há uma mensagem urgente para ti.	71071
+I don't have the authority to give you the green light.	Não tenho a autoridade para te dar luz verde.	71072
+I have urgent business with you.	Eu tenho um negócio urgente para tratar com você.	71073
+He won't do you any harm.	Ele não te vai fazer qualquer mal.	71074
+I'd like for you to go.	Gostaria que fosses embora.	71076
+I never see you without thinking of my father.	Nunca te vejo sem pensar no meu pai.	71078
+It was very nice seeing you again.	Foi muito bom te ver de novo.	71080
+Every time I see you, I think of your father.	Cada vez que te vejo, penso no teu pai.	71083
+Whenever I see you, I feel happy.	Sempre que te vejo, sinto-me feliz.	71085
+I never see you without thinking of my mother.	Nunca te vejo sem pensar na minha mãe.	71086
+A Mr Ono called to see you.	Um tal Sr. Ono ligou para te ver.	71087
+There is a man at the door who wants to see you.	Está um homem à porta que te quer ver.	71088
+There's an American girl who wants to see you.	Está ali uma rapariga americana que te quer ver.	71089
+There is a gentleman to see you.	Está ali um senhor para te ver.	71090
+A man who wanted to see you came while you were out.	Um homem que te queria ver veio enquanto estavas fora.	71091
+There's somebody who wants to meet you.	Está ali uma pessoa que te quer ver.	71092
+I will show you some pictures.	Vou lhe mostrar algumas fotos.	71094
+Shall I give you something to read?	Quer que lhe dê alguma coisa para ler?	71095
+Let me get you something to drink.	Deixa-me ir buscar qualquer coisa para beberes.	71096
+I keep nothing from you.	Eu não retenho nada teu.	71098
+I'd like to give you a piece of advice.	Gostava de te dar um conselho.	71099
+I have no secrets from you.	Eu não tenho segredos contigo.	71100
+I fancy we've met before.	Eu acho que já nos vimos antes.	71102
+I have good news for you.	Tenho boas notícias para ti.	71103
+What takes you only three days, takes me as many weeks.	O que apenas te leva três dias a fazer, leva-me várias semanas.	71110
+I hope you won't mind if I give you some advice.	Espero que não te importes que eu te dê alguns conselhos.	71111
+You'll be told in advance.	Você será avisado com antecedência.	71119

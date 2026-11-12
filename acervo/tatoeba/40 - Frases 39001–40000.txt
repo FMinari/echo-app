@@ -1,0 +1,1000 @@
+Do you believe that it is easy?	Você acha que é fácil?	1020272
+No, I can't speak English.	Não, eu não falo inglês.	1020291
+I called the police as soon as I saw his dead body on the floor.	Eu chamei a polícia assim que vi seu cadáver no chão.	1020346
+My best friend is in Rome now.	Agora meu melhor amigo está em Roma.	1020463
+You can see it with the naked eye.	Vocês podem vê-lo a olho nu.	1020525
+Mommy, if I don't like the food, do I have to eat it?	Mãe, se eu não gostar da comida, preciso comê-la?	1020545
+It's a signal of danger.	É um sinal de perigo.	1020613
+Many Argentinians prefer to use a car rather than public transportation.	Muitos argentinos preferem usar um carro e não o transporte público.	1020708
+The Internet is serious business.	A Internet é coisa séria.	1020766
+I'm not afraid of anything.	Não tenho medo de nada.	1020951
+Please don't look at your cellphone while we're eating.	Faça o favor de não olhar para o seu celular enquanto estamos comendo.	1021047
+Please don't look at your mobile phone while we're eating.	Faz o favor de não olhar para o teu celular enquanto estamos comendo.	1021048
+I can't reply to your message immediately, since I can't type fast.	Não posso responder às suas mensagens de imediato, pois não consigo digitar rápido.	1021244
+He's accustomed to getting up early in the morning.	Ele está acostumado a se levantar cedinho.	1021660
+Native French speakers often add spaces before punctuation in other languages even though it is usually incorrect.	Os falantes nativos do francês frequentemente adicionam espaços antes de símbolos de pontuação em outras línguas mesmo sendo normalmente incorreto.	1021661
+I'm eating a Japanese pear.	Estou comendo uma pera japonesa.	1021696
+We were at the mill, near the hemp field.	Estávamos no moinho, próximo ao campo de cânhamo.	1021791
+The appendix is about 10 cm long.	O apêndice tem cerca de 10 cm de comprimento.	1021809
+The uncalled capital added up to half a million dollars.	O capital não realizado atingiu a soma de meio milhão de dólares.	1021927
+She said a prayer and followed him.	Ela fez uma prece e o seguiu.	1021936
+I need to charge my mobile.	Preciso carregar meu celular.	1021953
+I need to charge my cellphone.	Preciso carregar meu celular.	1021954
+How can I access the printer?	Como posso acessar a impressora?	1021957
+Mind yourself. That knife is sharp.	Toma cuidado. Essa faca está afiada.	1021963
+Artificial intelligence cannot beat natural stupidity.	A inteligência artificial não pode superar a estupidez natural.	1022117
+Hello Giada, tell us your story, we'll listen to you.	Olá, Giada. Conte-nos a sua história; nós a escutaremos.	1022147
+You mustn't drive on the right.	Você não pode dirigir pela direita.	1022202
+Unfortunately, I have to get up early every morning.	Infelizmente, tenho de acordar cedo todo dia.	1022220
+If the sale of organs is legalised, potential health problems may arise.	Se a venda de órgãos for legalizada, possíveis problemas de saúde podem surgir.	1022231
+In many countries, being gay is a cause for imprisonment.	Em muitos países, ser gay é motivo para prisão.	1022457
+Gay marriage is permitted in less than 20% of countries.	O casamento gay é permitido em menos de 20% dos países.	1022458
+In the US, a gay union is permitted only in some states.	Nos EUA, a união gay é permitida apenas em alguns estados.	1022459
+I want him to leave.	Quero que ele vá embora.	1022953
+I'm interested in oriental pottery.	A cerâmica oriental interessa-me.	1023151
+I left my keys on the table. Could you bring them to me?	Eu deixei as minhas chaves em cima da mesa. Você pode trazê-las para mim?	1023198
+I should be studying for tomorrow's exam.	Eu deveria estar estudando para a prova de amanhã.	1023550
+Do you usually eat more than five slices of pizza a month?	Você geralmente come mais de cinco pedaços de pizza por mês?	1023688
+If there's anything else you need, just let me know.	Se precisar de algo mais, avise-me.	1023689
+It was tremendously exciting to be in Boston at that time.	Foi tremendamente prazeroso estar em Boston aquela hora.	1023690
+You'd better not tell Tom.	É melhor você não contar a Tom.	1023696
+You shouldn't have borrowed Tom's car.	Você não deveria ter pegado o carro de Tom emprestado.	1023706
+You don't have to do what Tom says.	Você não tem que fazer o que diz Tom.	1023720
+You can't count on Tom's help.	Você pode contar com a ajuda do Tom.	1023723
+You can ask Tom for help.	Você pode pedir ajuda ao Tom.	1023724
+You aren't the only one who likes baseball. Tom likes it, too.	Vocês não são os únicos que gostam de beisebol. O Tom também gosta.	1023726
+Would you give me Tom's address?	Você poderia dar-me o endereço de Tom?	1023729
+Will you swim with Tom?	Você vai nadar com o Tom?	1023732
+Why would Tom do something like that?	Por que Tom faria algo assim?	1023735
+Why don't you ask Tom?	Por que você não pergunta para o Tom?	1023738
+Why do you think Tom chose to become a psychologist?	Por que você acha que Tom quis se tornar psicólogo?	1023748
+Where was Tom when the fire broke out?	Onde estava o Tomás quando o fogo começou?	1023756
+When Tom was young, he ate three eggs every day.	Quando Tom era jovem, ele comia três ovos todos os dias.	1023757
+When did you first meet Tom?	Quando você conheceu Tom?	1023764
+When did Tom leave Boston?	Quando Tom saiu de Boston?	1023765
+What's wrong with telling Tom what happened?	O que há de errado em dizer a Tom o que aconteceu?	1023766
+What Tom says makes sense.	O que o Tom diz faz sentido.	1023771
+What Tom ate was delicious.	O que Tom comeu foi delicioso.	1023772
+What made Tom so mad?	O que deixou Tom tão furioso?	1023780
+What kind of woman could love a guy like Tom?	Que tipo de mulher poderia amar um cara como Tom?	1023781
+What does Tom really think?	O que Tom realmente pensa?	1023791
+What does Tom have to do with this?	O que é que Tom tem que fazer com isso?	1023795
+What does Tom have in his hand?	O que o Tom tem na mão?	1023797
+What does Tom do in his free time?	O que Tom faz no seu tempo livre?	1023803
+What does that have to do with Tom?	O que isso tem a ver com Tom?	1023806
+What does it matter what happens to Tom?	O que importa o que acontece ao Tom?	1023807
+What do you think of Tom?	O que você acha do Tom?	1023808
+We won't start the meeting until Tom comes.	Não vamos começar a reunião até que Tom chegue.	1023812
+Was Tom at home yesterday?	Tom estava em casa ontem?	1023820
+Unfortunately, Tom refused to help us.	Infelizmente, o Tom se recusou a nos ajudar.	1023822
+Tom's younger daughter is married.	A filha caçula de Tom é casada.	1023823
+Tom's son was killed in a traffic accident last winter.	O filho do Tom morreu num acidente de trânsito no inverno passado.	1023831
+Tom's plane leaves for Boston at 2:30 p.m.	O voo de Tom parte para Boston às 14:30.	1023834
+Tom's mother is a very good cook.	A mãe de Tom é uma ótima cozinheira.	1023840
+Tom's mother died just one week before Tom graduated from college.	A mãe de Tom morreu logo uma semana antes que ele se formasse na universidade.	1023841
+Tom's house is for sale.	A casa de Tom está à venda.	1023844
+Tom's house is easy to find.	A casa do Tom é fácil de ser encontrada.	1023845
+Tom's heart suddenly began to beat faster.	O coração de Tom começou a bater mais forte de repente.	1023846
+Tom's family lives in Boston.	A família do Tom mora em Boston.	1023850
+Tom's company is drilling for oil.	A empresa de Tom está perfurando petróleo.	1023859
+Tom's company imports tea from India.	A companhia do Tom importa chá da Índia.	1023860
+Tom's company imports coffee from Brazil.	A companhia de Tom importa café do Brasil.	1023861
+Tom's advice was very helpful.	O conselho de Tom foi muito útil.	1023867
+Tom, could you keep an eye on the kids?	Tom, você poderia ficar de olho nas crianças?	1023870
+Tom works from nine to five.	Tom trabalha das nove às cinco.	1023880
+Tom worked all day and was completely worn out.	Tom trabalhou o dia todo e estava completamente exausto.	1023885
+Tom won't admit that he's done anything wrong.	Tom não vai admitir que ele não fez nada de errado.	1023888
+Tom wishes that he could be a better French speaker.	Tom deseja falar francês melhor.	1023889
+Tom will go to Boston next month.	O Tom irá para Boston mês que vem.	1023893
+Tom will carry those suitcases for you.	O Tom vai carregar essas malas para você.	1023894
+Tom went to school to learn how to tune pianos.	Tom foi à uma escola para aprender como afinar pianos.	1023905
+Tom went to Boston to study music.	Tom foi para Boston para estudar música.	1023906
+Tom went to Boston to attend a conference.	Tom foi a Boston para participar de uma conferência.	1023907
+Tom went to Boston three years ago.	Tom foi para Boston três anos atrás.	1023908
+Tom went to bed at midnight.	Tom foi dormir à meia-noite.	1023909
+Tom went for three weeks without shaving before his wife complained.	Tom ficou três semanas sem se barbear, até sua esposa reclamar.	1023912
+Tom went fishing, but didn't catch anything.	Tom foi pescar, mas não pegou nada.	1023913
+Tom went downtown to do shopping.	Tom foi ao centro da cidade para fazer compras.	1023914
+Tom wasn't ready to die.	Tom não estava pronto para morrer.	1023918
+Tom wasn't afraid of death.	Tom não tinha medo da morte.	1023920
+Tom washes clothes at least once a week.	O Tom lava roupa pelo menos uma vez na semana.	1023924
+Tom was wearing a black hat.	Tom estava usando um chapéu preto.	1023926
+Tom was unable to decide who he should vote for.	Tom não podia decidir em quem ele iria votar.	1023933
+Tom was told by his doctor to remain in bed.	Por recomendação médica, Tom deverá continuar de cama.	1023936
+Tom was the last to arrive.	Tom foi o último a chegar.	1023938
+Tom was the last person to finish eating.	O Tom foi a última pessoa a acabar de comer.	1023939
+Tom was the last person I expected to see here.	Tom era a última pessoa que eu esperava ver aqui.	1023941
+Tom was talking about the delicious food they had eaten on their trip.	Tom estava falando sobre a comida deliciosa que tinham comido na viagem.	1023942
+Tom was supposed to hand in his homework before the weekend.	Tom deveria ter entregado sua tarefa antes do fim de semana.	1023944
+Tom was struck by lightning and died.	Tom foi atingido por um raio e morreu.	1023946
+Tom was sentenced to death.	Tom foi sentenciado à morte.	1023952
+Tom was released from the hospital last month.	O Tom recebeu alta no hospital no mês passado.	1023955
+Tom was released from prison last month.	O Tom foi liberto da prisão no mês passado.	1023956
+Tom was late for work again this morning.	Tom se atrasou para o trabalho de novo esta manhã.	1023963
+Tom was killed by lightning.	O Tom foi morto por um raio.	1023967
+Tom was killed by his own gang members.	Tom foi morto pelos membros de sua própria gangue.	1023968
+Tom was killed by a hired assassin.	O Tom foi morto por um matador de aluguel.	1023969
+Tom was just trying to help.	Tom só estava tentando ajudar.	1023970
+Tom was in his late thirties.	O Tom tinha trinta e tantos anos.	1023971
+Tom was in a hurry this morning.	Tom estava com pressa hoje de manhã.	1023974
+Tom was in a coma.	Tom estava em coma.	1023975
+Tom was hiding behind the door.	O Tom estava se escondendo atrás da porta.	1023978
+Tom was hiding behind a bush.	Tom estava se escondendo atrás de um arbusto.	1023979
+Tom was eaten by a crocodile.	Tom foi comido por um crocodilo.	1023989
+Tom was dissatisfied with the service at the hotel where he stayed.	Tom estava insatisfeito com o serviço do hotel onde se hospedou.	1023990
+Tom was detained for questioning.	Tom foi detido para interrogatório.	1023991
+Tom was detained by the police.	Tom foi detido pela polícia.	1023992
+Tom was convicted and sentenced to death.	Tom foi condenado e sentenciado à morte.	1023994
+Tom was caught cheating on the exam and was expelled from school.	Tom foi pego colando na prova e expulso da escola.	1023996
+Tom was brought up in Boston.	Tom foi criado em Boston.	1023997
+Tom was born in Boston.	Tom nasceu em Boston.	1023998
+Tom was aware of the difficulties.	Tom estava ciente das dificuldades.	1023999
+Tom was alone most of the time.	O Tom estava sozinho a maior parte do tempo.	1024003
+Tom was almost hit by a car.	Tom quase foi atropelado por um carro.	1024005
+Tom was afraid that the typhoon would damage his house.	Tom estava com medo que o tufão danificasse a casa dele.	1024008
+Tom was admitted into the hospital.	Tom foi hospitalizado.	1024009
+Tom was abused by his father.	Tom foi abusado por seu pai.	1024013
+Tom was able to park behind the hotel.	Tom conseguiu estacionar atrás do hotel.	1024014
+Tom was able to make himself understood in French when he visited Paris.	Tom conseguiu se fazer entender em francês quando visitou Paris.	1024015
+Tom was able to get there in less than twenty minutes.	Tom conseguiu chegar em menos de vinte minutos.	1024016
+Tom was able to answer all the questions.	Tom conseguiu responder a todas as perguntas.	1024018
+Tom was a mean man before his daughter was born.	Tom era um homem malvado antes de sua filha nascer.	1024019
+Tom warmed himself by the fire.	Tom se esquentou perto do fogo.	1024021
+Tom wants to study in Boston.	Tom quer estudar em Boston.	1024023
+Tom wants to go to the movies.	Tom quer ir ao cinema.	1024026
+Tom wants to go to Boston.	Tom quer ir para Boston.	1024027
+Tom wanted to study Japanese with a native Japanese speaker.	Tom queria estudar japonês com um falante nativo.	1024030
+Tom wanted to eat a couple of slices of salami.	Tom queria comer umas poucas fatias de salame.	1024032
+Tom walked silently through the forest.	Tom andou silenciosamente pela floresta.	1024035
+Tom volunteered to do all the things no one else wanted to do.	Tom se voluntariou para fazer todas as coisas que ninguém mais queria fazer.	1024037
+Tom very often takes a nap for an hour after lunch.	O Tom frequentemente tira um cochilo de uma hora depois do almoço.	1024039
+Tom verified the date of the meeting.	Tom verificou a data da reunião.	1024040
+Tom usually works from nine to five-thirty.	Tom geralmente trabalha das nove às cinco e meia.	1024041
+Tom usually wears sunglasses even when it's not so bright.	Tom geralmente usa óculos escuros, mesmo quando não está tão claro.	1024042
+Tom usually watches the weather report in the morning before leaving home.	Tom normalmente assiste a previsão do tempo pela manhã antes de sair de casa.	1024043
+Tom usually only eats oatmeal for breakfast.	O Tom normalmente come apenas aveias para o café da manhã.	1024047
+Tom usually eats his lunch alone.	Tom costuma almoçar sozinho.	1024050
+Tom used to live in Boston.	Tom morava em Boston.	1024055
+Tom tries to do some light exercises every morning.	Tom tenta fazer alguns exercícios leves todas as manhãs.	1024060
+Tom tries to avoid traveling by air.	Tom tenta evitar viajar de avião.	1024061
+Tom translated the letter from French into German.	O Tom traduziu a carta do francês para o alemão.	1024064
+Tom took off his coat because it was getting too hot to wear it.	Tom tirou seu casaco porque estava ficando muito quente para usá-lo.	1024071
+Tom took his wallet out of his pocket.	Tom tirou a carteira do bolso.	1024075
+Tom took a deep breath.	Tom respirou fundo.	1024082
+Tom told me that he wasn't afraid of ghosts.	Tom me disse que não tinha medo de fantasmas.	1024090
+Tom told me that he couldn't really trust Microsoft.	O Tom me disse que ele não conseguia confiar muito na Microsoft.	1024092
+Tom told me that he could live off his savings for a while if he lost his job.	Tom me disse que conseguiria se manter por um tempo com o dinheiro que tinha guardado, se fosse demitido.	1024094
+Tom tied his dog to a tree.	Tom amarrou seu cão a uma árvore.	1024101
+Tom threw me an apple.	O Tom me jogou uma maçã.	1024102
+Tom threw a rock at the dog.	Tom jogou uma pedra no cachorro.	1024105
+Tom thought it would be a good idea to see a doctor.	Tom achou que seria uma boa idéia ir ao médico.	1024106
+Tom thinks it will rain tomorrow.	Tom acha que vai chover amanhã.	1024109
+Tom takes a shower every morning before breakfast.	Tom toma um banho toda manhã antes do café da manhã.	1024119
+Tom takes a bath every evening after dinner.	Tom toda um banho toda noite depois do jantar.	1024120
+Tom takes a bath at least three times a week.	Tom toma banho pelo menos três vezes por semana.	1024121
+Tom succeeded in getting elected.	Tom conseguiu se eleger.	1024127
+Tom studied hard so he could get into college.	Tom estudou duro para entrar na faculdade.	1024128
+Tom stopped looking for the treasure and went back home.	Tom parou de procurar pelo tesouro e voltou para sua casa.	1024130
+Tom stood on a chair so he could reach the top shelf.	O Tom ficou em uma cadeira para poder alcançar a prateleira de cima.	1024132
+Tom stayed at home all day.	Tom passou o dia em casa.	1024135
+Tom spent a week in Boston.	Tom passou uma semana em Boston.	1024142
+Tom spends most of his money on food.	Tom gasta a maior parte de seu dinheiro com comida.	1024144
+Tom speaks French better than I do.	O Tom fala francês melhor que eu.	1024147
+Tom shut himself up in his bedroom.	Tom se trancou em seu quarto.	1024157
+Tom showed up at about 2:30.	Tom apareceu por volta das 2h30.	1024159
+Tom showed me how to make spaghetti.	Tom mostrou-me como fazer espaguete.	1024160
+Tom should go to the gym.	Tom deveria ir à academia.	1024166
+Tom should be back before 2:30.	Tom deve estar de volta antes das 14h30.	1024174
+Tom sells T-shirts at a 30 percent discount.	Tom vende camisas com 30 por cento de desconto.	1024178
+Tom seldom goes out on Monday.	Tom raramente sai às segundas.	1024180
+Tom seems to be sleeping.	Tom parece estar dormindo.	1024183
+Tom seems to be depressed.	Tom parece estar deprimido.	1024190
+Tom seems to be a friendly person.	Tom parece um homem amigável.	1024194
+Tom screamed at the top of his lungs.	Tom gritou a plenos pulmões.	1024201
+Tom scarcely ever gets any exercise.	O Tom raramente faz exercício.	1024202
+Tom says that he can drink a whole bottle of whiskey without getting drunk.	Tom diz que consegue bebe uma garrafa inteira de uísque sem ficar bêbado.	1024222
+Tom says he is rich.	Tom diz que ele é rico.	1024226
+Tom says he can't ignore the smell any longer.	O Tom diz que não pode suportar mais o cheiro.	1024232
+Tom sat in the front row.	Tom se sentou na primeira fila.	1024235
+Tom said that neither one of his parents had ever been to Boston.	Tom disse que nenhum dos seus pais já estiveram em Boston.	1024238
+Tom said that I could spend the night at his place.	Tom disse que eu poderia passar a noite em sua casa.	1024239
+Tom said that he'd give me thirty dollars if I ate an earthworm.	Tom disse que me daria trinta dólares se eu comesse uma minhoca.	1024241
+Tom said that he was innocent.	Tom disse que era inocente.	1024244
+Tom said that he feels like going out.	Tom disse que ele está com vontade de sair.	1024248
+Tom said he'd never leave his wife.	Tom disse que nunca abandonaria a sua esposa.	1024254
+Tom said he couldn't clean the pool tomorrow afternoon.	Tom disse que não poderia limpar a piscina amanhã de tarde.	1024264
+Tom reminds me of his father.	Tom me lembra o pai dele.	1024275
+Tom refused to worry about the future.	O Tom se recusava a se preocupar sobre o futuro.	1024280
+Tom refused to settle down.	Tom se recusou a se acalmar.	1024281
+Tom really loves playing the guitar, but he doesn't like singing.	Tom gosta mesmo de tocar violão, mas não gosta de cantar.	1024284
+Tom really is a nice guy!	Tom é realmente um cara legal!	1024285
+Tom really does talk a lot.	Tom, de fato, fala demais.	1024287
+Tom read anything he could lay his hands on.	O Tom lia qualquer coisa ao alcance de suas mãos.	1024292
+Tom ran out of money.	Tom ficou sem dinheiro.	1024296
+Tom ran out of food.	Tom ficou sem comida.	1024297
+Tom ran down the stairs.	Tom desceu as escadas.	1024301
+Tom ran as fast as he could to escape from the angry bear.	O Tom correu tão rápido quanto pôde para escapar do urso bravo.	1024302
+Tom put the key into his pocket.	Tom colocou a chave no bolso.	1024314
+Tom put his hat on and went outside.	O Tom vestiu seu chapéu e saiu.	1024318
+Tom pumped up the tire.	Tom encheu o pneu.	1024325
+Tom promised to come, but hasn't shown up yet.	Tom prometeu vir, mas não apareceu ainda.	1024326
+Tom postponed his trip to Boston.	Tom adiou a viagem a Boston.	1024337
+Tom plays the harmonica by ear.	Tom toca gaita de ouvido.	1024341
+Tom played the piano for three hours without taking a break.	Tom tocou piano por três horas sem nenhuma pausa.	1024342
+Tom played an old Irish song on his new French horn.	Tom tocou uma antiga música irlandesa na sua trompa francesa.	1024344
+Tom planted three apple trees in his yard.	Tom plantou três macieiras no quintal dele.	1024346
+Tom opened the window to get some fresh air.	Tom abriu a janela para pegar um pouco de ar fresco.	1024359
+Tom only eats lean meats and vegetables.	O Tom só come carnes e verduras.	1024367
+Tom often talks to his dog.	Tom frequentemente fala com seu cachorro.	1024369
+Tom often goes to Boston.	Tom costuma ir para Boston.	1024377
+Tom often eats Thai food.	Tom costuma comer comida tailandesa.	1024379
+Tom never works on Sunday.	Tom nunca trabalha aos domingos.	1024386
+Tom never talks about his job.	Tom nunca fala sobre o seu trabalho.	1024387
+Tom never makes his bed.	Tom nunca arruma a própria cama.	1024391
+Tom neither confirmed nor denied the rumors.	O Tom nem confirmou e nem negou os rumores.	1024397
+Tom needs to update his website.	Tom precisa atualizar o seu site.	1024398
+Tom needs to get into shape.	Tom precisa entrar em forma.	1024404
+Tom needs to buy a new raincoat.	Tom precisa comprar uma capa de chuva nova.	1024407
+Tom needs a sharp knife.	Tom precisa de uma faca afiada.	1024411
+Tom needs a dry towel.	Tom precisa de uma toalha seca.	1024414
+Tom must be from Boston.	Tom deve ser de Boston.	1024434
+Tom moved to Boston three years ago.	Tom se mudou para Boston há três anos.	1024437
+Tom mistakenly ate his entree with his salad fork.	Por engano, o Tomás comeu a entrada com o garfo da salada.	1024439
+Tom missed the last train.	O Tom perdeu o último trem.	1024440
+Tom might be able to help you.	Tom pode te ajudar.	1024445
+Tom may choose whichever color he likes.	O Tom pode escolher a cor que ele quiser.	1024462
+Tom made his servants eat in the dark.	Tom fez seus servos comerem no escuro.	1024486
+Tom made a reservation for three days at the Hilton Hotel.	Tom tinha uma reserva de três dias no Hotel Hilton.	1024491
+Tom made a list of things he wanted to do before he died.	Tom fez uma lista de coisas que ele queria fazer antes de morrer.	1024493
+Tom made a list of songs he doesn't like.	Tom fez uma lista de músicas que ele não gosta.	1024495
+Tom made a list of places he wants to visit.	Tom fez uma lista de lugares que ele quer visitar.	1024496
+Tom made a few mistakes on the test.	Antônio cometeu alguns erros no teste.	1024501
+Tom loves to bully younger students.	Tom adora maltratar estudantes mais novos.	1024505
+Tom lost the shopping list his mother had given him and just bought things he wanted to eat.	Tom perdeu a lista de compras que sua mãe lhe dera e comprou somente as coisas que queria comer.	1024512
+Tom lost all of his money.	O Tom perdeu todo seu dinheiro.	1024519
+Tom looks much better now.	O Tom parece muito melhor agora.	1024530
+Tom looked around the room for his keys.	Tom olhou em volta procurando por suas chaves.	1024541
+Tom locked himself in the bathroom.	Tom se trancou no banheiro.	1024544
+Tom locked himself in the bathroom and started to cry.	Tom se trancou no banheiro e começou a chorar.	1024545
+Tom lives with his parents.	Tom mora com os pais.	1024546
+Tom lives on the third floor of this apartment building.	Tom mora no terceiro andar deste prédio.	1024548
+Tom lives from hand to mouth.	Tom vive ao deus-dará.	1024551
+Tom lived in an interesting part of Boston.	O Tom viveu numa zona rica de Boston.	1024557
+Tom likes watching TV in the evening.	Tom gosta de ver televisão à tarde.	1024562
+Tom likes vanilla ice cream.	Tom gosta de sorvete de baunilha.	1024563
+Tom likes to write poems and song lyrics.	Tom gosta de escrever poemas e letras de música.	1024564
+Tom likes oranges and eats three or four a week.	Tom gosta de laranjas e come três ou quatro por semana.	1024569
+Tom likes listening to the radio when he's driving.	Tom gosta de ouvir rádio enquanto dirige.	1024570
+Tom likes dogs better than cats.	Tom gosta mais de cachorros do que de gatos.	1024572
+Tom likes chocolate very much.	Tom gosta muito de chocolate.	1024574
+Tom likes Boston better than any other place he's lived.	O Tom gosta de Boston mais do que qualquer outro lugar em que tenha vivido.	1024576
+Tom likes listening to American English the most, but he also likes the sound of Irish English.	O Tom gosta mais de ouvir inglês americano, mas também gosta do som do inglês irlandês.	1024578
+Tom let the cat out.	Tom deixou o gato sair.	1024579
+Tom left without saying goodbye.	Tom foi embora sem dizer tchau.	1024582
+Tom left the window open.	Tom deixou a janela aberta.	1024585
+Tom left the room without saying a word to anyone.	Tom saiu da sala sem dizer uma palavra a ninguém.	1024586
+Tom left the house to his son.	Tom deixou a casa a seu filho.	1024588
+Tom left the house after eating lunch.	Tom saiu da casa depois de almoçar.	1024589
+Tom left the door unlocked.	Tom deixou a porta destrancada.	1024591
+Tom left the door open.	Tom deixou a porta aberta.	1024592
+Tom learned how to swim when he was three.	Tom aprendeu a nadar quando tinha três anos.	1024605
+Tom knows where the money is hidden.	Tom sabe onde está escondido o dinheiro.	1024615
+Tom knows everything there is to know about Italian cars.	O Tom sabe tudo que tem para saber sobre carros italianos.	1024619
+Tom knows a woman who doesn't like to eat chocolate.	Tom conhece uma mulher que não gosta de comer chocolate.	1024622
+Tom knows a man who lives in Boston.	Tom conhece um homem que mora em Boston.	1024624
+Tom knows a lot of people.	Tom conhece um monte de gente.	1024625
+Tom knows a lot about American history.	Tom sabe muito sobre a história da América.	1024627
+Tom knows a few magic tricks.	Tom sabe alguns truques de mágica.	1024630
+Tom knocked on the door.	O Tom bateu na porta.	1024632
+Tom keeps every letter his mother sends him.	Tom guarda todas as cartas que lhe manda a mãe.	1024643
+Tom keeps an extra pair of shoes in the trunk of his car.	Tom guarda um par de sapatos extra no porta-malas do seu carro.	1024644
+Tom keeps a diary in French.	Tom mantém um diário em francês.	1024648
+Tom jumped out of the tree.	Tom saltou da árvore.	1024655
+Tom jumped into the cold water.	Tom pulou na água gelada.	1024658
+Tom isn't afraid of death.	Tom não tem medo de morrer.	1024661
+Tom isn't watching TV now. He's sleeping.	O Tom não está assistindo TV agora. Está dormindo.	1024665
+Tom isn't the kind of person who blames others for his mistakes.	Tom não é o tipo de pessoa que culpa os outros por seus próprios erros.	1024673
+Tom isn't sure yet whether he'll go or not.	Tom ainda não tem certeza se vai ou não.	1024676
+Tom isn't here at the moment.	Tom não está aqui no momento.	1024698
+Tom isn't good at math.	Tom não é bom em matemática.	1024700
+Tom isn't as young as I am.	Tom não é tão jovem quanto eu.	1024712
+Tom isn't as smart as he looks.	Tom não é tão esperto como parece.	1024717
+Tom isn't as old as I am.	O Tom não é tão velho quanto eu sou.	1024718
+Tom isn't as old as he looks.	Tom não é tão velho quanto parece.	1024719
+Tom isn't always late, but he often is.	Tom nem sempre chega atrasado, mas muitas vezes chega.	1024723
+Tom isn't all that honest.	Tom não é assim tão honesto.	1024724
+Tom isn't afraid of anything.	Tom não tem medo de nada.	1024728
+Tom isn't accustomed to walking barefooted.	Tom não está acostumado a andar descalço.	1024729
+Tom isn't a Japanese citizen.	Tom não é cidadão japonês.	1024733
+Tom isn't a bad person.	Tom não é uma má pessoa.	1024738
+Tom is writing a novel now.	Tom está escrevendo uma novela agora.	1024740
+Tom is working on another novel.	Tom está trabalhando em outro romance.	1024742
+Tom is willing to do that for you.	Tom está disposto a fazer isso por você.	1024744
+Tom is wanted by the FBI for kidnapping.	Tom é procurado pelo FBI por sequestro.	1024749
+Tom is waiting to see what will happen.	Tom está esperando para ver o que vai acontecer.	1024750
+Tom is very interested in water sports.	Tom se interessa muito por esportes aquáticos.	1024765
+Tom is very interested in learning French.	Tom está muito interessado em aprender Francês.	1024766
+Tom is very interested in jazz.	Tom se interessa muito pelo jazz.	1024767
+Tom is very busy at this time.	O Tom está muito ocupado nesse momento.	1024776
+Tom is used to living alone.	Tom está acostumado a morar sozinho.	1024779
+Tom is used to hard work.	O Tom está acostumado ao trabalho árduo.	1024780
+Tom is trying to lose weight.	Tom está tentando emagrecer.	1024794
+Tom is trying to learn French.	Tom está tentando aprender francês.	1024795
+Tom is trying to do the impossible.	Tom está tentando fazer o impossível.	1024796
+Tom is trying to avoid drinks with sugar.	Tom está tentando evitar bebidas açucaradas.	1024797
+Tom is too young to travel alone.	Tom é jovem demais para viajar sozinho.	1024798
+Tom is too young to go there by himself.	Tom é novo demais para ir lá sozinho.	1024799
+Tom is too tired to study.	Tom está cansado demais para estudar.	1024802
+Tom is too busy now to talk to you.	Tom está ocupado demais agora para falar com você.	1024806
+Tom is three years old now.	Tom está agora com três anos.	1024807
+Tom is thirty years old.	O Tom tem trinta anos.	1024810
+Tom is thirty at most.	Tom tem trinta anos, no máximo.	1024811
+Tom is thinking of selling his house.	Tom está pensando em vender a casa.	1024812
+Tom is the same age as I am.	Tom tem a mesma idade que eu.	1024816
+Tom is the right man for the job.	O Tom é o homem certo para o serviço.	1024817
+Tom is the owner of a supermarket.	Tom é o dono de um supermercado.	1024821
+Tom is the most influential man in Boston.	Tom é a pessoa mais influente de Boston.	1024831
+Tom is the legal owner of this piece of land.	Tom é o proprietário legal dessa porção de terra.	1024832
+Tom is the kind of man I like.	Tom é o tipo de homem que eu gosto.	1024834
+Tom is the father of three children.	Tom é pai de três filhos.	1024836
+Tom is the father of the bride.	Tom é o pai da noiva.	1024837
+Tom is the captain of our team.	Tom é o capitão da nossa equipe.	1024838
+Tom is the black sheep of his family.	Tom é a ovelha negra da família.	1024840
+Tom is the best man for the job.	Tom é o melhor homem para o trabalho.	1024841
+Tom is taking a couple of days off next week.	Tom está tirando alguns dias de férias na próxima semana.	1024844
+Tom is taking a bath now.	Agora Tom está tomando um banho.	1024845
+Tom is still uncertain about whether to go to college or not.	Tom ainda está inseguro se deve ir à faculdade ou não.	1024856
+Tom is still too young to drink beer.	Tom ainda é muito novo para beber cerveja.	1024857
+Tom is still just a boy.	Tom ainda é só um garoto.	1024862
+Tom is still in Boston.	Tom ainda está em Boston.	1024864
+Tom is still in bed.	O Tom ainda está na cama.	1024865
+Tom is still dependent on his parents.	Tom ainda depende dos pais.	1024866
+Tom is running short of money.	Tom está ficando sem dinheiro.	1024879
+Tom is pretty sure everything will go well.	Tom tem certeza que tudo vai dar certo.	1024897
+Tom is out of his mind.	Tom está fora de si.	1024911
+Tom is only a beginner.	O Tom é só um iniciante.	1024915
+Tom is one of the few people I can trust.	Tom é uma das únicas pessoas em que eu posso confiar.	1024918
+Tom is on the baseball team.	Tom faz parte da equipe de beisebol.	1024922
+Tom is on his way home.	Tom está a caminho de casa.	1024923
+Tom is often absent from school.	Tom falta muito à escola.	1024933
+Tom is no longer my friend.	Tom não é mais meu amigo.	1024940
+Tom is no longer living in Boston.	Tom não está mais morando em Boston.	1024941
+Tom is never on time.	Tom está sempre atrasado.	1024944
+Tom is much older than he looks.	Tom é muito mais velho do que parece.	1024950
+Tom is married and has three children.	Tom é casado e tem três filhos.	1024953
+Tom is looking forward to Christmas.	Tom está ansioso pelo Natal.	1024961
+Tom is leaving for India next Friday.	Tom vai viajar para a Índia na próxima Sexta.	1024971
+Tom is learning how to play the piccolo.	Tom está aprendendo a tocar flauta.	1024973
+Tom is just a kid.	Tom é apenas uma criança.	1024978
+Tom is interested in many things.	Tom se interessa por muitas coisas.	1024981
+Tom is in need of help.	Tom precisa de ajuda.	1024989
+Tom is in a bad mood today.	Tom está de mau humor hoje.	1024999
+Tom is having trouble coping with the fact that his son committed suicide.	Tom está tendo dificuldade em lidar com o fato de que seu filho cometeu suicídio.	1025007
+Tom is hard to please.	Tom é difícil de agradar.	1025012
+Tom is hard to deal with.	É difícil lidar com Tom.	1025014
+Tom is grown up now.	Tom é um adulto agora.	1025017
+Tom is growing a beard.	O Tom está deixando a barba crescer.	1025018
+Tom is good at swimming.	O Tom sabe nadar bem.	1025020
+Tom is good at speaking French.	O Tom é bom em falar francês.	1025021
+Tom is good at singing.	Tom sabe cantar bem.	1025023
+Tom is good at driving.	Tom sabe dirigir bem.	1025025
+Tom is going to get divorced.	Tom irá se divorciar.	1025028
+Tom is going to buy a new car next weekend.	Tom irá comprar um carro novo na semana que vem.	1025029
+Tom is going on thirty.	Tom está chegando aos trinta.	1025031
+Tom is from Boston, but now he lives in Chicago.	Tom é de Boston, mas agora ele mora em Chicago.	1025040
+Tom is facing financial problems.	Tom está tendo problemas financeiros.	1025043
+Tom is extremely busy now.	O Tom está extremamente ocupado agora.	1025045
+Tom is excited about the upcoming game.	Tom está empolgado com o próximo jogo.	1025048
+Tom is embarrassed by what he did.	Tom está envergonhado pelo que fez.	1025049
+Tom is easy to get along with.	Tom é uma pessoa fácil de se conviver.	1025052
+Tom is eager to go to Boston.	Tom está ansioso para ir à Boston.	1025054
+Tom is drawing a picture of a small boy and his dog.	Tom está fazendo o desenho de um menininho e seu cachorro.	1025056
+Tom is deaf in one ear.	Tom é surdo de um ouvido.	1025060
+Tom is close to thirty.	Tom está chegando aos trinta.	1025065
+Tom is blind in one eye.	Tom é cego de um olho.	1025072
+Tom is being hunted by the police.	Tom está sendo perseguido pela polícia.	1025075
+Tom is being charged with murder.	Tom está sendo acusado de assassinato.	1025076
+Tom is behind in his rent.	Tom está com o aluguel atrasado.	1025077
+Tom is banned from entering this building.	Tom está proibido de entrar neste prédio.	1025078
+Tom is aware of the danger.	Tom está ciente do perigo.	1025080
+Tom is at the top of his class.	Tom é o melhor aluno da turma.	1025081
+Tom is always trying to make everybody think he's cool.	Tom está sempre tentando fazer todo mundo pensar que ele é legal.	1025094
+Tom is always on my mind.	O Tom está sempre em meu pensamento.	1025096
+Tom is always in a hurry.	Tom está sempre com pressa.	1025097
+Tom is always complaining about one thing or another.	Tom está sempre reclamando de alguma coisa.	1025098
+Tom is always complaining about his wife.	Tom está sempre se queixando da esposa.	1025099
+Tom is almost never late for appointments.	Tom quase nunca se atrasa para seus compromissos.	1025104
+Tom is allergic to peanuts.	Tom é alérgico a amendoim.	1025107
+Tom is afraid of the dark.	Tom tem medo do escuro.	1025111
+Tom is afraid of snakes.	Tom tem medo de cobras.	1025112
+Tom is afraid of dying.	Tom está com medo de morrer.	1025114
+Tom is afraid of dogs.	Tom tem medo de cachorros.	1025115
+Tom is accustomed to working outside.	Tom está acostumado a trabalhar do lado de fora.	1025117
+Tom is a wonderful artist.	Tom é um artista maravilhoso.	1025121
+Tom is a well-known painter.	Tom é um pintor conhecido.	1025122
+Tom is a wealthy man.	Tom é um homem rico.	1025123
+Tom is a very strange person.	O Tom é uma pessoa tão estranha.	1025127
+Tom is a very smart boy.	Tom é um garoto muito esperto.	1025128
+Tom is a very patient man.	Tom é um homem muito paciente.	1025130
+Tom is a very lazy boy.	Tom é um garoto muito preguiçoso.	1025132
+Tom is a very kind and generous man.	Tom é um homem muito amável e generoso.	1025133
+Tom is a very good friend.	Tom é um amigo muito bom.	1025134
+Tom is a very fast swimmer.	Tom é um nadador muito veloz.	1025135
+Tom is a very busy person.	Tom é uma pessoa muito ocupada.	1025138
+Tom is a typical Canadian.	Tom é um típico canadense.	1025140
+Tom is a smooth talker.	O Tomás é um orador polido.	1025145
+Tom is a slow walker.	O Tom anda devagar.	1025146
+Tom is a skillful carpenter.	Tom é um carpinteiro hábil.	1025148
+Tom is a shy boy.	Tom é um garoto tímido.	1025149
+Tom is a reckless driver.	Tom é um motorista displicente.	1025154
+Tom is a really nice guy.	Tom é realmente um bom rapaz.	1025155
+Tom is a man who can be trusted.	O Tom é um homem em quem se pode confiar.	1025164
+Tom is a man of his word.	Tom é um homem de palavra.	1025165
+Tom is a man of few words.	Tom é um homem de poucas palavras.	1025166
+Tom is a man of few wants.	O Tom é um homem com poucas necessidades.	1025167
+Tom is a hard man to deal with.	Tom é um homem difícil de lidar.	1025171
+Tom is a handsome man.	Tom é um homem atraente.	1025172
+Tom is a good student.	O Tom é um bom aluno.	1025174
+Tom is a good singer.	Tom é um bom cantor.	1025175
+Tom is a good listener.	Tom é um bom ouvinte.	1025176
+Tom is a good guitarist.	Tom é um bom guitarrista.	1025177
+Tom is a good driver.	Tom é um bom motorista.	1025180
+Tom is a good chess player.	Tom é um bom jogador de xadrez.	1025182
+Tom is a good athlete.	Tom é um bom atleta.	1025183
+Tom is a friend of a friend of mine.	O Tom é amigo de um amigo meu.	1025186
+Tom is a Canadian citizen.	Tom é um cidadão canadense.	1025196
+Tom is a brave man.	O Tom é um homem corajoso.	1025198
+Tom is a bit busy, so he can't help you today.	O Tom está um pouco ocupado, então ele não pode te ajudar hoje.	1025199
+Tom is a big eater.	Tom é um grande comilão.	1025200
+Tom is a bad cook.	Tom é um mau cozinheiro.	1025203
+Tom is a 33-year-old man.	Tom é um homem de 33 anos.	1025206
+Tom injured himself when he jumped out of the window.	O Tom se machucou quando pulou da janela.	1025213
+Tom hurt his leg while playing football.	Tom machucou a perna jogando futebol americano.	1025214
+Tom hung a dark curtain over the window.	Tom pendurou uma cortina escura sobre a janela.	1025218
+Tom hopes that it doesn't snow tomorrow.	O Tom espera que não neve amanhã.	1025220
+Tom hid under the bed.	Tom se escondeu debaixo da cama.	1025224
+Tom hid his money under his mattress.	Tom escondeu seu dinheiro debaixo do colchão.	1025226
+Tom hid himself behind the curtain.	Tom escondeu-se atrás da cortina.	1025227
+Tom hid behind the door.	Tom se escondeu atrás da porta.	1025228
+Tom heard the sound of rain on the tin roof.	Tom ouvia o barulhinho da chuva caindo sobre o telhado de folhas de flandres.	1025232
+Tom hasn't finished his homework yet.	Tom ainda não terminou o dever de casa.	1025242
+Tom hasn't cleaned the kitchen yet.	Tom ainda não limpou a cozinha.	1025246
+Tom has written three novels.	Tom escreveu três romances.	1025251
+Tom has written three books.	Tom escreveu três livros.	1025252
+Tom has two sons. One is a doctor and the other is a lawyer.	Tom tem dois filhos. Um é médico e o outro é advogado.	1025255
+Tom has two sons. Both of them live in Boston.	Tom tem dois filhos. Ambos moram em Boston.	1025256
+Tom has to take the test again.	Tom teve de fazer o teste de novo.	1025262
+Tom has to learn to relax.	Tom tem que aprender a relaxar.	1025266
+Tom has to go to work.	Tom tem de ir ao trabalho.	1025269
+Tom has to go to the bank.	Tom tem que ir ao banco.	1025270
+Tom has to get up early.	Tom tem que acordar cedo.	1025273
+Tom has to finish this work by 2:30.	O Tom tem que terminar esse trabalho até as 2h30.	1025275
+Tom has to do a lot of things before noon.	Tom tem um monte de coisas a fazer antes do meio-dia.	1025277
+Tom has to clean his room before 2:30.	Tom tem que limpar seu quarto antes das 2h30.	1025278
+Tom has three thousand books.	Tom tem três mil livros.	1025286
+Tom has three older sisters.	Tom tem três irmãs mais velhas.	1025290
+Tom has three million dollars in the bank.	Tom tem três milhões de dólares no banco.	1025294
+Tom has three apple trees in his yard.	Tom tem três macieiras em seu jardim.	1025305
+Tom has the right to vote.	Tom tem o direito de votar.	1025306
+Tom has the perfect alibi.	O Tom tem o álibi perfeito.	1025307
+Tom has something in his hand.	Tom tem algo na mão.	1025310
+Tom has quite a career ahead of him.	O Tom tem uma bela carreira pela frente.	1025315
+Tom has put his car up for sale.	Tom colocou seu carro à venda.	1025317
+Tom has plenty of money in the bank.	Tom tem bastante dinheiro no banco.	1025319
+Tom has over three million dollars deposited in that bank.	Tom tem mais de três milhões de dólares depositados nesse banco.	1025320
+Tom has nothing to complain about.	Tom não tem do que reclamar.	1025322
+Tom has no interest in politics.	Tom não se interessa por política.	1025332
+Tom has no idea how long it will take.	Tom não faz ideia de quanto tempo levará.	1025338
+Tom has no common sense.	Tom não tem senso comum.	1025342
+Tom has never killed anybody.	Tom nunca matou ninguém.	1025347
+Tom has never had a heart attack.	Tom nunca teve um ataque de coração.	1025349
+Tom has never been to Boston.	Tom nunca esteve em Boston.	1025351
+Tom has many things to do today.	Tom tem muitas coisas a fazer hoje.	1025354
+Tom has lost interest in studying French.	Tom perdeu o interesse em estudar francês.	1025360
+Tom has lost his job.	Tom perdeu o emprego.	1025362
+Tom has lived in Boston all his life.	Tom tem vivido em Boston a vida dele inteira.	1025366
+Tom has lived alone ever since his wife died.	Tom está morando sozinho desde quando sua esposa morreu.	1025367
+Tom has his own bedroom.	Tom tem seu próprio quarto.	1025373
+Tom has gone to Boston.	O Tom tem que ir para Boston.	1025385
+Tom has changed a lot since then.	Tom mudou muito desde então.	1025399
+Tom has been studying French for three years.	Tom tem estudado francês por três anos.	1025416
+Tom has been studying French for about three years.	Tom estuda francês há cerca de três anos.	1025418
+Tom has been reading a book all afternoon.	O Tom está a ler um livro há horas.	1025421
+Tom has been on a diet for three months.	Tom está em uma dieta há três meses.	1025424
+Tom has been living in Boston for almost ten years.	O Tom tem vivido em Boston por quase dez anos.	1025425
+Tom has been eating too much pork.	Tom tem comido muita carne de porco.	1025431
+Tom has already gone to bed.	Tom já foi para a cama.	1025441
+Tom has already finished breakfast.	Tom já terminou o café da manhã.	1025444
+Tom has already drunk three cups of coffee.	Tom já bebeu três xícaras de café.	1025445
+Tom has already achieved many of his goals.	Tom já alcançou muitos de seus objetivos.	1025446
+Tom has accumulated a lot of junk.	Tom tem acumulado muito lixo.	1025447
+Tom has a wife who's an alcoholic.	Tom tem uma esposa que é alcoólatra.	1025448
+Tom has a very decent salary.	O Tom tem um salário muito decente.	1025449
+Tom has a tendency to talk too loudly.	Tom tem tendência a falar muito alto.	1025451
+Tom has a tendency to exaggerate.	Tom tem tendência a exagerar.	1025452
+Tom has a tattoo on his left arm.	Tom tem uma tatuagem em seu braço esquerdo.	1025453
+Tom has a stuffed-up nose.	O Tom está com o nariz congestionado.	1025454
+Tom has a strong sense of responsibility.	Tom tem um grande senso de responsabilidade.	1025455
+Tom has a stiff neck.	Tom está com torcicolo.	1025456
+Tom has a son who is a dentist.	Tom tem um filho que é dentista.	1025457
+Tom has a son who is a construction worker.	Tom tem um filho que é pedreiro.	1025458
+Tom has a small farm just outside of Boston.	Tom tem uma pequena fazenda nas redondezas de Boston.	1025459
+Tom has a sister who is a lawyer.	Tom tem uma irmã que é advogada.	1025460
+Tom has a right to know the truth.	Tom tem o direito de saber a verdade.	1025461
+Tom has a poor memory.	Tom tem uma memória fraca.	1025463
+Tom has a pain in the shoulder.	Tom está com dor no ombro.	1025464
+Tom has a pain in his big toe on his right foot.	Tom está com dor no dedão do seu pé direito.	1025465
+Tom has a low-pitched voice.	A voz de Tom tem o tom baixo.	1025469
+Tom has a lot to learn.	Tom tem muito que aprender.	1025471
+Tom has a lot on his mind.	Tom tem muito em que pensar.	1025472
+Tom has a lot of religious books, but he has never read them.	O Tom tem muitos livros sobre religião, mas nunca os leu.	1025475
+Tom has a lot of patience.	Tom tem muita paciência.	1025476
+Tom has a lot of money.	O Tom tem muito dinheiro.	1025477
+Tom has a lot of money in the bank.	Tom tem muito dinheiro no banco.	1025478
+Tom has a lot of homework to do this evening.	Tom tem muito trabalho de casa para fazer esta noite.	1025479
+Tom has a lot of good ideas.	Tom tem muitas ideias boas.	1025480
+Tom has a lot of free time.	Tom tem muito tempo livre.	1025481
+Tom has a lot more money than I have.	Tom tem muito mais dinheiro do que eu.	1025482
+Tom has a good sense of humor.	Tom tem um bom senso de humor.	1025486
+Tom has a good memory.	Tom tem uma boa memória.	1025487
+Tom has a good head on his shoulders.	Tom é inteligente.	1025488
+Tom has a friend whose mother is a veterinarian.	Tom tem um amigo cuja mãe é veterinária.	1025492
+Tom has a friend whose father is an astronaut.	Tom tem um amigo cujo pai é astronauta.	1025493
+Tom has a friend who lives in Boston.	Tom tem um amigo que vive em Boston.	1025494
+Tom has a friend who is a wrestling coach.	Tom é amigo dum treinador de luta.	1025495
+Tom has a friend living in Boston.	Tom tem um amigo que vive em Boston.	1025496
+Tom has a craving for chocolate ice cream.	Tom tem um desejo por sorvete de chocolate.	1025504
+Tom has a brother who is an architect.	Tom tem um irmão que é arquiteto.	1025509
+Tom has a big house.	O Tom tem uma casa grande.	1025511
+Tom has a big family.	O Tom tem uma família grande.	1025512
+Tom has a beautiful wife.	Tom tem uma bela esposa.	1025513
+Tom hardly ever acts his age.	Tom quase nunca se comporta de acordo com sua idade.	1025522
+Tom had to stay in the hospital for a week.	O Tom teve que ficar no hospital por uma semana.	1025532
+Tom had to go there alone.	Tom teve de ir lá sozinho.	1025539
+Tom had to answer the phone.	Tom teve que atender o telefone.	1025542
+Tom had some gum stuck on the bottom of one of his shoes.	Tom tinha um pedaço de chiclete grudado na sola de um de seus sapatos.	1025546
+Tom had only himself to blame for the failure.	Tom tinha apenas a si mesmo para culpar pela falha.	1025550
+Tom had nothing to eat.	Tom não tinha nada para comer.	1025553
+Tom had no time to finish the story.	Tom não teve tempo para finalizar a história.	1025561
+Tom had lots of fun at the party.	Tom se divertiu à beça na festa.	1025577
+Tom had his wallet stolen on the train.	Roubaram a carteira de Tom no trem.	1025580
+Tom had his picture taken.	O Tom mandou tirar seu retrato.	1025581
+Tom had his picture taken with Mt. Fuji in the background.	Tom tirou uma foto com o Monte Fuji ao fundo.	1025582
+Tom had dreams of becoming a famous tennis player.	Tom sonhava tornar-se um tenista famoso.	1025590
+Tom had difficulty learning French.	Tom teve dificuldade em aprender francês.	1025591
+Tom had a weird dream last night.	O Tom teve um sonho estranho noite passada.	1025598
+Tom had a tooth pulled out last week.	Tom arrancou um dente semana passada.	1025600
+Tom had a little to drink.	Tom bebeu um pouco.	1025607
+Tom had a good idea.	O Tom teve uma boa ideia.	1025614
+Tom had a feeling that the plan wouldn't work.	Tom teve um pressentimento de que o plano não funcionaria.	1025615
+Tom grows strawberries in his garden.	Tom cultiva morangos em seu jardim.	1025622
+Tom grew up in Boston.	Tom cresceu em Boston.	1025625
+Tom grew a beard over the summer.	Tom deixou a barba crescer durante o verão.	1025626
+Tom got on the wrong bus.	Tom entrou no ônibus errado.	1025648
+Tom got into the car.	Tom entrou no carro.	1025653
+Tom got home at 6:30.	Tom chegou em casa às 6:30.	1025655
+Tom got his hearing tested.	Tom teve a audição examinada.	1025656
+Tom got his hair cut.	Tom cortou o cabelo.	1025657
+Tom got angry when he found the door locked.	Tom ficou com raiva quando ele viu a porta trancada.	1025664
+Tom goes to school by bicycle.	Tom vai à escola de bicicleta.	1025672
+Tom goes to church every Sunday morning.	Tom vai à igreja todo domingo de manhã.	1025675
+Tom goes for a walk every afternoon.	Tom vai passear todas as tardes.	1025681
+Tom gives me the creeps.	Tom me dá arrepios.	1025685
+Tom gets up at 5:30 every morning.	Tom acorda às 5h30 todas as manhãs.	1025687
+Tom gave up his teaching job to become a full-time studio musician.	Tom largou seu trabalho de ensino para se tornar um músico de estúdio em tempo integral.	1025690
+Tom gave his seat to an elderly lady.	Tom cedeu seu assento a uma idosa.	1025693
+Tom gave a detailed answer.	Tom deu uma resposta detalhada.	1025698
+Tom found what he was looking for.	Tom encontrou o que estava procurando.	1025700
+Tom found the keys he thought he had lost.	Tom encontrou as chaves que pensou ter perdido.	1025703
+Tom found the key he had been looking for.	Tom encontrou a chave que estava procurando.	1025704
+Tom found the drawer empty.	Tom encontrou a gaveta vazia.	1025706
+Tom found the door locked.	Tom encontrou a porta trancada.	1025707
+Tom found it difficult to please him.	Tom achava difícil agradá-lo.	1025714
+Tom found it difficult to make friends.	Tom achou difícil fazer amigos.	1025716
+Tom found his contact lens near the table.	Tom achou sua lente de contato perto da mesa.	1025721
+Tom found a wallet on the sidewalk.	Tom encontrou uma carteira na calçada.	1025723
+Tom found a wallet lying on the sidewalk.	Tom achou uma carteira na calçada.	1025724
+Tom found a good job near his house.	Tom encontrou um bom emprego perto da casa dele.	1025726
+Tom forgot to turn off the light.	Tom se esqueceu de apagar a luz.	1025731
+Tom forgot to pay the bill.	Tom esqueceu-se de pagar a conta.	1025737
+Tom forgot to lock the door.	Tom esqueceu de trancar a porta.	1025738
+Tom forgot to do his homework.	O Tom se esqueceu de fazer a lição de casa.	1025740
+Tom forgot one important thing.	O Tom esqueceu uma coisa importante.	1025741
+Tom finished the job in three hours.	Tom terminou o trabalho em três horas.	1025747
+Tom finished packing his suitcase.	Tom acabou de fazer a mala.	1025748
+Tom finished doing his homework before dinner.	Tom acabou de fazer os trabalhos de casa antes do jantar.	1025749
+Tom finds it much easier to speak English than French.	Tom acha muito mais fácil falar inglês que francês.	1025752
+Tom finds it difficult to keep up with the rest of the class.	Tom tem dificuldade de acompanhar o resto da classe.	1025753
+Tom finally went to Boston last summer.	Finalmente o Tomás foi a Boston no verão passado.	1025754
+Tom finally succeeded in getting a job that he liked.	Tom finalmente conseguiu um emprego do qual gostava.	1025755
+Tom finally got a job.	Tom finalmente arranjou emprego.	1025758
+Tom finally found a job.	Tom finalmente encontrou um emprego.	1025759
+Tom finally figured out the problem.	Tom entendeu finalmente o problema.	1025762
+Tom filled the bottle with drinking water.	Tom encheu a garrafa com água potável.	1025766
+Tom filled his glass with water.	Tom encheu de água seu copo.	1025768
+Tom figured out why the machine wasn't working.	Tom percebeu porque a máquina não estava funcionando.	1025770
+Tom felt the cold rain on his face.	Tom sentiu na cara a chuva gelada.	1025776
+Tom felt something crawling on his arm.	Tom sentiu algo a deslizar pelo seu braço.	1025777
+Tom felt like going out for a walk.	Tom sentiu vontade de ir dar uma volta.	1025783
+Tom felt like giving up.	Tom sentiu vontade de desistir.	1025784
+Tom felt like a fish out of water.	Tom sentiu-se como um peixe fora d'água.	1025789
+Tom fell off the roof and died.	Tom caiu do telhado e morreu.	1025807
+Tom fell into the pool.	Tom caiu na piscina.	1025808
+Tom fell asleep on the train.	Tom caiu no sono no trem.	1025810
+Tom fell asleep on the sofa.	Tom adormeceu no sofá.	1025811
+Tom fell asleep on the couch.	Tom adormeceu no sofá.	1025812
+Tom fell and hurt his knee.	Tom caiu e machucou o joelho.	1025815
+Tom fell and broke his arm.	Tom caiu e quebrou o braço.	1025816
+Tom feels a little better this morning.	O Tom sente-se um pouquinho melhor esta manhã.	1025818
+Tom falls asleep as soon as he gets into bed.	O Tom cai no sono assim que se deita na cama.	1025821
+Tom explained his plan in detail.	Tom explicou seu plano em detalhes.	1025831
+Tom enjoys taking a nap in the early afternoon.	Tom gosta de tirar uma soneca no início da tarde.	1025835
+Tom enjoyed himself at the party.	Tom se divertiu na festa.	1025839
+Tom eats with his left hand, but he writes with his right.	Tom come com a mão esquerda, mas escreve com a direita.	1025840
+Tom eats the same food every day.	Tom come a mesma coisa todos os dias.	1025843
+Tom eats the same food day in and day out.	Tom come a mesma comida dia após dia.	1025844
+Tom eats like a horse.	Tom come como um cavalo.	1025853
+Tom eats everything that his mother gives him.	Tom come tudo que sua mãe lhe dá.	1025856
+Tom eats a lot of fish.	Tom come muito peixe.	1025859
+Tom eats a lot of Chinese food.	Tom come muita comida chinesa.	1025860
+Tom dyed his hair dark brown.	Tom pintou o cabelo de marrom-escuro.	1025864
+Tom drank three bottles of wine by himself last night.	Tom bebeu três garrafas de vinho sozinho ontem à noite.	1025885
+Tom drank a few cups of coffee to keep himself awake.	Tom bebeu algumas xícaras de café para se manter acordado.	1025887
+Tom drank a cup of coffee.	Tom tomou uma xícara de café.	1025888
+Tom drank a couple of shots of tequila.	Tom tomou umas doses de tequila.	1025889
+Tom dragged himself out of bed.	O Tom se arrastou da cama.	1025890
+Tom dozed off in French class.	Tom cochilou na aula de francês.	1025891
+Tom doubts that he'll be able to get there on time.	Tom duvida que consiga chegar a tempo.	1025893
+Tom doesn't work here anymore.	Tom não trabalha mais aqui.	1025896
+Tom doesn't want to work tomorrow.	Tom não quer trabalhar amanhã.	1025901
+Tom doesn't want to talk about it.	Tom não quer falar sobre isso.	1025904
+Tom doesn't want to take that kind of risk.	Tom não quer correr esse tipo de risco.	1025905
+Tom doesn't want to take on any more work.	O Tom não quer aceitar mais trabalho.	1025906
+Tom doesn't want to take a walk now.	Tom não quer caminhar agora.	1025907
+Tom doesn't want to read that book.	Tom não quer ler esse livro.	1025909
+Tom doesn't want to miss his flight.	Tom não quer perder o seu voo.	1025910
+Tom doesn't want to live in Boston.	Tom não quer morar em Boston.	1025911
+Tom doesn't want to live by himself.	Tom não quer morar sozinho.	1025912
+Tom doesn't want to go out.	Tom não quer sair.	1025916
+Tom doesn't want to go anywhere in particular.	Tom não quer ir a nenhum lugar em especial.	1025917
+Tom doesn't want to go alone.	Tom não quer ir lá sozinho.	1025918
+Tom doesn't want to give up his dream of becoming an astronaut.	Tom não quer desistir de seu sonho de se tornar um astronauta.	1025919
+Tom doesn't want to eat lunch now.	O Tom não quer almoçar agora.	1025922
+Tom doesn't want to be late.	Tom não quer se atrasar.	1025924
+Tom doesn't want anything to drink.	Tom não quer beber nada.	1025926
+Tom doesn't want any coffee.	Tom não quer café.	1025927
+Tom doesn't think before he speaks.	Tom não pensa antes de falar.	1025948
+Tom doesn't think anybody else wants to come.	Tom não acha que haja mais alguém que queira vir.	1025949
+Tom doesn't sing very well.	Tom não canta muito bem.	1025958
+Tom doesn't seem to like anything.	Tom não parece gostar de nada.	1025959
+Tom doesn't seem to be very tired.	Tom não parece estar muito cansado.	1025960
+Tom doesn't seem to be happy.	Tom não parece estar feliz.	1025961
+Tom doesn't seem to be a Canadian.	Tom não parece ser canadense.	1025964
+Tom doesn't remember what happened.	Tom não lembra o que aconteceu.	1025966
+Tom doesn't remember my name.	Tom não se lembra do meu nome.	1025968
+Tom doesn't remember having said that.	Tom não se lembra de ter dito isso.	1025970
+Tom doesn't realize how lucky he is.	Tom não se dá conta de como ele é sortudo.	1025972
+Tom doesn't read books in French.	O Tom não lê livros em francês.	1025974
+Tom doesn't play the piano nowadays.	Hoje em dia, Tom não toca piano.	1025976
+Tom doesn't pay much attention to how he dresses.	Tom não presta muita atenção a como se veste.	1025979
+Tom doesn't need to work. He's rich.	Tom não precisa trabalhar. Ele é rico.	1025983
+Tom doesn't need to wear glasses anymore.	Tom não precisa mais usar óculos.	1025984
+Tom doesn't need to hurry.	Tom não precisa correr.	1025985
+Tom doesn't need to go.	Tom não precisa ir.	1025986
+Tom doesn't need to go there unless he wants to.	O Tom não precisa ir para lá a não ser que ele queira.	1025988
+Tom doesn't need any money now.	O Tom não precisa de nenhum dinheiro agora.	1025991
+Tom doesn't live too far from here.	Tom não mora muito longe daqui.	1025998
+Tom doesn't live in Boston anymore.	Tom não mora mais em Boston.	1026002
+Tom doesn't like working here.	O Tom não gosta de trabalhar aqui.	1026003
+Tom doesn't like to wear a watch.	Tom não gosta de usar relógio.	1026005
+Tom doesn't like to travel.	Tom não gosta de viajar.	1026006
+Tom doesn't like to stay at home.	Tom não gosta de ficar em casa.	1026007
+Tom doesn't like to speak in public.	O Tom não gosta de falar em público.	1026008
+Tom doesn't like to make mistakes.	Tom não gosta de errar.	1026009
+Tom doesn't like to eat fish.	Tom não gosta de comer peixe.	1026012
+Tom doesn't like to be disturbed.	Tom não gosta de ser incomodado.	1026014
+Tom doesn't like to be alone.	Tom não gosta de ficar sozinho.	1026015
+Tom doesn't like the rainy season.	Tom não gosta da temporada de chuvas.	1026017
+Tom doesn't like the house that he lives in.	Tom não gosta da casa em que mora.	1026019
+Tom doesn't like swimming in this river. He says it's too polluted.	Tom não gosta de nadar neste rio, ele diz que está muito poluído.	1026021
+Tom doesn't like swimming in pools. He prefers swimming in lakes and rivers.	O Tom não gosta de nadar em piscinas. Ele prefere nadar em lagos e rios.	1026022
+Tom doesn't like speaking French.	Tom não gosta de falar francês.	1026025
+Tom doesn't like poker very much.	Tom não gosta muito de pôquer.	1026028
+Tom doesn't like poker at all.	Tom não gosta nem um pouco de pôquer.	1026029
+Tom doesn't like my friends.	O Tom não gosta de meus amigos.	1026033
+Tom doesn't like my family.	Tom não gosta da minha família.	1026034
+Tom doesn't like my dog.	O Tom não gosta do meu cachorro.	1026035
+Tom doesn't like living in the country.	Tom não gosta de morar no campo.	1026037
+Tom doesn't like horror movies.	Tom não gosta de filmes de terror.	1026039
+Tom doesn't like girls who wear high heels.	Tom não gosta de mulheres que usam saltos altos.	1026041
+Tom doesn't like either beer or wine.	Tom não gosta de cerveja ou vinho.	1026043
+Tom doesn't like coffee with sugar.	Tom não gosta de café com açúcar.	1026046
+Tom doesn't like classical music.	O Tom não gosta de música clássica.	1026047
+Tom doesn't like Chinese food.	O Tom não gosta de comida chinesa.	1026049
+Tom doesn't like cheese very much.	Tom não gosta muito de queijo.	1026050
+Tom doesn't know who wrote the graffiti on the wall.	Tom não sabe quem grafitou a parede.	1026058
+Tom doesn't know who baked the cake.	Tom não sabe quem preparou o bolo.	1026065
+Tom doesn't know which color to choose.	Tom não sabe qual cor escolher.	1026066
+Tom doesn't know where to go.	Tom não sabe para onde ir.	1026075
+Tom doesn't know where his umbrella is.	Tom não sabe onde o guarda-chuva dele está.	1026076
+Tom doesn't know what to think.	Tom não sabe o que pensar.	1026078
+Tom doesn't know what to say.	Tom não sabe o que dizer.	1026079
+Tom doesn't know what to order.	Tom não sabe o que pedir.	1026080
+Tom doesn't know what to do next.	Tom não sabe o que fazer depois.	1026084
+Tom doesn't know what time it is.	Tom não sabe que horas são.	1026087
+Tom doesn't know what happened.	Tom não sabe o que aconteceu.	1026090
+Tom doesn't know that I'm Canadian.	Tom não sabe que eu sou canadense.	1026095
+Tom doesn't know my name.	Tom não sabe o meu nome.	1026096
+Tom doesn't know much about Indonesia.	Tom não sabe muito sobre a Indonésia.	1026098
+Tom doesn't know much about art.	Tom não sabe muito sobre arte.	1026099
+Tom doesn't know if it is true or not.	Tom não sabe se é verdade ou mentira.	1026101
+Tom doesn't know how to tie a tie.	Tom não sabe como amarrar uma gravata.	1026105
+Tom doesn't know how to swim.	Tom não sabe nadar.	1026106
+Tom doesn't know how to say what he wants to say in French.	Tom não sabe dizer em francês o que ele quer.	1026108
+Tom doesn't know how to play poker.	Tom não sabe jogar pôquer.	1026111
+Tom doesn't know how to do that.	Tom não sabe como fazer isso.	1026113
+Tom doesn't know how to cook very well.	Tom não sabe cozinhar muito bem.	1026114
+Tom doesn't know how much the ticket will cost.	Tom não sabe quanto custará o ingresso.	1026116
+Tom doesn't know anyone at our school.	O Tom não conhece ninguém na nossa escola.	1026123
+Tom doesn't have to work so hard.	Tom não precisa trabalhar tão arduamente.	1026133
+Tom doesn't have to work on Mondays.	Tom não tem que trabalhar às segundas-feiras.	1026134
+Tom doesn't have to get up early tomorrow.	Tom não tem de levantar cedo amanhã.	1026138
+Tom doesn't have to come here tomorrow.	Tom não precisa vir aqui amanhã.	1026140
+Tom doesn't have enough money.	Tom não tem dinheiro o bastante.	1026147
+Tom doesn't have enough money yet to buy the car he wants.	Tom ainda não tem bastante dinheiro para comprar o carro que ele quer.	1026148
+Tom doesn't have as much energy as he used to.	O Tom não tem tanta energia quanto ele costumava ter.	1026149
+Tom doesn't have any enemies.	Tom não tem inimigos.	1026155
+Tom doesn't have any brothers.	Tom não tem irmãos.	1026160
+Tom doesn't have a driver's license.	O Tomás não tem carta de condução.	1026170
+Tom doesn't have a cat.	Tom não tem um gato.	1026171
+Tom doesn't have a car.	Tom não tem carro.	1026172
+Tom doesn't have a bicycle.	Tom não tem bicicleta.	1026173
+Tom doesn't go to school by bus.	Tom não vai para a escola de ônibus.	1026176
+Tom doesn't go to a good school.	Tom não vai para uma boa escola.	1026178
+Tom doesn't get up early.	Tom não acorda cedo.	1026180
+Tom doesn't feed his dog in the morning, only in the evening.	Tom não alimenta seu cachorro pela manhã, só à noite.	1026191
+Tom doesn't even know how to start a lawn mower.	O Tom nem sabe ligar um cortador de grama.	1026193
+Tom doesn't enjoy doing that sort of thing.	Tom não gosta de fazer esse tipo de coisa.	1026195
+Tom doesn't eat meat or eggs.	Tom não come carne nem ovos.	1026197
+Tom doesn't do things like that.	O Tom não faz as coisas assim.	1026203
+Tom doesn't carry much cash.	Tom não carrega muito dinheiro.	1026206
+Tom doesn't care what happens.	Tom não se importa com o que aconteça.	1026207
+Tom doesn't believe that ghosts exist.	Tom não acredita que fantasmas existem.	1026209
+Tom doesn't believe in God.	Tom não acredita em Deus.	1026210
+Tom doesn't believe in ghosts.	Tom não acredita em fantasmas.	1026211
+Tom doesn't allow people to enter his house.	Tom não deixa entrar pessoas em sua casa.	1026213
+Tom does nothing but watch TV all day.	O Tom não faz nada além de assistir à TV o dia inteiro.	1026217
+Tom divided the pie into three equal parts.	Tom dividiu a torta em três pedaços iguais.	1026220
+Tom dislikes the house he's living in.	Tom não gosta da casa em que vive.	1026221
+Tom dislikes speaking in public.	O Tom não gosta de falar em público.	1026222
+Tom dislikes going to school.	Tom não gosta de ir à escola.	1026224
+Tom disliked school when he was younger.	Tom não gostava da escola quando era mais jovem.	1026226
+Tom discovered that he had made a mistake.	Tom descobriu que havia cometido um erro.	1026230
+Tom died with over ten million dollars in the bank.	Tom morreu com mais de dez milhões de dólares no banco.	1026237
+Tom died with a knife in his back.	Tom morreu com uma faca cravada nas costas.	1026238
+Tom died when he was 97.	Tom morreu quando tinha 97 anos.	1026241
+Tom died three days before he was to receive the award.	Tom morreu três dias antes de receber o prêmio.	1026243
+Tom died in his sleep.	Tom morreu dormindo.	1026249
+Tom died in a traffic accident.	Tom morreu num acidente de trânsito.	1026252
+Tom died in a plane crash.	O Tom morreu num acidente de avião.	1026253
+Tom didn't want to walk the tightrope without a net.	Tom não queria andar na corda bamba sem uma rede.	1026263
+Tom didn't want to eat the worms even though they were high in protein.	O Tom não queria comer os vermes mesmo que tivessem um alto teor de proteína.	1026270
+Tom didn't want this to happen.	Tom não queria que isso acontecesse.	1026272
+Tom didn't want an expensive camera.	O Tom não queria uma câmera custosa.	1026273
+Tom didn't use to drink so much.	O Tom não costumava beber tanto.	1026275
+Tom didn't understand what the teacher said.	Tom não entendeu o que o professor disse.	1026276
+Tom didn't turn off the lights.	Tom não desligou as luzes.	1026277
+Tom didn't think he'd ever have a chance to live in another country.	O Tom não achava que ele teria a chance de morar em um outro país.	1026279
+Tom didn't take many pictures on his trip.	Tom não tirou muitas fotos na viagem dele.	1026282
+Tom didn't swim because it was too cold.	Tom não nadou porque estava muito frio.	1026283
+Tom didn't study at all last weekend.	Tom não estudou nada no final de semana passado.	1026284
+Tom didn't start to study French until he was thirty.	Tom não tinha começado a estudar francês até completar trinta.	1026285
+Tom didn't sleep well last night.	Tom não dormiu bem na noite passada.	1026288
+Tom didn't say how much money he had spent.	Tom não disse quanto dinheiro ele gastou.	1026298
+Tom didn't say how many times he had been there.	Tom não disse quantas vezes ele havia estado lá.	1026299
+Tom didn't run fast enough to catch the bus.	Tom não correu rápido o suficiente para pegar o ônibus.	1026302
+Tom didn't play badminton yesterday.	Tom não jogou badminton ontem.	1026309
+Tom didn't participate in the discussion.	O Tom não participou da discussão.	1026312
+Tom didn't need to hurry. He had plenty of time.	Tom não precisava se apressar. Ele tinha muito tempo.	1026317
+Tom didn't need to buy so much food.	Tom não precisava ter comprado tanta comida.	1026321
+Tom didn't mean to offend anyone.	O Tomás não quis ofender ninguém.	1026327
+Tom didn't mean to do that.	Tom não queria fazer isso.	1026328
+Tom didn't like living in Boston.	O Tom não gostou de viver em Boston.	1026336
+Tom didn't like children then and he still doesn't.	Tom não gostava de crianças naquela época e ainda não gosta.	1026337
+Tom didn't know which bus to take.	O Tom não sabia qual ônibus tomar.	1026341
+Tom didn't know what to do next.	O Tom não sabia o que fazer em seguida.	1026348
+Tom didn't know what he was supposed to do.	Tom não soube o que ele devia fazer.	1026350
+Tom didn't know how many cups of sugar to add.	Tom não sabia quantas xícaras de açúcar adicionar.	1026361
+Tom didn't know apple trees grow from seeds.	O Tom não sabia que macieiras nascem de sementes.	1026367
+Tom didn't keep his promise.	Tom não manteve sua promessa.	1026369
+Tom didn't intend to spend so much time painting the fence.	Tom não pretendia passar tanto tempo pintando a cerca.	1026370
+Tom didn't intend to pay that much.	Tom não tinha a intenção de pagar muito.	1026371
+Tom didn't have to wear a suit and tie, but he did.	Tom não tinha que vestir terno e gravata, mas vestiu.	1026372
+Tom didn't have to get up so early.	Tom não tinha que levantar tão cedo.	1026373
+Tom didn't have to come so early.	Tom não tinha que vir tão cedo.	1026374
+Tom didn't have time to watch TV yesterday.	Tom não teve tempo de assistir TV ontem.	1026375
+Tom didn't have time to watch the TV program he wanted to watch.	Tom não teve tempo de assistir ao programa de TV que queria assistir.	1026376
+Tom didn't have time to think.	Tom não teve tempo de pensar.	1026377
+Tom didn't have time to relax.	Tom não teve tempo de relaxar.	1026378
+Tom didn't have time to eat lunch.	Tom não teve tempo de almoçar.	1026381
+Tom didn't have time to do the job properly.	Tom não teve tempo para fazer o trabalho apropriadamente.	1026382
+Tom didn't have the right equipment to do the job.	Tom não tinha o equipamento certo para fazer o trabalho.	1026384
+Tom didn't have the faintest idea what he was going to do the next day.	Tom não tinha a menor ideia do que ia fazer no dia seguinte.	1026385
+Tom didn't have the decency to admit that he was wrong.	Tom não teve a decência de admitir que estava errado.	1026386
+Tom didn't have the courage to say no.	Tom não teve coragem de dizer não.	1026387
+Tom didn't have the courage to pull the trigger.	Tom não teve coragem de puxar o gatilho.	1026388
+Tom didn't have the courage to go there by himself.	Tom não teve coragem de ir lá sozinho.	1026389
+Tom didn't have the courage to commit suicide.	Tom não teve coragem de cometer suicídio.	1026390
+Tom didn't have the courage to ask his boss for a raise.	Tom não teve coragem de pedir um aumento ao seu chefe.	1026392
+Tom didn't have the courage to admit his mistake.	Tom não teve coragem de admitir seu erro.	1026393
+Tom didn't have much water to drink.	Tom não tinha muita água para beber.	1026394
+Tom didn't have much time so he just quickly scanned the report.	Tom não tinha muito tempo, então apenas passou os olhos pelo relatório.	1026395
+Tom didn't have much money.	Tom não tinha muito dinheiro.	1026396
+Tom didn't have much food to eat.	Tom não tinha muito para comer.	1026397
+Tom didn't have enough space to do what he wanted to do.	Tom não tinha espaço suficiente para fazer o que queria.	1026398
+Tom didn't have enough money.	Tom não tinha dinheiro o suficiente.	1026399
+Tom didn't have enough experience to know what to do.	Tom não tinha experiência suficiente para saber o que fazer.	1026400
+Tom didn't have enough experience to do the job well.	Tom não tinha experiência suficiente para fazer bem o trabalho.	1026401
+Tom didn't have enough experience in dealing with that kind of problem.	Tom não tinha experiência suficiente em lidar com esse tipo de problema.	1026402
+Tom didn't have anything to say on that subject.	Tom não tinha nada a dizer sobre esse assunto.	1026403
+Tom didn't have any idea what he should do.	Tom não tinha nenhuma ideia do que deveria fazer.	1026404
+Tom didn't have any children.	Tom não tinha nenhum filho.	1026405
+Tom didn't give up on the plan.	Tom não desistiu do plano.	1026410
+Tom didn't get up early enough to catch the first train.	Tom não levantou cedo o suficiente para pegar o primeiro trem.	1026412
+Tom didn't get much sleep last night.	O Tom não dormiu muito na noite passada.	1026414
+Tom didn't feel like playing golf.	Tom não estava a fim de jogar golfe.	1026420
+Tom didn't even try to help.	Tom nem sequer tentou ajudar.	1026423
+Tom didn't even try to do the right thing.	Tom nem sequer tentou fazer a coisa certa.	1026425
+Tom didn't enjoy the concert at all.	Tom não gostou nada do show.	1026428
+Tom didn't eat anything yesterday.	Tom não comeu nada ontem.	1026430
+Tom didn't do well on today's test.	Tom não foi bem na prova de hoje.	1026431
+Tom didn't do it on purpose.	Tom não o fez de propósito.	1026434
+Tom didn't do his homework.	Tom não fez a sua lição de casa.	1026435
+Tom didn't die in vain.	Tom não morreu em vão.	1026438
+Tom didn't come to school yesterday.	Tom não veio à escola ontem.	1026440
+Tom didn't buy a new car yesterday, did he?	Tom não comprou um carro novo ontem, comprou?	1026444
+Tom didn't answer all the questions.	Tom não respondeu a todas as perguntas.	1026447
+Tom did what I wanted him to do.	Tom fez o que eu estava esperando dele.	1026450
+Tom did what he said he'd do.	Tom fez o que disse que faria.	1026452
+Tom did what he promised to do.	Tom fez o que prometeu que faria.	1026453
+Tom did the right thing.	Tom fez a coisa certa.	1026457
+Tom did it very carefully.	Tom o fez com muito cuidado.	1026468
+Tom did it on purpose.	Tom fez de propósito.	1026469
+Tom did it on his own.	Tom o fez sozinho.	1026470
+Tom did it against his will.	Tom o fez contra sua vontade.	1026480
+Tom did his best, but he failed.	Tom fez o seu melhor, mas falhou.	1026482
+Tom did all that he could.	Tom fez tudo o que pôde.	1026487
+Tom did a good job.	Tom fez um bom trabalho.	1026490
+Tom denies having done it.	Tom nega ter feito isso.	1026505
+Tom denied having said such a thing.	Tom negou ter dito tal coisa.	1026509
+Tom deliberately broke the window.	Tom quebrou a janela deliberadamente.	1026512
+Tom decided to wait for another hour.	O Tom decidiu esperar mais uma hora.	1026514
+Tom decided to major in French.	Tom decidiu especializar-se em francês.	1026521
+Tom decided to go to Boston.	Tom decidiu ir a Boston.	1026522
+Tom decided not to go to Boston.	Tom decidiu não ir para Boston.	1026526
+Tom cut the pear in half.	Tom cortou a pera ao meio.	1026531
+Tom cut his sister a piece of cake.	Tom cortou um pedaço de bolo à sua irmã.	1026534
+Tom cut his finger on a piece of glass.	Tom cortou o dedo em um pedaço de vidro.	1026536
+Tom crushed the box with his foot.	Tom esmagou a caixa com seu pé.	1026539
+Tom crossed the border into France.	Tom cruzou a fronteira da França.	1026541
+Tom cried like a baby.	Tom chorou como um bebê.	1026543
+Tom cried all night long.	Tom chorou a noite toda.	1026545
+Tom couldn't think of a good place to hide it.	Tom não conseguia pensar num bom lugar para esconder isso.	1026551
+Tom couldn't speak French well.	O Tom não podia falar francês bem.	1026553
+Tom couldn't sleep last night.	Tom não pôde dormir noite passada.	1026556
+Tom couldn't put up with the pain.	Tom não conseguia suportar a dor.	1026561
+Tom couldn't make it to school because of the typhoon.	Tom não conseguiu chegar à escola por causa do tufão.	1026564
+Tom couldn't make himself understood in French.	Tom não podia se expressar em Francês.	1026566
+Tom couldn't get the book he wanted.	Tom não conseguiu o livro que queria.	1026581
+Tom couldn't find what he wanted at the supermarket.	Tom não conseguiu encontrar o que queria no supermercado.	1026584
+Tom couldn't find his key anywhere.	Tom não conseguiu encontrar sua chave em lugar nenhum.	1026586
+Tom couldn't find anybody to go with him, and so he went by himself.	Tom não pôde encontrar ninguém para ir com ele, então, foi sozinho.	1026593
+Tom couldn't do anything about it at that time.	Tom não pôde fazer nada naquela hora.	1026605
+Tom couldn't decide which camera to buy.	Tom não conseguia decidir qual câmera comprar.	1026606
+Tom couldn't decide where to begin.	Tom não conseguiu decidir por onde começar.	1026608
+Tom couldn't control his anger.	Tom não conseguiu controlar sua raiva.	1026615
+Tom couldn't believe his eyes.	Tom não conseguia acreditar no que estava vendo.	1026617
+Tom couldn't believe his ears.	Tom não conseguia acreditar no que ouvia.	1026618
+Tom couldn't attend the meeting.	Tom não pôde comparecer à reunião.	1026620
+Tom couldn't answer even one question on yesterday's test.	Tom não sabia responder a nenhuma questão na prova de ontem.	1026621
+Tom could hear the cat scratching the door.	Tom podia ouvir o gato arranhando a porta.	1026628
+Tom could hardly believe him.	Tom mal podia acreditar nele.	1026631
+Tom could be in the kitchen, but I don't know.	Talvez o Tom esteja na cozinha, mas não sei.	1026635
+Tom could be in Boston for a long time.	Tom poderia ficar em Boston por bastante tempo.	1026636
+Tom could barely make ends meet when he was in his early twenties.	Tom mal podia pagar suas contas por volta dos seus vinte anos.	1026637
+Tom coughed up some blood.	Tom tossiu sangue.	1026638
+Tom contributed a lot of money to charity.	Tom doou muito dinheiro para a caridade.	1026641
+Tom continued reading the newspaper even though the burglar alarm had gone off.	Tom continuou lendo o jornal, mesmo tendo o alarme disparado.	1026642
+Tom considered leaving school, but decided against it.	Tom pensou em abandonar os estudos, mas decidiu não fazer isso.	1026644
+Tom confessed to stealing the money.	Tom confessou ter roubado o dinheiro.	1026647
+Tom concentrated on his work.	Tom se concentrou em seu trabalho.	1026648
+Tom concealed the fact that he had been in prison.	Tom escondeu o fato de que ele havia estado na prisão.	1026649
+Tom concealed his pistol under his coat.	Tom escondeu a pistola debaixo de seu casaco.	1026650
+Tom complained about the weather.	Tom reclamou do clima.	1026653
+Tom complained about the room being too small.	Tom reclamou de o quarto ser muito pequeno.	1026654
+Tom complained about the noise.	Tom reclamou do barulho.	1026655
+Tom complained about his low salary.	Tom reclamou do seu salário baixo.	1026656
+Tom committed suicide by jumping off a bridge.	Tom suicidou-se pulando de uma ponte.	1026659
+Tom comes here once in a while.	Tom vem aqui de vez em quando.	1026662
+Tom comes here nearly every day.	Tom vem aqui quase todos os dias.	1026663
+Tom comes here almost every weekend.	Tom vem aqui quase todo fim de semana.	1026667
+Tom comes here almost every Saturday.	Tom vem aqui quase todo sábado.	1026668
+Tom comes here almost every day.	Tom vem aqui quase todo dia.	1026669
+Tom closed his diary after writing about that day's events.	Tom fechou seu diário depois de escrever sobre os acontecimentos daquele dia.	1026676
+Tom climbed over the fence.	Tom subiu na cerca.	1026678
+Tom climbed Mt. Fuji a few years ago.	Tom escalou o monte Fuji há alguns anos.	1026679
+Tom climbed down from the tree.	Tom desceu da árvore.	1026680
+Tom climbed down from the roof.	Tom desceu do telhado.	1026681
+Tom claimed that he was innocent.	Tom alegou ser inocente.	1026690
+Tom cheated on the geology exam.	Tom colou na prova de geologia.	1026704
+Tom changes his mind a lot.	Tom muda muito de opinião.	1026705
+Tom celebrated his twentieth birthday last week.	Tom celebrou seu vigésimo aniversário na semana passada.	1026710
+Tom caught the ball with his right hand.	Tom pegou a bola com sua mão direita.	1026711
+Tom caught a big fish.	Tom pegou um peixe grande.	1026715
+Tom cares a lot about his reputation.	Tom se preocupa muito com a sua reputação.	1026719
+Tom canceled his hotel reservation.	Tom cancelou sua reserva no hotel.	1026722
+Tom can't write French without making mistakes.	Tom não consegue escrever em francês sem cometer erros.	1026723
+Tom can't tell the difference between Spanish wine and Chilean wine.	Tom não sabe dizer a diferença entre vinho espanhol e vinho chileno.	1026726
+Tom can't swim like he used to.	Tom não consegue mais nadar como costumava.	1026733
+Tom can't swim at all.	Tom não sabe nadar nada.	1026734
+Tom can't speak French. Tom can't speak Spanish either.	Tom não sabe falar francês. Também não sabe falar espanhol.	1026740
+Tom can't speak either French or Spanish.	Tom não sabe falar nem francês nem espanhol.	1026743
+Tom can't see what's written on the blackboard.	Tom não consegue ver o que está escrito no quadro.	1026745
+Tom can't see anything without his glasses.	Tom não consegue ver nada sem seus óculos.	1026746
+Tom can't remember which ping-pong paddle is his.	Tom não consegue se lembrar qual raquete de pingue-pongue é a sua.	1026748
+Tom can't remember the words of the song.	Tom não consegue lembrar as palavras da música.	1026750
+Tom can't remember how to use the shredder.	Tom não consegue lembrar como usar o desfibrador.	1026751
+Tom can't remember his kindergarten teacher's name.	Tom não consegue se lembrar do nome de sua professora do jardim de infância.	1026752
+Tom can't read without glasses.	Tom não consegue ler sem óculos.	1026753
+Tom can't read all these books in one day.	Tom não pode ler todos estes livros em um dia.	1026755
+Tom can't play the piccolo.	Tom não sabe tocar flautim.	1026757
+Tom can't play the drums all that well.	Tom não sabe tocar bateria tão bem assim.	1026758
+Tom can't play tennis very well.	Tom não sabe jogar tênis muito bem.	1026759
+Tom can't play tennis here.	Tom não pode jogar tênis aqui.	1026760
+Tom can't make himself understood in French.	Tom não consegue se fazer entender em francês.	1026765
+Tom can't have done what you say he did.	Tom não pode ter feito o que você disse que ele fez.	1026768
+Tom can't have done that all by himself.	Tom não pode ter feito tudo isso sozinho.	1026769
+Tom can't go to the movies tonight.	Tom não pode ir ao cinema esta noite.	1026770
+Tom can't go to the concert with you tonight.	Tom não pode ir ao concerto com você esta noite.	1026771
+Tom can't go out today because he's sick.	Tom não pode sair hoje porque ele está doente.	1026772
+Tom can't go out because he has a lot of homework.	Tom não pode sair porque tem muita lição de casa.	1026773
+Tom can't get the lid off.	O Tom não consegue tirar a tampa.	1026774
+Tom can't get his car to start.	Tom não consegue arrancar o carro.	1026776
+Tom can't get his car started.	Tom não consegue dar partida no carro.	1026777
+Tom can't get along with his neighbors.	Tom não consegue se dar bem com seus vizinhos.	1026778
+Tom can't finish this job in a day.	Tom não pode terminar este trabalho num dia.	1026779
+Tom can't find his ticket.	Tom não consegue encontrar seu ingresso.	1026780
+Tom can't find his bag.	Tom não consegue encontrar sua bolsa.	1026781
+Tom can't find anyone to help him.	Tom não consegue encontrar ninguém para ajudá-lo.	1026782
+Tom can't find a job.	Tom não consegue encontrar um emprego.	1026783
+Tom can't find a babysitter for Friday night.	Tom não consegue encontrar uma babá para a sexta-feira à noite.	1026784
+Tom can't figure out how to fill out this application form.	Tom não consegue descobrir como preencher este formulário.	1026785
+Tom can't do just one thing at a time.	Tom não consegue fazer uma só coisa de cada vez.	1026795
+Tom can't do his job without an internet connection.	Tom não pode realizar seu trabalho sem uma conexão com a Internet.	1026796
+Tom can't do all this work by himself.	Tom não pode fazer todo este trabalho sozinho.	1026799
+Tom can't describe how painful it was.	Tom não consegue descrever o quão doloroso foi.	1026800
+Tom can't decide which camera to buy.	Tom não consegue escolher qual câmera comprar.	1026803
+Tom can't cook very well, so he often eats out.	Tom não sabe cozinhar muito bem, então ele frequentemente come fora.	1026808
+Tom can't control his children.	Tom não consegue controlar seus filhos.	1026809
+Tom can't come to the office today.	Tom não pode vir ao escritório hoje.	1026810
+Tom can't be over thirty. He looks like he's about eighteen.	Tom não pode ter mais de trinta. Parece que ele tem uns dezoito.	1026814
+Tom can't be hungry. He's just eaten dinner.	Tom não pode estar com fome. Ele acabou de jantar.	1026815
+Tom can't afford to travel by plane.	Tom não tem condições de viajar de avião.	1026819
+Tom can't afford to buy a house.	Tom não tem condições de comprar uma casa.	1026825
+Tom can speak only a little French.	Tom só sabe falar um pouquinho de francês.	1026839
+Tom can speak just a little French.	Tom só sabe falar um pouquinho de francês.	1026840
+Tom can speak French very well.	Tom sabe falar francês muito bem.	1026842
+Tom can speak French better than I can.	Tom sabe falar francês melhor do que eu.	1026844
+Tom can speak French almost like a native.	Tom sabe falar francês quase como um nativo.	1026845
+Tom can speak French almost as well as he can speak Spanish.	Tom sabe falar francês quase tão bem quanto espanhol.	1026846
+Tom can sing a few French songs.	Tom sabe cantar algumas músicas francesas.	1026847
+Tom can run much faster than I can.	Tom consegue correr muito mais rápido do que eu.	1026848
+Tom can play tennis very well.	Tom sabe jogar tênis muito bem.	1026853
+Tom can play tennis quite well.	Tom sabe jogar tênis até que bem.	1026854
+Tom can only speak a little French.	Tom só sabe falar um pouco de francês.	1026856
+Tom can never remember how to spell my name.	Tom nunca consegue se lembrar como se escreve o meu nome.	1026859
+Tom can make himself understood in French.	Tom se faz entender em francês.	1026862
+Tom can hardly see without his glasses.	Tom mal pode ver sem seus óculos.	1026863
+Tom can hardly hear without his hearing aid.	Tom mal pode ouvir sem seu audiofone.	1026864
+Tom can go if he wants to.	Tom pode ir se quiser.	1026867
+Tom can get to work faster on bicycle than by car.	Tom pode chegar ao trabalho mais rápido de bicicleta que de carro.	1026868

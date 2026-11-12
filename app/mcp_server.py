@@ -18,8 +18,8 @@ from nucleo.padrao import __doc__ as LINGUAGEM_PADRAO  # noqa: E402
 
 INSTRUCOES = """
 Você é o lado Claude do Sitcomática, o app em que uma estudante brasileira de inglês procura
-exemplos reais de estruturas gramaticais em falas de séries e filmes e em letras de música (Big Bang Theory, Friends,
-How I Met Your Mother, The Office, Brooklyn 99…). Responda sempre em português; as frases de
+exemplos reais de estruturas gramaticais em falas de séries, filmes, peças e livros e em letras de música.
+Responda sempre em português; as frases de
 exemplo ficam em inglês.
 
 A cliente usa o plano gratuito do Claude, com poucas mensagens: resolva cada pedido com o mínimo de
@@ -29,18 +29,18 @@ chamadas (normalmente um `listar_estruturas` e um `buscar`), sem buscas repetida
 1. Ache a estrutura no catálogo (`listar_estruturas`). Se a cliente descrever com outras palavras
    ("aquela do if com had"), escolha a estrutura certa e diga qual usou.
 2. `buscar` com a estrutura, as obras/personagem/temporada pedidos e a quantidade pedida
-   (padrão 10). `obras` aceita nome de grupo ("Pixar", "Animações Disney", "High School Musical",
-   ou um grupo que a cliente montou no app; veja `listar_obras`); "só filmes"/"só séries"/"só músicas" é `tipo`. Peça uns 30% a mais e descarte, em silêncio, o que claramente não for a estrutura
+   (padrão 10). `obras` aceita nome de grupo (os prontos do banco ou um grupo que a cliente montou
+   no app; veja `listar_obras`); "só filmes"/"só séries"/"só músicas" é `tipo`. Peça uns 30% a mais e descarte, em silêncio, o que claramente não for a estrutura
    (ex.: "had to" num past perfect, "if" no sentido de "whether"). Se descartar algum, pergunte
    no fim se a cliente quer marcar como falso positivo; só chame `marcar_falso_positivo` com esse ok.
 3. Se a estrutura não existir no catálogo, ofereça cadastrar (roteiro abaixo).
 
 ## Formato da resposta
-Uma linha com o total ("Achei 263 frases de past perfect: 148 em Big Bang, 115 em Friends. Quem
-mais usa: Ross."), e então a lista numerada:
+Uma linha com o total ("Achei 263 frases de past perfect: 148 em Emma, 115 em Pride and Prejudice.
+Quem mais usa: Elizabeth."), e então a lista numerada:
 
-**1. Friends · S04E12 · "The One With The Embryos" · ~17:00**
-> **Monica:** I mean if they **had lost**, we **would've made** them get rid of the birds.
+**1. Café da Esquina · S01E02 · "Two Coffees" · ~01:30**
+> **Bia:** I mean if they **had lost**, we **would've made** them get rid of the birds.
 *Por que é third conditional:* had lost = past perfect (condição que não aconteceu) ·
 would've made = would have + particípio (consequência imaginada).
 *Cena:* resumo curto da cena + a fala anterior que dá sentido.
@@ -51,8 +51,7 @@ would've made = would have + particípio (consequência imaginada).
 - Tradução só se a cliente pedir.
 - O tempo (~mm:ss) é estimado pela posição da fala no roteiro; avise uma vez, no fim, que pode
   errar uns 2–3 minutos.
-- Alguns episódios vêm de legendas (Big Bang S11–S12, boa parte de Brooklyn 99 e de HIMYM):
-  sem cena e quase sem personagem; se faltar, diga "personagem não identificado" e use as falas
+- Algumas obras vêm de legendas: sem cena e quase sem personagem; se faltar, diga "personagem não identificado" e use as falas
   vizinhas como contexto.
 - Feche oferecendo: mais exemplos (outra semente), outra obra/personagem, ou guardar algum nos
   favoritos (`favoritar`).
@@ -159,7 +158,8 @@ def listar_obras() -> str:
     obras = busca.listar_obras()
     nomes = {o["id"]: o["nome"] for o in obras}
     linhas = [f"Sitcomática {sobre.numero()} · banco de frases de {busca.rotulo_corpus()}.", "", "Obras:"]
-    rotulo = {"serie": "série", "filme": "filme", "musica": "músicas"}
+    rotulo = {"serie": "série", "filme": "filme", "musica": "músicas", "livro": "livro", "peca": "peça",
+              "conversa": "conversa real", "frases": "frases soltas"}
     linhas += [f"- {o['nome']} ({rotulo.get(o['tipo'], o['tipo'])}"
                + (f", temporadas {o['primeira_temporada']}–{o['ultima_temporada']}, {o['episodios']} episódios"
                   if o["tipo"] == "serie" else f": {o['episodios']}" if o["tipo"] == "musica"
@@ -179,9 +179,9 @@ def buscar(estrutura: str, obras: list[str] | None = None, tipo: str | None = No
     """Busca frases reais com uma estrutura do catálogo.
 
     estrutura: nome exato do catálogo (veja listar_estruturas).
-    obras: nomes das obras (ex.: ["Friends"]); vazio = todas.
-    tipo: "serie", "filme" ou "musica" para limitar; vazio = todos.
-    personagem: ex. "Sheldon". temporada: número.
+    obras: nomes das obras (ex.: ["Emma"]); vazio = todas.
+    tipo: "serie", "filme", "musica", "livro", "peca", "conversa" ou "frases" para limitar; vazio = todos.
+    personagem: ex. "Elizabeth". temporada: número.
     quantidade: quantas frases mostrar (amostra aleatória). semente: troque para outra amostra.
     """
     r = busca.buscar(estrutura=estrutura, obras=obras, tipo=tipo, falante=personagem,

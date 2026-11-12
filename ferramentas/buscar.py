@@ -1,9 +1,9 @@
 """Busca frases no corpus por estrutura do catálogo, padrão gramatical e/ou texto.
 
 Uso:
-  .venv/bin/python -I ferramentas/buscar.py --estrutura "past perfect" --obra friends
+  .venv/bin/python -I ferramentas/buscar.py --estrutura "past perfect" --obra emma
   .venv/bin/python -I ferramentas/buscar.py --padrao '[l=have t=VBD] [t=RB]* [t=VBN]' --limite 10
-  .venv/bin/python -I ferramentas/buscar.py --texto '\\bused to\\b' --falante Sheldon
+  .venv/bin/python -I ferramentas/buscar.py --texto '\\bused to\\b' --falante Elizabeth
   .venv/bin/python -I ferramentas/buscar.py --listar
 
 A linguagem do --padrao está em app/nucleo/padrao.py. O catálogo de estruturas é o mesmo
@@ -27,10 +27,10 @@ def main():
     ap.add_argument("--padrao", help="padrão gramatical sobre os tokens etiquetados")
     ap.add_argument("--texto", help="regex sobre o texto da frase (sem distinção de maiúsculas)")
     ap.add_argument("--excluir", help="regex: descarta frases cujo texto case com ela")
-    ap.add_argument("--obra", action="append", help="nome da obra; pode repetir (ex.: --obra friends)")
+    ap.add_argument("--obra", action="append", help="nome da obra; pode repetir (ex.: --obra emma)")
     ap.add_argument("--tipo", choices=["serie", "filme", "musica"])
     ap.add_argument("--temporada", type=int)
-    ap.add_argument("--falante", help="nome do personagem (ex.: Sheldon)")
+    ap.add_argument("--falante", help="nome do personagem (ex.: Elizabeth)")
     ap.add_argument("--min-palavras", type=int, default=4)
     ap.add_argument("--limite", type=int, default=30, help="quantos resultados mostrar (amostra aleatória)")
     ap.add_argument("--semente", type=int, default=0)

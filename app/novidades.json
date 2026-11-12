@@ -10,7 +10,7 @@
     "versao": "2.1",
     "data": "2026-11-05",
     "itens": [
-      "Agora a busca também procura em músicas! Para começar, três: Love Story (Taylor Swift), drivers license (Olivia Rodrigo) e If I Were a Boy (Beyoncé). Mais músicas chegam com as próximas atualizações.",
+      "Agora a busca também procura em músicas! Para começar, três. Mais músicas chegam com as próximas atualizações.",
       "As frases das músicas aparecem numa parte própria do resultado, \"Músicas\", depois de Séries e Filmes. Em \"Séries, filmes e músicas\" dá para escolher um artista ou \"Todas as músicas\".",
       "Na música, o tempo é o momento exato do verso (nas séries e filmes continua sendo uma estimativa). Na folha, \"De onde é\" mostra o artista e a música.",
       "O refrão não se repete no resultado: cada verso aparece uma vez só.",
@@ -125,8 +125,8 @@
     "data": "2026-10-07",
     "itens": [
       "Primeira versão do Sitcomática.",
-      "Busca de estruturas do inglês em 9 séries e 101 filmes (Disney, Pixar, DreamWorks, Marvel, musicais, comédias).",
-      "Atalhos “Todas as séries” e “Todos os filmes”, grupos prontos (Pixar, Marvel, High School Musical…) e grupos que você monta.",
+      "Busca de estruturas do inglês em 9 séries e 101 filmes (animações, super-heróis, musicais, comédias).",
+      "Atalhos “Todas as séries” e “Todos os filmes”, grupos prontos (estúdios, franquias, musicais…) e grupos que você monta.",
       "Resultado separado em Séries e Filmes, cada um recolhível, e filtro por série, filme ou personagem.",
       "Favoritos, contexto da cena e “Não é essa estrutura” para tirar frases erradas.",
       "Pasta de erros e cópia de segurança diária das suas estruturas, favoritos e grupos."

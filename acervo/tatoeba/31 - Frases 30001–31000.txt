@@ -1,0 +1,1000 @@
+What am I to do?	O que eu devo fazer?	464492
+What are you thinking of?	O que você está pensando?	464510
+What bicycle do you like more?	De qual bicicleta você mais gosta?	464514
+What car do you like more?	De que carro você gosta mais?	464518
+What color cake do you want?	Você quer um bolo de que cor?	464522
+What color is his sweater?	De que cor é a blusa dele?	464524
+What color is your hair?	De que cor é o teu cabelo?	464526
+What do you advise me to do?	O que você me aconselha a fazer?	464536
+What do you do in the afternoon?	O que você faz à tarde?	464538
+What do you like to do in your free time?	O que você gosta de fazer no seu tempo livre?	464542
+What do you like to do?	O que você gosta de fazer?	464544
+What do you want it for?	Para o que você quer isso?	464558
+What have I got to do so that you'll pay attention to me?	O que eu tenho que fazer para que vocês prestem atenção em mim?	464574
+What is it made of?	Do que é feito?	464586
+What is my room number?	Qual é o número do meu quarto?	464588
+What is the exchange rate?	Qual é a taxa de câmbio?	464594
+She looks a lot like her mother.	Ela se parece muito com a mãe.	464657
+I'll help you as much as I can.	Eu o ajudarei o tanto que puder.	464753
+There is a right time for everything.	Há um tempo certo para tudo.	464833
+A bird in the hand is better than two in the bush.	Mais vale um pássaro na mão que dois voando.	464908
+Please tell him to wait.	Diga-lhe que espere, por favor.	464989
+I'd like to talk to John.	Gostaria de falar com John.	465013
+When did you meet him?	Quando você o conheceu?	465024
+Did Mike stop drinking alcoholic drinks?	Mike parou de tomar bebidas alcoólicas?	465054
+We consider Tom to be honest.	Consideramos que Tom seja honesto.	465081
+French is her native language.	O francês é a língua materna dela.	465087
+French is her first language.	O francês é a língua materna dela.	465088
+I intend to write a letter to Judy.	Eu pretendo escrever uma carta para Judy.	465111
+What he says is absolutely correct.	O que ele diz é corretíssimo.	465113
+He's not the same man he used to be.	Ele não é o mesmo homem que costumava ser.	465230
+An android is a kind of robot.	Um androide é um tipo de robô.	465574
+What do you think of him?	O que você acha dele?	465958
+Does Tom have to stay home today?	O Tom tem que ficar em casa hoje?	465961
+We chose John to be captain.	Nós decidimos que John seja o capitão.	465964
+I don't know anything about him.	Não sei nada dele.	465971
+His concert was very good.	O concerto dele foi muito bom.	465972
+Do it the way he tells you to.	Faça como ele lhe disser para fazer.	465980
+Do what he tells you.	Faz o que ele te diz.	465981
+Taro, could you help me?	Taro, você poderia me ajudar?	466019
+Let's drop by his house.	Passemos em sua casa.	466045
+Everyone in his family is tall.	Na família dele todos são altos.	466050
+Watch him and do what he does.	Observe-o e faça o que ele faz.	466162
+I'll visit Mr. Brown tomorrow.	Eu visitarei o Sr. Brown amanhã.	466169
+I visit him every other day.	Eu o visito de dois em dois dias.	466174
+I got that news from Hashimoto.	Recebi aquela notícia de Hashimoto.	466223
+Please remember what he said.	Por favor, lembre-se do que ele disse.	466276
+The country code for calling Italy is 39.	O código de país para ligar para a Itália é 39.	466635
+We have a colleague in Spain.	Temos um colega na Espanha.	466658
+His lectures are very long.	As palestras dele são muito longas.	466911
+He thinks of nothing but himself.	Ele não pensa em nada a não ser em si mesmo.	466913
+You are pretty, like a cherry blossom.	Você é tão bonita qual uma flor de cerejeira.	466949
+Life cannot exist without water.	A vida não pode existir sem a água.	466972
+Could you please tell me why you love her?	Você poderia, por favor, me dizer por que a ama?	467303
+This is the house where I was born.	Esta é a casa onde nasci.	467311
+Iron is a useful metal.	O ferro é um metal útil.	467339
+My son is taller than I am.	Meu filho é maior que eu.	467341
+Where did you see those women?	Onde você viu essas mulheres?	467618
+I would like to give you a piece of advice.	Gostaria de te dar um conselho.	467641
+He doesn't have any friends to play with.	Ele não tem amigos com quem brincar.	467688
+He knocked on the door.	Ele bateu à porta.	467817
+He is very good at the guitar.	Ele é muito bom no violão.	467844
+Ken shared the room with his older brother.	Ken compartilhava o quarto com o irmão mais velho.	467963
+You seem to have mistaken me for my older brother.	Você parece ter me confundido com o meu irmão mais velho.	467966
+How old is your oldest son?	Quantos anos tem seu filho mais velho?	467969
+My older brother is an authority on philosophy.	Meu irmão mais velho é uma autoridade quando o assunto é filosofia.	467995
+I have an older brother and a younger sister.	Eu tenho um irmão mais velho e uma irmã mais nova.	468001
+His older sister is older than my oldest brother.	A sua irmã mais velha é mais velha que o meu irmão mais velho.	468014
+He is rich, but his older brother is poor.	Ele é rico, mas seu irmão mais velho é pobre.	468027
+He is not as smart as his older brother.	Ele não é tão inteligente quanto seu irmão mais velho.	468045
+"Do you know when they will arrive?" "At eleven-thirty this evening."	"Você sabe quando eles vão chegar?" "Às onze e meia desta noite."	468046
+He has three older sisters.	Ele tem três irmãs mais velhas.	468061
+Eating konjac, you will never gain weight.	Comendo konnyaku, você não engorda.	468169
+The little fridge is dirty.	A pequena geladeira está suja.	468774
+Which do you like better, apples or bananas?	O que você prefere? Maçãs ou bananas?	469175
+He might not be happy.	Ele pode não estar feliz.	469179
+My younger sister has two sons, which means I have two nephews.	Minha irmã mais nova tem dois filhos, o que significa que eu tenho dois sobrinhos.	470175
+Once a war breaks out, both sides are in the wrong.	A partir do momento em que uma guerra começa, ambos os lados estão errados.	470178
+The newspaper said that contact with the plane had been lost.	O jornal disse que tinha sido perdido contato com o avião.	470714
+It is getting warmer and warmer.	Está ficando mais e mais quente.	470825
+Do you approve or disapprove of my project?	Você aprova ou desaprova meu projeto?	470851
+I finished writing the report.	Terminei de escrever o relatório.	470856
+Do you have any sisters?	Você tem irmãs?	470858
+The box was full of strawberries.	A caixa estava cheia de morangos.	470865
+If the weather is nice tomorrow, we will have a picnic.	Se o tempo estiver bom amanhã, nós iremos fazer um piquenique.	470872
+I thought he was my brother.	Achava que ele era o meu irmão.	471075
+We found out that he was her father.	Nós descobrimos que ele é o pai dela.	471123
+When I see him, I think of my grandfather.	Quando eu o vejo, penso em meu avô.	471162
+As far as I know, Mr. Smith was a modest man.	Pelo que eu sei, o Sr. Smith era um homem modesto.	471221
+As far as I know, he is a reliable friend.	Pelo que eu sei, ele é um amigo confiável.	471251
+As far as I know, he is honest and reliable.	Pelo que eu sei, ele é honesto e confiável.	471257
+As far as I know, this is the only translation available.	Pelo que eu sei, esta é a única tradução disponível.	471261
+As far as I know, he is a person who keeps his promises.	Pelo que eu sei, ele é uma pessoa que mantém suas promessas.	471265
+To the best of my knowledge, the lake is the deepest at this point.	Que eu saiba, este é o ponto mais profundo do lago.	471278
+To the best of my knowledge, the lake is the deepest here.	De acordo com meus conhecimentos, o lago é o mais profundo daqui.	471288
+As far as I know, he's a nice guy.	Pelo que eu sei, ele é um cara legal.	471315
+As far as I know, she hasn't departed yet.	Pelo que eu sei, ela ainda não partiu.	471323
+As far as I know, he won't come.	Pelo que eu sei, ele não virá.	471331
+As far as I know, he is kind.	Pelo que eu sei, ele é gentil.	471333
+As far as I know, there were no problems during the first semester.	Pelo que eu sei, não houve problemas durante o primeiro semestre.	471338
+As far as I know, he's guilty.	Pelo que eu sei, ele é culpado.	471363
+He was disqualified from the competition.	Ele foi desclassificado da competição.	471374
+He would like to take part in the competition.	Ele queria participar na competição.	471377
+As far as I know, what he has said is true.	Pelo que eu sei, o que ele disse é verdade.	471415
+As far as I know, he has never come on time.	Pelo que eu sei, ele nunca chegou na hora.	471417
+As far as I know, she's still unmarried.	Pelo que eu sei, ela ainda está solteira.	471420
+As far as I know, he isn't lazy.	Pelo que eu sei, ele não é preguiçoso.	471422
+Today, we are going dancing.	Hoje nós vamos dançar.	471423
+As far as I know, he used to be a good student.	Pelo que eu sei, ele era um bom aluno.	471424
+As far as I know, he's a diligent student.	Pelo que eu sei, ele é um aluno aplicado.	471431
+As far as I know, there is no such word.	Pelo que eu sei, não existe tal palavra.	471433
+As far as I know, he's an honest man.	Pelo que eu sei, ele é um homem honesto.	471437
+What is this fish called in English?	Como se chama este peixe em inglês?	471458
+John said, "That's a beautiful tune."	John disse: "Aquela é uma bonita melodia".	471496
+I have never seen a red refrigerator.	Eu nunca vi uma geladeira vermelha.	471785
+Tickets are valid for just two days, including the day they are purchased on.	Os bilhetes apenas são válidos por dois dias, incluindo o dia em que são comprados.	471856
+Harry is an American actor.	Harry é um ator estadunidense.	471871
+We all looked out the window.	Nós olhamos pela janela.	471878
+He listened to music in his room.	Ele ouvia música no seu quarto.	471879
+You must take care of your dog yourself.	Você mesmo deve cuidar do seu cachorro.	471883
+There was a little milk left in the bottle.	Restou um pouquinho de leite na garrafa.	471885
+His ideas never made him any money.	As ideias dele nunca fizeram dinheiro a ele.	472097
+I can't play tennis very well.	Eu não sei jogar tênis muito bem.	472107
+I'm not so good at tennis.	Eu não sou muito bom no tênis.	472108
+The thing you have to know about Batman is, he's a superhero.	O que você tem que saber sobre o Batman é que ele é um super-herói.	472129
+Who are you talking about?	De quem você está falando?	472734
+Please mind the gap between the train and the platform.	Cuidado com o vão entre o trem e a plataforma.	472882
+Today, I have a lot of homework.	Hoje tenho muita lição de casa.	472895
+I would like to leave this town and never come back.	Gostaria de sair desta cidade e nunca mais voltar.	473066
+I grew up on watching Pokémon.	Eu cresci assistindo Pokémon.	473227
+There's a telephone in my room.	Tem um telefone no meu quarto.	473576
+I don't know where he lives.	Não sei onde ele mora.	473587
+I don't know where she lives.	Não sei onde ela mora.	473588
+I didn't want to catch a cold, so I didn't go skiing.	Eu não queria pegar um resfriado, então não fui esquiar.	473596
+He catches colds very easily.	Ele se resfria facilmente.	473602
+May I eat this cake?	Posso comer este bolo?	473813
+Can you pass me the salt?	Você pode me passar o sal?	473814
+Earth is a beautiful planet.	A Terra é um belo planeta.	473816
+I hope that it rains tomorrow.	Espero que chova amanhã.	473824
+I play tennis every day.	Eu jogo tênis todos os dias.	473883
+I've got to make lunch.	Tenho que fazer o almoço.	473952
+The man you met yesterday was Mr Brown.	O homem que você encontrou ontem era o Sr. Brown.	473954
+To see the answer to the question, simply click on the question.	Clique sobre a pergunta para visualizar sua resposta.	474109
+Tea with lemon for me, please.	Para mim, chá com limão, por favor.	474114
+The transportation in this city is very convenient.	O transporte nesta cidade é muito prático.	474217
+My house has a fruit garden.	Minha casa tem um pomar.	474238
+There are a lot of deer in Nara.	Há muitos cervos em Nara.	474593
+She knows nothing about your family.	Ela não sabe nada de sua família.	474595
+Have you brought your ID card with you?	Você trouxe sua carteira de identidade?	474600
+Do you approve of what he is doing?	Você apoia o que ele está fazendo?	474602
+Do you approve of what she is doing?	Você apoia o que ela está fazendo?	474603
+If I have time and enough money, I'd want to go traveling in Europe.	Se eu tiver tempo e dinheiro suficientes, gostaria de viajar para a Europa.	474609
+I've shut all six windows.	Eu fechei todas as seis janelas.	474618
+That's not a cat. That's a dog.	Não é um gato. É um cachorro.	475485
+I like her very much.	Gosto muito dela.	475647
+Today is a sunny day.	Hoje é um dia ensolarado.	475673
+When you leave, I'll miss you.	Quando você partir, sentirei a sua falta.	475703
+I was hungry and thirsty.	Estava com fome e sede.	475748
+That's not a cat. It's a dog.	Não é um gato. É um cachorro.	475753
+Are you speaking to me?	Você está falando comigo?	475755
+It's fun to learn slang words in foreign languages.	É divertido aprender gírias em línguas estrangeiras.	475757
+Do you know anyone who's not on Facebook?	Você conhece alguém que não esteja no Facebook?	475758
+One plus two equals three.	Um mais dois é igual a três.	475773
+It's still too early to talk about this now.	Ainda é muito cedo para falar sobre isso agora.	475907
+Shouldn't you overlook his indiscretions and forgive him?	Você não pode omitir suas indiscrições e perdoá-lo?	476151
+As usual, Mike was late for the meeting this afternoon.	Como de costume, Mike atrasou-se para a reunião esta tarde.	476174
+He lost his eyesight in an accident.	Ele perdeu a vista em um acidente.	476191
+Israel should be wiped off the map.	Israel deveria ser varrido do mapa.	476331
+My father hates the summer heat.	O meu pai odeia o calor do verão.	476382
+Excuse me, is there a toilet nearby?	Com licença, há banheiros aqui perto?	476421
+What day is it today?	Que dia é hoje?	476431
+He asked us to help him.	Ele pediu-nos para o ajudar.	476446
+He came to ask us for our help.	Ele veio para pedir a nossa ajuda.	476447
+One of the lights is not working. Do you think you could come take a look?	Uma das luminárias não está funcionando. Você poderia vir dar uma olhada?	476460
+He motioned for me to follow him.	Ele deu sinal para que eu o seguisse.	476467
+Open the door a bit!	Abra um pouco a porta.	476469
+Life never ends but earthly life does.	A vida é eterna, mas a vida terrena tem fim.	476485
+No man can know them, no hunter can shoot them, with powder and lead - Thoughts are free!	Ninguém pode conhecê-los, nenhum caçador pode atirar neles com pólvora ou chumbo - Os pensamentos são livres!	476620
+We stayed at home because it was raining.	Ficamos em casa porque estava chovendo.	476633
+Please wait for thirty minutes.	Por favor, espere trinta minutos.	476755
+Pakistan is a Muslim country.	O Paquistão é um país muçulmano.	477053
+Auldey is a Chinese brand.	Auldey é uma marca chinesa.	477097
+I was your inspiration for this sentence, and you know it.	Eu fui sua inspiração para essa frase e você sabe disso.	477120
+Thai is the official language in Thailand.	A língua oficial da Tailândia é o tailandês.	477176
+I really don't understand this problem.	Eu realmente não entendo este problema.	477179
+My god is the greatest!	Meu deus é o maior!	477186
+I usually get up at eight o'clock.	Normalmente eu me acordo às oito.	477193
+Paraguay is a country in South America.	O Paraguai é um país da América do Sul.	477214
+He wouldn't let anyone interfere in his personal affairs.	Ele não permitiria que ninguém se intrometesse em seus assuntos privados.	477218
+Contract of partnership between [Company 1] and [Company 2].	Contrato de parceria entre [sociedade 1] e [sociedade 2].	477223
+Can you mend these shoes for me?	Você pode me arrumar esses sapatos?	477225
+I work every day but Sunday.	Eu trabalho todos os dias exceto aos domingos.	477261
+Mary helped her mother with the cooking.	Mary ajudou a mãe a cozinhar.	477323
+If something's an android, it's also a robot.	Se alguma coisa for um androide, também é um robô.	477332
+Jupiter is the most massive planet in the solar system.	Júpiter é o maior planeta do sistema solar.	477348
+My father works in a factory.	Meu pai trabalha numa fábrica.	477355
+My grades are above average.	Minhas notas estão acima da média.	477358
+Jump on the creature to kill it.	Pule sobre a criatura para matá-la.	477373
+She loved me in the same way that I loved her.	Ela me amava da mesma forma que eu a amava.	477588
+Someone has cut my kite string.	Alguém cortou a corda da minha pipa.	477697
+Our health is our most precious possession.	Nossa saúde é o nosso bem mais precioso.	477701
+Wake me up at seven.	Acorde-me às sete.	477745
+This book is for you.	Este livro é para você.	477849
+Betty speaks Esperanto very well.	Betty fala esperanto muito bem.	477976
+Tatoeba: Ever heard of sentence fights? Yeah, that's what we do for fun.	Tatoeba: já ouviu falar de guerras de frases? Isso mesmo, é isso que fazemos para nos divertir.	478036
+In Soviet Russia, sentence writes you!	Na Rússia soviética, a frase escreve você!	478089
+That building has no emergency exit.	Aquele prédio não tem saída de emergência.	478190
+In Soviet Russia, food eats troll!	Na Rússia soviética, a comida come o troll!	478380
+I'm tired of listening to your bragging.	Estou cansado de ouvir a sua gabação.	478383
+Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.	Milhões de pessoas que sonham com a imortalidade não sabem sequer o que fazer numa tarde chuvosa de domingo.	478470
+I'd explain it to you, but your brain would explode.	Eu explicaria para você, mas seu cérebro iria explodir.	478481
+I think he won't accept the proposal.	Acho que ele não aceitará a proposta.	478524
+Come to think of it, I really need a cellphone.	Pensando bem, eu preciso mesmo de um celular.	478561
+I was really young when I met you.	Eu era mesmo jovem quando a encontrei.	478565
+Sing a song in your language, please!	Cante uma música no seu idioma, por favor!	478567
+When will you ever learn?	Quando você vai aprender alguma vez?	478573
+She was blind, deaf, and dumb.	Ela era cega, surda e muda.	478574
+Sounds like you're having fun.	Parece que você está se divertindo.	478576
+I wonder where your brother has gone to.	Pergunto-me aonde o teu irmão foi.	478577
+Let's make our own language so no one will know what we're talking about!	Vamos criar a nossa própria língua para que ninguém saiba do que estamos falando!	478578
+Have you eaten a banana pie?	Você já comeu torta de banana?	478596
+YouTube is not a good website.	O YouTube não é um bom site.	478976
+I would like to order a sandwich.	Gostaria de pedir um sanduíche.	479012
+Can you call a taxi for me?	Você pode me chamar um táxi?	479016
+In 1958, Brazil won its first World Cup victory.	Em 1958, o Brasil ganhou sua primeira Copa do Mundo.	479130
+The Eiffel Tower is in the same city as the Louvre Museum.	A Torre Eiffel fica na mesma cidade que o Museu do Louvre.	479194
+"Will he come?" "No, I don't think so."	"Ele vai vir?" "Não, eu acho que não."	479306
+Thai is the official language of Thailand.	O tailandês é a língua oficial da Tailândia.	479396
+Tatoeba is open source software.	Tatoeba é um programa gratuito.	479433
+I got on the wrong bus.	Peguei o ônibus errado.	479979
+What did you do last vacation?	O que você fez nas últimas férias?	480006
+I will read a book.	Eu vou ler um livro.	480027
+You need to pay extra for the batteries.	Você precisa pagar a mais pelas baterias.	480055
+Mathematics is a good subject.	Matemática é um bom assunto.	480075
+My job is to take care of the baby.	Meu trabalho é cuidar do bebê.	480109
+It's my job to take care of the baby.	É meu trabalho tomar conta do bebê.	480113
+Taking care of the baby is my job.	Cuidar do bebê é meu trabalho.	480114
+You can't live on this side anymore.	Você está mais pra lá do que pra cá.	480122
+The old man died from hunger.	O idoso morreu de fome.	480146
+He was hit by a car and died right away.	Um carro o atropelou e ele morreu na hora.	480153
+The sugar is in the bag.	O açúcar está na sacola.	480156
+Republic Day is celebrated on the twenty-sixth of January.	O dia da República é celebrado em vinte e seis de janeiro.	480232
+On the fifteenth of August, thousands of people fly kites.	No dia 15 de agosto milhares de pessoas soltam pipas.	480242
+He's in a bad state.	Ele está mal.	480264
+If he's fluent in English, I'll hire him.	Se ele for fluente em inglês, eu o contratarei.	480328
+It's been a long night.	Foi uma noite longa.	480367
+One year has twelve months.	Um ano tem doze meses.	480575
+He has a lot of money.	Ele tem muito dinheiro.	480576
+I always think of my father when I look at this picture.	Eu sempre penso no meu pai quando olho para essa foto.	480577
+Kinshasa is the capital city of the Democratic Republic of Congo.	Kinshasa é a capital da República Democrática do Congo.	480582
+If I could be that guy instead of me.	Se eu pudesse ser aquele cara em vez de mim.	480787
+They finished a journey of 80 miles.	Eles terminaram uma viagem de 80 milhas.	481040
+Where's the nearest train station?	Onde é a estação de comboio mais próxima?	481057
+He's not a scientist, but he is our friend.	Ele não é um cientista, mas é nosso amigo.	481573
+I would like to buy some aspirin.	Gostaria de comprar aspirina.	481597
+He introduced his sister to me.	Ele me apresentou sua irmã.	481624
+I would like some fish.	Queria algum peixe.	481631
+Trang is as pretty as Dorenda.	Trang é tão bonita quanto Dorenda.	481686
+Fear not because there is nothing to fear.	Não tema a nada, porque não há nada a temer.	481823
+I really want to know.	Eu quero mesmo saber.	481845
+Yes, that happens from time to time.	Sim, isso acontece de vez em quando.	481872
+In her youth, my mother was very beautiful.	A minha mãe era muito linda, na juventude.	481875
+Please don't run in the classroom.	Por favor, não corram na sala de aula.	482046
+You can go if you want.	Você pode ir se quiser.	482091
+The lake is very deep.	O lago é tão profundo.	482141
+If you ask a mathematician if he is an adult or a minor, don't be surprised if he answers "yes".	Se você pergunta a um matemático se ele é adulto ou menor, não se surpreenda se ele responder "sim".	482179
+Mom is older than Dad.	A mamãe é maior que o papai.	482368
+There are frequently earthquakes in Japan.	Frequentemente há terremotos no Japão.	482395
+He is at his office.	Ele está em seu escritório.	482482
+Your eyes are as beautiful as the arms of the Venus de Milo.	Seus olhos são tão belos quanto os braços da Vênus de Milo.	482616
+You can speak English well, can't you?	Você sabe falar inglês bem, não sabe?	482663
+There is no excuse for your actions.	Não há descupa para suas ações.	482678
+The net got entangled in the screw.	A rede enroscou na hélice.	482925
+I ride my bike to work.	Eu vou trabalhar de bicicleta.	483017
+There is nothing to cancel.	Não há nada para cancelar.	483215
+I asked him to send us the book.	Eu pedi para que ele nos enviasse o livro.	483338
+Guns don't kill people. People kill people.	Armas não matam pessoas. Pessoas matam pessoas.	483350
+Doctor, my name is Mutaz.	Doutor, meu nome é Mutaz.	483359
+I love to go to the movies.	Eu adoro ir ao cinema.	483369
+Life has its ups and downs.	A vida tem seus altos e baixos.	483603
+She never dreamed that she could win first prize.	Ela nunca sonhou que pudesse conquistar o primeiro prêmio.	483679
+Ripe papaya smells like vomit.	Mamão maduro cheira a vômito.	483701
+A schwa represents a neutral vowel.	Um xevá representa uma vogal neutra.	483719
+Compared to those around him, he looked really happy.	Comparado àqueles à sua volta, ele parecia muito feliz.	483723
+I just fixed the car yesterday!	Acabei de consertar o carro ontem!	483835
+He is a pioneer in this field.	Ele é um pioneiro neste campo.	483837
+You'll feel better if you take these pills.	Você vai se sentir melhor se tomar estas pílulas.	484017
+I have to help my mother.	Devo ajudar a minha mãe.	484051
+I must help my mother.	Devo ajudar a minha mãe.	484052
+My mother washes clothes every day.	Minha mãe lava roupa todos os dias.	484053
+My mother left me a message.	Minha mãe me deixou uma mensagem.	484054
+Our mother bought us a puppy.	Nossa mãe nos comprou um filhote.	484055
+My mother made a sweater for me.	A minha mãe fez um suéter para mim.	484057
+My mother made me a sweater.	A minha mãe fez um suéter para mim.	484058
+Mom, can I go swimming?	Mamãe, posso ir nadar?	484065
+Mommy, may I go swimming?	Mamãe, posso ir nadar?	484077
+Respect yourself and you will be respected.	Respeite a você mesmo e serás respeitado.	484146
+It looks like it's quarter past ten now.	Agora devem ser umas dez e quinze.	484461
+I have a test tomorrow.	Eu tenho prova amanhã.	484670
+There are sixty seconds in a minute.	Há sessenta segundos em um minuto.	484682
+He'll come at quarter past three.	Ele vem às três e um quarto.	484701
+Do you like eating fish?	Você gosta de comer peixe?	484882
+I learned a lot about Greek culture.	Aprendi muito sobre a cultura grega.	484963
+He works in the lab.	Ele trabalha no laboratório.	484983
+I am seeing Mary this afternoon.	Vou ver Mary esta tarde.	484992
+In order to better use a language, and to understand it better, you need to learn new words.	Para usar melhor um idioma e entendê-lo melhor, é necessário aprender novas palavras.	485003
+In Esperanto, the main stress always falls on the second-to-last syllable.	Em Esperanto o acento tônico é sempre na penúltima sílaba..	485007
+Have you already seen as nice a movie as this one?	Você já viu um filme tão bom quanto este?	485033
+It's obvious that you're wrong.	É óbvio que você está equivocado.	485050
+Why don't you listen to me?	Por que você não me escuta?	485064
+We need to water the flowers.	Precisamos molhar as flores.	485070
+It is out of the question.	Isto está fora de questão.	485096
+Everything is better without you.	Tudo é melhor sem você.	485154
+My mother is making my father a cake.	Minha mãe está fazendo um bolo para o meu pai.	485484
+My mother is making a cake for my father.	A minha mãe está fazendo um bolo para o meu pai.	485485
+Could you do me a favor?	Poderia me fazer um favor?	485496
+This is the window he broke.	Esta é a janela que ele quebrou.	485802
+A driver's job is not as easy as it looks.	O trabalho de um motorista não é tão fácil quanto parece.	485807
+Our baby isn't speaking yet.	O nosso bebé ainda não fala.	485809
+Your dog is very fat.	Seu cachorro é muito gordo.	485958
+Could you get a hammer for me from the kitchen please?	Você pode me trazer um martelo da cozinha, por favor?	486000
+Mom is getting dinner ready.	Mamãe está preparando a janta.	486130
+My mother is now crazy about tennis.	Minha mãe agora é louca por tênis.	486139
+She is poor, but happy.	Ela é pobre, porém feliz.	486246
+In Japan, there is no lake bigger than Lake Biwa.	No Japão não há nenhum lago maior que o lago Biwa.	486280
+She's lost her car keys.	Ela perdeu as chaves do carro.	486550
+That guy has a screw loose!	Esse cara tem um parafuso solto!	487025
+Anime director Satoshi Kon died of pancreatic cancer on August 24, 2010, shortly before his 47th birthday.	O diretor de animação japonesa Satoshi Kon morreu de câncer no pâncreas em 24 de agosto de 2010, pouco antes do seu 47º aniversário.	487116
+You often find that sympathy turns into love.	Com frequência, descobrimos que a simpatia se transforma em amor.	487156
+Few students know how to read Latin.	Poucos estudantes sabem ler latim.	487169
+Nobody lives in this house.	Ninguém mora nessa casa.	487172
+The Taj Mahal is a mausoleum located in Agra, India.	O Taj Mahal é um mausoléu localizado em Agra, na Índia.	487556
+The Taj Mahal is one of the seven wonders of the world.	O Taj Mahal é uma das sete maravilhas do mundo.	487561
+The capital of India is New Delhi.	A capital da Índia é Nova Délhi.	487564
+Mumbai is the capital of the Indian state of Maharashtra.	Mumbai é a capital do estado indiano de Maarastra.	487594
+Mumbai is the most populous city in India and the second most populous city in the world.	Bombaim é a cidade mais populosa da Índia e a segunda mais populosa do mundo.	487596
+Bombay is the former name of Mumbai and was given to it by the English.	Bombaim era o nome antigo de Mumbai e foi dado pelos ingleses.	487600
+It is nothing for me.	Isso não é para mim.	487614
+I would like to go for a swim.	Gostaria de ir nadar.	487886
+I want to go for a swim.	Quero ir nadar.	487887
+Who's the boy swimming over there?	Quem é aquele menino nadando ali?	487931
+I used to swim every day when I was a child.	Costumava nadar todos os dias quando era pequeno.	487941
+There are more Buddhists in Germany today than people who know how to make a good chocolate cake.	Há mais budistas na Alemanha nos dias de hoje que pessoas que sabem fazer um bom bolo de chocolate.	487981
+Nail polish is useless: no one looks at nails anyway.	Esmalte é inútil: ninguém olha para unhas mesmo.	488030
+There was blood all over the floor.	Havia sangue por todo o chão.	488032
+The floor was covered with blood.	O chão estava coberto de sangue.	488033
+I live in this hotel.	Moro neste hotel.	488157
+He has no more strength.	Ele não tem mais força.	488161
+I am no longer able to handle the chest pain.	Não consigo mais suportar a dor no peito.	488164
+It is a little cold.	Está um pouco frio.	488166
+John made a book shelf.	John fez uma estante de livros.	488176
+He does not even know how to sign his name.	Ele não sabe nem fazer uma assinatura.	488200
+My uncle teaches English at the university.	Meu tio ensina inglês na universidade.	488202
+I won't stoop down to his level.	Eu não irei me rebaixar a seu nível.	488267
+The capital of Himachal Pradesh, Shimla, is only 115 kilometres away from Chandigarh.	A capital de Himachal Pradexe, Ximelá, está a apenas 115 quilômetros de Chandigar.	488669
+Everything happens for a reason.	Tudo acontece por uma razão.	488808
+Well, stranger things have happened.	Bem, coisas mais estranhas aconteceram.	488820
+It was truly a miracle.	Foi um verdadeiro milagre.	488978
+Her daughter has become a beautiful woman.	Sua filha se tornou uma linda mulher.	489167
+Translate this sentence into English.	Traduza essa frase para o inglês.	489199
+I've only got one left.	Só tenho mais um.	489210
+This is not your book, it's mine.	Este não é o seu livro, é o meu.	489227
+Where can I pick up my airplane ticket?	Onde posso retirar minha passagem aérea?	489402
+She gave me a watch.	Ela me deu um relógio.	489438
+I plan to hire someone who can speak English.	Eu pretendo contratar alguém que saiba falar inglês.	489449
+He was wet to the skin from the rain.	Ele estava encharcado por causa da chuva.	489844
+I want to eat out tonight.	Quero comer fora hoje.	490011
+I like tennis and golf.	Eu gosto de tênis e golfe.	490138
+I will go to the meeting.	Eu vou à reunião.	490262
+My uncle gave his car to me.	Meu tio me deu o carro dele.	490355
+My uncle gave me his car.	Meu tio me deu o carro dele.	490358
+Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.	A religião é considerada pelas pessoas comuns como verdadeira, pelos sábios, como falsa, e pelos governos, como útil.	490571
+Kyiv is the capital of Ukraine.	Kiev é a capital da Ucrânia.	490628
+The plane landed on my dad's farm.	O avião pousou na fazenda do meu pai.	490668
+Can you give me an example?	Você poderia me dar um exemplo?	490674
+They had no alternative energy sources.	Eles não têm nenhuma fonte alternativa de energia.	490683
+We drink our tea with sugar.	Tomamos nosso chá com açúcar.	490841
+We put sugar in our tea.	Colocamos açúcar em nosso chá.	490842
+We take our tea with sugar.	Tomamos o chá com açúcar.	490843
+We used to be neighbours.	Nós éramos vizinhos.	491012
+The Ukrainian language is very melodious.	A língua ucraniana é muito melodiosa.	491028
+Mark Zuckerberg stole my idea!	O Mark Zuckerberg roubou a minha ideia!	491362
+He has a nose bleed.	O nariz dele está sangrando.	491372
+I like Tom because he's honest.	Gosto do Tom porque ele é honesto.	491398
+It was proved that he was a thief.	Foi provado que ele era um ladrão.	491806
+In the meantime, cut the bread into cubes and fry them in hot oil.	Enquanto isso, corte as fatias de pão em dados e frite-os no óleo quente.	491907
+Please bring me a half-bottle of wine.	Por favor, traga-me meia garrafa de vinho.	491961
+Is there a train station near here?	Há alguma estação de trem perto daqui?	492050
+In accepting the money, he lost the respect of the people.	Ele perdeu o respeito de seu povo quando aceitou o dinheiro.	492407
+'Radioactivity' is a chemistry term.	"Radioatividade" é um termo químico.	492548
+She spends a lot of money on books.	Ela gasta bastante dinheiro em livros.	492629
+She thought that I was a doctor.	Ela achava que eu era médica.	492633
+The baby cried all night.	O bebê chorou a noite toda.	492680
+The boy didn't change his opinion.	O rapaz não mudou de opinião.	492729
+Teacher, I will write it in pen.	Professora, vou escrever de caneta.	493016
+Do you know the answer?	Você sabe a resposta?	493028
+I would drink some jasmine green tea.	Eu gostaria de beber um pouco de chá de jasmim.	493308
+He is a man of few words.	Ele é um homem de poucas palavras.	493766
+The girl who works at the bakery is cute.	A garota que trabalha na padaria é bonitinha.	493935
+Don't talk to him about it.	Não fale com ele sobre isso.	494073
+This is why I came back.	É por isso que eu voltei.	494182
+I fell in love with her at first sight.	Eu me apaixonei por ela desde o instante em que a vi.	494218
+That mountain is easy to climb.	Aquela montanha é fácil de escalar.	494219
+The grass is always greener on the other side of the fence.	A grama do vizinho é sempre mais verde.	494222
+"You have expensive taste!" the shopkeeper exclaimed. "Are you sure you don't want to look through our cheaper variants first?"	"Você tem um gosto caro!", exclamou o lojista. "Tem certeza de que não quer dar uma olhada em nossas variantes mais baratas primeiro?"	494511
+Are you for or against the war?	Vocês são contra ou a favor da guerra?	495067
+He has many history books.	Ele tem muitos livros de história.	495381
+I hope it stops raining.	Eu espero que pare de chover.	495494
+Her eyes filled with tears.	Seus olhos encheram-se de lágrimas.	495565
+This book is about China.	Este livro é sobre a China.	495591
+I once found a book there.	Uma vez encontrei um livro ali.	495594
+The whole family was sick in bed.	Toda a família estava doente de cama.	495621
+This car is going 60 kilometers an hour.	Este carro vai a sessenta quilômetros por hora.	495632
+Mr. Suzuki studied French before he went to France.	O Sr. Suzuki estudou francês antes de ir à França.	495638
+Why do you need this money?	Para que você precisa desse dinheiro?	495642
+It isn't necessary to answer that letter.	Não é necessário responder a essa carta.	495676
+Does he write letters in English?	Ele escreve cartas em inglês?	495859
+Don't make noise when you eat soup.	Não faça barulho ao comer a sopa.	495876
+I'm actually a university teacher.	Na verdade, eu sou professor universitário.	496113
+I can't drink any more beer.	Eu não consigo beber mais nenhuma cerveja.	496135
+I haven't heard that story yet.	Eu ainda não ouvi essa história.	496152
+Isn't she a good French singer?	Ela não é uma boa cantora francesa?	496191
+Do you believe in a god?	Você crê em Deus?	496235
+Do you wash your hands before eating?	Você lava as mãos antes de comer?	496321
+If you're not on Facebook, you don't exist!	Se não estás no Facebook, não existes!	496533
+They broke off their engagement.	Eles romperam o noivado.	496535
+I got a letter from a friend.	Recebi uma carta de um amigo.	496545
+I'll call you as soon as I'm free.	Te ligarei assim que estiver livre.	496548
+The TV remote control is under the couch.	O controle remoto da TV está debaixo do sofá.	496550
+My mother has a driver's license, but she doesn't drive.	Minha mãe tem carteira de motorista, mas não dirige.	497111
+My father drives to work.	Meu pai vai de carro para o trabalho.	497115
+Our teacher will go to the USA next month.	Nosso professor irá para os EUA no próximo mês.	497117
+She speaks English as well as I do.	Ela fala inglês tão bem quanto eu.	497126
+I can't speak English as well as he can.	Não falo inglês tão bem quanto ele.	497127
+That woman is much older than I am.	Essa mulher é mais velha que eu.	497133
+That dress looks good on you.	Esse vestido cai bem em você.	497134
+Europeans like to drink wine.	Os europeus gostam de beber vinho.	497135
+I can't find what I want.	Não consigo encontrar o que quero.	497210
+A week today I'll be in England.	De hoje a oito, estarei na Inglaterra.	497395
+This region has completely changed.	Essa região tem mudado completamente.	497476
+The next concert will take place in June.	O próximo concerto acontecerá em junho.	497478
+Products with GMO are dangerous to human life.	Produtos com OGM são perigosos para a vida humana.	497532
+Please keep your voice down.	Por favor, mantenha a voz baixa.	497566
+I don't feel at ease here.	Não me sinto cómodo aqui.	497596
+It is not easy for him to learn English.	Não é fácil para ele aprender inglês.	497714
+You can give me some money?	Você pode me dar algum dinheiro?	497723
+I met an American girl.	Conheci uma garota norte-americana.	497740
+Children always want to become adults.	As crianças sempre querem se tornar adultos.	497931
+I want a knife to cut the rope with.	Quero uma faca para cortar a corda.	497942
+We were able to see the sunset from our window.	Podíamos ver o pôr do sol da nossa janela.	497944
+If it snows tomorrow, I'll build a snowman.	Se amanhã nevar, eu farei um boneco de neve.	497947
+You will go to school.	Você irá ao colégio.	497951
+The risk is too great.	O risco é muito grande.	497959
+He's afraid of making mistakes.	Ele tem medo de errar.	497975
+Apparently, the bus is late.	Aparentemente, o ônibus está atrasado.	498010
+Just because he's rich, doesn't mean he's happy.	Só porque ele é rico, não quer dizer que seja feliz.	498064
+Because the traffic light turned red, he stopped his car.	Como o semáforo ficou vermelho, ele parou o carro.	498071
+We finally reached the top of Mt. Fuji.	Enfim chegamos ao topo do Monte Fuji.	498112
+A week from today, I'll be in England.	Daqui a uma semana estarei na Inglaterra.	498114
+Maximus is the savior of Rome.	Maximus é o salvador de Roma.	498140
+Give me a ring when you decide to marry me.	Me liga quando você resolver casar comigo.	498160
+I want to go to Australia with my family.	Quero ir para a Austrália com minha família.	498452
+A square is a quadrilateral with four sides the same and where all four corners are right angles.	Um quadrado é um quadrilátero com os quatro lados iguais e onde os quatro ângulos são retos.	499382
+What does this sign mean?	O que essa placa quer dizer?	499475
+Jupiter is the largest planet in the Solar System.	Júpiter é o maior planeta do sistema solar.	499549
+I plan to buy him a pen.	Eu pretendo comprar-lhe uma caneta.	499581
+Why don't we take him a bottle of wine?	Por que não lhe trazemos uma garrafa de vinho?	499592
+I'm in love with you.	Estou apaixonado por você.	499751
+My left hand is numb.	A minha mão esquerda está dormente.	499957
+Mark in red anything you don't understand and ask about it in class.	Marque de vermelho tudo o que não entender e peça sobre isso na aula.	499981
+I ran as fast as lightning.	Corri tão rápido quanto um relâmpago.	500070
+I eat in the classroom.	Eu como na sala de aula.	500368
+Do you have something to say?	Tem algo a dizer?	500454
+Is ten thousand yen enough?	Dez mil ienes são suficientes?	500494
+We are all convinced that he's guilty.	Estamos todos convencidos de que ele é culpado.	500495
+You can adjust game configuration options when starting the game for the first time.	Você pode ajustar as opções de configuração do jogo quando você o inicia pela primeira vez.	500514
+Kids love pasta in tomato sauce.	As crianças adoram macarrão com molho de tomate.	501195
+I deactivated my Twitter account yesterday.	Eu desativei minha conta do Twitter ontem.	501264
+He lives in a flat.	Ele mora em apartamento.	501303
+She was washing the dishes.	Ela estava lavando as louças.	501378
+I would rather have a cat than a dog.	Eu preferiria ter um gato a um cão.	501567
+I repaid him the money I owed him.	Devolvi-lhe o dinheiro que lhe devia.	501686
+He saw a butterfly on the wall.	Ele viu uma borboleta na parede.	501837
+What happened to make you laugh so much?	O que aconteceu para que você ria assim?	501899
+I want to learn Hebrew.	Eu quero aprender hebraico.	502170
+She was on the verge of killing herself.	Ela estava prestes a se matar.	502252
+Then, they spent that day with Jesus.	E então, eles passaram aquele dia com Jesus.	502316
+The world follows one golden rule: whoever has the gold makes the rules.	O mundo segue uma regra de ouro: quem tem ouro faz as regras.	502380
+He likes cooking for his family.	Ele adora cozinhar para sua família.	502456
+I want to study Hebrew.	Quero aprender hebraico.	502465
+You didn't need to come so early.	Você não precisava vir tão cedo.	502587
+Do you have change for a dollar?	Você tem troco para um dólar?	502621
+He likes French more than German.	Ele gosta mais de francês do que de alemão.	502654
+Prime Minister Koizumi is certainly not a cold-blooded man.	O primeiro ministro Koizumi não é certamente um homem de sangue frio.	502657
+I don't like swimming in pools.	Eu não gosta de nadar em piscinas.	502703
+I don't like to swim in pools.	Eu não gosto de nadar em piscinas.	502705
+If you're wrong, then I'm wrong, too.	Se você estiver errado, eu também estou errado.	502732
+I don't have much money on me.	Eu não estou com muito dinheiro.	502800
+Tasmania is on the 40 degrees South latitude.	A Tasmânia se encontra a 40 graus ao sul de latitude.	502802
+I saw a house with a red roof.	Vi uma casa com o telhado vermelho.	502827
+Pears are canned in this factory.	Enlatam-se peras nesta fábrica.	502931
+Could I have a subway map, please?	Você pode me dar um mapa do metrô, por favor?	503017
+Please get me a scrap of paper.	Por favor, traga-me um pedaço de papel.	503026
+One of my dreams is to learn Icelandic.	Um dos meus sonhos é aprender islandês.	503165
+What did your father teach you?	O que seu pai o ensinou?	503380
+She left her umbrella on the bus.	Ela deixou o guarda-chuvas dela no ônibus.	503461
+She put a lot of sugar in the coffee.	Ela colocou muito açúcar no café.	503468
+She put lots of sugar in the coffee.	Ela coloca muito açúcar no café.	503470
+Please sit on the sofa and relax.	Por favor, sente-se no sofá e relaxe.	503494
+What time do you close?	A que horas vocês fecham?	503520
+Be careful what you wish for.	Tenha cuidado com o que deseja.	503532
+Olympus? Isn't that where Greek gods hang out or something?	O Olimpo? Não é lá que os deuses gregos passam o tempo ou coisa do tipo?	503534
+History is nothing like what you read in history books.	A História em nada se parece com o que se lê nos livros de história.	503541
+Not everything gets a chance to exist.	Nem tudo tem a chance de existir.	503563
+Right and wrong are two faces of the same coin. Whoever has the power decides which face gets what inscription.	O certo e o errado são duas faces da mesma moeda. Quem tiver o poder decide que face terá que inscrição.	503590
+Change is the only constant.	Mudança é a única constante.	503629
+You're a friend of Tom's, aren't you?	Você é amigo de Tom, né?	503749
+You're Tom's friend, aren't you?	Você é amigo do Tom, não é?	503750
+You don't need to speak so loud.	Você não precisa falar tão alto.	503765
+There is a fence around the house.	Há uma vala ao redor da casa.	503767
+He doesn't need to work.	Ele não precisa trabalhar.	503772
+There was absolutely no furniture in that room.	Não havia absolutamente nenhum móvel naquele quarto.	503781
+This bed is too hard to sleep on.	Esta cama é muito dura para dormir.	503821
+Another bottle of wine, please.	Outra garrafa de vinho, por favor.	503832
+We'll go when the rain stops.	Nós iremos quando a chuva terminar.	503837
+We'll go when it quits raining.	Vamos quando a chuva terminar.	503838
+Let's call it a day.	Por hoje, basta.	503842
+What's the width of this road?	Qual é a largura desta rua?	503848
+What time does your plane leave?	A que horas sai o seu voo?	503849
+Your friendship means a lot to me.	Sua amizade significa muito para mim.	503856
+I had a lot of fun.	Eu me diverti muito.	503863
+It was a lot of fun.	Foi muito divertido.	503864
+When I had just arrived in Switzerland, I was completely taken aback by the prices.	Quando tinha acabado de chegar na Suíça, fiquei completamente espantado com os preços.	504152
+The steam ship has gone out of sight.	O navio a vapor sumiu de vista.	504285
+This fish is not edible.	Este peixe não é comestível.	504361
+I don't even have time to read.	Eu nem sequer tenho tempo para ler.	504400
+This world is a distant three hundred million light years away from the world where you live.	Esse planeta fica a trezentos milhões de anos luz distante de onde você mora.	504502
+We go fishing from time to time.	Vamos pescar de vez em quando.	504591
+I will only buy the car if they repair the brakes first.	Só comprarei o carro se eles consertarem os freios primeiro.	504605
+This film is really boring - the best bit is when it finishes.	Este filme é muito entediante — a melhor parte é quando acaba.	504612
+I used a screwdriver to turn the screw, but it just didn't want to turn.	Eu usei uma chave de fenda para virar o parafuso, mas ele simplesmente não virava.	504661
+When the lamp is hot, in order to avoid getting burned, wait about 45 minutes for it to cool down.	Quando a lâmpada estiver quente, espere esfriar por cerca de 45 minutos para não se queimar.	504663
+History is like quantum physics: the observer affects the event observed. Is the Kennedy assassination a particle or a wave?	A história é como a física quântica: o observador afeta o evento observado. O assassinato de Kennedy é uma partícula ou uma onda?	504753
+The gods of a falling religion become the demons of a rising one.	Os deuses de uma religião em decadência se tornam os demônios de uma religião nascente.	504779
+The gods have decreed that man is mortal.	Os deuses decretaram que o homem é mortal.	504805
+Today, I went to the doctor's.	Hoje fui ao médico.	504847
+I hope that she listens to me.	Espero que ela me ouça.	504850
+The doctor said, "There's nothing worse for your health than tobacco."	"Não há nada pior para sua saúde que o cigarro", disse o médico.	504874
+What a waste it would be if Tatoeba were to link nothing but sentences.	Que desperdício seria se Tatoeba se destinasse a ligar tão só e exclusivamente frases.	504880
+I can drive a car.	Eu sei dirigir carro.	505158
+He was bleeding from his wounds.	Suas feridas sangravam.	505375
+Every citizen has the right to health and to a life that meets the minimum cultural standards.	Todo cidadão tem direito à saúde e a uma vida que satisfaça os padrões de cultura mínimos.	505441
+You need not do it at once.	Você não precisa fazer isso agora.	505490
+There are only just a few passengers on that train.	Há apenas alguns poucos passageiros naquele trem.	505592
+I should clean the room.	Devo limpar a sala.	505765
+An old person is a bridge between the past and the present.	Uma pessoa idosa é uma ponte entre o passado e o presente.	505783
+I couldn't believe my ears!	Eu não pude acreditar em meus ouvidos!	505803
+Please bring me a glass of water.	Por favor, traga-me um copo de água.	505869
+I love to play golf.	Eu adoro jogar golfe.	505883
+Many thanks for this wonderful trip.	Muito obrigada por esta viagem maravilhosa.	505886
+They live in a mansion.	Eles moram em uma mansão.	505887
+It's late. I have to go.	Está ficando tarde, eu tenho que ir.	505888
+Chances are they're lost, and that's why they're late.	É provável que estejam perdidos e é por isso que estão atrasados.	505893
+I sat next to him.	Eu me sentei ao lado dele.	505904
+You're weird. I haven't helped you at all yet and you're calling me a "genius".	Você é estranho. Eu ainda não o ajudei em nada e você me chama de gênio.	505920
+I just ate a falafel.	Acabo de comer um falafel.	505928
+She cut the cake in two.	Ela cortou o bolo em dois.	505940
+That's the most beautiful gift I've ever received.	Este é o presente mais bonito que já ganhei.	505968
+Victory is on our side.	A vitória está do nosso lado.	506177
+Please forgive me for opening your letter by mistake.	Por favor perdoe-me por ter aberto sua carta por engano.	506233
+China is bigger than Japan.	A China é maior que o Japão.	506450
+I got a letter from my friend.	Recebi uma carta do meu amigo.	506453
+John is the boy who is reading the book.	John é o menino que está lendo o livro.	506458
+The more contributors there are, the more useful Tatoeba will become!	Quanto maior for o número de colaboradores, tanto mais útil será Tatoeba!	506512
+I don't believe in God.	Eu não acredito em Deus.	506536
+I want to go to a hotel.	Quero ir a um hotel.	506599
+Insecticides are agricultural chemicals that exterminate insects harmful to plants.	Os inseticidas são agrotóxicos que exterminam os insetos prejudiciais às plantas.	506735
+The city center should be closed to all but pedestrian traffic.	O centro da cidade deve estar fechado para todos menos para o trânsito de pedestres.	506796
+The red hat goes well with her dress.	Este chapéu vermelho combina bem com seu vestido.	506826
+Can you tell me why you like him?	Você pode me dizer por que você gosta dele?	506839
+Do you have one a little bigger than these?	Você tem um que seja um pouco maior do que estes?	506842
+There are forty students in our class.	Há quarenta alunos na nossa classe.	506898
+Get ready! Tomorrow is the last day.	Se apronte! Amanhã é o último dia!	507010
+See you tomorrow in the library.	Te vejo amanhã na biblioteca.	507168
+Please pass me the sugar.	Me passe o açúcar, por favor.	507188
+The doctor took his pulse.	O médico checou seu pulso.	507214
+Give me a head of cabbage.	Me dá uma cabeça de repolho.	507260
+There's not a cloud in the sky.	O céu está limpo.	507297
+I remember the warmth of her arms.	Eu lembro do calor dos braços dela.	507339
+She calculated that she had earned 1,500 dollars.	Ela calculou que ela ganhara 1500 dólares.	507390
+I have a week to do my homework.	Tenho uma semana para fazer meu dever de casa.	507446
+Comments have a mysterious way of getting lost in the vastness of Tatoebastan.	Os comentários têm uma forma misteriosa de se perderem na vastidão da Tatoebalândia.	507472
+She will give birth to a child next month.	Ela terá um filho no mês que vem.	507506
+She will have a baby next month.	Ela terá um filho no mês que vem.	507507
+I like the mountains more than I like the sea.	Eu gosto das montanhas mais do que do mar.	507697
+I'm too old for this world.	Estou muito velho para esse mundo.	507699
+And who was it that you were talking with?	E com quem você estava falando?	507705
+He's considered to be one of the greatest scientists in the world.	Ele é considerado um dos maiores cientistas do mundo.	507750
+The room smelled of tobacco.	A sala cheirava a tabaco.	507759
+He didn't find what I hid.	Ele não encontrou o que eu escondi.	507767
+We sent out the invitations yesterday.	Enviámos os convites ontem.	507768
+She's got lovers for every day of the week.	Ela tem amantes para todos os dias da semana.	507790
+A friend in hand is worth two in the bush!	Mais vale um amigo à mão do que dois à distância.	507792
+She'll never speak of it.	Ela nunca vai falar disso.	507828
+I go to church every day.	Vou à igreja todos os dias.	507914
+He went out to eat.	Ele saiu para comer.	507997
+My older brother is planning to work at a drug factory.	Meu irmão mais velho pretende trabalhar numa fábrica de medicamentos.	508053
+How can I deactivate my account on this site?	Como eu posso desativar a minha conta neste site?	508106
+She looks young, but she's actually older than you are.	Ela parece jovem, mas na verdade é mais velha que você.	508255
+He looks like his grandfather.	Ele se parece com o avô.	508259
+I have a cat and a dog. The cat's black and the dog's white.	Eu tenho um gato e um cachorro. O gato é preto e o cachorro é branco.	508282
+He's always complaining about something.	Ele está sempre reclamando de alguma coisa.	508283
+"Thanks for the help." "Don't mention it."	"Obrigado pela ajuda." "Disponha."	508289
+Did the baby wake up?	O bebê acordou?	508291
+Try to learn a little English.	Tente aprender um pouco de inglês.	508294
+What to do is up to you.	O que fazer é com você.	508297
+He wasn't expecting to see you.	Ele não esperava vê-lo.	508335
+This gift is for you.	Este é um presente para você.	508336
+Where's the closest train station?	Onde é a estação de comboio mais próxima?	508381
+You're the love of my life.	Você é o amor da minha vida.	508620
+You look like your father looked thirty years ago.	Estás parecido com o que teu pai era há trinta anos.	508672
+He wrote a book about China.	Ele escreveu um livro sobre a China.	508676
+She likes to take a bath with rose petals.	Ela gosta de tomar banho com pétalas de rosas.	508705
+Mommy, I want you to buy me a pomegranate!	Mamãe, quero que me compres uma romã!	508761
+I haven't seen her in three days.	Eu não vi ela em 3 dias.	508772
+My husband makes 100,000 euros per year.	Meu esposo ganha cem mil euros por ano.	508776
+There are many beautiful parks in London.	Há muitos parques bonitos em Londres.	508778
+I'm too busy to go.	Estou ocupado demais para ir.	508781
+If he isn't sick, I think he will come.	Se ele não estiver doente, acho que virá.	508786
+If he isn't ill, I think he will come.	Se ele não estiver doente, acho que virá.	508787
+If there's no life after death, then you'd better make this life count.	Se não há vida após a morte, então é melhor fazer que esta vida tenha algum valor.	508794
+She is poor, but she is happy.	Ela é pobre, mas é feliz.	508799
+When did you get married?	Quando você se casou?	508809
+The rain lasted for three days.	A chuva durou três dias.	508812
+The textile industry will adapt to a market of free competition in the coming years.	A indústria têxtil adaptar-se-á a um mercado de livre competência nos próximos anos.	508822
+He is a smart boy.	Ele é um menino esperto.	508832
+How to arouse a woman's desire?	Como estimular o desejo de uma mulher?	508834
+The child fell out of bed.	A criança caiu da cama.	508836
+In any case, you need to vote "yes" in the February 18th referendum.	Em todo caso no referendo do dia 18 de fevereiro precisa-se votar "sim".	508838
+How long did you live there?	Por quanto tempo você viveu lá?	508845
+She almost said "I don't know".	Ela quase disse "Eu não sei".	508974
+At what hour was she born?	A que horas ela nasceu?	509195
+He has no interest in politics.	Ele não se interessa por política.	509204
+We ran in the park.	Nós corremos no parque.	509218
+You'll understand how terrible this accident was when you read the article.	Você vai entender como esse acidente foi terrível quando ler o artigo.	509219
+You can add sentences that you do not know how to translate.	Você pode adicionar frases que não conhece para serem traduzidas.	509421
+She isn't young anymore. She's at least 30 years old.	Ela não é mais jovem. Ela tem pelo menos 30 anos.	509539
+Penis enlargement supplements, as sold on sites and in magazines, have essentially no effect.	Suplementos de aumento peniano, como vendidos em sites e em revistas, essencialmente não surtem efeito.	509603
+Lucky at cards, unlucky in love.	Com sorte no jogo, sem sorte no amor.	509604
+The restaurant was far from the station.	O restaurante era longe da estação.	509605
+I'm sorry, I forgot to do my homework.	Sinto muito, esqueci de fazer meu dever de casa.	509618
+Is eating with chopsticks difficult?	É difícil comer com pauzinhos?	509619
+What year were you born?	Em que ano você nasceu?	509620
+There is little money left.	Resta pouco dinheiro.	509624
+I don't drink or smoke.	Eu não bebo nem fumo.	509627
+He lives somewhere around here.	Ele mora perto por aqui.	509750
+He became a police officer.	Ele se tornou policial.	509969
+She remembered the first day she went to school.	Ela se lembrou do primeiro dia em que foi à escola.	510207
+Na'vi language is used in Avatar.	O idioma Na'vi é usado em Avatar.	510467
+English is my native language.	Inglês é minha língua nativa.	510530
+I know that you're a teacher.	Eu sei que você é professor.	510532
+Where is the city hall?	Onde fica a prefeitura?	510565
+An interesting proposal. Need to think it over.	Uma proposta interessante. Preciso pensar a respeito.	510590
+Both of your daughters are very beautiful.	Ambas as suas filhas são muito bonitas.	510846
+Tennis is my favourite sport.	Tênis é meu esporte favorito.	510849
+I have time tomorrow morning.	Eu tenho tempo amanhã de manhã.	510850
+She baked me a cake.	Ela me fez um bolo.	511151
+I think it won't rain tomorrow.	Acho que não choverá amanhã.	511183
+Only she can use the computer.	Só ela pode usar o computador.	511671
+It seems that he's happy.	Parece que ele está feliz.	512043
+The password you have entered is invalid.	A senha que você informou não é válida.	512926
+He trimmed his beard for the wedding.	Ele aparou sua barba para o casamento.	512939
+I would like to ask two questions.	Gostaria de fazer duas perguntas.	513055
+Please, let me go through!	Me deixe passar, por favor.	513072
+I'm scared of big, black, hairy tarantulas!	Eu tenho medo de tarântulas grandes, pretas e peludas.	513077
+My native language is Spanish.	Meu idioma nativo é o espanhol.	513164
+Do you know how to use a computer?	Você sabe usar um computador?	513513
+He lost everything he owned.	Ele perdeu tudo o que tinha.	513522
+He is studying at his desk.	Ele está estudando em sua escrivaninha.	513531
+I think he will do his best.	Acho que ele dará o melhor de si.	513544
+Everybody knows the moon is made of cheese.	Todos sabem que a lua é feita de queijo.	513667
+He wanted the taxi driver to turn left.	Ele queria que o taxista virasse à esquerda.	513732
+That ATM at the supermarket, does it work?	Aquele caixa eletrônico do supermercado está funcionando?	513849
+Long live the Persian language!	Viva a língua persa!	513906
+His eyes are wet with tears.	Seus olhos estão molhados de lágrimas.	514232
+My name's Cyril; pleased to meet you!	Meu nome é Cyril, prazer em conhecê-lo!	514496
+Can you give me your cell number?	Você me dá o seu celular?	514714
+My telephone number is 789.	O meu número de telefone é 789.	514757
+My room number is 5.	O meu número de quarto é 5.	514759
+He lives inside an apple.	Ele mora numa maçã.	514792
+My phone number is 789.	O meu número de telefone é 789.	514901
+My son is a journalist.	Meu filho é jornalista.	514903
+What do you wish for?	O que você quer?	514930
+By the way, I think you're really nice.	A propósito, eu te acho realmente linda.	514935
+That's none of your business.	Não é da sua conta.	514940
+I don't want to be used.	Não quero que me usem.	514989
+Could you please tell me what your cell phone number is?	Você poderia me dizer qual é o número do seu celular, por favor?	515002
+Don't teach fish to swim.	Não ensine os peixes a nadar.	515039
+You play Starcraft really well.	Você joga Starcraft muito bem.	515084
+A cat is not human.	Um gato não é ser humano.	515178
+The cat is not human.	O gato não é humano.	515182
+In my opinion, Twitter is a waste of time.	Na minha opinião, o Twitter é uma perda de tempo.	515319
+Mark Zuckerberg is atheist, not theist.	Mark Zuckerberg é ateista, não teista.	515357
+Nakido is better than Twitter.	Nakido é melhor que Twitter.	515392
+There is a large supermarket.	Há um grande supermercado.	515529
+I'll give you a book.	Eu vou te dar um livro.	515540
+How long will you stay in Japan?	Por quanto tempo você vai ficar no Japão?	515568
+Until when will you stay in Japan?	Até quando você ficará no Japão?	515569
+This book was very interesting.	Este livro foi muito interessante.	515585
+Would you please autograph this book?	Você poderia autografar este livro por favor?	515646
+Could you please autograph this book?	Você poderia autografar este livro, por favor?	515648
+I'm to blame, not you.	A culpa é minha, não sua.	515677
+It won't take so long.	Não vai demorar muito.	515767
+Today is April 1st! Let's play some pranks!	Hoje é Primeiro de Abril! Vamos fazer brincadeiras!	516017
+Spies make it their business to know things that you don't want them to know.	O trabalho dos espiões é saber coisas que você não quer que eles saibam.	516083
+I think the pope should sell off some of the vast holdings of his church to feed the starving poor.	Acho que o papa deveria vender algumas das vastas propriedades de sua igreja para alimentar os famintos.	516095
+John writes to his parents once a month.	John escreve aos seus pais uma vez ao mês.	516096
+I finally understand the basic principles of calculus.	Eu finalmente entendo os princípios básicos do cálculo.	516199
+I didn't really feel like going out.	Não estava mesmo com vontade de sair.	516415
+I'd like to attend the party.	Gostaria de assistir à festa.	516475
+Shut up. If you don't, you'll be thrown out.	Cale a boca. Se você não calar, vão expulsá-lo.	516507
+Please come back next week.	Por favor, volte na semana que vem.	516510
+How many times do I have to tell you?	Quantas vezes tenho que te dizer isso?	516605
+I would like to rent a car.	Eu gostaria de alugar um carro.	516606
+Hurry! There's no time to lose.	Rápido! Não há tempo a perder.	516607
+The film began at 2.	O filme começou às 2 horas.	516611
+Could you pass the salt?	Você pode me passar o sal?	516617
+What was the hotel called? I can't remember.	Como o hotel se chamava? Não consigo lembrar.	516619
+What are you up to?	O que você está aprontando?	516639
+They're all the same size.	São todos do mesmo tamanho.	516681
+No, I didn't write it.	Não, eu não escrevi isso.	516734
+May I go to the toilet?	Posso ir ao banheiro?	517394
+May I go to the bathroom?	Posso ir ao banheiro?	517397
+May I go to the restroom?	Posso ir ao banheiro?	517399
+I plan to go there.	Eu planejo ir lá.	517425
+It will take time for him to recover from his wounds.	Vai levar um tempo para ele se recuperar de suas feridas.	517738
+The international space station is an amazing feat of engineering.	A Estação Espacial Internacional é um grande feito de engenharia.	517803
+The assignment is due two weeks from today.	A tarefa é para daqui a duas semanas.	517806
+That cut on your arm looks pretty serious.	Esse corte no seu braço parece ser bem sério.	517824
+Mastering a foreign language requires a lot of hard work.	Aprender bem um idioma estrangeiro requer uma grande quantidade de trabalho duro.	517841
+I'm glad to see you!	Eu estou muito feliz de te ver!	517888
+They searched high and low for the missing boy but to no avail.	Eles procuraram pelo garoto perdido por toda a parte, mas sem sucesso.	518082
+A healthy dose of skepticism is vital when listening to a politician speak.	Uma boa dose de ceticismo é vital quando se estiver ouvindo o discurso de um político.	518086
+He was mad at me because I broke up with him.	Ele estava com raiva de mim porque eu terminei com ele.	518087
+He clung to the hope that he would see her again someday.	Ele se agarrou à esperança de que iria vê-la novamente algum dia.	518090
+There is a growing number of people who prefer a virtual life online than a real life offline.	Está crescendo o número das pessoas que preferem uma vida virtual, ligada ao computador, à vida real fora do computador.	518094
+One man's terrorist is another man's freedom fighter.	O terrorista de um homem é o soldado da paz de outro.	518097
+I'm fed up with all their lies.	Estou farto de todas as mentiras deles.	518100
+You find the worst in everything!	Você vê o pior de tudo.	518158
+"Kayak" is an example of a palindrome.	"Kayak" é um exemplo de um palíndromo.	518184
+You're asking for too much.	Você está pedindo demais.	518186
+Many languages use English words.	Muitas línguas utilizam palavras vindas do inglês.	518212
+If you skip my class, I will kill you.	Se você matar minhas aulas, eu te mato.	518226
+More than a third of the world population lives near a coast.	Mais de um terço da população mundial vive próximo à costa.	518301
+Let's take a ten-minute break.	Vamos dar uma pausa de dez minutos.	518315
+She knows exactly how to make him come.	Ela sabe exatamente como fazê-lo vir.	518375
+Tatoeba: Don't cum here on Friday nights, kids.	Tatoeba: não apareçam aqui nas noites de sexta, crianças.	518410
+We're converging, you and I.	Estamos convergindo, eu e você.	518451
+Could you please pass me the pepper?	Você podia me passar a pimenta?	518551
+Wherever you go, I will follow.	Aonde você for eu vou.	518630
+Are you going or not?	Você vai ou não vai?	518631
+The land had never been ploughed.	A terra nunca tinha sido arada.	518879
+Please go to San Francisco.	Por favor, vá para São Francisco.	518882
+It's a very rocky soil, isn't it?	É um solo muito pedregoso, não é?	518884
+I'll be there right away.	Eu estarei lá imediatamente.	518885
+I'll be there at once.	Eu vou chegar já, já.	518886
+If you come back by five, you may go.	Você pode ir se já estiver de volta às cinco horas.	518926
+Programming languages are his hobby.	Linguagens de programação são o passatempo dele.	518928
+Programming languages are her hobby.	Linguagens de programação são o passatempo dela.	518929
+All the people who were here have left.	Todos que estavam aqui foram embora.	518930
+The iPhone is an extraordinary cell phone.	O iPhone é um telefone celular extraordinário.	518931
+Shall we meet tomorrow morning at nine?	Devemos nos encontrar amanhã às nove da manhã?	518951
+Tom called me yesterday at nine in the morning.	Tom me ligou ontem às 9 da manhã.	518957
+The museum is open from 9 a.m.	O museu está aberto a partir das 9 horas da manhã.	518961
+You don't have to go there if you don't want to.	Você não tem que ir para lá se não quiser.	518991
+Mr Tanaka had trained sufficiently.	O Sr. Tanaka tinha treinado o suficiente.	518993
+Her voice could be heard well.	A voz dela podia ser bem ouvida.	519012
+How many is nine minus six?	Quanto é nove menos seis?	519105
+Please sit according to your number.	Por favor sente-se de acordo com seu número.	519108
+I'd rather die than see you cry.	Eu prefiro morrer a te ver chorar.	519195
+It'll soon be three o'clock.	Já são quase três horas.	519325
+It looks like it's going to rain.	Parece que vai chover.	519332
+This may sound crazy, but I think I want to go back and do it again.	Isso pode parecer loucura, mas acho que quero voltar e fazer de novo.	519422
+More students apply to the university than can be accepted.	Há mais estudantes que se candidatam à universidade do que podem ser aceitos.	519434
+A meter is 100 centimeters.	Um metro tem 100 centímetros.	519507
+Which is best, white thread or red thread?	Qual fica melhor: linha branca ou vermelha?	519625
+Your kiss is sweeter than honey.	Seu beijo é mais doce que mel.	519676
+Do you like French literature?	Você gosta de literatura francesa?	519708
+He asked about the others.	Ele perguntou pelos outros.	519760
+This is the best chocolate mousse that my guests and myself have ever eaten.	Este é o melhor musse de chocolate que meus convidados e eu já comemos.	519775
+Have you ever seen a koala?	Você já viu um coala?	520129
+I had already heard that song once.	Eu já tinha ouvido essa música uma vez.	520133
+He shaves four times a week.	Ele tira a barba quatro vezes na semana.	520135
+A sea separates Ireland and England.	A Inglaterra e a Irlanda são separadas pelo mar.	520140
+I will come back next week.	Eu voltarei na próxima semana.	520142
+Julien wears round glasses, like John Lennon.	Julien usa óculos redondos, como John Lennon.	520154
+His brother studies very hard.	O irmão dele é muito estudioso.	520727
+If I'd had a little more money, I would have bought it.	Se eu tivesse tido um pouco mais de dinheiro, eu o teria comprado.	521045
+I don't love her anymore.	Eu não a amo mais.	521281
+Cover the potatoes with cold water and bring to a boil.	Cubra as batatas com água fria e deixe-as ferver.	521570
+I like movies a lot.	Eu gosto muito de filmes.	521656
+Could you take me to a movie?	Você me leva para assistir um filme?	521659
+Which would you rather do, go to a movie or stay at home?	O que prefere fazer: ir ao cinema ou ficar em casa?	521660
+My most interesting friend is Jessie.	Minha amiga mais cativante é Jéssica.	521669
+These are my books and those are his books.	Estes são os meus livros e aqueles são os dele.	521830
+He's a high school student.	Ele é aluno de escola secundária.	521976
+These medicines should be taken three times a day.	Estes remédios devem ser tomados três vezes por dia.	522223
+Kristy Anderson is the wife of Larry Ewing.	Kristy Anderson é a esposa de Larry Ewing.	522230
+The capital city of the Netherlands is Amsterdam.	A capital da Holanda é Amsterdã.	522273
+Many Eastern religions teach that there is a unity behind the diversity of phenomena.	Muitas religiões orientais ensinam que há uma unidade por trás da diversidade dos fenômenos.	522310
+I don't think that this shirt suits a red tie.	Eu acho que essa camisa não combina com uma gravata vermelha.	522378
+Ask Trang if she's going out tonight.	Pergunte a Trang se ela sairá hoje à noite.	522385
+I would prefer to go out than stay in.	Eu preferiria sair a ficar dentro.	522395
+China shares borders with Pakistan, India, Afghanistan, Tajikistan, Kyrgyzstan, Kazakhstan, North Korea, Laos, Vietnam, Nepal, Bhutan, Myanmar, Mongolia and Russia.	A China faz fronteira com o Paquistão, a Índia, o Afeganistão, o Tajiquistão, o Quirguistão, o Cazaquistão, a Coreia do Norte, o Laos, o Vietnã, o Nepal, o Butão, a Birmânia, a Mongólia e a Rússia.	522439
+The shirt is very dirty. Before you go to school, it has to be washed.	A camisa está muito suja. Tem de ser lavada antes de você ir ao colégio.	522509
+I believe it will snow tomorrow.	Acho que vai nevar amanhã.	522590
+A river flows through the valley.	Um rio corre pelo vale.	522643
+In most countries, with the exception of the Arab countries and Israel, Saturday and Sunday are defined as the weekend.	Na maioria dos países, com exceção dos países árabes e Israel, os sábados e domingos constituem os fins de semana.	522698
+Sometimes, Grandma is more dangerous than the KGB.	Às vezes, a vovó é mais perigosa que a KGB.	522978
+I have just finished eating lunch.	Eu acabei de almoçar.	523049
+That company is managed by a foreigner.	Aquela empresa é gerenciada por um estrangeiro.	523073
+I have a reservation, my name is Kaori Yoshikawa. Here's my confirmation card.	Tenho uma reserva em meu nome, eu sou Kaori Yoshikawa. Aqui está meu cartão de confirmação.	523180
+Your message has been received.	Sua mensagem foi recebido.	523377
+Mary has already set off.	Maria já partiu.	523385
+Carlos Queiroz was fired by the Portuguese Football Federation.	Carlos Queiroz foi demitido pela Federação Portuguesa de Futebol.	523703
+Cristiano Ronaldo is a football player.	Cristiano Ronaldo é um jogador de futebol.	523713
+The holy book of Muslims is the Qur'an.	O livro sagrado dos muçulmanos é o Corão.	523817
+"The Old Man and the Sea" is a novel by Hemingway.	"O velho e o mar" é um romance de Hemingway.	523883
+When did the Thirty Years' War take place?	Quando ocorreu a Guerra dos Trinta Anos?	523890
+Power tends to corrupt and absolute power corrupts absolutely.	O poder tende à corromper e o poder absoluto corrompe completamente.	523949
+I'm an alcoholic. I'm a drug addict. I'm homosexual. I'm a genius.	Sou um alcoólatra. Sou viciado em drogas. Sou homossexual. Sou um gênio.	523993
+My wife made me a delicious apple cake.	Minha mulher preparou para mim um delicioso bolo de maçã.	524383
+I've known Jim since my childhood.	Conheço Jim desde a infância.	525016
+I've known Jim since I was a child.	Eu conheço Jim desde que era criança.	525019
+"Tatoeba" means "for example" in Japanese.	"Tatoeba" significa "por exemplo" em japonês.	525267
+The president has abolished slavery.	O presidente aboliu a escravidão.	525314
+I think you should rest a bit. You look pale.	Acho que deve descansar um pouquinho. Você me parece pálido.	525687
+The children are sleeping. Please don't be so noisy.	As crianças estão dormindo. Por favor, não faça tanto barulho.	525733
+Don't throw rocks into the river.	Não joguem pedras no rio.	525757
+He isn't smart enough to add up numbers in his head.	Ele não é inteligente o bastante para fazer contas de cabeça.	525841
+My brother Jacques is fourteen years old.	Meu irmão Jacques tem catorze anos.	526260
+This is hot, not cold.	Isso está quente, não frio.	526271
+She has got long hair.	Ela tem cabelo comprido.	526281
+Ivy Bean, the oldest user of both Facebook and Twitter, died at 104.	Ivy Bean, o usuário mais antigo tanto do Facebook como do Twitter, morreu aos 104 anos.	526353
+As far as I know, she has not yet married.	Pelo que eu sei, ela ainda não se casou.	526384
+I couldn't answer all of the questions.	Eu não pude responder todas as perguntas.	526393
+He refuses to accept his old age.	Ele recusa a aceitar a idade avançada dele.	526500
+The food at the canteen isn't very good, and the menu contains mostly unhealthy foods, too salted or sweetened.	A comida na cantina não é muito boa e a ementa contém sobretudo alimentos pouco saudáveis, demasiado salgados ou açucarados.	526646
+The café nearer to the school is closed at lunch hours.	O café mais próximo da escola fica fechado durante o almoço.	526652
+I have nothing to do today.	Hoje eu não tenho nada para fazer.	526653
+The airport is quite far from the city centre.	O aeroporto fica bastante longe do centro da cidade.	526672
+Somebody tipped off the gang members to the police surveillance.	Alguém entregou os membros da gangue para a polícia.	526843
+She bears an uncanny resemblance to Marilyn Monroe.	Ela se parece extraordinariamente com Marilyn Monroe.	526849
+If you don't start behaving I'll have to ground you.	Se você não começar a se comportar, eu vou colocar você de castigo.	526922
+He weighs ten more kilos than me.	Ele pesa 10 quilos a mais do que eu.	526998
+Bread is made from wheat.	O pão é feito de trigo.	527167
+This is a bow for a strong person.	Este é um arco para uma pessoa forte.	527196
+I'm not a sentence. I should be deleted from Tatoeba.	Não sou uma frase. Devo ser apagada do Tatoeba.	527833
+According to pernickety moderators, non-sentences constitute a mortal danger to Tatoeba.	Conforme moderadores detalhistas, tudo o que não é uma frase constitui uma ameaça mortal ao Tatoeba.	527837
+Do you like to dance?	Você gosta de dançar?	528107
+We need to buy a new rug for this room.	Precisamos comprar um novo tapete para esta sala.	528123
+I can run as fast as Bill.	Posso correr tão rápido quanto Bill.	528136
+Life begins when we start paying taxes.	A vida inicia quando começamos a pagar impostos.	528175
+I think I lost my keys.	Acho que perdi minhas chaves.	528185
+You need to take your shoes off before entering the room.	Você precisa tirar os sapatos antes de entrar na sala.	528218
+I'm sorry, I don't think I'll be able to.	Sinto muito, acho que não vou poder.	528222
+Where did you spend your vacation?	Onde passou suas férias?	528266
+They eat with a knife and fork.	Eles comem com garfo e faca.	528309
+I played tennis all day.	Eu joguei tênis o dia todo.	528449
+You never told me that.	Você nunca me contou isso.	528495
+A child is crying somewhere.	Uma criança está chorando em algum lugar.	528521
+When I was a child, I often went swimming in the sea.	Quando era criança, costumava nadar muitas vezes no mar.	528535
+The Greeks also eat fish often.	Os gregos também comem peixe frequentemente.	528541
+Can I park my car here?	Eu posso estacionar o meu carro aqui?	528542
+Could you tell me how to adjust the volume?	Você poderia me dizer como posso ajustar o volume?	528686
+Did you speak with your wife?	Você falou com sua mulher?	528700
+It's not far from here.	Não é longe daqui.	528718
+Health is more important than wealth.	A saúde é mais importante do que a riqueza.	528755
+I have four in my family.	Tenho quatro na minha família.	529232
+Don't judge people by appearance.	Não julgue as pessoas pela aparência.	529315
+If I could, I would.	Se pudesse, eu o faria.	529782
+If he hadn't wasted time, he'd be finished by now.	Se ele não tivesse perdido tempo, já teria terminado.	529786
+He didn't get the joke.	Ele não entendeu a piada.	529805
+He weighs 10 kilograms more than I do.	Ele pesa 10 quilos a mais do que eu.	529839
+He knows how to drive a car.	Ele sabe como dirigir um carro.	529941
+He goes to school by bus.	Ele vai à escola de ônibus.	529993
+How does one calculate the capacitance of a capacitor?	Como se calcula a capacitância de um capacitor?	530027
+Did you make this yourself?	Você fez isso sozinho?	530036
+The search function has too few options.	A função de busca tem poucas opções.	530037
+What do I have to do?	O que tenho que fazer?	530044
+I eat breakfast here normally.	Eu normalmente tomo café da manhã aqui.	530047
+I plead you to tell me the truth.	Peço-lhe que me diga a verdade.	530049
+My friend sent me a letter in which he asked me if I'm well.	Meu amigo me mandou uma carta em que me perguntava se estou bem.	530060
+My sister is very intelligent.	A minha irmã é muito inteligente.	530066
+After I came back from abroad, I had much to do.	Após ter chegado do exterior, eu tinha muito a fazer.	530067
+He entered the room on tiptoes.	Ele entrou no quarto na ponta dos pés.	530085
+It's possible that they'll go to the supermarket today.	É possível eles irem ao supermercado hoje.	530086
+My mother told me to behave myself.	Minha mãe mandou eu me comportar.	530104
+Do you study every day?	Você estuda todo dia?	530175
+He always went fishing on the river when he was young.	Ele sempre pescava no rio quando era jovem.	530236
+I'd like to leave this book with you.	Gostaria de deixar este livro com você.	530367
+Your most interesting friend is?	O teu amigo mais interessante é?	530410
+I've never been abroad before.	Nunca estive no exterior antes.	530526
+I would like to marry somebody like her.	Gostaria de me casar com alguém como ela.	530545
+The party was a great success.	A festa foi um grande sucesso.	530569
+I often read manga in my spare moments at work.	Eu geralmente leio revista em quadrinhos em meu tempo livro durante o trabalho.	530570
+His name is known to me.	O nome dele me é familiar.	530592
+War is a crime against humanity.	A guerra é um crime contra a humanidade.	530605
+10% of the inhabitants come from Japan.	10% dos habitantes vêm do Japão.	530654
+There's also a park there.	Há, também, um parque lá.	530664
+Dawn breaks, which is no small thing.	Está amanhecendo, o que não é pouca coisa.	530727
+They were left to fend for themselves.	Eles foram deixados para defenderem-se por eles mesmos.	530736
+What bus do I take to get to Rampa?	Que ônibus eu devo pegar para ir para Rampa?	530777
+I get along with my younger brother.	Eu me dou bem com o meu irmão mais novo.	530804
+He forgot that he bought her a present.	Ele esqueceu que tinha comprado um presente para ela.	530863
+Where are we going tonight?	Onde vamos hoje à noite?	531173
+I was busy this week.	Eu estava ocupado esta semana.	531177
+Speak louder so that everyone may hear you.	Fale mais alto para que todos possam ouvi-lo.	531179
+This is the book that I told you about.	Este é o livro sobre o qual eu lhe falei.	531183
+If she comes, I'll go too.	Se ela vier, eu também vou.	531187
+And if I were gay, would that be a crime?	E se eu fosse gay? Isso seria um crime?	531272
+It seemed like a good idea.	Parecia ser uma boa ideia.	531319
+I like that university, but it's too near my home.	Eu gosto desta universidade, mas é perto demais de casa.	531485
+The problem is that we don't have a lot of money.	O problema é que não temos muito dinheiro.	531546
+How much did you pay for him?	Quanto você pagou por ele?	531690
+They still haven't woken up.	Eles ainda não acordaram.	531853
+There are 40 pupils in this class.	Há 40 alunos nesta classe.	531867
+Where did you see this woman?	Onde você viu essa mulher?	531877
+Does she still have a temperature?	Ela ainda tem febre?	531879
+Does he still have a temperature?	Ele ainda tem febre?	531880
+"Hold on," Dima said, taking out his phone. "I know someone who could lend me some money."	"Um momento", disse Dima, tirando do gancho o telefone, "eu conheço alguém que poderá emprestar-me algum dinheiro".	532353
+She chatted with me while drinking her tea.	Ela conversava comigo enquanto tomava chá.	532445
+Let's go over to your girlfriend's place!	Vamos para a casa da tua namorada!	532590
+Actually, I've seen this movie before.	Na verdade, eu já vi este filme antes.	532632
+There are but a few men who don't know that.	São poucos os homens que não sabem isto.	532641
+Erection problems can have various causes.	Os problemas com a ereção podem ter várias causas.	532674
+After I tried out my new loom, I made my bed and repaired the coffee grinder.	Depois de experimentar o meu novo tear, eu fiz a cama e reparei o moedor de café.	532682
+I'm not very social, but I try to make an effort.	Eu não sou muito social, mas tento fazer um esforço.	532786
+What! You've eaten my chocolate bear?	O que! Você comeu meu urso de chocolate?	532822
+Drugs are a cancer of modern society.	As drogas são um câncer da sociedade moderna.	532899
+Can you give me a ride?	Você pode me dar uma carona?	533068
+Where is the most beautiful place in the world?	Onde fica o lugar mais bonito do mundo?	533100
+You're the only one for me now.	Você é o único para mim agora.	533112
+They gave us a warm greeting.	Eles nos receberam de forma calorosa.	533132
+When you come back, I'll be gone.	Quando você voltar, já terei partido.	533209
+Reading books is my hobby.	Ler livros é o meu passatempo.	533246
+In spite of my diet, I couldn't help taking a slice of chocolate cake.	Apesar da minha dieta, não pude evitar pegar uma fatia de bolo de chocolate.	533602
+He finds fault with everything I say.	Ele encontra defeitos em tudo o que eu digo.	533606
+My dad won't let me go out with Bill.	Meu pai não vai me deixar sair com Bill.	533706
+I can play the piano.	Eu sei tocar piano.	533765
+The keys are on the table.	As chaves estão em cima da mesa.	533766
+I have to go to school.	Tenho de ir à escola.	533768
+I can speak French and also Spanish.	Eu falo francês e espanhol também.	533829
+He visited France three times.	Ele esteve na França três vezes.	533881
+I only spent three dollars.	Eu só gastei três dólares.	534169
+I spent last Sunday reading a novel.	Eu passei o último domingo lendo um romance.	534174
+She doesn't seem to be an American.	Ela não parece ser americana.	534188
+They don't seem to be Americans.	Eles não parecem ser americanos.	534191
+Put this on my tab, please.	Coloque isso na minha conta, por favor.	534218
+That experiment led to a great discovery.	Esse experimento levou a uma grande descoberta.	534295
+It's too late to do anything about that now.	Agora é tarde demais para fazer qualquer coisa a respeito.	534622
+I understand, but I cannot agree.	Eu entendo, mas não posso concordar.	534627
+The bills keep piling up.	As contas continuam se acumulando.	534646
+I recorded the conditions up until now!	Eu registrei as condições até agora!	534653
+Buddhism is a religion founded by the Indian Shakyamuni.	O budismo é uma religião fundada pelo indiano Sakiamuni.	534698
+Shall I stay like this until morning embracing you?	Posso ficar assim até amanhã de manhã, abraçando você?	534717
+He left in the blink of an eye.	Ele partiu num piscar de olhos.	534718
+This restaurant is located on the riverbed.	Esse restaurante fica na beira do rio.	534719
+Don't make the same mistake again.	Não cometa de novo o mesmo erro!	534725
+Money isn't everything, but if you have no money, you can't do anything.	O dinheiro não é tudo, mas se você não tem dinheiro, você não pode fazer nada.	534738
+It looks like it's an ability that everyone has.	Isso parece ser uma habilidade que todo mundo tem.	534743
+Did you leave at the same time as my younger sister?	Você partiu ao mesmo tempo da minha irmã caçula?	534747
+I contacted them the other day, but I was not able to get an answer.	Encontrei-o noutro dia e não obtive resposta.	534751
+Do you also go to work today, by any chance?	Por acaso, você também vai trabalhar amanhã?	534754
+How many copies of magazines are being printed in Japan across all Japanese magazines?	Quantos exemplares de todas as revistas japonesas são impressas no Japão?	534756
+Well, then there's no problem, don't you think?	Bom, então não há problema. O que você acha?	534800
+I love Fist of the North Star!	Eu amo o guerreiro da estrela polar.	534879
+When many enemies appear in front of you, look back, you have many allies as well.	Quando muitos inimigos aparecem na sua frente, olhe para trás, você tem muitos aliados também.	534972
+I think I'm gonna shit myself.	Acho que vou me cagar.	534982
+I'm bursting for a pee.	Eu estou quase mijando nas calças.	535029
+May happiness knock on your door.	Que a felicidade bata à sua porta.	535089
+Kate went to the party to see her friends.	A Kate foi para a festa para ver suas amigas.	535289
+Do you have a cellphone?	Você tem um celular?	535419
+After taking a bath, I drank some soft drink.	Depois de ter tomado um banho, eu bebi alguma bebida suave.	535514
+He's a rather rare individual.	Ele é um indivíduo bastante raro.	535566
+A bit more chocolate please.	Um pouco mais de chocolate, por favor.	535657
+Your order has been dispatched.	Seu pedido foi despachado.	535777
+"I believe that the code for Lebanon is 961," the shopkeeper said.	"Creio que o código de Líbano seja 961", disse o lojista.	535779
+How many days are there in a week?	Quantos dias tem a semana?	535810
+You like her, don't you?	Você gosta dela, não gosta?	535849
+You like him, don't you?	Você gosta dele, não gosta?	535850
+Every once in a while I study Esperanto.	De vez em quando eu estudo Esperanto.	535909
+She told me that, without me, this life had nothing of interest for her.	Ela me disse que, sem mim, esta vida não tem o mínimo interesse para ela.	535949
+The whole is more than the sum of its parts.	O todo é mais do que a soma de suas partes.	536178
+Eating too much is bad for your health.	Comer demais faz mal à saúde.	536360
+I met your mother through Facebook. So, if Facebook didn't exist, neither would you, my little angel.	Conheci sua mãe no Facebook. Se o Facebook não existisse, você também não, meu anjo.	536549
+I wish you success in your work.	Desejo-lhes êxito em seu trabalho.	536663
+My favorite word in German is the word for "glove".	Minha palavra favorita em alemão é a palavra para "luva".	536679
+You have freedom to travel wherever you like.	Você tem a liberdade de viajar para onde quiser.	537232
+In China too glass is being excavated out of graves from the Era of Warring States.	Na China também está sendo escavado vidro de sepulturas do Período dos Estados Combatentes.	537731
+Mr. Johnson's room was a large one.	O quarto do Sr. Johnson era um quarto grande.	538063

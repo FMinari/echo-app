@@ -8,14 +8,9 @@ import { cartaoFrase } from "../../componentes/cartao-frase.js";
 import { paginador } from "../../componentes/paginador.js";
 import { recolhivel } from "../../componentes/recolhivel.js";
 import { estadoVazio } from "../../componentes/vazio.js";
+import { TIPOS } from "../../lib/tipos.js";
 
 export const POR_PAGINA = [10, 20, 40];
-
-const TIPOS = [
-  { chave: "serie", nome: "Séries", cor: "var(--destaque)" },
-  { chave: "filme", nome: "Filmes", cor: "var(--destaque-2)" },
-  { chave: "musica", nome: "Músicas", cor: "var(--texto-2)" },
-];
 
 const tipoDaObra = (nome) => estado.obras.find((o) => o.nome === nome)?.tipo || "serie";
 

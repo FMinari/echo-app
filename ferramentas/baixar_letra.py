@@ -1,13 +1,13 @@
 """Baixa a letra de uma música do LRCLIB (lrclib.net: grátis, aberto, sem chave) para transcripts/.
 
-Uso: python3 -I ferramentas/baixar_letra.py "Taylor Swift" "Love Story" [--album Fearless] [--id 8202]
+Uso: python3 -I ferramentas/baixar_letra.py "Bessie Smith" "Back Water Blues" [--album ...] [--id 30217738]
 
 Grava `transcripts/<artista>/<Música>.txt` no formato LRC, com o tempo de cada verso:
-    [ti:Love Story]
-    [ar:Taylor Swift]
-    [al:Fearless]
-    [length:03:55]
-    [00:12.34] We were both young when I first saw you
+    [ti:Back Water Blues]
+    [ar:Bessie Smith]
+    [al:The Complete Recordings, Volume 3]
+    [length:03:16]
+    [00:08.12] When it rains five days and the skies turn dark as night
 e cria a entrada do artista no obras.json (tipo "musica") se ainda não houver. Sem letra com tempo, usa a
 letra simples (aí o tempo do verso é estimado pelas palavras, como nas séries). Depois: reindexar.
 """

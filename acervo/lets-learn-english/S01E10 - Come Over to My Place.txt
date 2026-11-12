@@ -1,0 +1,18 @@
+Anna: Hi! Today, my friend Ashley, is coming over. I am showing her my new apartment! Oh! That’s Ashley calling.
+Anna: Hi Ashley!
+Ashley: Hi Anna! I’m coming to your apartment. Where is your apartment?
+Anna: My apartment is near the Columbia Heights Metro.
+Ashley: It is near the Columbia Heights Metro?
+Anna: Yes. Exit the Metro and turn right. Then at the bus station turn left. Then walk straight ahead.
+Ashley: Okay. Exit Metro, turn right, turn left, then go straight ahead?
+Anna: Yes. My apartment is near a coffee shop.
+Ashley: Okay. See you soon!
+Anna: Hi, Ashley.
+Ashley: Anna, Which coffee shop? There are three coffee shops.
+Anna: Okay, my apartment is across from a big department store.
+Ashley: A big department store? Ah, I see it!
+Anna: Okay! Bye, Ashley. See you soon!
+Ashley: Okay. See you soon.
+Anna: Ashley! Ashley! Ashley! Over here! It’s Anna! It’s Anna! Hi!
+Anna: I love having my friends over. Come on!
+Ashley: Great!

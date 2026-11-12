@@ -1,6 +1,7 @@
 """Gera corpus.db a partir de transcripts/.
 
 Uso: .venv/bin/python ferramentas/indexar.py
+     .venv/bin/python ferramentas/indexar.py --acervo                 (acervo/ -> acervo.db, o acervo público)
      .venv/bin/python ferramentas/indexar.py --so-grupos [banco.db]   (só regrava os grupos)
 
 Cada fala vira uma ou mais frases etiquetadas pelo spaCy. O campo `tagged`
@@ -23,6 +24,15 @@ DB = RAIZ / "corpus.db"
 
 OBRAS = Path(__file__).resolve().parent / "obras.json"
 GRUPOS = Path(__file__).resolve().parent / "grupos.json"
+if "--acervo" in sys.argv:  # o acervo público (domínio público e licença aberta; ver publico/ACERVO.md)
+    TRANSCRIPTS = RAIZ / "acervo"
+    DB = RAIZ / "acervo.db"
+    OBRAS = TRANSCRIPTS / "obras.json"
+    GRUPOS = TRANSCRIPTS / "grupos.json"
+    sys.argv.remove("--acervo")
+# livro, peça, conversa e frases: "NN - Título.txt" (capítulo, ato, missão, sessão...), sem tempo no texto
+NUMERADOS = ("livro", "peca", "conversa", "frases")
+NOME_NUMERADO = re.compile(r"^(\d+)(?: - (.*))?\.txt$")
 
 LRC_TAG = re.compile(r"^\[([a-z]+):(.*)\]$")
 LRC_VERSO = re.compile(r"^\[(\d+):(\d+(?:\.\d+)?)\]\s*(.*)$")
@@ -58,7 +68,7 @@ def ler_episodio(caminho, titulo=None):
     linhas = [limpar(l) for l in caminho.read_text(encoding="utf-8", errors="replace").splitlines()]
     linhas = [l for l in linhas if l]
     if linhas and titulo and linhas[0].lower() == titulo.lower():
-        linhas = linhas[1:]  # legendas de Brooklyn 99 e HIMYM começam pelo título
+        linhas = linhas[1:]  # algumas legendas começam pelo título do episódio
     com_falante = sum(1 for l in linhas if FALA.match(l))
     estilo_legenda = com_falante < 0.2 * len(linhas)
 
@@ -121,15 +131,16 @@ def segundos(mm_ss):
     return int(m) * 60 + float(s) if s else None
 
 
-def limpar_titulo(titulo, caminho, codigo, correcoes):
-    """Tira prefixos como "907 - " e "FRIENDS - ", desfaz caixa alta e usa o cabeçalho do arquivo
+def limpar_titulo(titulo, caminho, codigo, correcoes, obra):
+    """Tira prefixos como "907 - " e "<NOME DA SÉRIE> - ", desfaz caixa alta e usa o cabeçalho do arquivo
     quando o nome não traz título nenhum."""
     if codigo in correcoes:
         return correcoes[codigo]
     titulo = titulo.replace("’", "'")
-    titulo = re.sub(r"(?i)^(friends\s*)?\d{3,4}\s*-?\s*", "", titulo.strip())
-    titulo = re.sub(r"(?i)^friends\s*-\s*", "", titulo)
-    if titulo.lower() in ("friends", "untitled document", ""):
+    nome = re.escape(obra)
+    titulo = re.sub(rf"(?i)^({nome}\s*)?\d{{3,4}}\s*-?\s*", "", titulo.strip())
+    titulo = re.sub(rf"(?i)^{nome}\s*-\s*", "", titulo)
+    if titulo.lower() in (obra.lower(), "untitled document", ""):
         cabecalho = caminho.read_text(encoding="utf-8", errors="replace").splitlines()[:12]
         titulo = next((l.strip() for l in cabecalho if l.strip().lower().startswith("the one")), titulo)
     if titulo.isupper():
@@ -143,7 +154,8 @@ def criar_schema(con):
         DROP TABLE IF EXISTS obras; DROP TABLE IF EXISTS meta; DROP TABLE IF EXISTS grupos;
         CREATE TABLE meta (chave TEXT PRIMARY KEY, valor TEXT);
         CREATE TABLE obras (
-            id INTEGER PRIMARY KEY, nome TEXT, tipo TEXT CHECK (tipo IN ('serie', 'filme', 'musica')),
+            id INTEGER PRIMARY KEY, nome TEXT,
+            tipo TEXT CHECK (tipo IN ('serie', 'filme', 'musica', 'livro', 'peca', 'conversa', 'frases')),
             ano INTEGER, pasta TEXT);
         CREATE TABLE episodios (
             id INTEGER PRIMARY KEY, obra_id INTEGER REFERENCES obras, temporada INTEGER, episodio INTEGER,
@@ -230,6 +242,39 @@ def gravar_musica(con, nlp, obra_id, obra, pasta, caminho):
     print(f"{obra['nome']} - {titulo}: {len(versos)} versos, {len(linhas)} sem repetir", flush=True)
 
 
+def gravar_numerado(con, nlp, obra_id, obra, pasta, caminho):
+    """Um capítulo (livro), ato (peça), missão ou sessão (conversa) ou bloco de frases soltas. Sem tempo:
+    não há duração nem legenda para estimar. Livro: um parágrafo por linha, sem personagem. Frases:
+    "inglês<TAB>tradução<TAB>número no Tatoeba", com a tradução no lugar da cena."""
+    m = NOME_NUMERADO.match(caminho.name)
+    if not m:
+        print(f"ignorado: {pasta}/{caminho.name}", file=sys.stderr)
+        return
+    tipo, texto = obra["tipo"], caminho.read_text(encoding="utf-8")
+    if tipo == "frases":
+        itens = [("fala", None, limpar(c[0]), f"pt: {limpar(c[1])}" + (f" · Tatoeba nº {c[2]}" if len(c) > 2 else ""))
+                 for c in (l.split("\t") for l in texto.splitlines()) if len(c) >= 2 and c[0].strip()]
+    elif tipo == "livro":
+        itens = [("fala", None, limpar(l), None) for l in texto.splitlines() if l.strip()]
+    else:
+        itens = ler_episodio(caminho)
+    falas = [i for i in itens if i[0] == "fala"]
+    ep_id = con.execute(
+        "INSERT INTO episodios (obra_id, temporada, episodio, episodio_fim, titulo, arquivo, duracao_min, palavras)"
+        " VALUES (?,NULL,?,?,?,?,NULL,?)",
+        (obra_id, int(m[1]), int(m[1]), m[2], f"{pasta}/{caminho.name}", sum(len(i[2].split()) for i in falas))).lastrowid
+    linhas = []
+    for n, (tipo_linha, falante, texto_linha, cena) in enumerate(itens):
+        linha_id = con.execute(
+            "INSERT INTO linhas (episodio_id, n, tipo, falante, texto, cena, segundo) VALUES (?,?,?,?,?,?,NULL)",
+            (ep_id, n, tipo_linha, falante, texto_linha, cena)).lastrowid
+        if tipo_linha == "fala":
+            linhas.append((linha_id, texto_linha))
+    gravar_frases(con, nlp, linhas)
+    con.commit()
+    print(f"{obra['nome']} {caminho.name[:40]}: {len(falas)} falas", flush=True)
+
+
 def main():
     nlp = spacy.load("en_core_web_sm", disable=["ner"])
     # monta num arquivo à parte e só troca no fim, pra quem estiver lendo o banco não ver ele pela metade
@@ -240,7 +285,7 @@ def main():
 
     obras = {k: v for k, v in json.loads(OBRAS.read_text(encoding="utf-8")).items()
              if not k.startswith("_")}
-    for pasta in sorted(p.name for p in TRANSCRIPTS.iterdir() if p.is_dir()):
+    for pasta in sorted(p.name for p in TRANSCRIPTS.iterdir() if p.is_dir() and p.name != "bruto"):
         if pasta not in obras:
             print(f"pasta sem entrada em obras.json, ignorada: {pasta}", file=sys.stderr)
     for pasta, obra in obras.items():
@@ -259,6 +304,9 @@ def main():
             if obra["tipo"] == "musica":
                 gravar_musica(con, nlp, obra_id, obra, pasta, caminho)
                 continue
+            if obra["tipo"] in NUMERADOS:
+                gravar_numerado(con, nlp, obra_id, obra, pasta, caminho)
+                continue
             if obra["tipo"] == "filme":
                 temporada, ep, ep_fim, titulo = None, None, None, obra["nome"]
             else:
@@ -271,7 +319,7 @@ def main():
                 ep = int(ep) if ep else None
                 ep_fim = int(ep_fim) if ep_fim else ep
                 codigo = f"S{temporada:02d}E{ep:02d}" if ep else f"S{temporada:02d}"
-                titulo = limpar_titulo(titulo, caminho, codigo, obra.get("titulos", {}))
+                titulo = limpar_titulo(titulo, caminho, codigo, obra.get("titulos", {}), obra["nome"])
             n_eps = (ep_fim - ep + 1) if ep else 1
             itens = ler_episodio(caminho, titulo)
             falas = [i for i in itens if i[0] == "fala"]

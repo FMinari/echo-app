@@ -1,0 +1,1000 @@
+What are you looking at?	O que você está procurando?	16256
+What do you intend to do?	O que você vai fazer?	16259
+What are you going to be?	O que você vai ser?	16262
+What do you want to be?	O que você quer ser?	16263
+What are you going to have?	O que você vai ter?	16266
+I wonder if you have something to write with.	Será que você tem algo com que escrever?	16273
+What do you want now?	Que queres agora?	16275
+You really have an ear for music.	Você realmente tem ouvido para música.	16280
+You are not a coward.	Tu não és um covarde.	16281
+Do you have any pencils?	Você tem algum lápis?	16284
+All you have to do is try hard to master English.	Tudo o que tem de fazer é se esforçar para dominar o inglês.	16290
+Can you make yourself understood in English?	Você consegue se fazer entender em inglês?	16292
+You can swim, can't you?	Você sabe nadar, não é?	16299
+You can't swim, can you?	Você não sabe nadar, não é?	16301
+What are you driving at?	O que você está insinuando?	16307
+You are in a safe place.	Você está em um lugar seguro.	16326
+You must rid yourself of bad habits.	Você deve se livrar de maus hábitos.	16328
+You've set a bad example.	Você deu um mau exemplo.	16329
+Did you break the window on purpose or by accident?	Você quebrou a janela de propósito ou por acidente?	16330
+You don't like love stories.	Você não gosta de histórias de amor.	16335
+You are too ready to speak ill of others.	Você está sempre pronto para falar mal dos outros.	16338
+How dare you speak to me like that?	Como ousa falar assim comigo?	16339
+How dare you say that?	Como você tem a audácia de dizer isso?	16342
+You have a good sense of humor.	Você tem um bom senso de humor.	16344
+Have you ever seen a UFO?	Você já viu um óvni?	16345
+You must take things as they are.	Deves aceitar as coisas como elas são.	16349
+You should have known better.	Você deveria saber melhor.	16353
+All you have to do is to work harder.	Você só precisa se esforçar mais.	16358
+You should be more careful.	Você deveria ser mais cuidadoso.	16359
+You should take better care of yourself.	Você deveria se cuidar melhor.	16360
+It is regrettable that you did not start earlier.	É uma pena que você não tenha começado antes.	16361
+You should have come home before.	Você deveria ter vindo antes.	16362
+I think it necessary for you to study harder.	Eu acho que é necessário para você estudar mais.	16374
+You should have been more careful.	Vocês deveriam ter sido mais prudentes.	16375
+You belong in a better place than this.	Tu pertences a um sítio melhor que este.	16376
+You should have come earlier.	Você deveria ter vindo mais cedo.	16378
+Do you like Mozart's music?	Você gosta da música de Mozart?	16379
+Have you taken your medicine yet?	Você já tomou seu remédio?	16380
+Now that you are grown-up, you ought to know better.	Agora que você é adulto, você deve saber melhor.	16385
+You are now an adult.	Agora você é adulto.	16387
+Now you've come of age, you have the right to vote.	Agora que você atingiu a maioridade, tem o direito de voto.	16390
+You must go to bed now.	Você deve ir pra cama agora.	16391
+You had better go to bed now.	Seria melhor que fosses para a cama agora.	16392
+You should have come a little earlier.	Você deveria ter vindo um pouco antes.	16394
+You must get up a little earlier.	Você precisa se levantar um pouco mais cedo.	16395
+Have you done all your homework?	Você fez todo seu dever de casa?	16400
+You are not a child any more.	Você não é mais uma criança.	16403
+You may go home now.	Você pode ir para casa agora.	16405
+Have you finished the work yet?	Você já terminou o trabalho?	16410
+You haven't changed at all.	Você não mudou nada.	16420
+You have made the very same mistake again.	Você cometeu o mesmo erro.	16421
+You haven't washed your hands yet, have you?	Você ainda não lavou as mãos, lavou?	16423
+You can't speak French, can you?	Você não sabe falar francês, sabe?	16429
+You'd better go by bus.	É melhor você ir de ônibus.	16433
+You should practice playing the violin every day.	Você deve estudar violino todo dia.	16435
+You have to go to the party.	Você tem que ir para a festa.	16437
+You're such a cute boy.	Você é um garoto fofo.	16447
+Why did you not go to the office?	Por que não foste ao escritório?	16452
+Why do you want to study abroad?	Por que queres estudar no exterior?	16456
+Why do you want to buy this book?	Por que você quer comprar este livro?	16457
+How long have you been in Japan?	Durante quanto tempo estiveste no Japão?	16464
+How often do you go abroad?	Com que frequência você vai ao exterior?	16465
+How long will you stay here?	Você vai ficar aqui por quanto tempo?	16466
+You can always count on Tom.	Você pode sempre contar com Tom.	16467
+You're a friend of Tom's, eh?	Você é amigo do Tom, não?	16468
+How do you get to school?	Como você chega na escola?	16469
+Which club do you belong to?	A que clube você pertence?	16470
+How high can you jump?	A que altura você consegue pular?	16471
+Which bed do you want to use?	Qual cama você quer usar?	16477
+Which one do you take?	Qual você escolhe?	16479
+Which of your parents do you take after?	Você puxou ao seu pai ou à sua mãe?	16480
+Wherever you go, you'll be welcomed.	Aonde quer que vá, será bem-vindo.	16482
+Do you feel at home anywhere?	Você se sente em casa em qualquer lugar?	16488
+How did you come to know her?	Como você veio a conhecê-la?	16493
+What have you come here for?	Por que vocês vieram aqui?	16501
+What has brought you here?	O que te trouxe aqui?	16502
+Do you not play tennis?	Você não joga tênis?	16504
+You smoke far too much. You should cut back.	Você fuma demais. Você deveria fumar menos.	16511
+You should give up smoking.	Você deveria parar de fumar.	16513
+You must give up smoking.	Você deve parar de fumar.	16514
+All you have to do is to wait.	Tudo o que você tem que fazer é esperar.	16519
+You needn't have taken a taxi.	Você não precisava ter pegado o táxi.	16523
+You shouldn't do such a thing.	Você não deveria fazer tal coisa.	16535
+It is impossible for you to do so.	É impossível você fazer isso.	16538
+You shouldn't have done such a thing.	Você não devia ter feito uma coisa dessas.	16540
+You can bank on that.	Você pode contar com isso.	16542
+Who did you give it to?	Para quem você deu?	16543
+You could have done it.	Você poderia ter feito.	16544
+You will wish you had never seen it.	Você desejará nunca ter visto isso.	16549
+Did you buy it on the black market?	Você o comprou no mercado negro?	16551
+You should have done it earlier. It cannot be helped now.	Você deveria ter feito isso antes. Agora, não há nada a ser feito.	16552
+What did you open it with?	Com o que você o abriu?	16553
+You shouldn't have done it.	Você não deveria ter feito isso.	16554
+You needn't do it at once.	Você não precisa fazer de uma vez só.	16556
+You must do it at once.	Você tem que fazer imediatamente.	16557
+When did you finish it?	Quando você terminou?	16559
+You have to cope with those difficult problems.	Você tem que lidar com aqueles problemas difíceis.	16560
+Are you in favor of the workers getting more money?	Você é a favor dos trabalhadores receberem mais dinheiro?	16565
+Do you know the reason?	Você sabe o motivo?	16567
+Could you solve the problem?	Você poderia resolver o problema?	16569
+You should have introduced yourself to the girl.	Você deveria ter se apresentado para a garota.	16570
+You may keep the book.	Você pode ficar com o livro.	16573
+You ought to have seen the exhibition.	Você deveria ter visto a exposição.	16577
+Are you in favor of or against that policy?	Você é a favor ou contra aquela política?	16578
+You should apply for that post.	Você deveria se inscrever para aquela vaga.	16579
+Do you know where the girl lives?	Você sabe onde a garota mora?	16580
+Have you finished reading the novel?	Você terminou de ler o romance?	16581
+You should emphasize that fact.	Você deveria dar ênfase àquele fato.	16584
+You have no business complaining about the matter.	Você não tem nada que reclamar do assunto.	16588
+Did you watch the game?	Você viu o jogo?	16590
+You have to overcome the difficulties.	Você tem de superar as dificuldades.	16596
+You are responsible for the result.	Você é responsável pelos resultados.	16602
+Are you for or against the plan?	Você é contra ou a favor do plano?	16605
+You'll have some difficulty in carrying out the plan.	Você terá dificuldade em executar o plano.	16614
+Did you ever hear the like of it?	Você já ouviu algo similar?	16619
+You'd better not go there.	É melhor você não ir lá.	16624
+Do you deny that you went there?	Você nega ter ido lá?	16626
+You had better not have gone there.	Teria sido melhor se você não tivesse ido lá.	16627
+You aren't a spy, are you?	Você não é um espião, não é?	16634
+I hear that you've been ill.	Ouvi dizer que esteve doente.	16635
+You've got a lot of guts.	Você é muito corajoso.	16637
+You will soon get accustomed to living here.	Você logo vai se acostumar a viver aqui.	16644
+You will soon get accustomed to your new school.	Logo você se acostumará à sua escola nova.	16650
+You will soon regret your rash conduct.	Você em breve se arrependerá de sua conduta precipitada.	16663
+You'd better stay at home rather than go out on such a day.	Seria melhor você ficar em casa do que sair num dia desse.	16666
+You must put an end to this foolish behavior.	Você deve dar um fim nesse comportamento estúpido.	16668
+Did you do this on your own?	Você fez isso por conta própria?	16670
+I hope you can come up with a better plan than this.	Espero que você possa aparecer com um plano melhor que esse.	16672
+Have you read this book already?	Vocês já leram este livro?	16675
+Have you read this book yet?	Você já leu esse livro?	16676
+Do you know what this box is made of?	Você sabe do que esta caixa é feita?	16679
+Where did you go last Sunday?	Aonde você foi domingo passado?	16681
+Can you swim across the river?	Consegues atravessar o rio nadando?	16682
+You can use this car.	Você pode usar esse carro.	16687
+You are asking too much for this car.	Você está pedindo muito dinheiro por esse carro.	16688
+Since you have nothing to do with this matter, you don't have to worry.	Como você não tem nada a ver com esse assunto, você não precisa se preocupar.	16689
+You are old enough to understand this.	Você já é grandinho o suficiente para entender isso.	16690
+Can you make sense of this poem?	Você consegue entender esse poema?	16691
+You should not think little of this result.	Você não deveria menosprezar esse resultado.	16696
+You are safe so long as you stay here.	Você está a salvo enquanto ficar aqui.	16711
+Are you going to sing here?	Você vai cantar aqui?	16718
+You've drunk three cups of coffee.	Você bebeu três xícaras de café.	16723
+Where are you from in Canada?	De onde vens do Canadá?	16731
+Have you visited the town where your father was born?	Você visitou a cidade onde seu pai nasceu?	16738
+Have you ever visited the office where your father works?	Você já visitou o escritório onde seu pai trabalha?	16741
+When did you come to Japan?	Quando você veio para o Japão?	16755
+When will you be free?	Quando você estará livre?	16758
+When did you begin studying English?	Quando você começou a estudar inglês?	16759
+You always insist that you are in the right.	Você sempre insiste que está certo.	16770
+You are always doubting my word.	Você está sempre duvidando da minha palavra.	16771
+What time do you usually get up?	A que horas de costume você se levanta?	16774
+What time do you usually go to bed?	A que horas você se deita normalmente?	16775
+You are quite a man.	Você é um homem e tanto.	16780
+You will know the truth some day.	Você saberá a verdade algum dia.	16785
+How much money do you want?	Quanto dinheiro vocês querem?	16790
+You are a good boy.	Você é um bom menino.	16793
+You must be tired after such a long trip.	Você deve estar cansado, após tão longa viagem.	16795
+You shouldn't talk back to your parents like that.	Você não deveria responder aos seus pais dessa forma.	16796
+You shouldn't have eaten so much ice cream.	Você não deveria ter comido tanto sorvete.	16798
+You are right in a way.	De certa forma, você está certo.	16799
+Have you ever been to America?	Você já esteve na América?	16800
+You cannot buy that judge.	Você não pode subornar aquele juiz.	16805
+Have you ever been to that village?	Você já esteve nesse povoado?	16806
+I wish you had told me the truth then.	Eu queria que você tivesse me contado a verdade naquele momento.	16807
+You're a philosopher, aren't you?	Você é filósofo, não é?	16814
+You must be here till five.	Você precisa estar aqui até as cinco.	16821
+You'll be able to drive a car in a few days.	Você poderá dirigir em poucos dias.	16825
+You should have refused his offer.	Você não devia ter aceitado a oferta dele.	16829
+You need to have breakfast.	Você precisa tomar café da manhã.	16830
+Did you leave the window open?	Deixaste a janela aberta?	16831
+Are you doing what you think is right?	Você está fazendo o que acha certo?	16834
+It is better for you to do it now.	É melhor que você faça isso agora.	16836
+Which party do you belong to?	A qual partido você pertence?	16841
+When did you begin learning German?	Quando você começou a aprender alemão?	16849
+I can hardly hear you.	Mal consigo ouvir você.	16857
+Meg called you during your absence.	A Meg ligou enquanto você estava fora.	16861
+I don't mean to challenge your theory.	Não quero pôr a sua teoria em dúvida.	16865
+I admire you for your courage.	Admiro você pela sua coragem.	16872
+I see no analogy between your problem and mine.	Não vejo nenhuma analogia entre o seu problema e o meu.	16878
+You have lovely eyes, don't you?	Sabia que você tem lindos olhos?	16879
+Your driver's license has expired.	Sua carteira de habilitação expirou.	16883
+I will sell the boat in accordance with your orders.	Venderei o barco de acordo com as suas ordens.	16884
+Write your name in capitals.	Escreva seu nome em letras maiúsculas.	16886
+Your daughter is not a child anymore.	A sua filha não é mais uma criança.	16889
+Your comic books are on the shelf.	Suas revistas em quadrinhos estão na prateleira.	16901
+What grade is your sister in?	Em que série está a sua irmã?	16905
+Your book is double the size of mine.	Seu livro tem o dobro do tamanho do meu.	16907
+Your book is on the desk.	O seu livro está na escrivaninha.	16908
+Better to get advice from your lawyer.	Melhor pedir conselhos a seu advogado.	16910
+Please give my regards to your father.	Por favor, cumprimente o seu pai por mim.	16919
+Your smile always makes me happy.	Seu sorriso sempre me deixa feliz.	16923
+Your problem is similar to mine.	Seu problema é parecido com o meu.	16930
+At your age you ought to support yourself.	Na sua idade você deveria se bancar sozinho.	16936
+Compare your answers with the teacher's.	Compare suas respostas com as do professor.	16944
+Compare your answer with Tom's.	Compare sua resposta com a de Tom.	16945
+I think your answer is correct.	Eu acho que a sua resposta está correta.	16955
+It doesn't matter whether your answer is right or wrong.	Não importa se sua resposta está certa ou errada.	16956
+I hope your efforts will bear fruit.	Espero que seus esforços deem frutos.	16963
+You can come and see me whenever it's convenient for you.	Você pode vir e me ver quando for conveniente para você.	16965
+I forget your phone number.	Esqueci seu número de telefone.	16966
+I forget your telephone number.	Esqueci seu número de telefone.	16967
+May I use your phone?	Posso usar o seu telefone?	16969
+Your suggestion is of no practical use.	Tua sugestão não tem utilidade prática.	16975
+I am in favor of your proposal.	Eu sou favorável a sua proposta.	16977
+Bring your brother with you.	Traga o seu irmão consigo.	16981
+Your brother said you'd gone to Paris.	Seu irmão me disse que você tinha ido a Paris.	16983
+You'll be paid according to the amount of work you do.	Você será pago de acordo com a sua quantidade de trabalho.	16984
+How many schools are there in your city?	Quantas escolas tem na sua cidade?	16985
+It's none of your business.	Não é da sua conta.	16994
+I will give you a bicycle for your birthday.	Vou te dar uma bicicleta como presente de aniversário.	16998
+You shall have a bicycle for your birthday.	Você vai ganhar uma bicicleta de aniversário.	17000
+Is this your son, Betty?	Esse é o seu filho, Betty?	17006
+I cannot accept your gift.	Eu não posso aceitar seu presente.	17007
+Go back to your seat.	Volte ao seu lugar.	17013
+I can hear you, but I can't see you.	Posso ouvi-lo, mas não o posso ver.	17015
+I am glad to hear of your success.	Fico feliz em saber do seu sucesso.	17027
+Your behavior is creating a lot of problems.	Seu comportamento está trazendo um monte de problemas.	17040
+I didn't mean to hurt you.	Eu não queria te machucar.	17044
+Your principles are not consistent with your actions.	Os seus princípios não condizem com suas ações.	17047
+We will make an exception of your case.	Abriremos uma exceção no seu caso.	17049
+Let's have a serious talk about your future.	Vamos ter uma séria conversa sobre o seu futuro.	17052
+I hope you have a happy future ahead of you.	Espero que você tenha um alegre futuro à sua frente.	17053
+Your advice is always helpful to me.	Seus conselhos são sempre úteis para mim.	17055
+I don't need your help.	Não preciso de sua ajuda.	17057
+Without your help, we wouldn't be able to carry out our plan.	Sem a sua ajuda, não poderíamos levar a cabo nosso plano.	17059
+We'll start whenever you are ready.	Começaremos quando você estiver pronto.	17061
+I received your letter yesterday.	Recebi sua carta ontem.	17073
+Your letter made me happy.	Sua carta me deixou feliz.	17074
+What position do you hold?	Que cargo você ocupa?	17075
+Please lend me your car.	Por favor, me empresta seu carro.	17078
+Would you mind lending me your car?	Você se importaria em me emprestar seu carro?	17080
+Give me a lift in your car.	Me dê uma carona em seu carro.	17082
+Compared with yours, my car is small.	Comparado com o teu, o meu carro é pequeno.	17084
+What have you done with your car?	O que você fez com o seu carro?	17085
+It is important that you attach your photo to the application form.	É importante que você anexe sua foto ao formulário de inscrição.	17086
+Your questions were too direct.	As suas perguntas foram muito diretas.	17092
+Will you lend me your dictionary?	Você me empresta o seu dicionário?	17095
+May I borrow your dictionary?	Posso pegar seu dicionário emprestado?	17096
+Look up the definition of 'guy' in your dictionary.	Olhe a definição de "cara" no seu dicionário.	17097
+Look up the words in your dictionary.	Procure as palavras em seu dicionário.	17098
+Could you lend me your bicycle for a couple of days?	Você poderia me emprestar sua bicicleta por alguns dias?	17100
+Your bicycle is similar to mine.	Sua bicicleta é parecida com a minha.	17101
+Your bike is better than mine.	Sua bicicleta é melhor do que a minha.	17102
+Your watch is ten minutes slow.	Seu relógio está dez minutos atrasado.	17107
+What time is it by your watch?	Que horas são no seu relógio?	17108
+Your work has greatly improved.	Seu trabalho tem melhorado muito.	17126
+How is your work coming along?	Como está indo seu trabalho?	17127
+May we accompany you on your walk?	Podemos acompanhá-lo em sua caminhada?	17130
+Compare your composition with the example.	Compare sua composição com o exemplo.	17133
+Your composition is very good, and it has few mistakes.	Sua redação está muito boa, e tem poucos erros.	17137
+Your essay has some mistakes, but as a whole it is very good.	Seu artigo tem alguns erros mas, no geral, está muito bom.	17144
+Your composition has a few mistakes.	Sua composição possui alguns deslizes.	17145
+Where do you come from?	De onde vêm vocês?	17150
+Do you eat rice in your country?	Vocês comem arroz no seu país?	17151
+You should come early in order for him to read your manuscript before your speech.	Você deve vir mais cedo para que ele leia seu manuscrito antes do seu discurso.	17152
+Your behavior leaves much to be desired.	Seu comportamento deixa muito a desejar.	17159
+Your conduct is beyond bearing.	Sua conduta é insuportável.	17162
+Your idea is absolutely impossible.	A sua ideia é absolutamente impossível.	17175
+Your idea seems to be similar to mine.	Sua ideia parece similar à minha.	17177
+Your view is too optimistic.	Sua visão é otimista demais.	17179
+Your ideas are quite old fashioned.	Suas ideias são bem antiquadas.	17180
+Your thoughts are of no significance at all.	Os seus pensamentos não têm qualquer importância.	17181
+I know what you mean.	Eu sei o que você quer dizer.	17198
+What you are saying does not make sense.	O que estás a dizer não faz sentido.	17199
+Admitting what you say, I still think you are wrong.	Admitindo o que você diz, eu ainda acho que você está errada.	17213
+What you say is right.	O que dizes está certo.	17225
+I find it difficult to believe.	Acho difícil acreditar nisso.	17226
+Aren't you pushing it too far?	Você não está levando isso longe demais?	17228
+You should pay more attention to what you say.	Você deveria prestar mais atenção no que diz.	17236
+If what you say is true, it follows that he has an alibi.	Se o que você diz é verdade, significa que ele tem um álibi.	17239
+I don't get what you mean.	Não entendo o que você quer dizer.	17241
+What's become of your dog?	O que aconteceu com seu cachorro?	17244
+I have been anxious about your health.	Tenho estado ansioso a respeito da sua saúde.	17246
+Your scheme is like a house built on the sand.	Seu esquema é como uma casa construída sobre a areia.	17254
+Your plan seems better than mine.	Seu plano parece ser melhor que o meu.	17258
+I approve of your plan.	Eu aprovo seu plano.	17259
+Tell me about your plan.	Me diga sobre seu plano.	17260
+There is a big hole in your stocking.	Há um grande buraco na sua meia.	17262
+Your shoes are here. Where are mine?	Os teus sapatos estão aqui. Onde estão os meus?	17264
+I'm sick of listening to your complaints.	Estou cansado de ouvir suas reclamações.	17266
+Do you know what you're asking?	Você sabe o que está perguntando?	17271
+I forbid you to smoke.	Eu te proíbo de fumar.	17272
+Your eyes remind me of stars.	Seus olhos me lembram estrelas.	17281
+How many pupils are there in your school?	Quantos alunos tem na sua escola?	17284
+Make a sketch of your house.	Faça um esboço de sua casa.	17290
+How far is it from your house to the park?	Qual é a distância de sua casa para o parque?	17294
+Let's discuss your love problems on the way back from school.	Discutamos seus problemas amorosos no retorno da escola.	17295
+Your speech will be recorded in history.	Seu discurso será gravado na história.	17301
+I count on your help.	Conto com sua ajuda.	17302
+Without your assistance I would have failed.	Sem sua assistência eu teria falhado.	17304
+Your English has improved a lot.	O seu inglês melhorou muito.	17311
+Your method of teaching English is absurd.	Seu método de ensinar inglês é absurdo.	17314
+Your opinion is similar to mine.	Sua opinião é parecida com a minha.	17319
+Your opinion is far different from mine.	A sua opinião é muito diferente da minha.	17320
+I agree with some of your opinions.	Concordo com algumas das suas opiniões.	17322
+Your idea sounds like a good one.	Sua ideia parece boa.	17327
+I entirely approve of what you say.	Eu apoio totalmente o que você disse.	17340
+I am losing my patience with you.	Estou perdendo a paciência com você.	17341
+You're on the right track.	Você está no caminho certo.	17344
+Can I use your pen?	Posso usar a sua caneta?	17354
+Your pen is better than mine.	Sua caneta é melhor do que a minha.	17355
+As you make your bed, so you must lie in it.	Tal voz, tal eco.	17356
+Your dress is very nice.	Seu vestido é muito bonito.	17363
+I'll come to your place.	Vou para a sua casa.	17365
+I'm glad that your team won the game.	Fico feliz que seu time tenha ganho o jogo.	17367
+I'm not going out on a limb for you because you never helped me before.	Não vou me arriscar por você porque você nunca me ajudou.	17370
+I will do all I can for you.	Farei tudo que puder por você.	17372
+Don't be angry with me, for I did it for your sake.	Não fique nervoso comigo, pois eu fiz isso por sua segurança.	17374
+I will do anything for you.	Eu farei qualquer coisa por você.	17376
+What's the weight of your suitcase?	Qual é o peso de sua mala?	17381
+We are worried about you.	Nós estamos preocupados com você.	17389
+I have absolute trust in you.	Confio totalmente em você.	17390
+Your words make me fear for my life.	A tua palavra mete-me um medo de morte.	17391
+You'll get into trouble if your girlfriend finds out the truth.	Você vai entrar numa fria se a sua namorada descobrir a verdade.	17402
+I'd like to see your father.	Gostaria de ver o seu pai.	17408
+Is your uncle still abroad?	Seu tio ainda está no exterior?	17410
+I have no idea what you mean.	Eu não faço ideia do que você quer dizer com isso.	17417
+Your chair is identical to mine.	Sua cadeira é parecida com a minha.	17420
+While I understand what you say, I can't agree with you.	Apesar de entender o que você quer dizer, não concordo com você.	17422
+I don't agree with you.	Não estou de acordo com você.	17423
+I regret that I told you.	Arrependo-me de lhe ter dito.	17429
+I want you to go to the post office.	Quero que você vá ao correio.	17434
+I will forgive him out of consideration for you.	Perdoá-lo-ei em consideração a você.	17438
+I want you to read this book.	Quero que você leia este livro.	17440
+Didn't I lend you some books? I'm sure I did.	Eu não te emprestei alguns livros? Tenho certeza de que emprestei.	17441
+You took the words right out of my mouth.	Você tirou as palavras da minha boca.	17442
+I will tell you a secret.	Eu vou te contar um segredo.	17445
+I cannot help you, not but that I pity you.	Eu não posso ajudá-lo, embora tenha pena de você.	17449
+I couldn't call you; the telephone was out of order.	Não consegui te ligar; o telefone estava quebrado.	17454
+We'll give you your revenge.	Daremos a você a sua vingança.	17460
+I was going to write to you, but I was too busy.	Eu ia te escrever, mas estava ocupado demais.	17466
+I'll teach you how to drive a car.	Eu vou te ensinar a dirigir um carro.	17468
+I'll lend you my notebook.	Eu vou te emprestar o meu caderno.	17470
+I want you to go.	Quero que você vá.	17473
+I have been reflecting on what you said to me.	Ando refletindo no que você me disse.	17474
+I'm very glad to see you.	Estou muito contente em vê-los.	17479
+I am looking forward to seeing you.	Espero te ver em breve.	17481
+I would like you to come with me.	Eu gostaria que você viesse comigo.	17488
+You ought to have seen it.	Vocês deveriam ter visto.	17492
+I want you to work harder.	Eu quero que você trabalhe mais.	17493
+I want to see you again.	Quero revê-lo.	17494
+You have a bright future.	Você tem um futuro brilhante.	17496
+You have as much right as everyone else.	Você tem tanto direito quanto qualquer outro.	17507
+I expect you to be punctual.	Espero que você seja pontual.	17514
+Can't you understand the pain of your parents?	Você não consegue entender a dor dos seus pais?	17516
+You make me feel so guilty.	Você faz eu me sentir tão culpado.	17522
+I can't thank you enough.	Não posso agradecer-lhe o suficiente.	17540
+I can't keep up with you.	Não consigo acompanhá-lo.	17545
+I'd like to talk with you in private.	Gostaria de falar com você em particular.	17546
+I have a very sore arm where you hit me.	Estou com o braço muito dolorido onde você me bateu.	17547
+You should have seen it.	Você deveria ter visto.	17549
+I guess that you can't do it.	Acho que você não consegue fazer isso.	17552
+Didn't I tell you so?	Eu não te disse isso?	17555
+Let me give you some advice.	Deixe-me lhe dar um conselho.	17567
+I have a nice present to give you.	Tenho um ótimo presente para te dar.	17569
+I thought you'd be the last person to do such a thing.	Eu pensava que você seria a última pessoa a ser tal coisa.	17576
+I can't think of life without you.	Não posso nem pensar em viver sem você.	17581
+You and I are the same age.	Você e eu somos da mesma idade.	17589
+If only I could speak English as fluently as you!	Se eu pudesse falar inglês tão fluentemente quanto você!	17602
+It is hard to distinguish you from your brother.	É difícil distinguir você do seu irmão.	17606
+I'd like to go with you, but as it is I can't.	Eu gostaria de ir contigo, mas de todo jeito não posso.	17610
+I'd like to go to the seaside with you.	Gostaria de ir ao litoral com você.	17611
+You and I are good friends, but we have little in common.	Você e eu somos bons amigos, mas temos pouco em comum.	17617
+I often think about the place where I met you.	Penso muitas vezes no lugar onde te conheci.	17619
+I would like to go to the concert with you.	Gostaria de ir ao concerto com você.	17620
+I'll get something to drink for both of you.	Eu vou pegar alguma coisa para vocês dois beberem.	17625
+Divide the cake among you three.	Repartam o bolo entre vocês três.	17628
+How old will you be next year?	Quantos anos você terá no ano que vem?	17630
+You had better not start until they arrive.	É melhor que não comeces até que eles cheguem.	17631
+You didn't need to hurry.	Você não precisa se apressar.	17640
+All you have to do is to learn this sentence by heart.	Tudo o que você tem de fazer é aprender esta frase de cor.	17652
+You have to share the cake equally.	Vocês devem repartir o bolo igualmente.	17655
+Compare your translation with the one on the blackboard.	Compara a tua tradução com aquela que está no quadro.	17658
+Compare your sentence with the one on the blackboard.	Compare sua frase com a do quadro-negro.	17659
+I don't approve your decision.	Eu não aprovo sua decisão.	17662
+Your team is stronger than ours.	A tua equipa é melhor do que a nossa.	17665
+All you have to do is wait.	Tudo o que você tem que fazer é esperar.	17677
+Not only you but I also was to blame.	Não só você mas eu também fui culpado.	17678
+Only you can carry the bag.	Só você para carregar a bolsa.	17687
+You're the best man for the job.	Você é o melhor homem para esse trabalho.	17693
+I hadn't recognized the importance of this document until you told me about it.	Eu não tinha reconhecido a importância deste documento até que você me contou sobre ele.	17696
+I was disappointed at your absence.	Fiquei decepcionado pela sua ausência.	17697
+I had no idea that you were coming.	Eu não tinha ideia que você estava vindo.	17701
+It doesn't matter whether you come or not.	Não importa se você vem ou não.	17702
+It's a pity that you can't come.	É uma pena que não possa vir.	17704
+What is it that you want?	O que vocês querem?	17706
+I take it from your silence that you are not satisfied with my answer.	Pelo seu silêncio, acho que você não está satisfeito com a minha resposta.	17713
+I want to know if you'll be free tomorrow.	Eu quero saber se você estará livre amanhã.	17715
+I am glad that you have returned safe.	Eu estou feliz que você retornou em segurança.	17716
+What would you do if you were in my place?	O que você faria em meu lugar?	17717
+What would you do in my place?	O que você faria em meu lugar?	17721
+The information you gave me is of little use.	A informação que me deste é de pouca ajuda.	17723
+Didn't they teach you common sense as well as typing at the school where you studied?	Eles não o ensinaram bom senso assim como datilografia na escola onde você estudou?	17729
+I will lend you whatever book you need.	Vou te emprestar qualquer livro que precise.	17734
+I don't know whether you like her or not.	Não sei se você gosta ou não dela.	17739
+What you said to her isn't accepted as a joke.	O que você disse a ela não é considerado piada.	17742
+Either you or she has to go there.	Ou você ou ela tem que ir lá.	17743
+Does he know that you love him?	Ele sabe que você o ama?	17748
+It was foolish of you to accept his offer.	Foi insensato de tua parte aceitar a sua oferta.	17751
+I can't approve of your going out with him.	Eu não posso autorizar que você saia com ele.	17758
+Show me what you bought.	Mostre para mim o que você comprou.	17764
+It is amazing; you should have won the prize.	Foste esplêndido! Devías de ter ganho o prémio.	17769
+We were just talking about you when you called.	Acabávamos de falar sobre ti quando chegaste.	17778
+It is a pity that you can't join us.	É uma pena você não poder se juntar a nós.	17783
+I sincerely hope that you will soon recover from your illness.	Espero sinceramente que em breve você vai se recuperar de sua doença.	17785
+Unless you make a decision quickly, the opportunity will be lost.	A não ser que você tome uma decisão rápida, a oportunidade será perdida.	17786
+I hope that you will get well soon.	Espero que vocês fiquem bem logo.	17787
+Well do I remember the day you were born.	Eu me lembro bem do dia em que você nasceu.	17794
+I guess you are right.	Acho que você está certo.	17795
+I'm glad to hear of your success.	Fico feliz em saber do seu sucesso.	17802
+You may or may not win.	Você pode ou não ganhar.	17808
+He came after you left.	Ele veio depois de você partir.	17814
+You must do your homework at once.	Você precisa fazer o dever de casa agora mesmo.	17815
+The reason why you failed is you did not try hard enough.	A razão pela qual você falhou é não se ter esforçado bastante.	17820
+I love you more than you love me.	Eu te amo mais do que tu me amas.	17829
+What is it that you want me to do?	O que que você quer que eu faça?	17835
+I hope you will join us in the parade and march along the street.	Espero que você se junte a nós na parada e marche pelas ruas.	17837
+I'll look after your affairs when you are dead.	Eu cuidarei das suas coisas quando você morrer.	17839
+I don't have as much money as you think.	Não tenho tanto dinheiro como você pensa.	17840
+How much money did you spend in total?	Quanto dinheiro você gastou ao todo?	17841
+With your approval, I would like to offer him the job.	Com a sua aprovação, eu gostaria de oferecer-lhe o emprego.	17846
+Show me the doll that you bought yesterday.	Mostre-me a boneca que você comprou ontem.	17848
+Choose the color you like the best.	Escolha a cor que mais gostar.	17851
+If you don't go, I won't, either.	Se você não for, eu também não irei.	17864
+I don't care as long as you are happy.	Eu não me importo desde que você esteja feliz.	17867
+What you said surprised me.	O que você disse me surpreendeu.	17871
+Whatever you may say, I won't give it up.	Não importa o que você diga, eu não vou desistir.	17872
+The picture you are looking at costs 100,000 yen.	A imagem que você está olhando custa cem mil ienes.	17875
+By the time you get out of jail, she'll probably have gotten married.	Quando você sair da prisão, ela, provavelmente, estará casada.	17878
+I know you are rich.	Eu sei que você é rico.	17881
+I will not allow you to be ill-treated.	Eu não permitirei que você seja maltratado.	17887
+I'll stay here till you get back.	Vou ficar aqui até você voltar.	17891
+It's clear that you're wrong.	Claramente você está errado.	17895
+If you are wrong, I am wrong too.	Se você está errado, eu também estou errado.	17900
+You shouldn't have paid the bill.	Não deverias ter pagado a conta.	17901
+It is important for you to learn a foreign language.	É importante que você aprenda uma língua estrangeira.	17902
+I'll open the curtain for you to look out.	Eu vou abrir a cortina para você ver.	17903
+I wish you were close to me.	Queria que você estivesse perto de mim.	17922
+It was bad of you to get angry at your wife.	Foi ruim você ter ficado com raiva da sua mulher.	17923
+What is that thing in your right hand?	O que é essa coisa na sua mão direita?	17929
+You are not to blame, nor is he.	A culpa não é sua nem dele.	17937
+I'm looking forward to hearing from you.	Aguardo notícias ansiosamente.	17944
+You can do whatever you want to.	Você pode fazer o que quiser.	17949
+I would do it in a different way than you did.	Eu faria de uma forma diferente da que você fez.	17951
+If you were to fall from that bridge, it would be almost impossible to rescue you.	Se você viesse a cair dessa ponte, seria quase impossível resgatá-lo.	17955
+I will help him no matter what you say.	Ajudarei ele não importa o que você diga.	17966
+I can imagine how you felt.	Posso imaginar como se sentiu.	17971
+You should have nothing to complain about.	Você não deve ter nada a reclamar.	17978
+I'm surprised at your behavior.	Estou surpreso com o seu comportamento.	17982
+It's strange you say that.	É estranho você dizer isso.	17983
+I will do my best to put such an idea out of your head.	Farei o possível para tirar uma ideia como essa da sua cabeça.	17984
+How can I feel relaxed, with you watching me like that?	Como posso ficar relaxado se vocês ficam me vigiando assim?	17985
+It is a pity that you should lose such a chance.	É uma pena que você deve perder tal chance.	17988
+It is foolish of you to believe such a thing.	Tolice a sua acreditar em algo assim.	17989
+I wish you had not told the story to my mother.	Queria que você não tivesse contado a história à minha mãe.	18001
+I'll do it, if you insist.	Eu faço, já que você insiste.	18010
+I can't work with you standing there.	Não consigo trabalhar com você aqui.	18011
+I can't allow you to do that.	Não posso permitir que você faça isso.	18018
+There are a good many reasons why you shouldn't do it.	Há muitas razões pelas quais você não deveria fazer isso.	18019
+I don't blame you for doing that.	Não te culpo por fazer aquilo.	18020
+There is no need for you to stay here.	Tu não precisas ficar aqui.	18038
+As long as you're here, I'll stay.	Enquanto você estiver aqui, eu fico.	18039
+My life would be completely empty without you.	Minha vida seria completamente vazia sem você.	18047
+We shall all miss you when you go away.	Nós vamos todos sentir saudades quando você for embora.	18050
+I miss you very much.	Estou com muitas saudades de você.	18053
+We all miss you very much.	Todos nós sentimos muito a sua falta.	18054
+We will miss you badly.	Sentiremos muito a sua falta.	18055
+You may stay here as long as you like.	Você pode ficar aqui quanto quiser.	18059
+Here is a letter for you.	Aqui está uma carta para você.	18067
+Have you ever seen Mt. Fuji? It is beautiful beyond description.	Você já viu o Monte Fuji? É indescritivelmente lindo.	18070
+What time will you leave?	Você parte quando?	18072
+You can do this with ease.	Podes fazer isto com facilidade.	18074
+A bear can climb a tree.	Ursos conseguem subir em árvores.	18079
+Take off your socks, please.	Tire suas meias, por favor.	18086
+There is a hole in your sock.	Tem um furo em sua meia.	18089
+Before buying shoes, you should try them on.	Antes de comprar sapatos, você deve experimentá-los.	18094
+Please take off your shoes.	Por favor, tire os sapatos.	18097
+Please remove your shoes before entering the house.	Faça o favor de tirar os sapatos antes de entrar na casa.	18098
+I bought a pair of shoes.	Comprei um par de sapatos.	18099
+Gum got stuck to the bottom of my shoe.	Um chiclete pregou no meu sapato.	18109
+The soles of my shoes are worn.	As solas dos meus sapatos estão gastas.	18110
+The man in the corner addressed himself to the husband.	O homem no canto dirigiu-se ao marido.	18126
+I found the book by accident.	Encontrei o livro por acaso.	18133
+I found that restaurant by accident.	Eu encontrei esse restaurante sem querer.	18134
+I met her by chance.	Conheci-a ao acaso.	18135
+I happened to witness the bullying in the corridor.	Aconteceu de eu testemunhar o bullying no corredor.	18136
+By chance I met my ex-girlfriend in Portugal.	Eu encontrei por acaso minha ex-namorada em Portugal.	18139
+Even times odd is even, odd times odd is odd.	O produto de um número par por um número ímpar resulta num número par; o produto de dois números ímpares resulta num número ímpar.	18141
+Judging from the look of the sky, it will be fine tomorrow.	A julgar pelo céu, amanhã teremos um belo dia.	18144
+Judging from the look of the sky, we may have snow tomorrow.	Julgando pela aparência do céu, podemos ter neve amanhã.	18146
+Hunger is the best sauce.	A fome é o melhor tempero.	18157
+Hunger drove him to steal.	A fome o fez roubar.	18161
+I must make up for lost time.	Tenho que recuperar o tempo perdido.	18168
+Our house was robbed while we were away.	Nossa casa foi assaltada enquanto estávamos fora.	18171
+He built castles in the air all day.	Construí castelos no ar durante o dia todo.	18174
+Karate is an art of unarmed defense.	O caratê é uma arte de defesa sem armas.	18180
+I saw a flock of birds flying aloft.	Eu vi um bando de pássaros voando no alto.	18182
+I'll drive you to the airport.	Eu vou te levar para o aeroporto.	18185
+May I accompany you to the airport?	Posso acompanhá-lo até o aeroporto?	18187
+How far is it to the airport?	Quão longe daqui é o aeroporto?	18189
+I'll accompany you to the airport.	Acompanhá-lo-ei até o aeroporto.	18191
+I went to the airport by taxi.	Eu fui para o aeroporto de táxi.	18195
+How long does the airport bus take to the airport?	Quanto tempo demora para o ônibus do aeroporto chegar até o aeroporto?	18201
+I'll phone you as soon as I get to the airport.	Eu te ligarei assim que chegar ao aeroporto.	18206
+I have to go to the airport to meet my family.	Tenho que ir ao aeroporto me encontrar com a minha família.	18210
+Please pick me up at the airport at five.	Por favor, busca-me no aeroporto às cinco.	18215
+Is it possible to take a shuttle bus from the airport to the hotel?	É possível apanhar um autocarro de transbordo do aeroporto para o hotel?	18224
+To live without air is impossible.	É impossível viver sem ar.	18225
+Air, like food, is a basic human need.	Ar, assim como comida, é uma necessidade humana básica.	18233
+The air is soft, the soil moist.	O ar é leve e o solo, úmido.	18237
+Air is a mixture of various gases.	O ar é uma mistura de vários gases.	18239
+No living thing could live without air.	Nenhum ser vivo consegue viver sem ar.	18253
+Without air, nothing could live.	Sem ar, nada poderia viver.	18254
+We would die without air.	Sem ar, morreríamos.	18255
+A bat flying in the sky looks like a butterfly.	Um morcego voando no céu parece uma borboleta.	18264
+Who is looking up into the sky?	Quem está olhando para o céu?	18268
+The sky is becoming cloudy.	O céu está ficando nublado.	18274
+The sky is clear and the sun is bright.	O céu está limpo e o Sol, brilhante.	18276
+The sky is full of stars.	O céu está estrelado.	18278
+The sky grew darker and darker.	O céu foi ficando cada vez mais escuro.	18280
+The sky is covered with clouds.	O céu está coberto de nuvens.	18282
+The sky was completely dark.	O céu estava totalmente escuro.	18284
+The sky grew darker and darker, and the wind blew harder and harder.	O céu ficou cada vez mais escuro e o vento soprou cada vez mais forte.	18285
+The sky is clear almost every day.	O céu está limpo quase todo dia.	18286
+The sky became darker and darker.	O céu ficou cada vez mais escuro.	18288
+The sky is as blue as blue can be.	O céu está tão azul quanto o azul pode ser.	18293
+There is nothing like air travel.	Não há nada como viajar de avião.	18294
+Air travel is fast; sea travel is, however, restful.	Viajar de avião é rápido; viajar pelo mar, porém, é relaxante.	18297
+We can see thousands of stars in the sky.	Podemos ver milhares de estrelas no céu.	18307
+I saw something strange in the sky.	Eu vi algo estranho no céu.	18308
+There wasn't a cloud in the sky.	Não havia uma nuvem no céu.	18309
+There were countless stars in the sky.	Haviam inúmeras estrelas no céu.	18311
+Countless stars were twinkling in the sky.	Inúmeras estrelas cintilavam no céu.	18312
+The sky was full of stars.	O céu estava cheio de estrelas.	18316
+Not a star was to be seen in the sky.	Não se podia ver nenhuma estrela no céu.	18317
+There are more stars in the sky than I can count.	Há mais estrelas no céu do que eu possa contar.	18318
+There were several stars to be seen in the sky.	Havia muitas estrelas a vista no céu.	18319
+There are billions of stars in the sky.	Há bilhões de estrelas no céu.	18320
+There isn't a single cloud in the sky.	Não há uma nuvem sequer no céu.	18321
+There was not a cloud in the sky.	Não havia uma nuvem no céu.	18324
+Many stars were shining in the heavens.	Muitas estrelas brilhavam nos céus.	18328
+You can see a lot of stars in the sky.	Podem-se ver várias estrelas no céu.	18331
+Birds were singing in the sky.	Os pássaros estavam cantando no céu.	18333
+We have three spare rooms, none of which can be used.	Há três quartos vagos, mas não é possível utilizar nenhum deles.	18335
+Drinking on an empty stomach is bad for your health.	Beber de estômago vazio faz mal à saúde.	18337
+The sky has become overcast.	O céu ficou nublado.	18343
+The sky is getting dark.	O céu está escurecendo.	18344
+The houses and cars looked tiny from the sky.	As casas e os carros pareciam pequenas vistas do céu.	18347
+The whole sky lit up and there was an explosion.	O céu inteiro se clareou e houve uma explosão.	18348
+Seen from the sky, the island was very beautiful.	Vista do céu, a ilha era bela.	18349
+It is easy to be wise after the event.	É fácil ser sábio após o acontecido.	18358
+It is man's lot to suffer.	Sofrer é o destino do homem.	18392
+It's so painful. Stop it!	Dói tanto. Pare com isso!	18395
+I'd like you to come at nine.	Eu gostaria que você viesse às nove.	18401
+Open your book to page nine.	Abra o seu livro na página nove.	18406
+We will make the payment by bank transfer.	Faremos o pagamento por transferência bancária.	18411
+I'm looking for a bank. Is there one near here?	Estou procurando um banco. Há algum aqui perto?	18414
+The bank loaned him 500 dollars.	O banco emprestou 500 dólares a ele.	18421
+The bank isn't open on Sundays.	O banco não abre aos domingos.	18422
+The bank loaned the company $1 million.	O banco emprestou à companhia um milhão de dólares.	18425
+Banks open at nine o'clock.	Os bancos abrem às nove horas.	18433
+The bank is three blocks away.	O banco fica a três quarteirões daqui.	18434
+I recognized the bank teller as the man I had seen in the movie theater.	Eu reconheci o caixa do banco como o homem que eu tinha visto no cinema.	18435
+Please go to the bank.	Por favor, vá ao banco.	18441
+While employed at the bank, he taught economics at college.	Enquanto trabalhava no banco, ele ensinava economia na universidade.	18444
+I made a deposit of $1,000 at the bank.	Eu fiz um depósito de $1.000 no banco.	18449
+He works for a bank.	Ele trabalha num banco.	18452
+Can you distinguish silver from tin?	Você consegue distinguir prata de estanho?	18461
+Be sure to telephone by Friday, OK?	Não se esqueça de telefonar na sexta-feira, OK?	18467
+Friday is when I am least busy.	Sexta-feira é quando estou menos ocupada.	18472
+There were no tickets available for Friday's performance.	Não havia ingressos disponíveis para a apresentação de sexta-feira.	18477
+Are you free on Friday afternoon?	Você está livre sexta-feira à tarde?	18478
+We're going out for a meal on Friday.	Nós vamos sair para comer na sexta-feira.	18481
+How long is the Golden Gate Bridge?	Qual é a extensão da ponte Golden Gate?	18489
+We ran short of money.	Nosso dinheiro acabou.	18493
+A girl with blonde hair came to see you.	Uma garota de cabelos loiros veio vê-lo.	18495
+Kanazawa is a quiet city.	Kanazawa é uma cidade tranquila.	18496
+There are sometimes blizzards in Kanazawa.	Às vezes há nevadas em Kanazawa.	18497
+We should not place too much emphasis on money.	Não deveríamos colocar ênfase demais no dinheiro.	18502
+Money is the root of all evil.	O dinheiro é a raiz de todos os males.	18505
+The rich are not always happy.	Os ricos nem sempre são felizes.	18514
+The rich have troubles as well as the poor.	Como os pobres, os ricos têm suas preocupações.	18520
+If I get rich, I will buy it.	Se eu ficar rico, comprá-lo-ei.	18522
+I prefer being poor to being rich.	Gosto mais de ser pobre do que rico.	18524
+The richer he became, the more he wanted.	Quanto mais rico ficava, mais queria.	18525
+Do you want to be rich?	Você quer ser rico?	18527
+I wish I were rich.	Queria ser rico.	18531
+He is rich yet he lives like a beggar.	Ele é rico, e vive como um mendigo.	18533
+The rich are not always happier than the poor.	Os ricos nem sempre são mais felizes do que os pobres.	18538
+I had to resort to threats to get my money back.	Tive que recorrer a ameaças para conseguir meu dinheiro de volta.	18552
+Lend me some money if you have any.	Empreste-me algum dinheiro, se você tiver.	18559
+Making money is his religion.	Ganhar dinheiro é a religião dele.	18569
+Health is better than wealth.	A saúde é mais importante do que a riqueza.	18570
+Money does not grow on trees.	Dinheiro não cresce em árvore.	18574
+I will give you the money tomorrow.	Eu te darei o dinheiro amanhã.	18575
+Money will make the pot boil.	Dinheiro vai fazer a panela ferver.	18576
+Gold is heavier than iron.	Ouro é mais pesado do que ferro.	18578
+Gold is more precious than iron.	O ouro é mais precioso do que o ferro.	18579
+Money is a good servant, but a bad master.	O dinheiro é um bom servidor, mas um mau senhor.	18582
+Gold is far heavier than water.	Ouro é bem mais pesado do que água.	18583
+Gold is similar in color to brass.	O ouro tem uma cor similar à do latão.	18585
+I have a little money.	Tenho um pouco de dinheiro.	18587
+Gold is heavier than silver.	O ouro é mais pesado do que a prata.	18592
+Keep the money in a safe place.	Guarde o dinheiro em um lugar seguro.	18593
+There is a lot of money.	Há muito dinheiro.	18597
+I wouldn't like to be in his position, for all his wealth.	Eu não queria estar no lugar dele, com toda essa riqueza.	18600
+The price of gold fluctuates daily.	O preço do ouro muda diariamente.	18609
+Money doesn't grow on trees, you know.	Fique sabendo que dinheiro não cresce em árvore.	18612
+I am short of money.	Eu tenho pouco dinheiro.	18613
+Money is the last thing he wants.	Dinheiro é a ultima coisa que ele quer.	18616
+Money and I are strangers; in other words, I am poor.	Eu e o dinheiro não nos conhecemos, em outras palavras, eu sou pobre.	18618
+It goes without saying that money cannot buy happiness.	Nem preciso dizer que dinheiro não pode comprar felicidade.	18624
+Some of the money was stolen.	Parte do dinheiro foi roubada.	18635
+Money enables you to buy anything.	O dinheiro lhe capacita a comprar qualquer coisa.	18637
+Modern travel enables us to go around the world in a few days.	Os transportes modernos nos permitem ir a qualquer lugar do mundo em alguns dias.	18644
+Chemistry has made notable progress in recent years.	A química progrediu notavelmente nos últimos anos.	18647
+We are going to make up for lost time by taking a short cut.	Nós compensaremos o tempo perdido, pegando um atalho.	18650
+Let's take a short cut.	Vamos pegar um atalho.	18652
+Among modern novels, this is the best.	Entre as novelas modernas, esta é a melhor.	18657
+A fire broke out in the neighborhood yesterday.	Ocorreu um incêndio na vizinhança ontem.	18677
+I haven't slept well recently.	Eu não dormi bem ultimamente.	18679
+The sudden increase of cars is causing a large number of traffic accidents every day.	O aumento repentino de carros está causando um alto número de acidentes de trânsito diariamente.	18684
+Travelling is easy these days.	É fácil viajar hoje em dia.	18688
+Few people visit me these days.	Poucas pessoas me visitam hoje em dia.	18692
+Many shoes nowadays are made of plastics.	Hoje em dia, muitos sapatos são feitos de plástico.	18697
+How are you these days?	Como você tem estado ultimamente?	18698
+Boys have their own bikes these days.	Meninos têm suas próprias bicicletas nos tempos de hoje.	18707
+Nowadays children do not play outdoors.	Hoje em dia as crianças não brincam ao ar livre.	18710
+I hope to see you soon.	Espero te ver logo.	18711
+The chill of coming winter discouraged our picnic.	O frio do inverno que chega desanimou nosso piquenique.	18713
+We have had bad weather recently.	O tempo está ruim ultimamente.	18718
+Recently juvenile delinquency has been on the rise.	Ultimamente a delinquência juvenil está aumentando.	18728
+Although her house is nearby, I seldom see her.	Apesar da casa dela ser aqui perto, eu a vejo de vez em quando.	18735
+Are there any movie theaters near here?	Há algum cinema aqui perto?	18738
+Is there a McDonald's near here?	Tem um McDonald's aqui perto?	18739
+There is a bus stop near by.	Nas proximidades tem uma parada de ônibus.	18740
+In the near future, we may have a big earthquake in Japan.	No futuro próximo, podemos ter um grande terremoto no Japão.	18750
+They say we'll have an earthquake one of these days.	Dizem que teremos um terremoto um dia desses.	18767
+You'll be hearing from us soon.	Tu logo terás notícias nossas.	18778
+I'll be able to see you one of these days.	Poderei te ver um dia desses.	18779
+I'll come and see you one of these days.	Eu irei te visitar um dia desses.	18780
+We'll visit you one of these days.	Nós vamos te visitar qualquer dia desses.	18783
+Tension is a major cause of heart disease.	A ansiedade é uma das principais causas das afecções cardíacas.	18788
+In case of an emergency, push this button.	Em caso de emergência, aperte este botão.	18800
+In case of emergency, call 119.	Em caso de emergência, ligue 119.	18801
+In case of an emergency, dial 110.	Em caso de emergência, disque 110.	18802
+In case of an emergency, get in touch with my agent.	Em caso de emergência, entre em contato com o meu agente.	18803
+In case of emergency, call the police.	Em caso de emergência, chame a polícia.	18804
+My muscles have become soft.	Os meus músculos morreram.	18807
+Do you have a non-smoking section?	Têm uma área para não fumadores?	18813
+I advise you to stop smoking.	Eu te aconselho a parar de fumar.	18816
+The sooner you give up, the greater the benefits.	O quanto antes você desistir, melhor os benefícios.	18819
+Thank you for not smoking.	Obrigado por não fumar.	18823
+Don't smoke while you are on duty.	Não fume quando estiver em serviço.	18828
+Diligence is essential to success in life.	Diligência é essencial para o sucesso na vida.	18836
+Slight inattention can cause a great disaster.	Uma ligeira desatenção pode causar um grande desastre.	18856
+I gave him what little money I had.	Dei-lhe o pouco dinheiro que tinha.	18857
+Don't go to extremes. To be moderate is important in anything.	Não vá aos extremos. Ser moderado é importante em qualquer coisa.	18860
+He does not, in short, write with the candor of a man who is completely confident of his thesis.	Ele não, para encurtar, escreve com a sinceridade de um homem que é completamente confiante na tese dele.	18861
+Though imperfectly, he finished writing his manuscript.	Apesar de imperfeito, ele terminou de escrever seu manuscrito.	18866
+I'm glad we didn't go there because there were some localized heavy rain showers.	Estou feliz que não tenhamos ido lá, porque houve algumas chuvas fortes na região.	18870
+I was too surprised to speak.	Estava surpreso demais para falar.	18882
+To my surprise, she was alive.	Para minha surpresa, ela estava viva.	18888
+To my surprise, she could not answer the question.	Para minha surpresa, ela não pôde responder à pergunta.	18889
+To my surprise, the child came here by himself all the way from Yokohama.	Para minha surpresa, a criança veio desde Yokohama até aqui sozinha.	18891
+To our surprise, he was defeated in the match.	Para nossa surpresa ele foi derrotado no combate.	18898
+To my surprise, he has failed.	Para a minha surpresa, ele falhou.	18905
+To our surprise, she has gone to Brazil alone.	Para nossa surpresa, ela foi sozinha para o Brasil.	18908
+To my surprise, he refused my offer.	Para a minha surpresa, ele recusou a minha proposta.	18913
+To my surprise, he had a beautiful voice.	Para minha surpresa, ele tinha uma bela voz.	18915
+Surprisingly, he did his last job in one-third the time it would take me.	Surpreendentemente, ele fez seu último serviço em um terço do tempo que eu levaria.	18918
+Hasn't he looked at himself in a mirror?	Ele não se olhou em um espelho?	18922
+Fragments of the mirror were scattered on the floor.	Pedaços do espelho estavam espalhados pelo chão.	18925
+He is not just interested, he's crazy about it.	Não está apenas interessado, está simplesmente louco por isso.	18931
+The excitement reached its peak.	A emoção chegou ao seu auge.	18932
+Getting excited is not at all the same as getting angry.	Ficar animado definitivamente não é o mesmo que ficar irritado.	18934
+As he grew excited, he spoke more and more rapidly.	À medida que se animava, ele ia falando cada vez mais rapidamente.	18935
+Don't scare me like that!	Não me assuste desse jeito!	18944
+With her heart pounding, she opened the door.	Com o coração a martelar-lhe o peito, ela abriu a porta.	18946
+I waited for the curtain to rise with my heart beating in excitement.	Com o coração a palpitar de emoção, esperei a cortina subir.	18947
+I have a sharp pain in my chest.	Eu estou com uma dor aguda no peito.	18953
+The bridge is being repainted.	A ponte está sendo repintada.	18974
+The bridge was washed away by the flood.	A ponte foi levada pela enchente.	18976
+The bridge is made of stone.	A ponte é feita de pedra.	18977
+The bridge is open to traffic.	A ponte está aberta ao tráfego.	18982
+The bridge is one mile above.	A ponte fica uma milha a montante.	18984
+There is a waterfall above the bridge.	Há uma cachoeira acima da ponte.	18986
+It was dark under the bridge.	Estava escuro debaixo da ponte.	18994
+A bridge gives access to the island.	Uma ponte dá acesso à ilha.	18996
+As is often the case with educated people, he likes classical music better than jazz.	Como é de costume entre pessoas educadas, ele gosta mais de música clássica do que de jazz.	19001
+Teaching is a profession of my own choosing.	Ensinar é uma profissão de minha própria escolha.	19003
+My driving instructor says I should be more patient.	Meu instrutor da autoescola disse que eu preciso ser mais paciente.	19004
+The professor treated her as one of his students.	O professor a tratou como uma de seus alunos.	19007
+The professor gave a lecture on the Middle East.	O professor deu uma aula sobre o Oriente Médio.	19008
+The professor ordered some new books from New York.	O professor pediu alguns livros novos de Nova Iorque.	19009
+The professor made sure the test was checked carefully.	O professor certificou-se de que o teste foi cuidadosamente verificado.	19011
+The professor encouraged me in my studies.	O professor me encorajou com os meus estudos.	19012
+The professor teaches English conversation.	O professor ensina conversação em inglês.	19016
+Our professor paid the bill for all of us.	O nosso professor pagou a conta de todos nós.	19024
+It was ordered that the classroom be put in order.	Ordenaram que a sala de aula deveria ser deixada em ordem.	19025
+It is the students' duty to clean their classrooms.	É dever dos alunos limpar as salas de aula.	19031
+There is a tall man in the classroom.	Há um homem alto na sala de aula.	19032
+Take off your hat when you enter a classroom.	Tire o seu chapéu quando você entra numa sala de aula.	19033
+I wish our classroom were air-conditioned.	Queria que nossa classe tivesse ar condicionado.	19042
+Get out of the classroom.	Saiam da sala.	19047
+The teachers are trying to motivate their students.	Os professores estão tentando motivar os seus alunos.	19048
+The teacher caught the student cheating on the examination.	O professor flagrou o estudante colando na prova.	19052
+The teacher was worried by Tom's frequent absence from class.	O professor estava preocupado com as frequentes faltas às aulas de Tom.	19061
+Teachers should treat all their students impartially.	Os professores devem tratar todos os seus alunos de forma imparcial.	19063
+Although teachers give a lot of advice, students don't always take it.	Embora professores deem muitos conselhos, os estudantes nem sempre os seguem.	19064
+The salary of a teacher is lower than that of a lawyer.	O salário de um professor é menor que o de um advogado.	19066
+Patience is essential for a teacher.	Paciência é essencial para um professor.	19071
+The instructor advised me to get exercise every day.	O instrutor me aconselhou a praticar exercícios diariamente.	19077
+The church sits on the outskirts of town.	A igreja fica situada nas cercanias da cidade.	19080
+The church is between my house and yours.	A igreja é entre a minha casa e a sua.	19083
+The church is decorated with flowers for the wedding.	A igreja está decorada com flores para o casamento.	19084
+The church congregation was moved by the fine sermon.	A congregação na igreja ficou comovida com o sermão maravilhoso.	19093
+There is usually an organ in a church.	Geralmente há um órgão numa igreja.	19097
+Churches were erected all over the island.	Construíram igrejas por toda a ilha.	19099
+Where do we get the textbooks?	Onde poderemos conseguir os manuais?	19102
+Education is an investment in the future.	A educação é um investimento no futuro.	19112
+One of the great superstitions about education is that learning is the result of teaching.	Uma das grandes superstições em relação à educação é que o aprendizado é resultado do ensino.	19131
+More money for education will spur economic growth.	Mais dinheiro para a educação estimulará o crescimento econômico.	19132
+Education doesn't consist of learning a lot of facts.	Educação não significa apenas aprender um monte de fatos.	19134
+Teaching demands a lot of patience.	Ensinar requer muita paciência.	19138
+Oh! Show it to me please.	Ah! Mostre para mim, por favor.	19142
+Thank you for the information.	Obrigado pela informação.	19143
+His legs were trembling from fear.	Suas pernas tremiam de medo.	19148
+I am very sorry, but I must cancel our appointment for February 27.	Sinto muito ter que cancelar nosso encontro de vinte e sete de fevereiro.	19152
+Fear crept into my heart and settled there.	O medo penetrou sorrateiramente em meu coração e ali se instalou.	19155
+It's awfully cold this evening.	Está um frio de matar esta noite.	19157
+Would you please open the window?	Você poderia abrir a janela, por favor?	19161
+Would you be kind enough to explain it to me?	Você poderia fazer o favor de explicar pra mim?	19163
+She is probably over forty.	Provavelmente, ela tem mais de quarenta anos.	19172
+There's nothing to be afraid of.	Não há o que temer.	19177
+Passing through the strong wind, the planes rock like this, but don't worry.	Quando passam por uma corrente de ar intensa, os aviões balançam dessa forma, mas não se preocupe.	19183
+Fanned by a strong wind, the fire spread in an instant.	Avivado por um vento forte, o fogo se espalhou num instante.	19186
+Tall buildings may sway in a strong wind.	Prédios altos podem balançar com vento forte.	19190
+The thief forced her to hand over the money.	O ladrão forçou-a a entregar o dinheiro.	19197
+The robber aimed his gun at the clerk.	O assaltante apontou sua arma para o funcionário.	19199
+The burglar shut the child in the closet.	O ladrão encerrou a criança no armário.	19206
+The robber seized the bag from his hand.	O ladrão pegou a bolsa da sua mão.	19207
+A burglar broke into the bank last night.	Um ladrão forçou uma entrada no banco ontem à noite.	19213
+The strong should take care of the weak.	O mais forte deveria tomar conta do mais fraco.	19220
+A strong wind was blowing.	Um vento forte soprava.	19225
+A strong wind blew all day long.	Um vento forte soprou o dia todo.	19229
+You'll get a reward for your cooperation.	Vai receber um galardão por cooperar.	19240
+There is very little probability of an agreement being reached.	A probabilidade de chegar a um acordo é muito baixa.	19244
+The society was founded in 1990.	A sociedade foi fundada em 1990.	19247
+A republic is a nation whose head is not a king or queen, but a president.	Uma república é uma nação na qual o líder não é rei ou rainha, mas um presidente.	19251
+As communism has collapsed, capitalism is now accused of trying to "dominate the world."	Como o comunismo não deu certo, o capitalismo agora é acusado de tentar "dominar o mundo".	19261
+How did you get to the stadium?	Como é que você fez para chegar ao estádio?	19277
+The athletic meeting went on as scheduled.	A competição esportiva aconteceu como programado.	19279
+Kyoto is not as large as Osaka.	Quioto não é tão grande como Osaca.	19291
+Kyoto gets lots of visitors from all over the world.	Quioto recebe muitos visitantes de todas as partes do mundo.	19292
+Kyoto is most beautiful in autumn.	Quioto é belíssima no outono.	19294
+Kyoto was the former capital of Japan.	Quioto foi a antiga capital do Japão.	19301
+Kyoto is visited by many tourists.	Quioto é visitada por muitos turistas.	19302
+Kyoto was an old capital of Japan.	Quioto era uma velha capital do Japão.	19303
+Kyoto is visited by many people every year.	Quioto é visitada por muitas pessoas todos os anos.	19305
+Summers are very hot in Kyoto.	Os verões em Quioto são bem quentes.	19310
+There are many places to visit in Kyoto.	Há muitos lugares para se visitar em Kyoto.	19316
+There are many shrines in Kyoto.	Há muitos santuários em Quioto.	19319
+There are many old temples in Kyoto.	Há muitos templos antigos em Quioto.	19321
+I have been to Kyoto once.	Eu estive em Kioto uma vez.	19325
+Speaking of Kyoto, have you ever visited the Kinkakuji Temple?	Falando em Quioto, você já visitou o templo Kinkaku-ji?	19328
+In Kyoto, you can see both old and modern buildings.	Em Quioto pode-se ver tanto prédios antigos quanto modernos.	19330
+Kyoko had the kindness to carry my baggage for me.	Kyoko fez a gentileza de carregar a bagagem para mim.	19333
+Eating fish is good for your health.	Comer peixe é bom para sua saúde.	19341
+A fish swims by moving its tail.	Um peixe nada movendo a cauda.	19345
+Fish live in the water.	Peixes vivem na água.	19346
+Fish cannot live out of water.	Os peixes não podem viver fora d'água.	19347
+Fish live in the sea.	Os peixes vivem no mar.	19350
+Is the fish still alive?	O peixe ainda está vivo?	19354
+I got a fish bone stuck in my throat.	Fiquei com uma espinha entalada na garganta.	19356
+I seasoned the fish with salt and pepper.	Eu temperei o peixe com sal e pimenta.	19360
+Fish have stopped living in this river.	Os peixes têm cessado de viver neste rio.	19369
+A gigantic bird came flying toward him.	Um pássaro gigantesco veio voando na sua direção.	19395
+I had a miscarriage last year.	Eu sofri um aborto espontâneo ano passado.	19408
+Since I failed last year, I don't want to try again.	Tendo falhado no ano passado, não quero tentar novamente.	19415
+There was a sharp rise in prices last year.	Houve um aumento acentuado de preços no ano passado.	19419
+We had a lot of snow last year.	Tivemos muita neve ano passado.	19421
+There was a lot of snow last winter.	Havia muita neve no inverno passado.	19429
+We moved to New York last fall.	Nós nos mudamos para Nova York no outono passado.	19431
+She went there last summer.	Ela foi lá no verão passado.	19433
+Last summer I traveled to Italy.	No verão passado eu viajei para a Itália.	19435
+As compared with last summer, we haven't had so much rain this year.	Comparado com o último verão, não tivemos tido muita chuva este ano.	19442
+He began to work for that company last year.	Ele começou a trabalhar nessa empresa no ano passado.	19446
+Do you have some milk?	Você tem um pouco de leite?	19455
+Won't you have another glass of milk?	Você não quer outro copo de leite?	19456
+We make milk into cheese and butter.	Nós transformamos leite em queijo e manteiga.	19457
+I bought two bottles of milk.	Eu comprei duas garrafas de leite.	19458
+I want a quart of milk.	Quero um quarto de leite.	19459
+The milk froze and became solid.	O leite congelou e ficou sólido.	19460
+Milk is a popular beverage.	Leite é uma bebida popular.	19461
+Milk boils at a higher temperature than water.	O leite ferve a uma temperatura mais alta que a água.	19462
+Milk is a good beverage.	O leite é um bom alimento.	19468
+There's only a little milk left.	Só sobrou um pouquinho de leite.	19469
+Milk is made into butter.	Transforma-se leite em manteiga.	19471
+Milk can be made into butter, cheese, and many other things.	O leite pode ser transformado em manteiga, queijo e em muitas outras coisas.	19472
+Milk will do you good. You'd better drink it every day.	O leite te fará bem. É melhor que o bebas todo dia.	19473
+Will you drink wine instead of milk?	Você vai beber vinho em vez de leite?	19475
+The milk was diluted with water.	O leite foi adulterado com água.	19476
+Blend milk and eggs together.	Misture o leite e os ovos.	19477
+The milk has gone bad.	O leite está vencido.	19478
+The milk has turned sour.	O leite azedou.	19480
+You must buy milk, eggs, butter, and so on.	Você precisa comprar leite, ovos, manteiga e coisas do tipo.	19481
+Have you got any preference between beef and lamb?	Você tem preferência entre carne de boi e carne de cordeiro?	19484
+You cannot sell the cow and drink the milk.	Você não pode vender a vaca e beber o leite.	19485
+A cow is a useful animal.	A vaca é um animal útil.	19488
+Cows supply us with many things we need.	As vacas nos dão muitas coisas das quais necessitamos.	19493
+Cows give us milk, and hens, eggs.	As vacas nos fornecem leite, e as galinhas ovos.	19504
+A cow gives us milk.	Uma vaca nos dá leite.	19505
+Cows are sacred to Hindus.	As vacas são sagradas para os hindus.	19506
+The cows are eating grass.	As vacas estão comendo capim.	19511
+Meeting my old friend was very pleasant.	Fiquei muito feliz ao encontrar meu velho amigo.	19513
+As soon as I get paid I will pay you back.	Eu te pago assim que me pagarem.	19520
+Wages vary in relation to the age of the worker.	Salários variam em relação à idade do trabalhador.	19522
+The salary is fixed according to age and experience.	O salário é fixo de acordo com a idade e a experiência.	19524
+In terms of salary, that job is fantastic.	Em termos de salário, esse emprego é fantástico.	19529
+His low salary prevents him from buying the house.	Seu baixo salário não lhe permite comprar a casa.	19533
+Waiter, please bring me some water.	Garçom, por favor me traga água.	19541
+On behalf of my classmates, let me say a few words of thanks to you.	Em nome dos meus colegas, gostaria de dizer algumas palavras de agradecimento.	19542
+Necessity is the mother of invention.	A necessidade é a mãe da invenção.	19549
+Crying is an expression of grief.	O pranto é uma expressão de tristeza.	19557
+Rub salt in the wound.	Esfregue sal no ferimento.	19564
+Try to keep from crying.	Tente não chorar.	19566
+I don't know whether to cry or to laugh.	Não sei se rio ou se choro.	19569
+There is nothing that does not decay.	Não há nada que não se deteriore.	19579
+Do you need an ambulance?	Precisa de uma ambulância?	19591
+The express arrives at 6:30 p.m.	O expresso chega às 6h30.	19609
+Suddenly, he changed the subject.	De repente, ele mudou de assunto.	19619
+All of a sudden the sky became overcast.	Subitamente o céu se cobriu.	19624
+Suddenly rain began to fall.	De repente, começou a chover.	19627
+All of a sudden, three dogs appeared in front of us.	De repente, surgiram três cães na nossa frente.	19634
+If you hurry up, you will be in time.	Se você correr, você chegará na hora.	19641
+If you hurry, you can make the next bus.	Se você se apressar, você pode pegar o próximo ônibus.	19645
+Hurry up, and you'll be in time for school.	Apresse-se e você chegará na escola a tempo.	19646
+Hurry up, or you will miss the train.	Apresse-se, ou você vai perder o trem.	19649
+There seems no need to hurry.	Parece que não há necessidade de pressa.	19653
+Hurry up, or you'll be late for school.	Se apresse ou você vai se atrasar para a escola.	19662
+Hurry up, or you will be late for school.	Apresse-se , ou você vai se atrasar para a escola.	19671
+Hurry up, or you'll miss your plane.	Apressa-te, ou tu vais perder o avião.	19674
+Hurry up, or you'll miss the train.	Apresse-se, ou você vai perder o trem.	19683
+Hurry up, or you'll be late.	Se apresse ou você vai se atrasar.	19687
+Hurry up, otherwise you'll be late for lunch.	Apressa-te, senão estarás atrasado no almoço.	19697
+You'll miss the train if you don't hurry.	Vais perder o trem se não te apressares.	19702
+You make mistakes if you do things in a hurry.	A pessoa erra quando faz as coisas apressada.	19705
+There's enough time for a quick snack.	Há tempo suficiente para um lanchinho rápido.	19708
+I must hurry to class.	Devo me apressar para a aula.	19714
+It is better to take your time than to hurry and make mistakes.	É melhor ir com calma do que se apressar e cometer erros.	19716
+It's better to take your time than to hurry and make mistakes.	É melhor ir com calma do que se apressar e cometer erros.	19720
+I rushed out of my house.	Saí voando de casa.	19721
+I hurried and managed to catch the bus.	Apressei-me e consegui alcançar o ônibus.	19722
+I avoid crossing the street here if I am in a hurry.	Eu evito atravessar a rua aqui se estou com pressa.	19727
+People who are not in a hurry stand on the right side of the escalator.	Pessoas que não estão com pressa ficam do lado direito da escada rolante.	19739
+Hurry up! Here comes the bus.	Apure! O ônibus está vindo.	19744
+You just need a good rest.	Você só precisa de um bom descanso.	19756
+Did you enjoy your holiday?	Aproveitou bem as férias?	19760
+She agreed with him about the holiday plan.	Ela concordou com o plano de férias dele.	19761
+I'd like to spend my holidays reading history books or classics.	Gostaria de passar as minhas férias lendo livros de história ou clássicos.	19763
+He stayed there during the vacation.	Ficou ali durante as férias.	19768
+Let's take a break for coffee.	Vamos parar para um café.	19776
+During the vacation my sister and I stayed at a small village at the foot of Mt. Fuji.	Durante as férias, minha irmão e eu ficamos em uma pequena vila ao pé do Monte Fuji.	19783
+While we were on holiday, a neighbor took care of our cat.	Enquanto estivemos de férias, foi um vizinho que cuidou do nosso gato.	19784
+Let's take advantage of the vacation to mow the lawn.	Vamos aproveitar as férias e cortar a grama.	19785
+The number of students who travel abroad for vacation is increasing.	O número de estudantes que estudam fora durante as férias vem aumentando.	19786
+Let's take advantage of the vacation to go on a hike.	Aproveitemos as férias para ir escalar.	19787
+If you don't take a vacation, you'll collapse.	Se não tirares férias, vais entrar em colapso.	19789
+How did you spend your vacation?	Como você passou suas férias?	19794
+Make the most of your vacation.	Tire o máximo de suas férias.	19798
+The holidays came to an end at last.	As férias finalmente terminaram.	19800
+The holidays always end all too soon.	Os feriados sempre acabam logo.	19807
+The holiday ended all too soon.	O feriado terminou tão rapidamente.	19810
+My vacation went by quickly.	Minhas férias passaram rápido.	19811
+Tell me what you did on your holidays.	Diga-me o que você fez nas suas férias.	19814
+Would you look after my children while I am away on vacation?	Você cuidaria dos meus filhos enquanto eu estiver de férias?	19817
+When I go on vacation, I'll rent a car.	Quando eu sair de férias, alugarei um carro.	19818
+May I take a rest?	Posso fazer uma pausa?	19823
+Where are you going to go on your vacation?	Onde vai passar as férias?	19827
+I haven't seen him for a long time.	Não o tenho visto há um longo tempo.	19847
+Please forgive me for not having written for a long time.	Por favor perdoa-me por não ter escrito durante muito tempo.	19848
+Will Mr Oka teach English?	O senhor Oka vai ensinar inglês?	19850
+The hill glows with autumnal colors.	A colina brilha com as cores do outono.	19856
+The hill is always green.	A colina está sempre verde.	19857
+The building on the hill is our school.	O prédio na colina é a nossa escola.	19863
+Standing as it does on a hill, the hotel commands a fine view of the bay.	Localizado como está sobre uma colina, o hotel dispõe de uma bela visão da baía.	19868
+There is a house on the hill.	Existe uma casa na Colina.	19876
+From the hill, we could see all the buildings in the city.	Podíamos ver todos os prédios de cima da colina.	19878
+At the foot of the hill is a beautiful lake.	Aos pés da colina encontra-se um lago muito bonito.	19882
+We can get a beautiful view of the sea from the hill.	Podemos ter uma bela vista do mar desde a colina.	19884
+The converse is also true.	A recíproca também é verdadeira.	19891
+From an objective viewpoint, his argument was far from rational.	De um ponto de vista objetivo, seus argumentos estavam longe de racionais.	19900
+The customer did not come.	O cliente não veio.	19904
+As I entered the café, I found two young men watching a wrestling match on television.	Quando eu entrei no café, eu vi ali dois jovens, que assistiam a um campeonato de luta pela televisão.	19916
+You must give up smoking, as it is unhealthy.	Você deve parar de fumar, já que não é saudável.	19933
+Smoking is now banned on all domestic plane flights.	Agora é proibido fumar em todos os voos domésticos.	19939
+Don't forget the fact that smoking is bad for your health.	Não esqueça do fato de que fumar faz mal à sua saúde.	19945
+It's foolish to think that smoking has little to do with cancer.	É tolice pensar que o tabagismo tem pouco a ver com o câncer.	19950
+Smoking does damage your lungs.	Fumar prejudica seus pulmões.	19951
+Smoking is bad for you.	Fumar faz mal à saúde.	19953
+The habit of smoking is very difficult to get rid of.	É muito difícil se livrar do ato de fumar.	19954
+I wish I could break the habit of smoking.	Eu queria poder acabar com o vício do fumo.	19955
+Most people killed by smoking were not heavy smokers.	A maioria das pessoas mortas pelo tabagismo não fumavam muito.	19960
+Mr Yoshida is too severe with his children.	Sr. Yoshida é rígido demais com seus filhos.	19976
+The argument ended in a fight.	A discussão terminou em briga.	19984
+After they argued, they didn't speak to each other for a week.	Depois que eles discutiram, eles não se falaram durante uma semana.	19994
+I would like to nominate Don Jones as chairman.	Gostaria de nomear Don Jones como presidente.	20010
+My sister-in-law had four children in five years.	Minha cunhada teve quatro crianças em cinco anos.	20027
+There is no room for doubt.	Não há espaço para dúvidas.	20037
+The shortage of engineers is the greatest bottleneck to the development of our company.	A falta de engenheiros é o maior gargalo para o desenvolvimento de nossa empresa.	20052
+When the cat is away, the mice will play.	Quando o gato sai, os ratos fazem a festa.	20065
+Even the hard-hearted can be moved to tears.	Até quem tem um coração de pedra pode ser levado às lágrimas.	20066
+In the days of the knights, they wore shields to protect themselves from sword-fight wounds.	Nos tempos dos cavaleiros, eles usavam escudos para se proteger de ferimentos nas lutas de espadas.	20071
+Because of the famine, the cattle starved to death.	Devido à falta de comida, o gado morreu de fome.	20073
+Can you share food with others in the face of famine?	Você consegue compartilhar comida com os outros num caso de fome?	20075
+We can say that Japan was fighting a constant battle against hunger during the war.	Podemos dizer que o Japão estava lutando constantemente contra a fome durante a guerra.	20081
+Provide starving people with food.	Providencie comida para os famintos.	20083
+All that glitters is not gold.	Nem tudo que brilha é ouro.	20086
+It was a bright and clear Sunday morning.	Era uma manhã brilhante e clara de domingo.	20087
+You need not have woken me up.	Não precisava ter me acordado.	20089
+It is too early to get up.	É muito cedo para levantar da cama.	20091
+What is done cannot be undone.	O que foi feito não pode ser desfeito.	20094
+You like rain, don't you?	Você gosta de chuva, não gosta?	20103
+You are the only one.	Você é o único.	20104
+I'll always love you, no matter what happens.	Eu te amarei para sempre, não importa o que aconteça.	20106
+Didn't you hear her speaking French?	Você não a ouviu falando francês?	20107
+You are a tennis player.	Você é jogador de tênis.	20127
+We'll leave as soon as you are ready.	Partiremos assim que estiver pronto.	20128
+I've been anxious to meet you.	Tenho andado ansioso por conhecê-lo.	20133
+Thank you again for your kind assistance.	Obrigado mais uma vez por sua amável assistência.	20143
+He was created a peer.	Foi-lhe concedido título de nobreza.	20145
+I'd like to check some of my valuables.	Gostaria de verificar alguns dos meus objetos de valor.	20146
+I'm very impressed with your quality control.	Estou muito impressionado com o seu controle de qualidade.	20159
+I'd like some information about your new computers.	Eu queria umas informações sobre os seus novos computadores.	20163
+I would like to come and see you.	Gostaria de ir te ver.	20178
+Here is our answer to your fax message dated April 1st.	Eis a nossa resposta à sua mensagem de fax datada de 1 de abril.	20181
+We believe that you will be able to make a price concession.	Achamos que o senhor poderia dar um desconto no preço.	20183
+The reporter refused to name his sources.	O repórter se recusou a revelar suas fontes.	20197
+The press is interested in his private life.	A imprensa está interessada na vida particular dele.	20199
+Did she hurt that kitten?	Ela machucou aquele gatinho?	20203
+Regular exercise is beneficial to good health.	Exercícios regulares são benéficos para a saúde.	20214
+An orderly lifestyle and a regular diet are the keys to health.	Um estilo de vida regrado e uma dieta regular são as chaves para uma vida saudável.	20217
+Technically he is still a student.	Tecnicamente, ele ainda é um estudante.	20226
+We punished him according to the rules.	Nós o punimos de acordo com as regras.	20228
+The train hasn't arrived yet.	O trem ainda não chegou.	20252
+The train has not arrived yet.	O trem ainda não chegou.	20254
+The train is ready to start.	O trem está pronto para começar.	20255
+Trains come more often than buses.	Os trens passam com mais frequência do que os ônibus.	20257
+I had my purse and commutation ticket stolen while I was sleeping on the train.	Minha bolsa e bilhete foram roubados enquanto eu dormia no trem.	20261
+Let's take a walk for a change.	Vamos dar um passeio, para variar.	20274
+How do you feel now?	Como você se sente agora?	20283
+I can't see you today because I feel ill.	Não posso te ver hoje porque estou me sentindo mal.	20290
+Sick and tired, she went to bed early.	Doente e cansada, ela foi para a cama cedo.	20293
+You have to be patient.	Você precisa ser paciente.	20305
+He gives me the creeps.	Ele me dá arrepios.	20309
+The weather bureau says it will rain tonight.	A previsão do tempo é que chova hoje à noite.	20310
+I understand how you feel.	Eu entendo o que você está sentindo.	20315
+I know how you feel.	Eu sei como você se sente.	20318
+Your mind is not occupied with your own affairs.	A sua mente não está ocupada com os seus próprios afazeres.	20322
+The weather will soon begin to calm down.	O tempo já vai se acalmar.	20326
+Don't be upset by a sudden change in the weather.	Não fique aflito pela mudança repentina do tempo.	20329
+Do you think our climate has an influence on our character?	Você acha que o nosso clima tem influência em nosso caráter?	20332
+Please make yourself at home.	Fique à vontade.	20334
+The temperature has suddenly dropped.	A temperatura caiu de repente.	20352
+Look out! There's a car coming.	Cuidado! Vem vindo um carro.	20358
+I didn't know you cared!	Não sabia que você se importava.	20366
+Take heart and do it again.	Ânimo, tente de novo!	20369
+Watch out, the man has a gun.	Cuidado, o homem tem uma arma.	20370
+Watch out! There's a big hole there.	Cuidado! Há um grande buraco aí.	20373
+I wish I could think of something to say.	Queria poder pensar em algo a dizer.	20380
+Whether you like it or not, you have to go.	Gostando ou não, você tem que ir.	20385
+I hope you'll like it.	Espero que você goste.	20388
+I just brush it off.	Eu acabei de escovar.	20396
+I'm not in the mood.	Estou de mau humor.	20410
+Now that I notice it, I have nowhere to run.	Agora que percebi isso, não tenho para onde correr.	20411
+He was so sad that he almost went mad.	Ele estava tão triste que quase enlouqueceu.	20416
+I met nobody on my way home.	Eu não encontrei ninguém no caminho até minha casa.	20417
+In the car on the way home, he was making plans for the next day.	No carro, a caminho de casa, ele estava fazendo planos para o dia seguinte.	20419
+I'm very sorry I came home so late.	Desculpe muito por ter voltado à casa muito tarde.	20433
+I don't wanna go back.	Não quero voltar.	20450
+Wait here till I come back.	Espere aqui até eu voltar.	20452
+I will see him after I get back.	Vou ter com ele depois que eu voltar.	20453
+She scolded the child for coming home so late.	Ela ralhou com seu filho por ter chegado em casa tão tarde.	20455
+Are there movies on the plane?	Há filmes no avião?	20461
+The captain will go to the meteorological office to get a weather briefing.	O capitão irá a estação meteorológica para ter uma atualização sobre as condições do tempo.	20466
+Machinery uses a lot of electricity.	As máquinas consomem muita eletricidade.	20478
+You must take advantage of the opportunity.	Você tem que aproveitar a oportunidade.	20488
+It's a pity we didn't visit Tom when we had the chance.	É uma pena que não tenhamos visitado Tom quando tivemos a oportunidade.	20498
+As was expected, he won the prize.	Como se esperava, ele ganhou o prêmio.	20518
+How long do you want it for?	Por quanto tempo você quer ficar com isso?	20521
+The known must be separated from the unknown.	O conhecido deve ser separado do desconhecido.	20522
+She knew what it was like for married women to look after houses, husbands and children.	Ela sabia o que era para uma mulher casada cuidar da casa, do marido e das crianças.	20523
+Now, the situation is out of hand.	Agora, a situação está fora de controlo.	20526
+I have already done my homework.	Já fiz os deveres.	20527
+The desk is covered with dust.	A carteira está coberta de poeira.	20533
+Whose book is on the desk?	De quem é o livro sobre a carteira?	20539
+The hat on the desk is Chama's.	O chapéu na escrivaninha é de Chama.	20542
+The dictionary on the desk is mine.	O dicionário em cima da carteira é meu.	20544
+A book is lying on the desk.	Um livro jaz sobre a mesa.	20549

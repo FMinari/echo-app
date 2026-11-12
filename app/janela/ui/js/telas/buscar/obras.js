@@ -13,18 +13,18 @@ import { avisar, avisarErro } from "../../componentes/avisos.js";
 import { pedirConfirmacao } from "../../componentes/confirmacao.js";
 import { campoNome } from "../../componentes/campo-nome.js";
 import { criarMultiSeletor } from "../../componentes/seletor.js";
+import { TIPOS } from "../../lib/tipos.js";
 
 /** "2 séries + 3 filmes + 1 artista" */
 function contarObras(ids) {
   const conta = (t) => ids.filter((id) => (obraPorId(id)?.tipo || "serie") === t).length;
-  const [series, filmes, artistas] = ["serie", "filme", "musica"].map(conta);
-  return [series && plural(series, "série"), filmes && plural(filmes, "filme"), artistas && plural(artistas, "artista")]
-    .filter(Boolean).join(" + ");
+  return TIPOS.map((t) => [t, conta(t.chave)]).filter(([, n]) => n)
+    .map(([t, n]) => plural(n, t.um, t.pluralUm)).join(" + ");
 }
 
 function idsDe(valor) {
   const v = String(valor);
-  if (["t:serie", "t:filme", "t:musica"].includes(v)) return estado.obras.filter((o) => o.tipo === v.slice(2)).map((o) => o.id);
+  if (TIPOS.some((t) => v === `t:${t.chave}`)) return estado.obras.filter((o) => o.tipo === v.slice(2)).map((o) => o.id);
   if (v.startsWith("m:")) return estado.grupos.find((g) => g.meu && String(g.id) === v.slice(2))?.obras || [];
   if (v.startsWith("g:")) return estado.grupos.find((g) => !g.meu && g.nome === v.slice(2))?.obras || [];
   return [Number(v)];
@@ -49,8 +49,7 @@ export function escolhaDeObras(alvo, caixaGrupo, { aoMudar }) {
   function itens() {
     const doTipo = (t) => estado.obras.filter((o) => o.tipo === t);
     const lista = [];
-    const atalhos = [["serie", "Todas as séries"], ["filme", "Todos os filmes"], ["musica", "Todas as músicas"]]
-      .filter(([t]) => doTipo(t).length);
+    const atalhos = TIPOS.map((t) => [t.chave, t.todos]).filter(([t]) => doTipo(t).length);
     if (atalhos.length > 1) {
       for (const [t, rotulo] of atalhos) {
         const obras = doTipo(t);
@@ -74,9 +73,10 @@ export function escolhaDeObras(alvo, caixaGrupo, { aoMudar }) {
       filme: (o) => `filme${o.ano ? ` · ${o.ano}` : ""}`,
       musica: (o) => plural(o.episodios, "música"),
     };
-    for (const [t, grupo] of [["serie", "Séries"], ["filme", "Filmes"], ["musica", "Músicas"]]) {
-      for (const o of doTipo(t)) {
-        lista.push({ valor: o.id, rotulo: o.nome, grupo, secundario: secundario[t](o) });
+    for (const t of TIPOS) {
+      for (const o of doTipo(t.chave)) {
+        const outro = (x) => `${t.um} · ${plural(x.episodios, t.parte)}`;
+        lista.push({ valor: o.id, rotulo: o.nome, grupo: t.nome, secundario: (secundario[t.chave] || outro)(o) });
       }
     }
     return lista;

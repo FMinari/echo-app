@@ -9,6 +9,7 @@ import { erroEm } from "./componentes/avisos.js";
 import { abrirAba, iniciarAbas } from "./telas/abas.js";
 import { iniciarTema } from "./telas/tema.js";
 import { iniciarBusca, preencherObras } from "./telas/buscar/index.js";
+import { interruptorDoAcervo } from "./telas/buscar/acervo.js";
 import { iniciarEstruturas } from "./telas/estruturas/index.js";
 import { iniciarAulas } from "./telas/aulas/index.js";
 import { recarregarAulas } from "./telas/aulas/dados.js";
@@ -35,6 +36,7 @@ async function iniciar() {
     versao.addEventListener("click", () => abrirAba("sobre"));
     emitir("estruturas-mudaram");
     preencherObras();
+    interruptorDoAcervo($("#f-acervo"), d.acervo);
     recarregarAulas();
   } catch (e) {
     erroEm($("#resultado"), e);

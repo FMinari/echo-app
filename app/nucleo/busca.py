@@ -19,7 +19,7 @@ from .grupos import sem_acento
 from .padrao import casar, compilar
 from .registro import NaoEncontrado
 
-TIPOS = ("serie", "filme", "musica")  # ordem das seções no resultado
+TIPOS = ("serie", "filme", "musica", "livro", "peca", "conversa", "frases")  # ordem das seções no resultado
 
 
 def frases_do_episodio(con, arquivo, texto, colunas):
@@ -32,7 +32,9 @@ def frases_do_episodio(con, arquivo, texto, colunas):
 
 def tempo(segundos, tipo=None):
     """Série e filme: arredonda para 30 s, porque o tempo é estimado e não tem precisão melhor que isso.
-    Música: o tempo do verso na letra (LRC), exato."""
+    Música: o tempo do verso na letra (LRC), exato. Sem tempo (livro, peça, letra sem duração): vazio."""
+    if segundos is None:
+        return ""
     if tipo == "musica":
         s = int(segundos or 0)
         return f"{s // 60:02d}:{s % 60:02d}"
@@ -43,6 +45,12 @@ def tempo(segundos, tipo=None):
 def referencia(temporada, episodio, episodio_fim, tipo=None):
     if tipo == "musica":
         return "música"
+    if tipo == "livro":
+        return f"cap. {episodio}"
+    if tipo == "peca":
+        return f"ato {episodio}"
+    if tipo in ("conversa", "frases"):
+        return ""  # o título (missão, sessão) já diz onde é
     if temporada is None:
         return "filme"
     if episodio is None:
@@ -392,7 +400,7 @@ def _resultado(con, frase_id, destaques, nome_estrutura):
     vizinhas = con.execute(
         """SELECT n, falante, texto FROM linhas
            WHERE episodio_id = ? AND tipo = 'fala' AND n BETWEEN ? AND ? ORDER BY n""",
-        (r["ep_id"], r["n"] - 8, r["n"] + 6)).fetchall()
+        (r["ep_id"], r["n"] - 8, r["n"] + 6)).fetchall() if r["tipo"] != "frases" else []  # frases soltas: vizinha não é contexto
     antes = [{"falante": v["falante"], "texto": v["texto"]} for v in vizinhas if v["n"] < r["n"]][-2:]
     depois = [{"falante": v["falante"], "texto": v["texto"]} for v in vizinhas if v["n"] > r["n"]][:2]
     return {

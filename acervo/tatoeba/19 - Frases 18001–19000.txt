@@ -1,0 +1,1000 @@
+Excuse me, but aren't you Dr. White?	Com licença, o senhor não é o Dr. White?	265000
+Jealousy was the motive for the murder.	O motivo para o assassinato foi a inveja.	265007
+Remove your hat when you go inside.	Tire o chapéu quando entrar.	265010
+Quantity rather than quality is important.	A quantidade, mais do que a qualidade, é importante.	265019
+If you have a question, please raise your right hand.	Se tiver alguma pergunta, levante a mão direita.	265026
+Don't be afraid to ask questions.	Não tenha medo de perguntar.	265036
+Must I answer all the questions?	Preciso responder a todas as questões?	265041
+I would like to address two questions.	Gostaria de formular duas perguntas.	265042
+The truth is, Ellen liked you a whole lot.	A verdade é que Ellen gostava muito de ti.	265071
+Guess what! I'm going to New Zealand to study.	Adivinha! Eu vou estudar na Nova Zelândia!	265073
+Actually, I didn't know anything about those plans.	Na verdade eu não sabia nada sobre esses planos.	265076
+To tell the truth, I know nothing about the matter.	Pra te falar a verdade, não conheço nada sobre o assunto.	265088
+As a matter of fact, it is true.	De fato, é verdade.	265089
+Actually it was only a rumor.	Na verdade foi só um boato.	265091
+The fact is that my cat is shy.	O fato é que meu gato é tímido.	265095
+To tell the truth, this is how it happened.	Para falar a verdade, foi assim que aconteceu.	265097
+The truth is I told a lie.	A verdade é que contei uma mentira.	265106
+The truth is that we can't live without air.	A verdade é que nós humanos não podemos viver sem ar.	265113
+The fact is that he knows nothing about it.	O fato é que ele não sabe nada a esse respeito.	265118
+The fact is that he didn't even take the exam.	Na verdade ele nem mesmo fez a prova.	265120
+The fact is that she lied.	O fato é que ela mentiu.	265125
+To tell you the truth, I don't like him.	Para te dizer a verdade, eu não gosto dele.	265137
+To tell the truth, I didn't notice it.	Pra falar a verdade, eu não percebi.	265148
+To tell the truth, I don't remember anything I said yesterday.	Para dizer a verdade, eu não me lembro de nada do que disse ontem.	265151
+To tell the truth, I couldn't finish it in time.	Para dizer a verdade, eu não consegui terminá-lo a tempo.	265152
+To tell the truth, I didn't do my homework.	Para falar a verdade, eu não fiz a minha lição de casa.	265153
+To tell the truth, I used to smoke two packs a day.	Para falar a verdade, eu fumava dois maços de cigarro por dia.	265154
+To tell the truth, I don't like his way of living.	Para falar a verdade, não me agrada seu modo de viver.	265160
+To tell the truth, I don't like her very much.	Para falar a verdade, eu não gosto muito dela.	265178
+To tell the truth, I did not make it myself.	Para dizer a verdade, não fui eu que o fiz.	265179
+To tell the truth, she is my sister.	Para falar a verdade, ela é minha irmã.	265180
+To tell the truth, she is my niece.	Na verdade, ela é a minha sobrinha.	265181
+To tell the truth, I don't want to go with them.	Para dizer a verdade, eu não quero ir com eles.	265187
+Tell me about your successes in business.	Me conte sobre os seus sucessos nos negócios.	265189
+The results of the experiment were not as we had hoped.	Os resultados do experimento não foram como nós esperávamos.	265195
+The results should be measurable and the process repeatable.	Os resultados devem ser mensuráveis e o processo passível de repetição.	265201
+Practice must go hand in hand with theory.	A prática deve andar de mãos dadas com a teoria.	265210
+In fact, gorillas have many of the same feelings that people have.	Na verdade, os gorilas têm muitos dos mesmos sentimentos que as pessoas têm.	265211
+Theory is quite useless unless it works in practice.	Teoria é bastante inútil a menos que funcione na prática.	265223
+As a matter of fact, his lecture was boring.	De fato, sua palestra foi chata.	265244
+In fact, I did not know it.	De fato não o sabia.	265257
+In practice, there is little difference between the two.	Na prática quase não há diferença entre as duas.	265263
+Price increases explain the difference between the real and nominal growth rates.	Os aumentos de preço explicam a diferença entre as taxas de crescimento real e nominal.	265265
+Practical utility and artistic beauty combine to make a comfortable house to live in.	Prática utilidade e beleza artística se combinam para fazer uma casa confortável para morar.	265271
+Don't trample on the grass.	Não pise na grama.	265294
+Can you identify the man in this picture?	Você reconhece o homem da foto?	265299
+Please show me your picture.	Por favor, mostre-me sua foto.	265307
+Don't expose photos to the sun.	Não exponha as fotos ao sol.	265315
+Put the eggs into the boiling water.	Coloque os ovos na água fervente.	265321
+The impact of science on society is great.	O impacto da ciência sobre a sociedade é grande.	265338
+Society has a great influence on individuals.	A sociedade tem uma grande influência sobre os indivíduos.	265344
+The boss ordered us to work from morning till night.	O chefe nos mandou trabalhar da manhã até a noite.	265362
+It came to the president like a bolt of lightning.	Surgiu ao presidente como um relâmpago.	265370
+Is the boss in a good mood today?	O chefe está de bom humor hoje?	265384
+My boss is twice as old as I am.	Meu chefe é duas vezes mais velho que eu.	265386
+Smoking in the office is against our rules.	Fumar no escritório é contra as nossas regras.	265396
+I wish I had a car.	Queria ter um carro.	265406
+If you have a car, you can come and go at will.	Se você tiver um carro, você pode ir e vir o quanto quiser.	265408
+How I wish I had a car.	Como eu queria ter um carro.	265410
+The car crashed into the truck.	O carro bateu no caminhão.	265417
+The car got stuck in the mud.	O carro atolou-se no barro.	265420
+Do you want a car?	Você quer um carro?	265422
+My car broke down, so I had to take a bus.	Meu carro quebrou, então tive que pegar um ônibus.	265428
+The car broke down on the way to the airport.	O carro quebrou no caminho para o aeroporto.	265432
+The car broke down, so we had to walk.	O carro quebrou, de maneira que tivemos de andar.	265435
+Cars took the place of bicycles.	Carros substituíram as bicicletas.	265440
+Each passing car threw up a cloud of dust.	Cada carro que passava fazia uma nuvem de poeira.	265444
+The car ran into a tree.	O carro bateu contra uma árvore.	265450
+It only takes thirty minutes by car.	Leva somente trinta minutos de carro.	265453
+How long does it take by car?	Quanto tempo leva de carro?	265454
+Could you tell me how to get to your office?	Você poderia me dizer como chegar a seu escritório?	265455
+I'll give you a ride.	Eu te dou uma carona.	265472
+Can I give you a ride?	Posso te dar uma carona?	265475
+I'll give you a lift.	Eu te dou uma carona.	265476
+Will you give me a ride?	Pode me dar uma carona?	265478
+Could you give me a lift in your car?	Você poderia me dar uma carona?	265479
+Don't you have a phone in your car?	Você não tem um telefone no seu carro?	265484
+I spend all her money on the car.	Eu gasto todo o dinheiro dela no carro.	265485
+I can't get the car to start.	Não posso fazer com que o carro funcione.	265488
+I've lost my car key.	Eu perdi a chave do meu carro.	265489
+I have a problem with my car.	Tenho um problema com meu carro.	265491
+I was unable to write down the number of the car.	Eu não consegui anotar a placa do carro.	265493
+I have to charge the battery of my car.	Eu tenho que trocar a bateria do meu carro.	265496
+Do you know how to drive a car?	Você sabe dirigir um carro?	265501
+I could see traffic lights ahead of my car.	Conseguia ver semáforos à frente do meu carro.	265517
+Could you open the car window?	Você pode abrir a janela do carro?	265519
+Traffic noise is very harsh to the ear.	O barulho de trânsito é muito severo ao ouvido.	265522
+Be alert when you cross a busy street!	Fique atento quando atravessar uma rua movimentada!	265523
+I paid fifty percent down for the car.	Eu paguei cinquenta por cento à vista pelo carro.	265525
+With car prices so high, now is the worst time to buy.	Com os preços dos carros tão altos, agora é a pior hora para comprar.	265526
+I had to go to my office by bus because my car had engine trouble.	Tive que ir ao escritório de ônibus porque meu carro teve um problema no motor.	265530
+The car gave a jolt.	O carro deu uma sacudida.	265544
+Our dog was nearly run over by a car.	Nosso cachorro quase foi atropelado por um carro.	265554
+The car cut to the left.	O carro cortou à esquerda.	265560
+She must be rich to have three cars.	Ela deve ser rica para ter três carros.	265575
+A big tree had fallen across the road and was in my way as I drove.	Uma árvore grande tinha caído no meio da estrada e estava no meu caminho quando eu dirigia.	265580
+Driving a car is really very simple.	Dirigir um carro é realmente muito simples.	265584
+Keeping a car is a considerable expense.	Manter um carro é uma despesa considerável.	265604
+Where can I rent a car?	Onde posso alugar um carro?	265608
+The man washing the car is Mr Jones.	O homem que está lavando o carro é o sr. Jones.	265611
+The boy washing the car is my brother.	O rapaz lavando o carro é meu irmão.	265612
+Put the car into the garage.	Coloque o carro na garagem.	265614
+Can I borrow your car?	Posso pegar seu carro emprestado?	265616
+I had to borrow money to purchase the car.	Precisei pedir dinheiro emprestado para comprar o carro.	265625
+I'd like to return a car.	Gostaria de devolver um carro.	265631
+The snake swallowed a frog.	A cobra engoliu um sapo.	265649
+They are in the way.	Eles estão no caminho.	265659
+I lost the book you lent me.	Eu perdi o livro que você me emprestou.	265666
+I'd like to see the car before I rent it.	Gostaria de ver o carro antes de alugá-lo.	265669
+Some people are up to their necks in debt.	Algumas pessoas estão endividadas até o pescoço.	265671
+I'm sure you don't need me to tell you this, but wouldn't it be a good idea to stop smoking?	Eu tenho certeza de que você não precisa que eu lhe diga isso, mas não seria uma boa ideia parar de fumar?	265686
+You must study hard while young.	Você deve estudar com afinco enquanto é jovem.	265687
+I could swim faster when I was young.	Eu nadava mais rápido quando era jovem.	265702
+I could run much faster when I was young.	Eu conseguia correr mais rápido quando eu era jovem.	265703
+I wish I had studied English harder while young.	Queria ter estudado mais inglês enquanto jovem.	265705
+I wish I had studied harder in my youth.	Queria ter estudado mais em minha juventude.	265710
+I wish I'd studied harder when I was young.	Queria ter estudado mais quando era jovem.	265712
+I wish I had studied English harder when I was young.	Queria ter estudado mais firmemente inglês quando era jovem.	265719
+As a young man he flirted briefly with communism.	Como um homem jovem ele flertou brevemente com o comunismo.	265720
+In his younger days he worked very hard.	Em sua juventude, ele trabalhou muito.	265734
+Try to read as many books as you can when young.	Tente ler tantos livros quanto puder enquanto jovem.	265738
+Charles lived a life of debauchery when he was young.	Charles viveu uma vida de libertinagem quando era jovem.	265740
+A young girl was at the steering wheel.	Tinha uma garotinha no volante.	265752
+As is often the case with young men, he does not pay much attention to his health.	Como é o caso frequente dos jovens homens, ele não presta muita atenção à sua saúde.	265762
+Young people like popular music.	Os jovens gostam de música popular.	265766
+A young man is singing before the door.	Há um jovem rapaz cantando em frente à porta.	265780
+A group of young men were fighting.	Um grupo de moços estava lutando.	265803
+The lad leaned over and shouted into Tom's ear.	O rapaz se inclinou e gritou no ouvido de Tom.	265808
+Young people are usually full of energy.	Os jovens normalmente são cheios de energia.	265810
+The hero died at the end of the book.	O herói morreu no fim do livro.	265864
+It was so cold that he was shivering.	Estava tão frio que ele tremia.	265886
+My hands are stained with paint.	Minhas mãos estão manchadas de tinta.	265904
+Raise your hand before you answer.	Levante a mão antes de responder.	265925
+Did you wash your hands?	Você lavou as mãos?	265929
+Give me a hand. If you do, I'll buy you a drink later.	Me dê a mão. Se você o fizer, eu vou comprar uma bebida para você mais tarde.	265940
+Put your hands behind your head.	Ponha as mãos atrás da cabeça.	265943
+Take your hands off me.	Tire suas mãos de mim.	265946
+Don't forget to put a stamp on your letter.	Não se esqueça de colocar um selo na sua carta.	265971
+The contents of the letter were secret.	O conteúdo da carta era segredo.	265974
+Did you receive my letter?	Você recebeu a minha carta?	265984
+The letter was written by her.	A carta foi escrita por ela.	265985
+The letter will arrive tomorrow.	A carta chegará amanhã.	265987
+I remember mailing the letter.	Eu me lembro de ter enviado a carta.	265991
+I forgot to put on the stamp before I mailed the letter.	Eu esqueci de colocar o selo antes de enviar a carta.	265995
+I've finished writing the letter.	Terminei de escrever a carta.	266001
+I wonder whether to write or phone.	Não sei se devo escrever ou telefonar.	266002
+Surgery is the best solution.	A cirurgia é a melhor solução.	266015
+To make a long story short, we buried the hatchet.	Para encurtar a história, nós fizemos as pazes.	266038
+Let me give you a hand.	Deixe eu te dar uma mão.	266048
+Let me help you. Your bag looks very heavy.	Deixe-me ajudá-la. Parece que sua bolsa está muito pesada.	266049
+You don't have to help me.	Você não precisa me ajudar.	266050
+No matter how interesting magic shows may be, I don't like them so much.	Não importa o quão interessante podem ser os espetáculos de mágica, eu não gosto muito deles.	266073
+Wounded bears are usually very dangerous.	Os ursos feridos geralmente são muito perigosos.	266075
+Seeds must have air and water to grow.	As sementes precisam de ar e água para crescer.	266080
+It is not easy to combine hobbies with profits.	Não é fácil combinar hobbies com lucros.	266089
+I play the guitar in my spare time.	Eu toco violão em meu tempo livre.	266091
+What do you do for fun?	O que você faz para se divertir?	266094
+When the wine is in, the wit is out.	quando o vinho esta dentro, o espirito esta fora.	266102
+We make sake from rice.	Nós fazemos saquê do arroz.	266112
+He was sitting drinking wine.	Ele estava sentado bebendo vinho.	266116
+Drink less and sleep more.	Beba menos e durma mais.	266120
+I bought a bottle of beer at the liquor store.	Eu comprei uma garrafa de cerveja na loja de bebidas.	266122
+The prime minister paid a formal visit to the White House.	O primeiro ministro visitou formalmente a Casa Branca.	266153
+The Prime Minister stated that he would not introduce a new tax without the consensus of public opinion.	O primeiro-ministro declarou que não iria instituir um novo imposto sem o consenso da opinião pública.	266156
+The Prime Minister held a press conference yesterday.	O primeiro-ministro concedeu uma entrevista coletiva à imprensa ontem.	266159
+The Prime Minister met with the press.	O primeiro-ministro se reuniu com a imprensa.	266168
+Magic plays an important part in primitive society.	A magia tem um papel importante nas sociedades primitivas.	266199
+How about trying some sushi?	Que tal provar um pouco de sushi?	266205
+School begins on April 5th.	A escola começa no 5 de Abril.	266221
+School begins at half past eight.	As aulas começam às oito e meia.	266224
+Trees give off oxygen and absorb carbon dioxide.	As árvores emitem oxigênio e absorvem dióxido de carbono.	266244
+The prisoner was given his freedom.	O prisioneiro foi libertado.	266259
+I began driving our tractor when I was 12 years old to help my father out at harvest time.	Para ajudar meu pai na época da colheita, comecei a dirigir o trator aos 12 anos de idade.	266264
+You should live within your means.	Você deve viver dentro de seus recursos.	266279
+You'd better avoid discussion of religion and politics.	É melhor evitar discussão sobre religião e política.	266304
+Slaves find power in religion.	Os escravos encontram poder na religião.	266307
+The bishop took pity on the desperate immigrants.	O bispo se compadeceu dos imigrantes desesperados.	266308
+I don't believe in religion.	Eu não acredito em religião.	266309
+Religion is the opium of the people.	A religião é o ópio do povo.	266310
+On the religious side, the decision caused serious dissension among followers.	No lado religioso, a decisão causou graves divergências entre os seguidores.	266313
+A conservative tie is preferable to a loud one for a job interview.	Uma gravata conservadora é preferível a uma gritante para uma entrevista de emprego.	266316
+The governor set the prisoners free.	O governador libertou os prisioneiros.	266327
+Autumn came and the leaves started to fall.	O outono chegou e as folhas começaram a cair.	266338
+In autumn the leaves turn yellow.	No outono, as folhas tornam-se amarelas.	266344
+In autumn, leaves fall from trees.	No outono, as folhas caem das árvores.	266345
+Leaves fall in the autumn.	As folhas caem no outono.	266351
+In autumn, leaves change their color and fall.	No outono, as folhas mudam de cor e caem.	266354
+In the fall, the leaves turn red and gold.	No outono, as folhas ficam vermelhas e douradas.	266356
+I think autumn is the most beautiful season of the year.	Eu acho o outono a época mais bonita do ano.	266360
+Autumn is just around the corner.	O outono está aí.	266365
+Fall is when we can study best.	No inverno é quando podemos estudar melhor.	266368
+I prefer spring to fall.	Prefiro a primavera ao outono.	266377
+All's well that ends well.	Bem está o que bem acaba.	266387
+It is difficult to find a well paid permanent job.	É difícil achar um trabalho permanente bem remunerado.	266391
+His English is not bad, seeing that he has studied for only two years.	O inglês dele não é ruim, visto que ele só estuda há dois anos.	266398
+Courage is needed to change a custom.	Mudar um costume necessita coragem.	266404
+We have four French classes a week.	Nós temos quatro aulas de francês por semana.	266410
+How many times a week does the soccer team practice?	Quantas vezes por semana o time de futebol treina?	266412
+The seventh day of the week is Saturday.	O sétimo dia da semana é sábado.	266415
+As long as it doesn't spoil the weekend!	Contanto que isso não estrague com o fim de semana.	266421
+Let's visit my grandpa this weekend.	Vamos visitar meu avô nessa semana.	266422
+Would you like to have supper with us on the weekend?	Você gostaria de jantar conosco no fim de semana?	266435
+That is a good place to live.	Aquele é um bom lugar para viver.	266461
+The house costs double what it did before.	A casa custa o dobro do que custava antes.	266470
+The residents made complaints about the noise.	Os moradores se queixaram do barulho.	266478
+She doesn't drink enough breast milk.	Ela não mama o bastante.	266486
+If you take four from ten, you have six.	Se você tirar quatro de dez, você terá seis.	266487
+One out of ten persons is nearsighted.	Uma em cada dez pessoas é míope.	266490
+In nine cases out of ten he will take the first place.	Em nove de dez, ele ficará em primeiro lugar.	266498
+December is the last month of the year.	Dezembro é o último mês do ano.	266506
+Make sure you get plenty of rest.	Tratem de descansar bastante mesmo.	266519
+Handle it with great care.	Trate disso com o maior cuidado.	266530
+I've had enough, thank you.	Já é o bastante. Obrigado.	266531
+Lake Towada is famous for its beauty.	O Lago Towada é famoso por sua beleza.	266534
+In judo, technique is more important than strength.	No judô, a técnica é mais importante que a força.	266562
+Judo is not only good for young people's health but also very useful in forming their personalities.	O judô não é bom apenas para a saúde dos jovens, mas também é muito útil na formação de suas personalidades.	266563
+We missed our plane because of the traffic jam.	Perdemos nosso voo por causa do engarrafamento.	266573
+It's heavy, but I can manage it.	É pesado mas eu consigo aguentar.	266578
+I play an important part.	Eu sou uma parte importante.	266602
+They don't decide important matters.	Eles não decidem coisas importantes.	266603
+Don't point your gun at me.	Não aponte a sua arma para mim.	266612
+Aim the gun at the target.	Mire a arma no alvo.	266614
+We are anticipating receiving a gift from our uncle.	Estamos prevendo recebe um presente do nosso tio.	266619
+My uncle bought me this book.	Meu tio comprou este livro para mim.	266622
+My uncle has a business trip to Aomori tomorrow.	O meu tio tem uma viagem de negócios para Aomori amanhã.	266626
+An uncle of mine gave me some useful advice.	Um tio meu me deu uns conselhos muito úteis.	266629
+I'm planning to stay at my uncle's place.	Estou pensando em ficar no lugar de meu tio.	266630
+I hear my uncle died of cancer.	Ouvi dizer que meu tio morreu de câncer.	266631
+My uncle made a will last year.	Meu tio fez um testamento no ano passado.	266636
+My uncle says he's about to embark on a new business venture.	Meu tio disse que está prestes a se envolver em um novo empreendimento comercial.	266647
+I went to the hospital to see my uncle.	Eu fui ao hospital visitar o meu tio.	266654
+My aunt treats me as if I were a child.	A minha tia me trata como se eu fosse uma criança.	266657
+My aunt lived a happy life.	Minha tia viveu uma vida feliz.	266658
+My aunt gave me an album.	Minha tia me deu um álbum.	266659
+Please wait till I have finished my homework.	Por favor, espere até que eu termine o meu trabalho de casa.	266668
+The homework is due next Monday.	A lição de casa é para a próxima segunda-feira.	266672
+Write your homework in ink, not in pencil.	Escreva o seu dever de casa de caneta, não a lápis.	266681
+Are you completely through with your homework?	Você acabou todo o seu dever de casa?	266682
+Our teacher gives us a lot of homework.	A nossa professora nos dá muita lição de casa.	266692
+Don't watch TV until you finish your work.	Não assista TV até você terminar o trabalho.	266694
+Submit your homework on Monday.	Entregue a sua tarefa na segunda-feira.	266702
+It is very nice of you to help me with my homework.	É muito legal da sua parte em me ajudar na tarefa de casa.	266707
+It took me three hours to finish the homework.	Demorei três horas para terminar o dever de casa.	266713
+I have done all of my homework and I'd like to take a short break.	Fiz todo o meu dever de casa e gostaria de descansar um pouco.	266716
+I'd like to stay at your hotel.	Gostaria de ficar no seu hotel.	266724
+Can I extend my stay one more night?	Posso extender a minha estadia por mais uma noite?	266725
+A ripe apple dropped from the tree.	Uma maçã madura caiu da árvore.	266731
+Even expert drivers can make mistakes.	Até motoristas experientes cometem deslizes.	266735
+Don't you want to go out?	Você não quer sair?	266739
+It was time to leave.	Era hora de partir.	266756
+Are you ready to go out?	Você está pronto para sair?	266758
+See that the door is locked before you leave.	Não deixe de fechar a porta ao sair.	266765
+Are you sure you don't want to use the toilet before you go?	Você tem certeza de que não quer usar o toilet antes de ir?	266766
+Make sure that the lights are turned off before you leave.	Antes de sair, tenha certeza de que as luzes estão apagadas.	266767
+I've got to shave before leaving.	Tenho de fazer a barba antes de sair.	266768
+I was about to leave when Mary appeared out of the blue.	Eu estava prestes a sair quando Mary apareceu do nada.	266791
+Envy is the companion of honour.	A inveja é a companheira da honra.	266795
+In case of fire, push the button.	Em caso de incêndio, aperte o botão.	266799
+Where is the way out?	Onde está a saída?	266811
+Luck and hard work are necessary if you want to advance in life.	Sorte e trabalho duro são necessários se você quer avançar na vida.	266816
+If you wish to get on in the world, you must not shrink from effort.	Se você quer progredir no mundo, não deve poupar esforços.	266817
+The birth rate and death rate were nearly equal.	O índice de mortalidade e o índice de natalidade eram quase iguais.	266822
+The people present were surprised.	As pessoas presentes ficaram surpresas.	266824
+Those present were all astonished at the results of the election.	Os presentes ficaram todos pasmos com os resultados da eleição.	266826
+You ought not to miss it.	Você não pode perder isso.	266827
+Those who are present are all Japanese.	Todos os presentes são japoneses.	266831
+There was no objection on the part of those present.	Não houve objeções por parte dos que estavam presentes.	266834
+I took advantage of my business trip to see the sights of Paris.	Aproveitei minha viagem de negócios para visitar Paris.	266848
+The gate was left open.	Deixaram o portão aberto.	266849
+I would like to see you before I leave.	Quero te ver antes de ir embora.	266853
+It is really time for us to go.	É realmente hora de irmos.	266854
+I'd like to confirm the departure time.	Gostaria de confirmar a hora de partida.	266864
+I would like to have a look at your collection of stamps.	Eu gostaria de dar uma olhada na sua coleção de selos.	266871
+Please write to me as soon as you can.	Por favor escreva-me logo que puder.	266874
+Please speak as slowly as possible.	Por favor, fale tão lentamente quanto possível.	266875
+I'd like inexpensive seats, if possible.	Eu gostaria de assentos baratos, se possível.	266876
+We have to avoid a conflict as far as possible.	Temos que evitar um conflito tanto quanto possível.	266884
+I'd like to go fishing if possible.	Gostaria de ir pescar, se possível.	266891
+I'd like to make a reservation to play golf tomorrow.	Gostaria de fazer uma reserva para jogar golfe amanhã.	266893
+Spring is here. It is getting warmer every day.	A primavera chegou. Está fazendo cada dia mais calor.	266897
+Do you like spring or autumn?	Você gosta da primavera ou do outono?	266902
+Let's contrast spring with fall.	Vamos comparar a primavera com o inverno.	266913
+Which do you prefer, spring or autumn?	O que você prefere: primavera ou outono?	266914
+When spring arrives, I am going to take up a new sport.	Quando a primavera chegar, eu vou começar um novo esporte.	266917
+I look forward to seeing them this spring.	Estou ansioso para vê-los nessa primavera.	266918
+When spring arrives, I'm going to take up a new sport.	Quando chegar a primavera, eu vou começar a praticar um novo esporte.	266919
+When spring comes, they dig up the fields and plant seeds.	Quando chega a primavera, aram-se os campos e plantam-se as sementes.	266926
+A great many tourists visit Kyoto in spring.	Muitos turistas visitam Kyoto na primavera.	266933
+Some flowers bloom in spring and others in autumn.	Algumas flores florescem na primavera, e outras no outono.	266934
+Spring is around the corner.	A primavera logo chegará.	266948
+Wait until your turn comes.	Espere até que sua vez chegue.	266981
+Get on the bus in turn.	Entrem no ônibus um de cada vez.	266982
+Wait for your turn, please.	Espere a sua vez, por favor.	266984
+I'll give you a prescription.	Vou lhe dar uma receita médica.	266989
+I mistook you for your sister when I first saw you.	Confundi você com a sua irmã a primeira vez que o vi.	267011
+I took you for Roy when I first saw you.	Quando o vi pela primeira vez, pensei que você fosse o Roy.	267012
+When I first met him, I was taken aback by his unexpected question.	Quando me encontrei com ele pela primeira vez, fiquei surpreso com a sua pergunta inesperada.	267018
+The first time I held my girlfriend's hand was in the haunted house.	A primeira vez que peguei na mão da minha namorada foi na casa mal assombrada.	267019
+In the beginning was the Word.	No princípio era o Verbo.	267023
+The first step is the hardest.	O primeiro passo é o mais difícil.	267029
+In the beginning, man was almost the same as the other animals.	No início o homem era quase igual aos demais animais.	267030
+At first I did not like rock music, but now I do.	Em um primeiro momento eu não gostava de rock, mas agora eu gosto.	267031
+At first the job looked good to Tom, but later it became tiresome.	No início, o trabalho pareceu bom para Tom, mas depois se tornou cansativo.	267034
+The first edition was published ten years ago.	A primeira edição foi publicada há dez anos.	267062
+Who is in charge of the office while the boss is away?	Quem está tomando conta do escritório enquanto o supervisor não volta?	267069
+What with the heat and the humidity, I didn't sleep well.	Com o calor e a umidade, eu não dormi bem.	267075
+It is warm, not to say hot.	Está morno, para não dizer quente.	267077
+Hot summer days ended and cool autumn days followed.	Terminaram os dias quentes do verão e agora temos os dias frescos do outono.	267084
+A glass of cold water is very refreshing in hot weather.	Um copo de água gelada é muito refrescante quando está calor.	267091
+How much is that mountain bike?	Quanto custa essa mountain bike?	267095
+He could not sleep because of the heat.	Ele não conseguia dormir por causa do calor.	267107
+Let's go out before it gets hot.	Vamos sair antes do calor.	267108
+The heat kept me awake all night.	O calor me manteve acordado a noite toda.	267112
+No heat or cold lasts beyond the equinox.	Não há calor nem frio que durem depois do equinócio.	267119
+There is an anteroom adjoining the library.	Há uma antessala contígua à biblioteca.	267143
+If it were not for books, each generation would have to rediscover for itself the truths of the past.	Se não fosse pelos livros, cada geração teria que redescobrir sozinha os fatos do passado.	267149
+The documents were tampered with.	Os documentos foram adulterados.	267160
+Are you going to learn English?	Você vai aprender inglês?	267166
+Call on me if you need my assistance.	Chame-me se precisar de ajuda.	267171
+You've got to help me! Every night I have the same horrible dream.	Ajuda-me! Sonho com o mesmo desastre todas as noites!	267177
+There is no use crying for help. No one will hear you.	Não adianta chorar por ajuda. Ninguém vai ouvi-lo.	267186
+I heard a cry for help.	Eu ouvi um grito de socorro.	267189
+A girl gave me an orange in exchange for a piece of cake.	Uma garota me deu uma laranja em troca de um pedaço de bolo.	267205
+Keep an eye on the girls.	Fique de olho nas meninas.	267209
+Both girls wear white suits.	Ambas as garotas estão usando conjuntos brancos.	267219
+The girl was called Elizabeth after her grandmother.	A garota era chamada Elizabeth, como sua avó.	267221
+Girls think much of fashion.	As garotas estimam muito a moda.	267224
+Almost all girls are kind.	Quase todas as meninas são bondosas.	267225
+Girls mature faster than boys.	Garotas amadurecem mais cedo do que garotos.	267230
+The girls began to laugh when they heard the story.	As raparigas começaram a rir quando ouviram a história.	267238
+A woman was kind enough to show me the way.	Uma mulher foi generosa o suficiente para me mostrar o caminho.	267244
+She had nothing else to drink.	Ela não tinha mais nada para beber.	267252
+Women ought to be as glad to be women as men are to be men.	As mulheres deveriam estar alegres por serem mulheres, assim como os homens por serem homens.	267256
+They named the ship Queen Mary after the Queen.	Eles nomearam o navio de Rainha Mary em homenagem à rainha.	267259
+The queen was richly appareled.	A rainha estava magnificamente vestida.	267266
+Where is the ladies' room? I want to wash my hands.	Onde é o quarto-de-banho das senhoras? Quero lavar as minhas mãos.	267279
+A woman is a weathercock.	A mulher é um cata-vento.	267281
+Some women are quick at figures.	Algumas mulheres são rápidas com os números.	267293
+We should not ask a woman her age.	Não devemos perguntar a uma mulher a sua idade.	267295
+She wanted to know if the photographer could remove the hat from the picture.	Ela queria saber se o fotógrafo podia remover o chapéu daquela foto.	267301
+Women usually have the gift of gab.	Mulheres geralmente são tagarelas.	267304
+Why aren't women allowed to enjoy the same civil rights as men?	Porque não é permitido às mulheres usufruir dos mesmos direitos civis como os homens?	267306
+Women are physically weaker than men.	As mulheres são fisicamente mais fracas do que os homens.	267315
+Women tend to live longer than men.	As mulheres tendem a viver mais do que os homens.	267318
+Never keep a lady waiting.	Nunca deixe uma senhora esperando.	267325
+Will I have a scar?	Eu ficarei com uma cicatriz?	267343
+The wound is not yet healed.	A ferida ainda não está curada.	267352
+Let me see your wound.	Deixe-me ver sua ferida.	267360
+It doesn't matter whether you win or not.	Não importa se você vence ou não.	267364
+We have little chance of winning.	Nós temos pouca chance de ganhar.	267371
+Masaru can't finish the work in an hour, can he?	Masaru não vai conseguir terminar o trabalho em uma hora, vai?	267376
+The match ended in a draw.	O jogo acabou em empate.	267390
+All hope of winning the game vanished.	Toda a esperança de ganhar o jogo desapareceu.	267392
+Victory is unlikely but not impossible.	A vitória é improvável, mas não impossível.	267400
+Commerce led to the development of cities.	O comércio levou ao desenvolvimento das cidades.	267411
+Efficiency is the dominant idea in business.	Eficiência é uma ideia dominante nos negócios.	267428
+I always have to wear a tie because of my job.	Eu sempre tenho que usar uma gravata por causa do meu trabalho.	267443
+If you wish, you may pick them up, or we would be glad to send them back to you.	Se desejar, você pode buscá-las ou teremos prazer em enviá-las de volta para você.	267446
+The Commerce Department reports retail sales rose seven-tenths of 1 percent last month mainly thanks to strong auto sales.	O Departamento de Comércio relata que as vendas a retalho aumentaram sete décimos de 1% no mês passado, principalmente graças às elevadas vendas de automóveis.	267451
+The general commanded him to report to headquarters.	O general ordenou a ele que se reportasse ao quartel general.	267466
+I expect a subway station will be here in the future.	Eu espero que haja uma estação de metrô aqui no futuro.	267480
+Please take more care in the future.	Por favor, tenha mais cuidado no futuro.	267493
+It is impossible to know what will happen in the future.	É impossível saber o que acontecerá no futuro.	267503
+The truth will come out in the future.	A verdade vai vir à tona no futuro.	267506
+People tomorrow will have different ideas.	Amanhã, as pessoas terão ideia diferentes.	267507
+There was something about that house that made her stop and look again.	Havia algo naquela casa que a faz parar e olhar novamente.	267510
+I noticed that a small gray animal was looking toward us.	Eu percebi que um pequeno animal cinza estava olhando na nossa direção.	267521
+A small car is more economical than a large one.	Um carro pequeno é mais econômico que um grande.	267527
+The small boys rang the door bell and ran away.	Os garotinhos tocaram a campainha e saíram correndo.	267529
+Be kind to little animals.	Seja generoso com os animaizinhos.	267531
+Even a little child knows its name.	Até uma criança sabe o nome disso.	267548
+To teach young children is not easy.	Ensinar crianças pequenas não é fácil.	267552
+Little children like to touch everything.	As crianças pequenas gostam de tocar em tudo.	267556
+The little boy said hello to me.	O garotinho me disse olá.	267568
+Small cars are very economical because of their low fuel consumption.	Carros pequenos são muito econômicos por causa do baixo consumo de combustível.	267593
+I'd like to rent a compact car.	Gostaria de alugar um carro compacto.	267594
+It is great fun to play with a puppy.	É uma grande diversão brincar com um cachorrinho.	267595
+My little finger is swollen.	Meu dedo mindinho está inchado.	267600
+I'd like to see Mr Kosugi.	Gostaria de ver o Sr. Kosugi.	267606
+May I pay by check?	Posso pagar com cheque?	267608
+I'd like to pay by check.	Gostaria de pagar com cheque.	267609
+I will pay for it by check.	Eu pagarei ele com cheque.	267610
+The success of her novel made her rich.	O sucesso de seu romance a deixou rica.	267617
+Fiction is as old as fairy tales and myths.	A ficção é tão velha quanto contos de fadas e mitos.	267620
+Writers such as novelists and poets don't seem to benefit much from the advance of science.	Escritores como novelistas e poetas não parecem se beneficiar muito com os avanços da ciência.	267628
+Birds are singing in the trees.	Os pássaros estão cantando nas árvores.	267642
+The little bird couldn't defend itself against the eagle.	O passarinho não pôde se defender da águia.	267648
+I saw some small animals running away in all directions.	Eu vi alguns pequenos animais correndo em todas as direções.	267655
+I walked along the footpath.	Eu caminhei pela calçada.	267661
+The brain needs a continuous supply of blood.	O cérebro precisa de um suprimento contínuo de sangue.	267665
+A retail merchant buys wholesale and sells retail.	Um comerciante varejista compra no atacado e vende no varejo.	267666
+The wheat is ready for harvest.	O trigo está pronto para a colheita.	267670
+You can make a cake with flour and milk and an egg.	Você pode fazer um bolo com farinha, leite e um ovo.	267671
+Flour is the main ingredient in cakes.	A farinha é o ingrediente principal dos bolos.	267673
+Flour is made into bread.	A farinha é transformada em pão.	267674
+Flour is made from wheat.	A farinha é feita a partir do trigo.	267675
+Would you please wait for a few minutes?	Você poderia esperar alguns minutos, por favor?	267691
+May I speak to you a minute?	Posso falar com você por um minuto?	267692
+Will you give me some?	Você vai me dar um pouco?	267695
+Gradually things began to look a little less black.	Gradualmente, as coisas começaram a parecer um pouco menos sombrias.	267699
+Would you turn down the stereo a little?	Você poderia baixar o volume do som um pouquinho?	267701
+I will stay here for a short period.	Ficarei aqui por um breve período de tempo.	267711
+Would you give me a discount?	Você poderia me dar um desconto?	267719
+I was a little afraid.	Estava um pouco assustado.	267730
+I've lost a little weight.	Perdi um pouco de peso.	267736
+He could not refrain from smiling, though with a slight sense of guilt.	Ele não pôde deixar de sorrir, apesar de um leve sentimento de culpa.	267737
+A few hours nap will do you good.	Um cochilo de algumas horas vai te fazer bem.	267742
+All I did was run a little and now my knees are wobbly.	Tudo que eu fiz foi correr um pouco e agora meus joelhos estão tremendo.	267761
+I have a slight headache.	Eu tenho uma leve dor de cabeça.	267771
+A short walk brought me to the lake.	Uma pequena caminhada me levou até o lago.	267784
+Seen at a distance, the rock looks like a squatting human figure.	Vista de longe, a rocha parece uma figura humana de cócoras.	267791
+At least thirty students were absent.	Pelo menos trinta estudantes estavam ausentes.	267808
+The girl was carrying a plastic bag stuffed full of things.	A garota estava carregando uma sacola cheia de coisas.	267821
+A girl is playing the flute.	Uma garota está tocando flauta.	267822
+Girls came in one after another.	As meninas entraram uma após a outra.	267825
+The girl lacked musical ability.	A menina não tinha jeito para música.	267853
+The girl was trembling with fear.	A menina estava tremendo de medo.	267858
+The girl let the bird loose.	A menina soltou o pássaro.	267873
+The girl greeted me with a smile.	A garota me cumprimentou com um sorriso.	267879
+The girl went to school in spite of her illness.	A menina foi à escola apesar de estar doente.	267880
+A crying girl opened the door.	Uma menina chorando abriu a porta.	267881
+The girl went to sleep.	A garota foi dormir.	267887
+Minorities are despised in many countries.	A minorias são desprezadas em muitos países.	267917
+I saw a boy crossing the street.	Eu vi um menino atravessando a rua.	267933
+One of the boys suddenly ran away.	Um dos garotos saiu correndo de repente.	267934
+A boy and a girl came in. I spoke to the boy, who seemed to be older than the girl.	Um garoto e uma garota vieram. Eu falei com o garoto, que pareceu ser mais velho que a garota.	267950
+The boy and his uncle faced each other across the table.	O menino e seu tio sentaram-se à mesa, à frente um do outro.	267952
+When I was a boy, I was addicted to reading detective stories.	Quando criança, eu era viciado em ler contos policiais.	267961
+The boy considered the dolphin his best friend.	O garoto considerava o golfinho seu melhor amigo.	267967
+The boy acknowledged having lied.	O garoto reconheceu ter mentido.	267969
+The boy said that the taxi vanished into the fog.	O menino disse que o táxi desapareceu na neblina.	267985
+The boy passed the time by flinging stones into the lake.	O garoto passou o tempo jogando pedras no lago.	268007
+The boy ran away without looking back.	O garoto fugiu sem olhar para trás.	268008
+He kept at the job all day.	Ele se dedicou ao trabalho o dia inteiro.	268017
+The boy was sold into slavery.	O menino foi vendido como escravo.	268032
+The boy is bashful and doesn't talk much.	A criança é tímida e não fala muito.	268033
+The boy pretended that he was too sick to go to school.	O garoto fingiu que ele estava doente demais para ir à escola.	268036
+The boy made believe he was too ill to go to school.	O garoto fez com que acreditassem que ele estava doente demais para ir à escola.	268037
+The boy carved his name on the tree.	O menino entalhou o seu nome na árvore.	268049
+The boy was very sharp at physics.	O garoto era bem afiado em física.	268054
+All the boys went away.	Todos os garotos foram embora.	268067
+There were bits of broken glass on the floor.	Havia cacos de vidro no chão.	268082
+Don't sit on the floor.	Não sente no chão.	268089
+Is there anything on the floor?	Tem algo no chão?	268090
+The floor must be very clean.	O chão deve ser muito limpo.	268091
+The floor was painted green, while the walls were yellow.	O chão foi pintado de verde, enquanto que as paredes foram de amarelo.	268097
+Why don't you get a haircut?	Por que você não corta o cabelo?	268103
+Thank you so much for inviting me.	Muito obrigado por ter me convidado.	268115
+Please respond at your earliest convenience.	Favor responder o quanto antes.	268120
+Don't leave me out when you're sending the invitations!	Não esqueça de mim quando estiver enviando os convites!	268122
+How beautiful the rising sun is!	Como é belo o sol nascente!	268124
+Promotion was an incentive to harder work.	A promoção foi um incentivo para um trabalho mais esforçado.	268127
+She had no incentive to work after she was refused a promotion.	Ela não teve nenhum incentivo para trabalhar depois que lhe foi recusada uma promoção.	268129
+I'm afraid a promotion is out of the question now.	Eu temo que uma promoção esteja fora de questão agora.	268131
+World War II came to an end in the 20th year of the Showa era.	A Segunda Guerra Mundial chegou ao fim no 20º ano da era Showa.	268135
+Seicho Matsumoto died in 1992.	Seicho Matumoto morreu em 1992.	268140
+It took the fireman almost two hours to put out the fire.	O bombeiro levou quase duas horas para apagar o fogo.	268152
+The firemen soon put out the fire.	Os bombeiros apagaram o fogo rapidamente.	268157
+The firemen quickly extinguished the blaze.	Os bombeiros rapidamente extinguiram as chamas.	268158
+The firemen rushed into the burning house.	Os bombeiros correram para dentro da casa em chamas.	268162
+The fire station is next to the police station.	O corpo de bombeiros fica ao lado da delegacia.	268172
+The fire brigade was on the scene within five minutes of receiving the call.	A brigada de incêndio estava no local menos de cinco minutos após receber a chamada.	268173
+Make sure you go to a doctor if you get worse.	Certifique-se de ir ao médico se você ficar pior.	268189
+You should consult a doctor if the symptoms get worse.	Se os sintomas piorarem você deve consultar um médico.	268190
+That goes beyond a joke.	Aquilo é mais que uma piada.	268195
+Laughter is the best medicine.	Rir é o melhor remédio.	268199
+Laughter is a human instinct, and when it comes to instinct, cultural barriers don't exist.	Rir é um instinto humano, e quando se trata de instinto, barreiras culturais não existem.	268203
+Fortune comes in by a merry gate.	A fortuna vem por um portão alegre.	268204
+I want to die laughing.	Quero morrer rindo.	268206
+I'm used to being laughed at.	Estou acostumado que riam de mim.	268211
+What's the name of the person who recommended us to you?	Qual é o nome da pessoa que nos recomendou a você?	268215
+Did anybody recommend us to you?	Alguém nos recomendou a você?	268216
+In preparation for painting a portrait, my friend takes many photographs in order to study the subject closely.	Ao se preparar para pintar um retrato, meu amigo tira muitas fotografias para estudar o sujeito de perto.	268217
+I'll never forget the sound the crash made.	Eu nunca me esquecerei do som que a batida fez.	268218
+As soon as he heard the crash, he rushed out of the house.	Assim que ele ouviu a batida, ele correu para fora da casa.	268219
+You can't accuse him of stealing unless you have proof.	Você não pode acusá-lo de roubo a não ser que você tenha provas.	268222
+I didn't go into details.	Não entrei em detalhes.	268244
+Have you ever seen an elephant fly?	Você já viu um elefante voar?	268248
+An elephant is a strong animal.	O elefante é um animal forte.	268249
+Elephants live in Asia and Africa.	Os elefantes vivem na Ásia e na África.	268252
+The elephant is bigger than all the other animals.	O elefante é maior que os outros animais.	268254
+An elephant is a very large animal.	O elefante é um animal muito grande.	268257
+An elephant has a long nose.	Um elefante tem um nariz longo.	268258
+The island as seen from above resembles a pear in shape.	A ilha, vista de cima, parece-se com o formato de uma pera.	268273
+When does the show start?	Quando o show começa?	268292
+The population of Shanghai is as large as that of Tokyo.	A população de Xangai é tão grande quanto a de Tóquio.	268296
+I hoped to have seen you when I went to Tokyo.	Esperava vê-lo quando fui para Tóquio.	268299
+Allow me to know in advance when you are coming up to Tokyo.	Avise-me com antecedência quando você estiver vindo a Tóquio.	268301
+I stayed at my uncle's while I was in Tokyo.	Eu estava no meu tio enquanto estive em Tóquio.	268302
+The boss'll have my head.	O chefe vai ficar furioso comigo.	268314
+My boss is starting to get edgy.	Meu chefe está começando a ficar nervoso.	268318
+My boss didn't excuse me for coming late to the meeting.	Meu chefe não me desculpou por chegar atrasado à reunião.	268324
+Do you think it will work?	Você acha que vai funcionar?	268343
+Could you make it a little shorter for me?	Poderia fazê-lo um pouco menor para mim?	268372
+Do you want a ride?	Você quer uma carona?	268377
+Do I need to transfer?	Preciso fazer baldeação?	268383
+The passengers were asleep in their cabins when the ship hit a huge iceberg.	Os passageiros estavam dormindo em suas cabines quando o navio bateu num enorme iceberg.	268401
+Some passengers complained about the service.	Alguns passageiros reclamaram do serviço.	268407
+Passengers can take a certain amount of baggage on the airplane.	Os passageiros podem levar uma certa quantidade de bagagem no avião.	268410
+Are all passengers on board?	Todos os passageiros estão a bordo?	268412
+All the passengers were requested to get off the train.	É pedido que todos os passageiros descem do trem.	268415
+Where is the ticket-selling window?	Onde está a janelinha para a venda de ingressos?	268419
+Some of the crew were drowned.	Parte da tripulação se afogou.	268427
+The crew abandoned the ship.	A tripulação abandonou o navio.	268428
+The crew had to abandon the sinking ship.	A tripulação teve que abandonar o navio que afundava.	268431
+Joking aside, what are you trying to say?	Fora de brincadeira, o que você está tentando dizer?	268453
+I don't feel like joking.	Não estou com vontade de fazer piadas.	268463
+You have to be joking.	Você só pode estar brincando.	268465
+Could you please make room for me?	Poderia, por favor, fazer sala para mim?	268477
+You should always think before you speak.	Você devia sempre pensar antes de falar.	268481
+You must always do what is right.	Você deve sempre fazer o que é certo.	268483
+Knowledge without common sense counts for nothing.	Conhecimento sem bom senso não serve para nada.	268497
+The situation went from bad to worse.	A situação foi de má a pior.	268503
+The odds are against us.	As chances estão contra nós.	268505
+The situation calls for drastic measures.	A situação pede medidas drásticas.	268506
+Passions weaken, but habits strengthen, with age.	À medida que envelhecemos, as paixões diminuem e os hábitos aumentam.	268511
+We have to gather information.	Temos que coletar informações.	268519
+Although the conditions are slightly different, the result of our experiment was identical with Robinson's.	Embora as condições sejam um pouco diferentes, o resultado do nosso experimento foi idêntico ao de Robinson.	268522
+The treaty bans atomic bombs and hydrogen bombs.	O tratado proíbe as bombas atômicas e de hidrogênio.	268527
+The situation got out of their control.	A situação fugiu do controle deles.	268541
+I hope you will correct the situation immediately.	Espero que corrija a situação imediatamente.	268545
+Hot and humid weather makes us lazy.	O tempo quente e úmido nos deixa com preguiça.	268552
+The steam has fogged my glasses.	O vapor embaçou meus óculos.	268556
+The tablets took away my pain.	Os comprimidos tiraram minha dor.	268562
+All plants need water and light.	Todas as plantas precisam de água e luz.	268570
+You don't have any plants or animals, right?	Você não possui nenhuma planta ou animais, certo?	268577
+Botany is the scientific study of plants.	Botânica é o estudo científico das plantas.	268579
+A professional is painting the house.	Um profissional está pintando a casa.	268597
+"Thank you very much for everything." "You are welcome."	"Muito obrigado por tudo!" "De nada!"	268612
+Don't touch it. Leave it as it is.	Não o toque. Deixe-o como está.	268618
+Eat as much as you like.	Coma o quanto quiser.	268626
+The doctor said to me, "Don't eat too much."	O médico me disse: "Não coma muito."	268637
+Eating too much is bad for the health.	Comer demais faz mal à saúde.	268641
+If you eat too much, you will get fat.	Se você comer demais, vai engordar.	268645
+The food is getting cold.	A comida está esfriando.	268653
+I advised him not to spend all his money on food.	Eu o aconselhei a não gastar todo seu dinheiro com comida.	268655
+The smell of food made me hungry.	O cheiro de comida me deixou com fome.	268660
+All the food was gone.	Toda a comida desapareceu.	268663
+There is plenty of food.	Há muita comida.	268664
+The food wasn't good, but at least it was cheap.	A comida não era boa, mas pelo menos era barata.	268667
+Food should be chewed before being swallowed.	A comida deve ser mastigada antes de ser engolida.	268668
+We have food in abundance.	Nós temos comida em abundância.	268671
+My throat hurts when I swallow.	Minha garganta dói quando eu engulo algo.	268673
+It was not until the child was fed that he stopped crying.	A criança só parou de chorar quando lhe alimentaram.	268677
+I got a rash on my hands from dishwasher detergent.	Fiquei com a pele das mãos irritada por causa do detergente da máquina de lavar loiça.	268682
+How do I use meal tickets?	Como se usa vale para refeição?	268684
+Take this medicine after meals.	Tome este remédio depois das refeições.	268688
+Brush your teeth after meals.	Escove os dentes após as refeições.	268690
+I have aggravation after eating.	Eu tenho exacerbação depois de comer.	268691
+Let's walk on the beach after dinner.	Vamos caminhar na praia depois do jantar.	268704
+He kept silent during the meal.	Ele se manteve silencioso durante a refeição.	268706
+After the meal, I asked for the bill.	Depois da refeição eu pedi a conta.	268707
+You should wash your hands before each meal.	Você devia lavar suas mãos antes de cada refeição.	268717
+May I set the table?	Posso pôr a mesa?	268720
+We'll eat on the way.	Comeremos no caminho.	268721
+I have left you your dinner in the oven.	Eu deixei seu jantar no forno.	268722
+The meal was great, wasn't it?	A refeição estava ótima, não estava?	268723
+We shared the cost of the meal.	Nós dividimos o valor da refeição.	268744
+Take this medicine before each meal.	Tome este remédio antes de cada refeição.	268757
+You must clean your hands before meals.	Você tem que lavar as mãos antes das refeições.	268758
+He does not know how to behave at the table.	Ele não sabe se comportar à mesa.	268760
+Have you ever had food poisoning?	Você já teve infecção alimentícia?	268765
+A lot of wild animals died for lack of food.	Muitos animais selvagens morreram por falta de comida.	268778
+I don't feel like eating.	Não estou com vontade de comer.	268794
+Both our food and water were running out.	Tanto nossa comida quanto nossa água estavam acabando.	268803
+The grocer managed to convince his customers of his honesty.	O merceeiro conseguiu convencer seus clientes de sua honestidade.	268805
+Food prices will come down soon, won't they?	Os preços dos alimentos vão cair em breve, não vão?	268807
+We ran out of food.	Ficamos sem comida.	268809
+Believe it or not, a monster emerged from the bush.	Acredite ou não, um monstro surgiu dos arbustos.	268824
+When the traffic light is yellow, we stop.	Quando o semáforo fica amarelo, nós paramos.	268838
+The traffic light turned green.	O semáforo ficou verde.	268842
+Wait until the light changes to green.	Espere até a luz mudar para o verde.	268843
+The traffic light changed to red.	O semáforo ficou vermelho.	268846
+I didn't notice the light turn red.	Eu não percebi o sinal ficar vermelho.	268847
+Don't cross the road when the signal is red.	Não atravesse a rua enquanto o sinal estiver vermelho.	268848
+The traffic lights were all red.	Os sinais estavam todos vermelhos.	268857
+Traffic lights work all the time.	Os semáforos funcionam o tempo todo.	268859
+The Shinano is longer than any other river in Japan.	O Shinano é o maior de todos os rios do Japão.	268868
+May I go to bed?	Posso ir para a cama?	268887
+It's too early to go to bed.	É cedo demais para ir para a cama.	268895
+Don't forget to put out the light before you go to bed.	Não se esqueça de apagar a luz antes de dormir.	268900
+Don't drink beer before going to bed.	Não beba cerveja antes de dormir.	268907
+Brush your teeth before going to bed.	Escove os dentes antes de ir para a cama.	268911
+Please turn off the light before you go to bed.	Por favor, apague a luz antes de ir para a cama.	268915
+I'm tired from lack of sleep.	Estou cansado por falta de dormir.	268933
+Over-sleeping is no excuse for being late.	Dormir demais não é desculpa para estar atrasado.	268938
+Some were under the impression that the judges had not chosen wisely.	Alguns estão com a impressão de que os juízes não escolherem com sabedoria.	268940
+The judge's decision is final.	A decisão do juiz é final.	268941
+Thank you very much for your thoughtful present.	Muito obrigado pelo seu presente tão atencioso.	268960
+I closed my eyes to calm down.	Fechei os olhos para me acalmar.	268983
+The human heart is analogous to a pump.	O coração humano é análogo a uma bomba.	268997
+My heart is beating fast.	O meu coração está latejando rápido.	268999
+I had a heart attack.	Eu tive um ataque cardíaco.	269006
+Don't worry. I'll take care of you.	Fica tranquilo, vou tomar conta de você.	269015
+Don't worry. You can count on me.	Não se preocupe. Você pode contar comigo.	269017
+Don't worry. You'll make it.	Não se preocupe, você vai conseguir.	269024
+There's nothing to worry about.	Não há nada com que se preocupar.	269029
+Worry turned his hair white.	A preocupação o deixou de cabelo branco.	269033
+It is important to drive carefully.	É importante dirigir com cuidado.	269047
+Don't look back cause you know what you might see.	Não olhe para trás pois você sabe o que pode ver.	269050
+I spent 3,000 yen on a new CD.	Gastei três mil ienes num CD novo.	269057
+Send me a new catalog.	Mande-me um novo catálogo.	269064
+We want a new carpet.	Queremos um tapete novo.	269074
+A new dress was bought for her.	Foi comprado um novo vestido para ela.	269087
+We are excited about the move to the new building.	Nós estamos animados para nos mudarmos para o novo prédio.	269095
+I'll buy a new one.	Eu vou comprar um novo.	269102
+It is said that a new restaurant was constructed.	Dizem que um novo restaurante foi construído.	269104
+How do you like your new school?	O que você acha da sua nova escola?	269118
+A new bridge is being built over the river.	Uma nova ponte está sendo construída sobre o rio.	269130
+The new bridge will be as long as 1.5 km.	A nova ponte terá 1,5 km de extensão.	269133
+The new bridge will have been completed by March.	A nova ponte estará terminada em março.	269134
+The new bridge was named Rainbow Bridge.	A nova ponte foi nomeada "Ponte do Arco-íris".	269135
+I must acquaint myself with the details of the new plan.	Devo me familiarizar com os detalhes do novo plano.	269140
+The framework of the new building is slowly taking form.	A estrutura do novo edifício está lentamente a tomar forma.	269142
+A new principal is administering the school.	Um novo diretor está administrando a escola.	269147
+A new difficulty has arisen.	Uma nova dificuldade apresentou-se.	269150
+How do you like your new job?	O que você está achando do seu novo emprego?	269161
+When looking for a new job, do not forget to read the want ads in the newspaper.	Quando procurar por um novo trabalho, não se esqueça de ler os anúncios de "precisa-se" no jornal.	269164
+A new branch will be opened in Chicago next month.	Uma nova filial abrirá em Chicago no mês que vem.	269167
+Please send us more information.	Por favor, nos mande mais informação.	269168
+We are looking forward to your visit to our new office.	Nós vamos esperar por sua visita no nosso novo escritório.	269171
+We ought to buy some new office equipment: the stuff we've got is out of date.	Deveríamos comprar novos equipamentos para escritório: as bugigangas que nós temos estão ultrapassadas.	269173
+I need a new bicycle.	Preciso de uma bicicleta nova.	269174
+If you want a new bike, you'd better start saving up.	Se você quer uma bicicleta nova, é melhor começar a economizar.	269175
+I was given a new jacket.	Ganhei uma jaqueta nova.	269187
+It is easy to make friends even in the new places.	É fácil fazer amigos mesmo em lugares novos.	269189
+New stamps will be issued next month.	Novos selos serão emitidos no mês que vem.	269204
+What do you think of the new teacher?	O que você acha do professor novo?	269206
+The new subway enables me to get to school in 20 minutes.	O novo metrô me permite chegar na escola em 20 minutos.	269210
+A new road is under construction.	Uma nova estrada está em construção.	269214
+New roads were constructed one after another.	Novas estradas foram construídas uma após a outra.	269215
+The new museum is worth visiting.	Vale a pena visitar o novo museu.	269218
+Don't be afraid to try new things.	Não tenha medo de experimentar coisas novas.	269230
+Newly printed books smell good.	Os livros recentemente impressos têm um cheiro agradável.	269246
+A new argument was presented.	Um novo argumento foi apresentado.	269255
+I wish you would make a list of the newly published books.	Eu gostaria que você fizesse uma lista dos últimos livros publicados.	269265
+The new plan worked well.	O novo plano funcionou bem.	269267
+We moved into a new house.	Nos mudamos para uma nova casa.	269274
+The new model will be on the market in November.	O novo modelo estará no mercado em novembro.	269281
+I'm going to buy a new car.	Eu vou comprar um carro novo.	269296
+Can we afford a new car?	Nós podemos manter um outro carro?	269297
+My uncle's company launched a new product last month.	A empresa do meu tio lançou um produto novo no mês passado.	269316
+Fresh fruit is good for you.	Frutas frescas fazem bem para você.	269323
+The new Diet member was smoking, leaning back proudly in a chair.	O novo membro do parlamento estava fumando, recostado orgulhosamente numa cadeira.	269337
+The new president wants to build up the army.	O novo presidente quer reforçar o exército.	269339
+The New Tokyo International Airport was opened in Narita.	O Novo Aeroporto Internacional de Tóquio foi aberto em Narita.	269344
+A new student came into the class.	Um novo estudante entrou na classe.	269349
+What's the new teacher like?	Como é o novo professor?	269360
+Mr Suzuki, our new teacher, teaches us English.	O senhor Suzuki, nosso novo professor, ensina-nos inglês.	269363
+Two whole pages of the newspaper were devoted to the news of the royal divorce.	Duas páginas inteiras do jornal foram dedicadas às notícias do divórcio real.	269375
+According to the newspaper, there was a big fire last night.	Segundo o jornal, houve um grande incêndio na noite passada.	269391
+According to the papers, the man has finally confessed.	Segundo os jornais o indivíduo finalmente confessou.	269394
+According to the paper, there was an earthquake last night.	Segundo o jornal, houve um terremoto ontem à noite.	269399
+According to the newspaper, he participated in the plot.	De acordo com o jornal, ele participou da trama.	269404
+A criticism of literary works this year is in the paper.	Uma crítica das obras literárias deste ano está no jornal.	269410
+The newspaper is by your side.	O jornal está ao seu lado.	269417
+The newspaper always keeps us informed of the events taking place in the world.	O jornal nos informa sempre sobre os eventos que acontecem no mundo.	269434
+The newspaper told of the mother's anguish at the death of her son.	O jornal relatava a angústia da mãe com a morte do filho.	269436
+Bring me the newspaper, please.	Traga-me o jornal, por favor.	269444
+The man reading a newspaper is his father.	O homem lendo um jornal é o pai dele.	269450
+The new medicine saved me from an illness.	O novo remédio me salvou de uma doença.	269464
+Birds were singing in the woods.	Os pássaros estavam cantando na floresta.	269469
+We didn't see many deer in the forest.	Nós não vimos muitos cervos na floresta.	269480
+He lost his way in the woods.	Ele se perdeu no bosque.	269482
+It became quiet again in the forest.	A floresta ficou novamente em silêncio.	269486
+The wood is alive with birds.	A floresta está agitada por causa dos pássaros.	269491
+Sit back and rest, and you will feel much better.	Sente-se e descanse e você se sentirá muito melhor.	269504
+It's healthy to breathe deeply.	Respirar profundamente é bom para a saúde.	269507
+I'm sorry, the flight is full.	Sinto muito, o voo está lotado.	269521
+Sorry, the flight is already full.	Sinto muito, o voo já está cheio.	269524
+I'm sorry I don't have my watch with me.	Desculpe-me, mas eu estou sem relógio.	269530
+I'm sorry I've lost my watch.	Sinto muito ter perdido meu relógio.	269533
+I'm sorry, we don't accept checks.	Sinto muito, não aceitamos cheques.	269535
+I'm sorry, I have no idea.	Desculpe, não tenho ideia.	269536
+I'm sorry, but it's impossible.	Sinto muito, mas é impossível.	269542
+I don't have anything to declare.	Não tenho nada a declarar.	269547
+True happiness consists of desiring little.	A felicidade verdadeira consiste em desejar pouco.	269564
+True wealth does not consist of what we have, but in what we are.	A verdadeira riqueza não se resume no que temos, mas no que somos.	269565
+A true friend would've helped me.	Um amigo de verdade teria me ajudado.	269567
+Truth is more important than beauty.	A verdade é mais importante do que a beleza.	269571
+You should tell the truth.	Você deveria dizer a verdade.	269582
+I thought it my duty to tell you the truth.	Achei ser meu dever te contar a verdade.	269583
+Nothing but God can save you.	Nada senão Deus pode vos salvar.	269627
+Let's pray to God, and He will answer our prayers.	Vamos rezar para Deus, e Ele responderá nossas preces.	269629
+God created the world in six days.	Deus criou o mundo em seis dias.	269644
+Do you believe that God exists?	Você acredita que Deus existe?	269660
+God is the cause of all things.	Deus é a causa de todas as coisas.	269664
+Kobe is famous for its port.	Kobe é famosa pelo seu porto.	269686
+Kobe is the city which I was born in.	Kobe é a cidade onde eu nasci.	269690
+Myths and legends should be handed down from generation to generation.	Mitos e lendas deveriam ser passados de geração para geração.	269704
+A gentleman wouldn't do such a thing.	Um cavalheiro não faria tal coisa.	269707
+A gentleman would not say such a thing.	Um cavalheiro não diria tal coisa.	269708
+The education by the parents of their children is sometimes very difficult.	A educação pelos pais das suas crianças é, por vezes, muito difícil.	269719
+Have you ever argued with your parents?	Você já discutiu com seus pais?	269727
+Happy is she who marries the son of a dead mother.	Feliz daquela que se casa com um homem cuja mãe já morreu.	269728
+Thank you for your kind hospitality.	Obrigado por sua gentil hospitalidade.	269768
+Being kind, he is loved by everyone.	Como ele é generoso, todo mundo gosta dele.	269772
+We appreciate your kind advice.	Nós gostamos do seu gentil conselho.	269773
+My wisdom teeth are coming in.	Meus dentes-do-siso estão aparecendo.	269784
+I can talk about anything with my best friend.	Eu posso falar sobre qualquer coisa com o meu amigo.	269788
+I'd like to see the doctor.	Gostaria de ver o médico.	269792
+I forgot to bring my I.D. card.	Esqueci de trazer minha carteira de identidade.	269800
+You can get up from the examination table now.	Você pode se levantar da mesa de exames agora.	269802
+Gesture is another way of communication.	O gesto é outro meio de comunicação.	269826
+Big men are not necessarily strong men.	Homens grandes não são necessariamente homens fortes.	269829
+Do you have any ID?	Você tem alguma identificação?	269835
+One who is not willing to learn is not worth teaching.	Não vale a pena ensinar alguém que não tem vontade de aprender.	269845
+Willingness to take responsibility is a sign of maturity.	Disposição para aceitar as responsabilidades é um sinal de maturidade.	269846
+Never get off the train while it is going.	Nunca saia do trem enquanto ele estiver em movimento.	269851
+Shinko disputed with him about it.	Shinko discutiu com ele sobre isso.	269853
+Don't you have a needle and some thread?	Você não tem uma agulha e um pedaço de fio?	269859
+At one time it was thought impracticable for man to fly.	Antes se pensava que era impossível o homem voar.	269876
+Don't interrupt people when they're talking.	Não interrompa as pessoas quando estão falando.	269881
+Do not interrupt when another is speaking.	Não interrompa com os outros estão falando.	269884
+I can't talk with people.	Não posso falar com as pessoas.	269892
+Opinions vary from person to person.	As opiniões variam de uma pessoa a outra.	269908
+You'd better mind your own business.	É melhor você se meter apenas com a sua vida.	269925
+A man's happiness depends on what he is rather than on what he has.	A felicidade de um homem depende mais do que ele é do que daquilo que ele possui.	269957
+One should always do one's best.	Deve-se fazer sempre o melhor possível.	269997
+We know that all men are mortal.	Sabe-se que todos os homens são mortais.	269999
+One should love one's own mother.	Deve-se amar a mãe.	270002
+No matter how old one may be, one can learn.	Não importa a idade, sempre se pode aprender.	270017
+One must do one's best.	Deve-se fazer o melhor possível.	270022
+One must do one's best in everything.	Deve-se fazer o melhor possível em tudo.	270041
+Everybody wants to be happy.	Todo mundo quer ser feliz.	270044
+People are protesting against nuclear weapons.	As pessoas estão protestando contra as armas nucleares.	270050
+One must observe the rules.	Deve-se cumprir as regras.	270052
+One should take care of oneself.	Uma pessoa deve cuidar de si mesma.	270062
+It may be said that a man is known by the company he keeps.	Pode-se dizer que um homem é conhecido pelas companhias que ele mantem.	270067
+The more we have, the more we want.	Quanto mais nós temos, mais nós queremos ter.	270073
+The more people have, the more they want.	As pessoas quanto mais têm, tanto mais desejam.	270074
+We must be careful of our health.	Nós devemos ser cuidadosos com nossa saúde.	270083
+Man is a social animal.	O homem é um animal social.	270086
+A man must be honest.	Um homem deve ser honesto.	270089
+People once held that the world was flat.	Acreditou-se um dia que a terra era plana.	270096
+It is generally accepted that a person cannot be successful in life without a lot of hard work.	Geralmente é aceito que uma pessoa não pode ser bem sucedida na vida sem muito trabalho duro.	270099
+Every man has his own strong points.	Todo homem tem seus próprios pontos fortes.	270101
+Not everybody can be an artist.	Nem todo mundo pode ser artista.	270105
+Everyone should periodically receive a physical examination.	Todo mundo deveria ser submetido a um exame físico periodicamente.	270107
+The more a man knows, the more he discovers his ignorance.	Quanto mais um homem sabe, mais ele descobre o quanto não sabe.	270110
+A time will soon come when people can enjoy space travel.	Logo virá o tempo em que as pessoas vão aproveitar a viagem espacial.	270140
+It is not good to laugh at others.	Não é bom rir dos outros.	270143
+Don't make fun of other people.	Não tire sarro das outras pessoas.	270146
+It's impolite to stare at people.	Não é educado olhar fixamente para as pessoas.	270148
+You shouldn't judge a person by his appearance.	Você não deveria julgar uma pessoa pela sua aparência.	270163
+You shouldn't judge a man by his appearance.	Não se deve julgar um homem pela aparência.	270164
+It's rude to point at anyone.	É rude apontar para alguém.	270169
+Every person has a psychological need to feel that what he does is of some importance.	Todas as pessoas possuem uma necessidade psicológica de pensar que o que elas fazem tem alguma importância.	270200
+It is language that distinguishes man from beasts.	É a linguagem que diferencia os homens dos animais.	270202
+A man's worth lies in what he is rather than what he has.	O valor do homem está no que ele é e não no que ele tem.	270211
+Man first visited the moon in 1969.	Os homens visitaram a lua pela primeira vez em 1969.	270237
+Man has been writing for about 6000 years.	O homem tem escrito há mais ou menos 6.000 anos.	270239
+Man will die sooner or later.	O homem vai morrer mais cedo ou mais tarde.	270243
+Human beings are not always wiser than animals.	Nem sempre os seres humanos são mais sábios que os animais.	270245
+When did man start to use tools?	Quando o homem começou a utilizar-se de ferramentas?	270246
+Human beings are emotional creatures, so to speak.	Os seres humanos são criaturas emotivas, por assim dizer.	270247
+People love to talk, talk, talk.	As pessoas adoram falar, falar e falar.	270251
+People build houses, dams, bridges, ships and so on.	As pessoas constroem casas, represas, pontes, navios e por aí vai.	270256
+Man is the only animal that can use fire.	O homem é o único animal que consegue usar o fogo.	270257
+Man is the only animal that can make use of fire.	O ser humano é o único animal que utiliza o fogo.	270259
+Man is the only animal that uses fire.	O ser humano é o único animal que utiliza o fogo.	270260
+Humans can't live on Mars.	Os humanos não podem viver em Marte.	270261
+All human beings have the same kind of body.	Todos os seres humanos têm o mesmo tipo de corpo.	270262
+Man is a creature of emotion.	O homem é uma criatura de emoções.	270264
+Man is a creature of circumstances.	O homem é uma criatura de circunstâncias.	270268
+Man has a great capacity to adapt to environmental changes.	O homem tem uma grande capacidade de se adaptar às mudanças ambientais.	270269
+I believe men are basically good.	Eu creio que o homem seja basicamente bom.	270270
+Man lives in a community, and has to conform to a social pattern.	O homem vive em comunidade, e tem está sujeito a um padrão social.	270271
+Man has the gift of speech.	O homem tem o dom da fala.	270273
+Man is the only animal that possesses language.	O homem é o único animal que possui linguagem.	270274
+Man is the only animal that can speak.	O homem é o único animal que pode falar.	270275
+Man, being of flesh, is subject to diseases of the mind and after death, to worms.	O homem, sendo de carne, está sujeito a doenças mentais e, após a morte, a vermes.	270276
+Human beings differ from animals in that they can think and speak.	Os seres humanos se diferem de animais em pensar em falar.	270280
+Man is unable to escape death.	O homem é incapaz de escapar da morte.	270286
+People devised shelters in order to protect themselves.	As pessoas criaram abrigos para se protegerem.	270287
+Man is part of nature.	O homem é parte da natureza.	270288
+Human beings are powerless before nature.	Os seres humanos não têm poderes perante a natureza.	270289
+Human beings seem to find it difficult to give up their old habits.	Os seres humanos parecem ter dificuldade em abandonar os seus velhos hábitos.	270290
+The men form a society.	Os homens formam uma sociedade.	270292
+Man is a creature of habit.	O homem é uma criatura de hábito.	270294
+Man is the only animal that can laugh.	O homem é único animal que ri.	270295
+We cannot exist without food.	Nós não podemos existir sem alimentos.	270297
+Man consists of soul and body.	O homem consiste em alma e corpo.	270298
+Man is a social animal by nature.	O homem é um animal social por natureza.	270301
+No one can avert death.	Ninguém pode escapar à morte.	270306
+Does mankind have dominion over animals and birds?	O Homem tem domínio sobre animais e pássaros?	270311
+Man is a rational being.	O homem é um ser racional.	270321
+Human beings differ from other animals in that they can speak and laugh.	Os seres humanos se diferem dos outros animais em falar e rir.	270322
+Man is the only animal that talks.	O homem é o único animal que fala.	270323
+Man is the only animal that can talk.	O homem é o único animal que fala.	270324
+The misanthrope enjoys his solitude.	O misantropo aprecia a sua solidão.	270334
+Population growth has given rise to serious social problems.	O crescimento populacional tem causado sérios problemas sociais.	270346
+A woman picked my pocket in the crowd.	Uma mulher roubou minha carteira na multidão.	270360
+They sell carrots at the grocery store.	Eles vendem cenouras na mercearia.	270364
+The hostages will be released.	Os reféns serão liberados.	270371
+People are saying that the crisis is over.	As pessoas dizem que a crise já passou.	270385
+We often hear people say that time flies.	Frequentemente ouve-se dizer que o tempo voa.	270386
+The people rebelled against the king.	O povo rebelou-se contra o rei.	270393
+The birds are flying near the people.	Os pássaros estão voando perto das pessoas.	270397
+Everyone seemed to be very busy and everyone seemed to be in a hurry.	Todos pareciam muito ocupados e apressados.	270434
+People often complain about the weather.	As pessoas queixam-se frequentemente do tempo.	270437
+People take electricity for granted until its supply is cut off.	As pessoas só dão valor à eletricidade quando o fornecimento é interrompido.	270448
+People seemed to be anxious about the future.	As pessoas pareciam estar ansiosas sobre o futuro.	270466
+People are concerned about racial problems.	As pessoas estão preocupadas com os problemas raciais.	270474
+People were removing the snow on the street.	Pessoas estavam removendo a neve da rua.	270486
+The people praised him for his courage.	As pessoas o glorificavam pela sua coragem.	270491
+They elected him President of the USA.	Elegeram-no presidente dos EUA.	270494
+People believed her to be dead.	As pessoas achavam que ela estava morta.	270499
+People came to like her paintings.	As pessoas passaram a gostar das pinturas dela.	270500
+People are not always what they seem.	As pessoas não são sempre o que aparentam.	270502
+He persecuted people for their religion.	Ele perseguia as pessoas por motivos religiosos.	270509
+The great pleasure in life is doing what people say you cannot do.	O grande prazer da vida é fazer o que as pessoas dizem que você não consegue.	270540
+Life is full of ups and downs.	A vida é cheia de altos e baixos.	270545
+Each stage of life is a preparation for the next as well as a complete life in itself.	Cada etapa da vida é uma preparação para a próxima, bem como uma vida completa em si mesma.	270551
+Making money is not the only goal in life.	Fazer dinheiro não é o único propósito na vida.	270560
+Life is more interesting than any book.	A vida é mais interessante do que qualquer livro.	270566
+Life is often compared to a journey.	A vida é muitas vezes comparada com uma viagem.	270570
+People say that life is short.	As pessoas dizem que a vida é curta.	270575
+Life is not all beer and skittles.	A vida não é só prazer e diversão.	270577
+Life is so important for him.	A vida é tão importante para ele.	270591
+Don't be so glum about it. Life has its ups and downs.	Não fique tão mal-humorado por isso. A vida tem seus altos e baixos.	270608
+I don't like to sing in public.	Eu não gosto de cantar em público.	270616
+Don't make a scene in public.	Não faça uma cena em público.	270619
+Don't speak ill of him in public.	Não fale mal dele em público.	270621
+Don't be shy about speaking in front of people.	Não seja tímido de falar na frente das pessoas.	270623
+Don't be afraid of speaking in public.	Não tenha medo de falar em público.	270624
+Humanity has suffered more from war in this century than ever before.	A humanidade sofreu mais com guerras neste século do que nos séculos anteriores.	270655
+Talking in the library is not allowed.	É proibido conversar na biblioteca.	270676
+You ought to be quiet in a library.	Você deveria ficar em silêncio em uma biblioteca.	270677
+Don't make a noise in the library.	Não façam barulho na biblioteca.	270678
+I'll join you in the library.	Vou acompanhá-lo na biblioteca.	270680
+I returned the books I borrowed from the library, and I borrowed some new ones.	Eu devolvi os livros que havia retirado da biblioteca, e retirei alguns novos.	270683
+There are a lot of books in the library.	Há muitos livros na biblioteca.	270688
+They were alone in the library.	Eles estavam sozinhos na biblioteca.	270689
+She took the book back to the library.	Ela devolveu o livro à biblioteca.	270692
+There was a crowd of students waiting in front of the library.	Havia um multidão de estudantes esperando em frente à biblioteca.	270693
+The library is on the second floor.	A biblioteca fica no segundo andar.	270698
+The library has many new acquisitions.	A biblioteca tem muitas aquisições novas.	270704
+It is a five-minute walk to the library.	É uma caminhada de cinco minutos até a biblioteca.	270705
+The library is on the 4th floor.	A biblioteca fica no quarto andar.	270708
+The snowstorm blotted out the view.	A tempestade de neve encobriu a vista.	270714
+The train arrived late because of the snowstorm.	O trem chegou atrasado por causa da nevasca.	270716
+I have not the least interest in detective stories.	Não tenho o mínimo interesse em histórias de detetive.	270722
+Were it not for water, nothing could live.	Se não fosse a água, nada poderia viver.	270729
+Without water, nothing could live on this earth.	Sem água, nada poderia viver nesta terra.	270731
+Without water, nothing could live.	Sem água, nada poderia viver.	270738
+I want to drink some water.	Quero beber um pouco de água.	270741
+Water spouted from the broken faucet.	A água jorrou da torneira quebrada.	270743
+The water shortage is due to the weather.	A escassez de água é devida ao tempo.	270746
+Water, forests, and minerals are important natural resources.	Água, florestas e minerais são recursos naturais importantes.	270760
+Water and ice are the same substance in different forms.	Água e gelo são a mesma substância em formas diferentes.	270762
+Oil and water don't blend.	O óleo e a água não se misturam.	270763
+You can't mix oil with water.	Não se pode misturar óleo com água.	270764
+I would like some more water.	Gostaria de mais um pouco de água.	270771
+I'd like some more water.	Gostaria de mais um pouco de água.	270772
+The chemical formula for water is H₂O.	A fórmula química da água é H₂O.	270775
+Water freezes at 0 degrees Centigrade.	A água congela a zero grau centígrado.	270776
+Water consists of hydrogen and oxygen.	A água é composta de hidrogênio e oxigênio.	270780
+Water freezes at 32 degrees Fahrenheit.	A água congela a 32 graus Fahrenheit.	270784
+Water boils at 100 degrees Celsius.	A água ferve aos 100 graus Celsius.	270789
+Water is a natural resource of vital importance.	A água é um recurso natural de importância vital.	270791
+Water transmits sound better than air.	A água transmite o som melhor que o ar.	270800
+Water will boil if heated enough.	A água ferverá se esquentada o suficiente.	270807
+Water is important for humans.	A água é importante para os seres humanos.	270812
+Water is essential to life.	Água é essencial para a vida.	270818
+Water becomes solid when it freezes.	A água se torna sólida quando congela.	270829
+The water turned to ice.	A água transformou-se em gelo.	270834
+Water turns into steam when it is boiled.	A água se transforma em vapor quando é fervida.	270835
+Water and air are both fluids.	Tanto a água quanto o ar são fluidos.	270839
+I'd like a glass of water, please.	Um copo de água, por favor.	270845
+I'd like a glass of water.	Eu gostaria de um copo d'água.	270846
+A glass of water, please.	Um copo de água, por favor.	270854
+We've run out of water.	Nós ficamos sem água.	270858
+Don't leave the water running.	Não deixe a água correndo.	270859
+Bring me some water, and be quick about it.	Traga-me um pouco de água, e seja rápido.	270861
+You may go swimming or fishing.	Você pode ir nadar ou pescar.	270867
+I belong to a swimming club.	Eu faço parte de um clube de natação.	270870
+Swimming is good for your health.	Nadar faz bem à saúde.	270880
+Swimming will develop many different muscles.	Nadar desenvolverá muitos músculos diferentes.	270883
+Swimming is a very useful skill.	Nadar é uma habilidade muito útil.	270884
+Did you have a good time swimming and surfing?	Você se divertiu nadando e surfando?	270885
+The flood victims were housed in several schools.	As vítimas da enchente foram abrigadas em várias escolas.	270888
+Every miller draws water to his own mill.	Todos puxam a sardinha pro seu lado.	270896
+The atomic number for hydrogen is 1.	O número atômico do hidrogênio é 1.	270900
+Can you show me the way to the aquarium?	Você pode me mostrar o caminho para o aquário?	270904
+The ice in the water melted.	O gelo na água derreteu.	270906
+We couldn't use the faucet because it was out of order.	Não pudemos usar a torneira porque ela estava estragada.	270916
+You'd better not drink the tap water.	É melhor não beber água da torneira.	270922
+Fill the jars with water.	Encha as jarras com água.	270923
+A water molecule has two hydrogen atoms and one oxygen atom.	Uma molécula de água tem dois átomos de hidrogênio e um átomo de oxigênio.	270937
+Sleep is no less necessary to health than food.	Dormir não é menos necessário à saúde do que se alimentar.	270952
+Sleep is essential to health.	O sono é essencial à saúde.	270953
+I wish I had enough time to sleep.	Queria ter tempo o suficiente para dormir.	270961
+He was so drunk that his explanation did not make sense.	Ele estava tão bêbado que sua explicação não fazia sentido.	270970
+A drunk man fell down the stairs.	Um bêbado caiu pelas escadas.	270972
+After all we had done, he was still ungrateful.	Depois de tudo que fizemos ele ainda era ingrato.	270980
+I am good at math.	Eu sou bom em matemática.	270988
+How was the math test?	Como foi a prova de matemática?	270999
+Our mathematics teacher won't give us a test tomorrow.	O nosso professor de matemática não vai nos dar um teste amanhã.	271005
+I do not like mathematics very much.	Eu não gosto muito de matemática.	271008
+Mathematics is basic to all sciences.	A matemática é a base de todas as ciências.	271009
+Math is the last subject that I want to study.	Matemática é o último assunto que eu quero estudar.	271011
+Mathematics is an easy subject for me.	Matemática é uma matéria fácil para mim.	271012
+Mathematics is her weak point.	Matemática é seu ponto fraco.	271017
+Mathematics is my favorite subject.	Matemática é a minha matéria favorita.	271018
+Please add up the numbers.	Por favor, adicione os números.	271026
+Several companies are competing for the contract.	Várias empresas estão competindo para ganhar o contrato.	271029
+Some students were sitting on the bench and having lunch.	Alguns alunos se sentavam no banco e almoçavam.	271035
+Several students came to the library.	Diversos estudantes vieram à biblioteca.	271036
+There were some guests waiting in the drawing room.	Havia alguns convidados a esperar na sala de estar.	271037
+Some girls were playing tennis.	Algumas garotas estavam jogando tênis.	271041
+Several politicians exerted strong pressure on the committee.	Vários políticos exerceram uma forte pressão sobre o comitê.	271047
+You must not eat anything for a few days.	Você deve ficar sem comer nada por alguns dias.	271054
+I think we should get away from here for a few days.	Acho que a gente devia ficar longe daqui por alguns dias.	271055
+A few days later, he came.	Alguns dias depois ele veio.	271059
+A few minutes later the telephone rang.	Poucos minutos depois, o telefone tocou.	271070
+The world owes me, so fuck you!	O mundo me deve, então vai se foder!	271092
+The world is changing every minute.	O mundo está mudando cada minuto.	271095
+No other mountain in the world is so high as Mt. Everest.	Nenhuma montanha no mundo atinge a altura do Monte Everest.	271107
+No place in the world is as beautiful as the Swiss Alps.	Nenhum lugar no mundo é tão belo quanto os Alpes Suíços.	271108
+What is the longest river in the world?	Qual é o rio mais longo do mundo?	271112
+What's the most beautiful place in the world?	Qual é o lugar mais bonito do mundo?	271113
+There are more than 4000 languages in the world.	Há mais de quatro mil línguas no mundo.	271116
+There are seven continents on the earth.	Na Terra há sete continentes.	271117
+There are almost seven billion people in the world.	Há cerca de sete bilhões de pessoas no mundo.	271125
+Eighty percent of all information on computers around the world is in English.	Oitenta por cento de todas as informações em computadores ao redor do mundo estão em inglês.	271127
+Nobody in the world wants war.	Ninguém no mundo deseja a guerra.	271128
+This train is the last train to the world's end.	Este trem é o último para o fim do mundo.	271131
+Japan ranks among the economic powers of the world.	O Japão faz parte das potências econômicas mundiais.	271133
+The world's population tends to increase.	A população mundial tem tendência a aumentar.	271140
+When will the world come to an end?	Quando o mundo encontrará seu fim?	271149
+The world is changing more and more quickly.	O mundo está mudando cada vez mais rápido.	271152
+The world still has not found peace.	O mundo ainda não encontrou paz.	271154
+The world is not what it used to be.	O mundo não é o que era.	271157
+I want to travel around the world.	Quero viajar ao redor do mundo.	271162
+The richest man in the world cannot buy everything.	O homem mais rico do mundo não pode comprar tudo.	271163
+I wish I could travel around the world.	Quem me dera poder viajar ao redor do mundo.	271164
+Nobody can deny the fact the world economy revolves around the American economy.	Ninguém pode negar o fato de que a economia mundial gira em torno da economia americana.	271167
+The world economy will not recover anytime soon.	A economia mundial não se recuperará tão cedo.	271168
+Even the fastest runner in the world cannot run if he is hungry.	Mesmo o corredor mais rápido do mundo não pode correr se estiver com fome.	271169
+All the world desires peace.	Todo o mundo deseja a paz.	271176
+It was easy for them to be famous all over the world.	Foi fácil para eles serem famosos no mundo todo.	271179
+Newspapers and television stations around the world told the story of Koko and her kitten.	Jornais e redes de televisão no mundo todo contaram a história de Koko e seu gatinho.	271184
+A lot of students around the world are studying English.	Muitos estudantes ao redor do mundo estão estudando inglês.	271190
+There are many people in the world who complain that they are too busy to read.	Existem muitas pessoas no mundo que reclamam de serem tão ocupadas para ler.	271203
+Public opinion was strongly in favor of the project.	A opinião pública estava muito a favor do projeto.	271227
+A poll shows that an overwhelming majority is in favor of the legislation.	Uma pesquisa mostra que a maioria esmagadora é a favor da lei.	271232
+I've got to see it.	Tenho que vê-lo.	271243
+Do you have a school uniform?	Você tem um uniforme escolar?	271257
+I can't get sexual satisfaction.	Não consigo ter satisfação sexual.	271264
+Blessed is he who has found his work.	Abençoado é aquele que encontrou o seu trabalho.	271272
+If you are to succeed, you should make efforts.	Se você quer ter êxito, você deveria se esforçar.	271277
+Whether we succeed or not, we have to do our best.	Não importa se seremos bem sucedidos ou não, nós temos que dar o melhor de nós.	271284
+Whether you succeed or not, you have to do your best.	Não importa se você consegue ou não atingir o objetivo, você deve dar o melhor de si.	271286
+There is no hope of success.	Não há esperança de sucesso.	271314
+Success depends mostly on effort.	O sucesso depende principalmente do esforço.	271322
+There is no shortcut to success.	O caminho para o sucesso não conhece atalhos.	271331
+The Narita Express will take you directly to Tokyo Station in approximately 90 minutes.	O Narita Express vai levar você diretamente para Tokyo Station em aproximadamente 90 minutos.	271347
+There is an international airport in Narita.	Há um aeroporto internacional em Narita.	271348
+He gave me a ride to the Narita airport.	Ele me deu uma carona ao aeroporto Narita.	271351
+What is the relationship between politics and war?	Qual é a relação entre a política e a guerra?	271360
+My interest in politics is strictly academic.	Meu interesse pela política é estritamente acadêmico.	271365
+When it comes to politics, I know nothing.	Quando o assunto é política, eu não sei nada.	271367
+Why is politics separating us, when we ourselves know who is good and who isn't?	Por que a política está nos separando, quando sabemos quem é bom e quem não é?	271371
+A politician should serve the people.	O político deve servir ao povo.	271386
+The political situation has changed.	A situação política mudou.	271397
+The government and industry are cooperating to fight pollution.	O governo e a indústria estão cooperando para combater a poluição.	271410
+The government has set up a committee to look into the problem.	O governo criou uma comissão para analisar o problema.	271443
+The government provided us with food.	O governo nos forneceu comida.	271454
+The government is trying to get rid of pollution.	O governo está tentando se livrar da poluição.	271465
+The government should invest more money in industry.	O governo deveria investir mais dinheiro na indústria.	271474
+The government is trying to bring things back to normal.	O governo está tentando normalizar as coisas.	271478
+The government will have to take drastic action to solve the problem.	O governo terá de tomar uma medida drástica para resolver o problema.	271503
+The stars are shining in the sky.	As estrelas estão brilhando no céu.	271522
+Stars shine above in the sky.	As estrelas brilham no céu.	271527
+Stars cannot be seen in the daytime.	As estrelas não podem ser vistas durante o dia.	271528
+Stars can be seen at night.	Podem-se ver estrelas à noite.	271531
+Not a star was to be seen.	Não se via nenhuma estrela.	271535
+According to the stars, she and I aren't supposed to have much chemistry between us.	Segundo as estrelas, não se espera que role muita química entre mim e ela.	271539
+I think it will be sunny.	Acho que fará sol.	271543
+Look at the clear sky.	Olha o céu claro.	271545
+The stars were brilliant in the clear night sky.	As estrelas estavam brilhantes no céu limpo da noite.	271552
+It was sunny and warm.	Estava ensolarado e fazia calor.	271553
+I don't suppose it's going to be sunny.	Eu não acho que fará sol.	271560
+I hope it will be nice.	Espero que seja bom.	271567
+It is sometimes hard to tell right from wrong.	Às vezes, é difícil distinguir o certo do errado.	271577
+Please circle the right answer.	Por favor circule a resposta certa.	271591
+Do not rely on the room clock for the accurate time of day.	Não se baseie no relógio da sala para ter a hora certa.	271594
+What is the exact time?	Qual é a hora exata?	271595
+I'd like to know the exact time.	Queria saber a hora exata.	271598
+I'll call you at noon.	Eu te ligo ao meio-dia.	271616
+Can you finish it by noon?	Consegue terminar até o meio-dia?	271623
+We should be there by noon.	Devemos estar lá pelo meio-dia.	271624
+He cannot tell right from wrong.	Ele não distingue o certo do errado.	271636
+It is not always easy to separate right from wrong.	Não é sempre fácil separar o certo do errado.	271637
+Honesty is no guarantee of success.	A honestidade não é garantia de sucesso.	271652
+Honesty was the most important factor in his success.	A honestidade foi o fator mais importante em seu sucesso.	271653
+Honestly, it's all or nothing.	Honestamente, é tudo ou nada.	271660
+Honest people despise those who lie.	Pessoas honestas desprezam aqueles que mentem.	271663
+An honest man never steals money.	Um homem honesto nunca rouba dinheiro.	271666

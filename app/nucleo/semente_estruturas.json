@@ -182,7 +182,7 @@
     "formula": "be + particípio (+ by ...)",
     "padrao": "[l=be] [t=RB]* [t=VBN] [w=by]",
     "exemplos": [
-      "The paper was written by Sheldon.",
+      "The paper was written by Sarah.",
       "He was fired by his boss."
     ],
     "pegadinhas": "Esta regra pega só passivas com 'by' (as mais fáceis de reconhecer). Sem o by, 'I'm tired' / 'I'm married' parecem passiva mas são adjetivos."

@@ -65,7 +65,7 @@ def _com_velocidade(nome, velocidade):
 
 
 def nome_do_arquivo(x, velocidade="normal"):
-    """'Friends S04E12 - If they had lost, we would've made them get rid.wav' (sem o que o Windows
+    """'Café da Esquina S01E02 - If they had lost, we would've made them get rid.wav' (sem o que o Windows
     não aceita em nome de arquivo)."""
     onde = x.get("obra") or "Frase"
     if x.get("tipo") == "musica":

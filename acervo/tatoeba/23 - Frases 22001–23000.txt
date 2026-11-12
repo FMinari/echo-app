@@ -1,0 +1,1000 @@
+He's much younger than Tom.	Ele é muito mais novo do que Tom.	292105
+He's very young. He's much younger than Tom.	Ele é muito novo. Bem mais novo do que Tom.	292106
+He started going bald quite young.	Ele começou a ficar careca bem jovenzinho.	292107
+He went through a very hard time.	Passei por um momento muito difícil.	292118
+He can swim very fast.	Ele pode nadar muito rápido.	292130
+He did it with great zeal.	Ele fê-lo com grande zelo.	292149
+He studies biology very hard.	Ele estuda muito biologia.	292150
+Although he is very old, he is strong.	Apesar de ser muito velho, ele é forte.	292152
+He was very tall, so I recognized him at once.	Ele era muito alto, então eu o reconheci de primeira.	292156
+He's a very selfish person.	Ele é uma pessoa muito egoísta.	292173
+How long has he lived in London?	Durante quanto tempo ele viveu em Londres?	292181
+He can run as fast as any other boy.	Ele consegue correr tão rápido quanto qualquer garoto.	292187
+He jumped out of bed.	Ele pulou da cama.	292192
+He saw Tom leave before the job was finished.	Ele viu Tom sair antes do trabalho ser concluido.	292194
+He shot a tiger through the head.	Ele atirou na cabeça de um tigre.	292202
+He doesn't have the time to play cards.	Ele não tem tempo de jogar cartas.	292205
+He'll clutch at any straw.	Ele vai agarrar em qualquer palha.	292236
+He cut a twig from the tree with his knife.	Ele cortou com sua faca um galho da árvore.	292238
+He cut the meat with a knife.	Ele cortou a carne com uma faca.	292240
+He was sharpening a knife.	Ele estava afiando uma faca.	292241
+He reads a good deal.	Ele lê um bocado.	292244
+He searched the room for the lost key.	Ele procurou no quarto a chave perdida.	292251
+He lent me what little money he had.	Ele me emprestou o pouco de dinheiro que tinha.	292252
+He gave no explanation why he had been absent.	Ele não deu explicação do por quê que tinha estado ausente.	292261
+He contrived a means of speaking to Nancy privately.	Ele arrumou um jeito de falar com Nancy em particular.	292273
+He stayed in New York for three weeks.	Ele ficou em Nova York por três semanas.	292322
+He moved to New York, where he looked for a job.	Ele mudou para Nova Iorque onde ele buscou um emprego.	292325
+He knows New York inside out.	Ele conhece Nova Iorque de cabo a rabo.	292327
+He's a professor of biology at Harvard.	Ele é professor de biologia em Harvard.	292356
+He is a student at Harvard.	Ele é estudande de Harvard.	292358
+He is a good violinist.	Ele é um bom violinista.	292360
+He is a good violinist, isn't he?	Ele é um bom violinista, não é?	292361
+He accumulated a large fortune.	Ele acumulou uma grande fortuna.	292379
+He filled the bucket with water.	Ele encheu o balde de água.	292380
+He mentioned her name for the first time.	Ele mencionou seu nome pela primeira vez.	292384
+He got off the bus.	Ele desceu do ônibus.	292389
+He comes to school by bus or train.	Ele vem para a escola de ônibus ou trem.	292390
+Does he go to work by bus?	Ele vai trabalhar de ônibus?	292395
+He visited Nara by bus.	Ele foi visitar a Nara de ônibus.	292398
+He is a bus driver.	Ele é motorista de ônibus.	292404
+Does he go to school by bus?	Ele vai para a escola de ônibus?	292410
+He's waiting at the bus stop.	Ele está esperando no ponto de ônibus.	292411
+He likes bread and butter.	Ele gosta de pão com manteiga.	292413
+He likes ham and eggs.	Ele gosta de presunto e ovos.	292421
+He set off to Paris.	Ele foi embora para Paris.	292438
+He booked a ticket to Paris.	Ele reservou uma passagem para Paris.	292440
+He went to London via Paris.	Ele foi a Londres via Paris.	292442
+His money melted away in Hawaii.	O dinheiro dele derreteu no Havaí.	292449
+He wiped his hands on a handkerchief.	Ele limpou as mãos num lenço.	292452
+He is good at handball.	Ele é bom no handebol.	292461
+He spread butter on the bread.	Ele passou manteiga no pão.	292464
+He drove in a nail with his hammer.	Ele bateu um prego com seu martelo.	292465
+He broke up the concrete block with a hammer.	Ele quebrou o bloco de concreto com um martelo.	292466
+He practices the piano every day to become a pianist.	Ele pratica piano todo dia para se tornar um pianista.	292469
+Does he play the piano?	Ele toca piano?	292476
+He was playing the piano.	Ele estava tocando piano.	292479
+He asked for a glass of beer.	Ele pediu um copo de cerveja.	292484
+He asked for a beer.	Ele pediu uma cerveja.	292486
+He drank three bottles of beer.	Ele bebeu três copos de cerveja.	292487
+He was run over and killed on the spot.	Ele foi atropelado por um carro e faleceu instantaneamente.	292494
+He is afraid of his own shadow.	Ele tem medo da própria sombra.	292498
+He got down on his knees and prayed for the souls of the deceased.	Ele se ajoelhou e rezou pelas almas dos falecidos.	292500
+He knocked his knee against the chair.	Ele bateu o joelho contra a cadeira.	292501
+He lived on crackers and water for three days.	Ele viveu de bolachas e água por três dias.	292508
+He was suffering from a bad headache.	Ele estava sofrendo de uma terrível dor de cabeça.	292528
+He was too drunk to drive home.	Ele estava bêbado demais para dirigir para casa.	292544
+He lived there by himself.	Ele morou lá sozinho.	292557
+He has his hair cut once a month.	Ele corta o cabelo uma vez por mês.	292564
+He comes here once a month.	Ele vem aqui uma vez por mês.	292565
+He drank orange juice out of a bottle.	Ele bebeu suco de laranja direto da garrafa.	292572
+He filled the bottle with water.	Ele encheu a garrafa de água.	292573
+He looks old for his age.	Ele parece velho para sua idade.	292584
+He was walking up and down the station platform.	Ele subia e descia da plataforma da estação.	292596
+He has been to France.	Ele esteve na França.	292597
+He decided to go to France.	Ele decidiu ir para a França.	292600
+He has visited France three times.	Ele esteve na França três vezes.	292601
+He is proficient in both Spanish and Italian.	Ele é proficiente em espanhol e italiano.	292603
+He has a good command of French.	Ele tem um bom domínio da língua francesa.	292606
+He is fluent in French.	Ele fala francês fluentemente.	292607
+He can also speak French.	Ele também fala francês.	292619
+He is capable of teaching French.	Ele é capaz de ensinar francês.	292622
+He went to Paris to study French.	Ele foi a Paris para estudar francês.	292624
+He is second to none in his command of French.	Ele é sem igual em seu domínio no francês.	292625
+He can speak French well.	Ele sabe falar francês bem.	292627
+He tried to learn French.	Ele tentou aprender francês.	292631
+He cannot speak French without making a few mistakes.	Ele não pode falar francês sem cometer alguns erros.	292637
+He ran water into the bathtub.	Ele ligou a água da banheira.	292647
+He sat on the bed.	Ele sentou na cama.	292659
+He is an expert driver.	Ele é um motorista experiente.	292666
+He died fighting in the Vietnam War.	Ele morreu lutando durante a Guerra do Vietnã.	292667
+He was transported to the hospital by helicopter.	Ele foi transportado ao hospital de helicóptero.	292673
+He arrived after the bell rang.	Ele chegou depois que a campainha tocou.	292674
+He is a heroin addict.	Ele é viciado em heroína.	292676
+Isn't that him sitting on a bench?	Aquele não é ele sentado num banco?	292681
+He was sitting on a bench.	Ele estava sentado num banco.	292683
+He took up his pen and began to write.	Ele pegou a sua caneta e começou a escrever.	292688
+He put up his hand to catch the ball.	Ele pôs a mão para cima para pegar a bola.	292706
+He took something out of his pocket.	Ele tirou algo do bolso.	292721
+He thrust the money into his pocket.	Ele enfiou o dinheiro em seu bolso.	292723
+He has come from Boston.	Ele veio de Boston.	292734
+He pressed the button and waited.	Ele apertou o botão e esperou.	292741
+He had difficulty in finding his way to the hotel.	Ele teve dificuldades em achar o caminho para o hotel.	292745
+He is almost always at home.	Ele quase sempre está em casa.	292754
+He had little social life.	Tinha pouca vida social.	292767
+He is about my age.	Ele tem mais ou menos a minha idade.	292778
+He translated Homer from the Greek into English.	Ele traduziu Homero do grego para o inglês.	292779
+He is a mere child.	Ele é apenas uma criança.	292784
+He is indeed a clever boy.	Ele é mesmo um garoto esperto.	292796
+He was none other than the king.	Ele era ninguém mais que o rei.	292799
+He is the Edison of Japan.	Ele é o Edison do Japão.	292802
+He became more and more famous.	Ele se tornou cada vez mais famoso.	292815
+He began with a joke.	Ele começou com uma piada.	292820
+He is still on the payroll of the company.	Ele ainda está na folha de pagamento da empresa.	292831
+He is said to still be in Paris.	Dizem que ele ainda está em Paris.	292836
+He is still in bed.	Ele ainda está na cama.	292838
+He is still sitting on the bench.	Ele ainda está sentado no banco.	292840
+He has not yet recovered consciousness.	Ele ainda não recobrou a consciência.	292843
+He lost his umbrella again.	Ele perdeu seu guarda-chuva de novo.	292851
+He has not realized his mistakes yet.	Ele ainda não percebeu seus erros.	292858
+He is still sound in mind and body.	Ele ainda tem a mente e o corpo sãos.	292867
+He was also kind to animals.	Ele também era gentil com os animais.	292875
+He hasn't answered my letter yet.	Ele ainda não respondeu a minha carta.	292878
+He still wants to come.	Ele ainda quer vir.	292882
+He hasn't come yet. He must have missed the bus.	Ele ainda não chegou. Ele deve ter perdido o ônibus.	292884
+He has made a promise to come again.	Ele prometeu voltar.	292887
+He is quite a gentleman.	Ele é um bom cavalheiro.	292897
+He has no sense of humor.	Ele não tem senso de humor.	292901
+He is quite in the wrong.	Ele está completamente equivocado.	292903
+He looks just like his mother.	Ele parece com sua mãe.	292915
+He was not at all satisfied.	Ele não ficou nada satisfeito.	292916
+It won't be long before he can play baseball again.	Não vai demorar muito para ele poder jogar baseball novamente.	292926
+He is likely to arrive soon.	É provável que ele chegue logo.	292936
+He cried as if he were a boy of six.	Ele chorou como se fosse um menino de seis anos.	292944
+He went on talking as though nothing had happened.	Ele continuou falando como se nada tivesse acontecido.	292952
+He looked as if nothing had happened.	Para ele era como se nada tivesse acontecido.	292963
+He told me about the accident as if he had seen it with his own eyes.	Ele me contou do acidente como se ele o tivesse visto com os próprios olhos.	292969
+He speaks as if he were an expert.	Ele fala como se fosse um especialista.	292972
+He lives as if he were a millionaire.	Ele vive como se fosse milionário.	292975
+He will often go out for the whole day.	Ele sempre passa o dia todo fora.	292982
+He drank a whole bottle of milk.	Ele bebeu uma garrafa inteira de leite.	292991
+He is well spoken of by everybody.	Todos falam bem dele.	293000
+He was laughed at by everybody.	Todo mundo riu dele.	293001
+He finally realized that Mary had made a fool of him.	Ele finalmente se deu conta de que Mary tinha feito ele de bobo.	293010
+He was sitting between Mary and Tom.	Ele estava sentado entre Mary e Tom.	293011
+He has a date with Mary this afternoon.	Ele tem um encontro com Mary nessa tarde.	293012
+Did he go to see Mary?	Ele foi ver Mary?	293013
+He sent a card to Mary.	Ele mandou um cartão para Mary.	293014
+He's head over heels in love with Mary.	Ele está perdidamente apaixonado pela Mary.	293015
+He put the ring on Mary's finger.	Ele colocou o anel no dedo de Mary.	293018
+They made fun of Mary.	Caçoaram de Maria.	293019
+Even with his glasses, he doesn't see very well.	Mesmo de óculos, ele não enxerga muito bem.	293022
+I met her during my stay in Mexico.	Conheci-a durante minha estada no México.	293026
+He is making great progress in English.	Ele está fazendo um grande progresso no inglês.	293028
+He seldom writes to his parents.	Ele raramente escreve para seus pais.	293039
+He's two years older than Mary is.	Ele é dois anos mais velho que Maria.	293041
+He no longer works here.	Ele não trabalha mais aqui.	293051
+He no longer lives here.	Ele não mora mais aqui.	293053
+He does not live there any more.	Ele não mora mais lá.	293061
+It is all over with him.	Está tudo acabado com ele.	293064
+He will be ruined for life.	Ele será arruinado por toda a vida.	293070
+They made him do the work again.	Eles o fizeram fazer o trabalho novamente.	293071
+I wonder if he dare try again.	Eu me pergunto se ele se atreve a tentar novamente.	293072
+He is eager to meet her again.	Ele está ansioso para encontrá-la novamente.	293073
+He signed on for another year.	Ele assinou contrato por mais um ano.	293074
+He made a gesture of impatience.	Ele fez um gesto de impaciência.	293078
+He has already gone home.	Ele já foi para casa.	293082
+He has already finished his homework.	Ele já terminou os deveres.	293093
+Has he finished his homework yet?	Já terminou os deveres?	293095
+He is not the shy boy he used to be.	Ele não é o garoto tímido que costumava ser.	293106
+He promised not to tell another lie.	Ele prometeu não contar outra mentira.	293115
+He compelled us to come earlier.	Ele nos obrigou a vir mais cedo.	293130
+He is entitled to better treatment.	Ele merece tratamento melhor.	293132
+He consoled himself with the thought that it might have been worse.	Ele se consolou com o pensamento de que poderia ter sido pior.	293133
+He grew a beard to look more mature.	Ele deixou a barba crescer para parecer mais maduro.	293142
+He should have been more careful.	Ele deveria ter sido mais cuidadoso.	293143
+He was persuaded to be more sensible.	Ele foi persuadido a ser mais sensível.	293147
+He returned to the country whence he came.	Ele voltou ao país de onde veio.	293150
+He has a good memory.	Ele tem boa memória.	293154
+He was absorbed in thought.	Ele estava absorto em pensamentos.	293155
+He has been ill, but is not ill now.	Ele esteve doente, mas não está doente agora.	293162
+He was no longer dependent on his parents.	Ele não dependia mais de seus pais.	293163
+He will learn the facts in the course of time.	Ele aprenderá os fatos com o passar do tempo.	293166
+He annoys me with questions.	Ele me irrita com perguntas.	293170
+He is too proud to give up.	Ele é orgulhoso demais para desistir.	293172
+He would have succeeded had he tried.	Ele teria conseguido se tivesse tentado.	293175
+He came and had dinner with us.	Ele veio e jantou com a gente.	293177
+He is a man who will do what he wants.	Ele é um homem que fará o que bem entender.	293186
+He is said to be a good doctor.	Dizem que ele é um bom médico.	293211
+He has got a good camera.	Ele tem uma boa câmera.	293212
+He will become a good doctor.	Tornar-se-á um bom médico.	293213
+He was looking for a good job.	Ele estava procurando um bom emprego.	293222
+He is a good student.	Ele é um bom estudante.	293224
+He will be a good husband.	Ele será um bom marido.	293231
+He took a trip to Europe.	Ele viajou à Europa.	293235
+He has visited Europe several times.	Ele visitou a Europa diversas vezes.	293236
+He traveled all over Europe.	Ele viajou a Europa toda.	293239
+He often plays the guitar.	Ele frequentemente toca violão.	293244
+He has a big mouth.	Ele tem uma bocarra.	293248
+He often walks to school.	Ele frequentemente caminha até a escola.	293273
+He often makes mistakes, but he is no fool.	Muitas vezes ele comete erros, mas não é bobo.	293276
+He often laughs at his own jokes.	Às vezes ele ri de suas próprias piadas.	293287
+He often makes people angry.	Ele frequentemente deixa as pessoas zangadas.	293292
+He often eats out on Saturday nights.	Muitas vezes ele janta fora nos sábados.	293302
+He often walks with his hand in his pocket.	Ele caminha frequentemente com as mãos nos bolsos.	293310
+He is a man of his word.	Ele cumpre a palavra.	293314
+He immigrated to Brazil in search of a better life.	Ele imigrou para o Brasil em busca de uma vida melhor.	293323
+He is good at rugby.	Ele é bom em rúgbi.	293329
+He put down his racket.	Ele largou sua raquete.	293332
+He started to learn Spanish from the radio.	Ele começou a aprender espanhol pelo rádio.	293334
+He knows how to make a radio.	Ele sabe como fabricar um rádio.	293336
+He turned on the radio.	Ele ligou o rádio.	293339
+He is listening to the radio.	Ele está ouvindo o rádio.	293340
+He became a handsome young man.	Ele se tornou um belo rapaz.	293346
+He reached for the apple.	Ele alcançou a maçã.	293352
+He carried a bag full of apples.	Ele carregava uma sacola cheia de maçãs.	293354
+He took the first place in the race.	Ele tirou o primeiro lugar na corrida.	293356
+He blew out the candle.	Ele assoprou a vela.	293360
+He held on to the rope.	Ele se segurou na corda.	293361
+He let go of the rope.	Ele soltou a corda.	293364
+He boarded a plane bound for Los Angeles.	Ele embarcou num avião que ia para Los Angeles.	293369
+He can both speak and write Russian.	Ele pode fazer as duas coisas, falar e escrever russo.	293370
+He can speak Russian as well.	Ele também fala russo.	293371
+He took many pictures in London.	Ele tirou muitas fotos em Londres.	293381
+While in London, he visited the British Museum.	Quando esteve em Londres, ele visitou o Museu Britânico.	293384
+He lives in the suburbs of London.	Ele mora na periferia de Londres.	293385
+He lives in a poor district of London.	Ele vive numa região pobre de Londres.	293388
+He drank a bottle of wine.	Ele bebeu uma garrafa de vinho.	293398
+He had the bad habit of drinking too much wine.	Ele tinha o mau hábito de beber muito vinho.	293399
+He is as good as any player on our team.	Ele é tão bom quanto qualquer jogador do nosso time.	293400
+He is worthy to be captain of our team.	Ele é digno de ser o capitão do nosso time.	293401
+He gives plain, simple explanations.	Ele dá explicações precisas, fáceis de entender.	293404
+He is well known in our country.	Ele é bem conhecido no nosso país.	293406
+It occurred to me that he had done it on purpose.	Ocorreu-me que ele o fizera de propósito.	293410
+He didn't do it on purpose.	Ele não fez isso de propósito.	293411
+He made a mistake on purpose.	Ele cometeu um erro de propósito.	293413
+He kicked me on purpose.	Ele me chutou de propósito.	293414
+He kept me waiting on purpose.	Ele me deixou esperando de propósito.	293415
+He stepped on my foot on purpose.	Ele pisou no meu pé de propósito.	293416
+He doesn't bother to comb his hair.	Ele não se preocupa em pentear o cabelo.	293427
+He led a life of vice.	Ele levou uma vida de vícios.	293475
+He has taken on bad ways.	Ele tem enfrentado dias ruins.	293476
+He came in spite of bad weather.	Ele veio, mesmo com todo o mau tempo.	293481
+He held out his hand.	Ele estendeu a mão.	293484
+He gave a sigh of relief.	Ele deu um suspiro de alívio.	293498
+He lit a candle in the dark.	Ele acendeu uma vela no escuro.	293502
+He came back after dark.	Ele voltou depois de escurecer.	293504
+He had been there before.	Ele já havia estado ali.	293514
+It seemed that he had been very happy.	Parecia que ela tinha estado muito feliz.	293515
+He used to smoke, but now he doesn't.	Ele costumava fumar, mas agora não fuma mais.	293522
+He is not as fat as he was.	Ele não está tão gordo quanto antes.	293526
+He used to go out at night.	Ele costumava sair à noite.	293527
+He studies much harder than before.	Ele estuda muito mais do que antes.	293529
+He came a little earlier than he used to.	Ele veio um pouco mais cedo do que de costume.	293531
+He used to walk to his office.	Ele ia a pé para o escritório.	293534
+He used to get up early.	Ele costumava levantar cedo.	293537
+He is looking at what used to be my father's desk.	Ele está olhando para o que costumava ser a escrivaninha do meu pai.	293538
+He is a great scholar and what is better, a good teacher.	Ele é um grande estudioso e, o que é melhor, um bom professor.	293542
+He is known as a great pianist.	Ele é conhecido como um grande pianista.	293544
+It seems that he was a great athlete.	Parece que ele era um grande atleta.	293545
+He became a great musician.	Ele se tornou um grande músico.	293547
+He was destined to become a great musician.	Ele estava destinado a se tornar um grande músico.	293548
+He is a great scholar, but lacks what is called common sense.	Ele é um grande estudioso, mas carece do que se chama de bom senso.	293553
+He is known to everybody as a great ballplayer.	Ele é conhecido por todos como um ótimo jogador de bola.	293564
+He is a member of the committee.	Ele é um membro do comitê.	293566
+He's the chairman of the committee.	Ele é o presidente do comitê.	293567
+He has drawn up a will.	Ele elaborou um testamento.	293597
+He devoted himself to the study of medicine.	Ele dedicou-se ao estudo da medicina.	293602
+He has lost faith in the doctor.	Ele não confia mais no doutor.	293610
+He was a doctor; moreover, a poet.	Ele era médico; além do mais, poeta.	293612
+He is not a doctor.	Ele não é médico.	293617
+He is no good as a doctor.	Ele não é bom como médico.	293622
+He is famous as a doctor.	Ele é famoso como médico.	293623
+He made up his mind to be a doctor.	Ele decidiu ser médico.	293627
+He was told to abstain from drinking by the doctor.	O médico disse para ele se abster de beber.	293634
+He looks nothing like a doctor.	Ele não se parece nem um pouco com um médico.	293638
+He stopped smoking on his doctor's advice.	Ele parou de fumar por recomendação do médico.	293640
+He composed three poems in a month.	Ele compôs três poemas dentro de um mês.	293654
+He is nothing but a poet.	Ele não é mais que um poeta.	293657
+He lived in France for some time, then went to Italy.	Ele morou na França por um tempo, depois foi para a Itália.	293690
+He's been grounded for a week.	Ele foi colocado de castigo por uma semana.	293691
+He came again after a week.	Ele veio de novo após uma semana.	293692
+He has been sick for a week.	Há uma semana que ele está doente.	293693
+He left for Europe a week ago, that is, on the tenth of May.	Ele partiu para a Europa há uma semana, isto é, em dez de maio.	293698
+He does not have anyone to play with.	Ele não tem ninguém com quem brincar.	293702
+He had breakfast all alone.	Ele tomou café da manhã completamente sozinho.	293705
+He went there by himself.	Ele foi ali sozinho.	293706
+He was seated all alone.	Ele estava sentado sozinho.	293729
+He did not sleep a wink.	Ele não pregou olhos.	293735
+He tried hard, but failed.	Ele tentou muito, mas falhou.	293744
+He is a hard worker.	Ele é um trabalhador esforçado.	293764
+He threw a piece of meat to a dog.	Ele jogou um pedaço de carne para um cachorro.	293775
+He bought a pair of shoes.	Comprou um par de sapatos.	293777
+He has never played golf.	Ele jamais jogou golfe.	293782
+He has never cleaned his room.	Ele nunca limpou o seu quarto.	293784
+He was after the first prize.	Ele estava atrás do primeiro prêmio.	293786
+He played tennis all day long.	Ele jogou tênis o dia todo.	293801
+He shared his box of biscuits with all his friends.	Ele dividiu sua caixa de biscoitos com todos os seus amigos.	293818
+He will win the first prize.	Ele vai ficar em primeiro lugar.	293824
+He is the tallest boy.	É o menino mais alto.	293827
+He found a dog abandoned in the woods.	Ele encontrou um cachorro abandonado no bosque.	293828
+He fell in love with her at first sight.	Ele se apaixonou por ela à primeira vista.	293837
+He spent all night cramming for the test.	Ele passou a noite toda estudando muito para a prova.	293841
+He was punished for drunken driving.	Ele foi punido por dirigir bêbado.	293855
+He predicted there would be rain.	Ele previu que choveria.	293864
+He walked on and on in the rain.	Ele andou e andou, sob a chuva.	293871
+He availed himself of the rain.	Ele se beneficiou com a chuva.	293875
+I can't help suspecting that he is lying.	Não posso deixar de suspeitar que ele esteja mentindo.	293883
+He kept on telling lies.	Ele continuou a contar mentiras.	293885
+He is not a man to tell a lie.	Ele não é homem de mentir.	293888
+He is a bad driver.	Ele é um mau condutor.	293892
+He is good at driving.	Ele dirige bem.	293895
+He can drive a car.	Ela sabe dirigir carro.	293898
+He left Japan for good.	Ele deixou o Japão por bem.	293921
+He is a good swimmer.	Ele é um bom nadador.	293924
+He suggested that we go for a swim.	Ele propôs que fôssemos nadar.	293925
+He is afraid of swimming.	Ele tem medo de nadar.	293926
+He taught me how to swim.	Ele me ensinou a nadar.	293927
+He learned how to swim.	Ele aprendeu a nadar.	293928
+He went to sea to swim.	Ele foi no mar nadar.	293931
+He is a very fast swimmer.	Ele nada super rápido.	293932
+He can speak both English and French.	Ele pode falar tanto inglês quanto francês.	293941
+He can't read English, much less German.	Ele não sabe ler em inglês e muito menos em alemão.	293948
+He can speak English, and French as well.	Ele sabe falar inglês e também francês.	293952
+He is ahead of our class in English.	Ele está num nível mais avançado do que nossa classe de inglês.	293958
+He read a book written in English.	Ele leu um livro escrito em inglês.	293965
+He keeps a diary in English.	Ele mantém um diário em Inglês.	293966
+He is capable of teaching both English and French.	Ele é capaz de ensinar tanto inglês quanto francês.	293973
+He speaks English and French.	Ele fala inglês e francês.	293977
+He made two mistakes in the English test.	Ele fez dois erros na prova de inglês.	293986
+He is a teacher of English.	Ele é professor de inglês.	293991
+He is busy learning English.	Ele está ocupado aprendendo inglês.	293993
+He has made rapid progress in English.	Ele fez um rápido progresso em inglês.	293996
+He can speak both English and French very well.	Ele pode falar tanto inglês quanto francês muito bem.	294006
+He speaks both English and French.	Ele fala ambos inglês e francês.	294007
+He can speak neither English nor French.	Ele não fala nem inglês nem francês.	294008
+He is superior to me in his good knowledge of English.	Ele é superior a mim em seu conhecimento de inglês.	294019
+He went there to learn English.	Ele foi lá para aprender inglês.	294021
+Besides teaching English, he writes novels.	Além de ensinar inglês, ele escreve romances.	294023
+He earns his living by teaching English.	Ele ganha a vida ensinando inglês.	294024
+He has a perfect command of English.	Ele domina perfeitamente o inglês.	294026
+He does not know English, much less French.	Ele não sabe inglês, muito menos francês.	294032
+He is studying English, but he is also studying German.	Ele está estudando inglês, mas ele também está estudando alemão.	294034
+He went to London to study English.	Ele foi para Londres estudar inglês.	294037
+He started to speak English.	Ele começou a falar inglês.	294044
+He is a good speaker of English.	Ele é um bom falante de inglês.	294052
+He can't speak English, much less French.	Ele não pode falar inglês, muito menos francês.	294056
+He has some experience in teaching English.	Ele tem alguma experiência em ensinar inglês.	294060
+He is proud of being a British subject.	Ele se orgulha de ser um súdito britânico.	294065
+He doesn't know how to write a letter in English.	Ele não sabe escrever uma carta em inglês.	294071
+He devoted himself to the study of English literature.	Ele se devotou ao estudo da literatura inglesa.	294072
+He believes that he is a hero.	Ele acha que é um herói.	294078
+He met his English teacher at the station by accident.	Ele encontrou seu professor de inglês na estação por acaso.	294087
+He arrived at the station.	Ele chegou à estação.	294092
+He is walking towards the station.	Ele está caminhando até a estação.	294093
+He exchanged yen for dollars.	Ele trocou ienes por dólares.	294102
+He forgot part of his speech and had to ad-lib for a while.	Ele esqueceu parte de seu discurso e teve que improvisar por um tempo.	294110
+He climbed up the tree like a monkey.	Ele subiu na árvore qual um macaco.	294121
+He drew a straight line with his pencil.	Ele traçou uma linha reta com o lápis.	294132
+He has two pencils; one is long and the other short.	Ele tem dois lápis; um grande e um pequeno.	294134
+He was afraid of his wife.	Ele estava com medo de sua esposa.	294141
+He may have argued with his wife, but he can't have hit her.	Ele pode até ter discutido com a esposa, mas ele não pode ter batido nela.	294143
+He gave three wrong answers.	Ele deu três respostas erradas.	294154
+He is of royal blood.	Ele tem sangue real.	294163
+He was more than a king.	Ele foi mais que um rei.	294167
+He is nothing more than a coward.	Ele não é nada mais que um covarde.	294177
+He likes music very much.	Ele gosta muito de música.	294185
+He is very fond of music.	Ele gosta muito de música.	294187
+He likes both music and sports.	Ele gosta tanto de música como de esportes.	294201
+He was listening to music.	Ele estava ouvindo música.	294205
+He went to Austria for the purpose of studying music.	Ele foi à Áustria com o propósito de estudar música.	294208
+It appears that he is a musician.	Parece que ele é músico.	294211
+He is poor at chemistry.	Ele é fraco em química.	294218
+He devoted himself to the study of chemistry.	Dedicou-se ao estudo da química.	294220
+He described exactly what happened.	Ele descreveu exatamente o que aconteceu.	294234
+He wants something cold to drink.	Ele quer tomar algo gelado.	294238
+He has been wandering over Europe for months.	Ele vem vagando pela Europa por meses.	294239
+He understands everything right on the spot.	Ele entende tudo na mesma hora.	294244
+He sometimes loses his temper for nothing.	Às vezes ele fica bravo por nada.	294246
+He has a tendency toward exaggeration.	Ele tem uma tendência ao exagero.	294258
+He thinks he knows everything but, as a matter of face, he is very ignorant.	Ele acha que sabe tudo mas, na verdade, é muito ignorante.	294262
+He talks as if he knows everything.	Ele fala como se soubesse tudo.	294263
+I wonder what he will say.	Eu me pergunto o que ele vai dizer.	294269
+What a fool he is!	Que bobo ele é.	294274
+He returned home without telling us.	Ele voltou para casa sem nos avisar.	294286
+He had no difficulty swimming across the river.	Ele não teve dificuldade em nadar no rio.	294287
+He is good for nothing.	Ele não serve para nada.	294292
+He would often sit here for hours doing nothing.	Ele frequentemente se sentaria aqui por horas sem fazer nada.	294294
+He says that he saw nothing. However, I don't believe what he says is the truth.	Ele diz que não viu nada. No entanto, não acredito que o que ele diz seja verdade.	294301
+He will not accomplish anything.	Ele não vai conseguir nada.	294304
+He hasn't left any message.	Ele não deixou nenhuma mensagem.	294306
+What does he want to do?	O que ele quer fazer?	294309
+He is passive in everything.	Ele é passivo em todas situações.	294316
+What is he so angry about?	Por causa de que ele está tão bravo?	294317
+What did he look up?	O que ele estava procurando?	294325
+What is he talking about? It just doesn't make sense.	Sobre o quê ele está falando? Simplesmente não faz sentido.	294326
+What is he running after?	Atrás de que ele está correndo?	294327
+He has dozens of books about Japan.	Ele tem dezenas de livros sobre o Japão.	294353
+There is nothing wrong with him.	Não há nada de errado com ele.	294357
+He dictated several letters to his secretary.	Ele ditou várias cartas para sua secretária.	294359
+He interrupted the speaker with frequent questions.	Ele interrompia o palestrante com perguntas frequentes.	294368
+He looked as if he hadn't eaten for days.	Ele olhou como se não tivesse comido há dias.	294371
+He values honor above anything else.	Ele valoriza a honra acima de qualquer coisa.	294375
+He likes swimming in summer.	Ele gosta de nadar no verão.	294378
+He got thrown out of the house.	Ele foi jogado para fora da casa.	294388
+He isn't at home, is he?	Ele não está em casa, né?	294391
+He was burning to go home.	Ele estava querendo ir para casa.	294399
+He has left his family.	Ele deixou a família.	294417
+He looked into the possibility of buying a house.	Ele pensou na possibilidade de comprar uma casa.	294428
+He ran away from home.	Ele fugiu de casa.	294435
+He lives apart from his family.	Ele mora longe de sua família.	294439
+He likes to cook for his family.	Ele gosta de cozinhar para a família.	294448
+He took a photograph of the family.	Ele tirou uma foto da família.	294451
+He abandoned his family and went to live in Tahiti.	Ele abandonou sua família e foi morar em Taiti.	294458
+He has a sufficient income to support his family.	Ele tem renda suficiente para manter sua família.	294460
+He has to work hard in order to support his family.	Ele tem de trabalhar duramente para sustentar a sua família.	294461
+He was way behind on his rent. As a result, he was evicted from his apartment.	Ele estava muito atrasado com o seu aluguel. Como resultado, ele foi despejado de seu apartamento.	294465
+He won eminence as a scientist.	Ele ganhou grande prestígio como cientista.	294474
+He said he wanted to be a scientist.	Ele disse que queria ser um cientista.	294476
+He studied very hard to become a scientist.	Ele estudou muito para ser um cientista.	294477
+He is good at singing.	Ele canta bem.	294489
+He is a good singer.	Ele é um bom cantor.	294493
+He explained how to make a fire.	Ele explicou como fazer uma fogueira.	294498
+He sent her some flowers, along with a pretty card.	Ele enviou flores para ela, junto com um belo cartão.	294502
+He accidentally hit his thumb with the hammer.	Ele acertou o seu polegar com o martelo acidentalmente.	294514
+I think he is holding something back from us.	Acho que ele está escondendo algo de nós.	294547
+He conceded us the use of his yacht.	Ele nos concedeu o direito de usar seu iate.	294551
+He is the best player on our team.	Ele é o melhor jogador do nosso time.	294556
+He refused our offer to arrange a press conference.	Ele recusou a nossa oferta de organizar uma coletiva de imprensa.	294566
+He can sing better than any of us.	Ele sabe cantar melhor do que qualquer um de nós.	294574
+He expressed his thanks to us all.	Ele expressou sua gratidão por todos nós.	294582
+He had reached the limits of his patience.	Ele tinha chegado ao limite de sua paciência.	294584
+He was born to be a painter.	Ele nascera para ser pintor.	294590
+He armed himself with all the facts before asking questions at the meeting.	Ele reuniu todos os fatos antes de fazer perguntas na reunião.	294608
+He didn't attend the meeting.	Ele não assistiu à reunião.	294609
+He was careful not to disrupt the meeting.	Ele foi cuidadoso para não desorganizar a reunião.	294611
+He goes to the office by car.	Ele vai ao escritório de carro.	294629
+He works with me at the office.	Ele trabalha comigo no escritório.	294636
+He found a broken camera.	Ele encontrou uma câmera quebrada.	294652
+He lives for nothing but pleasure.	Ele não vive por nada além do prazer.	294657
+He faced toward the sea.	Ele estava de frente para o mar.	294671
+He was walking toward the sea.	Ele caminhava em direção ao mar.	294672
+He's afraid of the sea.	Ele tem medo do mar.	294675
+He likes to travel abroad.	Ele gosta de viajar para o exterior.	294682
+He is respected by everyone.	Ele é respeitado por todo mundo.	294697
+He is known to everybody.	Ele é conhecido por todos.	294698
+He is drawing a picture.	Ele está fazendo um desenho.	294703
+He went to art school to study painting and sculpture.	Nós fomos para a escola de artes para estudar pintura e escultura.	294708
+He went up the steps slowly.	Ele subiu os degraus lentamente.	294716
+He ran up the stairs.	Ele subiu as escadas correndo.	294719
+Besides being a surgeon, he was a famous writer.	Além de ser um cirurgião, ele era um escritor famoso.	294723
+He is wealthy in appearance but not in reality.	Ele dá a impressão de ser rico, mas não é.	294727
+He had the privilege of studying abroad for two years.	Ele teve o privilégio de estudar fora por dois anos.	294731
+He was determined to go abroad.	Ele estava determinado a viajar pro exterior.	294737
+He decided to go abroad.	Ele decidiu sair do país.	294738
+Every time he goes out, he drops in at the bookstore.	Toda vez que ele sai, dá um pulo a uma livraria.	294753
+He is a famous man, to be sure, but I don't like him.	Ele é um homem famoso, de fato, mas eu não gosto dele.	294783
+He turned to the left at the corner.	Ele virou à esquerda na esquina.	294788
+He buys and sells leather goods.	Ele compra e vende produtos de couro.	294789
+He is unable to concentrate on his academic work.	Ele é incapaz de se concentrar em seu trabalho acadêmico.	294791
+He does far better than you do at school.	Ele vai muito melhor que você na escola.	294796
+He wanted to teach English at school.	Ele queria ensinar inglês na escola.	294798
+Not only did he teach school, but he wrote novels.	Ele não só dava aula na escola, mas também escrevia romances.	294799
+He is doing very well at school.	Ele está indo muito bem na escola.	294802
+He apologized to the teacher for coming to school late.	Ele pediu desculpas ao professor por chegar atrasado à escola.	294810
+He is absent from school.	Ele está ausenta da escola.	294820
+He's popular with the students.	Ele é popular entre os alunos.	294856
+He can read English easily.	Ele consegue ler inglês facilmente.	294874
+He put his hand to his forehead.	Ele colocou a mão na testa.	294877
+He is an active person.	Ele é uma pessoa ativa.	294883
+He is an active boy.	Ele é um menino ativo.	294884
+He is full of energy.	Ele está cheio de energia.	294885
+He slipped and nearly fell.	Ele escorregou e quase caiu.	294886
+He attached a label to the bag.	Ele prendeu uma etiqueta à bolsa.	294887
+He can invest a million yen in stocks.	Ele pode investir um milhão de ienes em ações.	294888
+He invested 500,000 yen in stocks.	Ele investiu 500.000 ienes em ações.	294889
+He lost a fortune in the stock market.	Ele perdeu uma fortuna no mercado de ações.	294891
+He soon accustomed himself to cold weather.	Ele logo se acostumou ao tempo frio.	294894
+He left his hometown on a cold morning.	Ele deixou sua cidade natal numa manhã fria.	294896
+He was blue from the cold.	Ele estava azul de frio.	294899
+He is very sensitive to cold.	Ele é muito sensível ao frio.	294900
+He is far from perfect.	Ele está longe de ser perfeito.	294901
+He was completely absorbed in his work.	Ele estava completamente absorto no trabalho.	294904
+He has a good position in a government office.	Ele tem uma boa posição num escritório do governo.	294912
+He circulated from table to table at the reception.	Ele circulou de mesa em mesa na recepção.	294924
+He was covered with sweat.	Ele estava coberto de suor.	294925
+He can't write any kanji.	Ele não sabe escrever nenhum kanji.	294926
+He adapted himself to circumstances.	Ele se adaptou às circunstâncias.	294927
+He had cut down on sweets.	Ele tinha parado de comer doces.	294933
+He was aware of being watched.	Ele tinha noção de estar sendo observado.	294936
+He lived a simple life.	Ele viveu uma vida simples.	294939
+He is not the sort of guy who gives in easily.	Ele não é o tipo de cara que desiste facilmente.	294941
+He will find the bus stop easily.	Ele encontrará facilmente o ponto de ônibus.	294942
+He is not a man to admit his mistakes easily.	Ele não é um homem que admite seus erros facilmente.	294943
+He is afraid of making mistakes.	Ele tem medo de cometer erros.	294958
+He must have taken the wrong train.	Ele deve ter pegado o trem errado.	294964
+He put salt into his cup of coffee by mistake.	Ele colocou sal no seu café por engano.	294966
+He hit me by mistake.	Ele me bateu por engano.	294969
+He picked up the wrong hat by mistake.	Ele acabou vestindo o chapéu alheio por engano.	294970
+He is sawing a log into boards.	Ele está serrando um tronco para fazer tábuas.	294975
+He looked at her over his glasses.	Ele a observava por sobre seus óculos.	294981
+He can see nothing without his glasses.	Ele não enxerga nada sem seus óculos.	294984
+He took off his glasses.	Ele tirou os óculos.	294986
+He appears to be strong and healthy.	Ele parece estar forte e saudável.	294990
+He knows a lot of people.	Ele conhece muitas pessoas.	294993
+He saved me from danger.	Ele me salvou do perigo.	295012
+He was cool in the crisis.	Ele estava sereno na crise.	295013
+He was unaware of the danger.	Ele não sabia do perigo.	295018
+He was in critical condition.	Ele estava em estado crítico.	295036
+He had to go through a lot of hardships.	Ele precisou passar por muitas dificuldades.	295062
+He laid the book on the desk.	Ele colocou o livro na mesa.	295068
+He kept the invaders at bay with a machine gun.	Ele manteve os invasores à distância com uma metralhadora.	295081
+He is in a bad mood.	Ele está de mau humor.	295082
+He is hard to please.	É difícil satisfazê-lo.	295084
+He is a man of wit.	Ele é um homem perspicaz.	295087
+He's interested in many things.	Ele se interessa por várias coisas.	295110
+He has a bad temper.	Ele tem um mau temperamento.	295112
+He is not all there.	Ele não é muito inteligente.	295114
+He got on the train.	Ele entrou no trem.	295129
+He got off the train.	Ele desceu do trem.	295130
+He explained the rules in detail.	Ele explicou as regras detalhadamente.	295133
+He is suffering from loss of memory.	Ele está sofrendo de perda de memória.	295137
+He was an engineer and was treated as such.	Ele era um engenheiro e era tratado como tal.	295146
+He has completely lost all sense of duty.	Ele tem perdido completamente todo o senso de dever.	295154
+He went down the hill.	Ele desceu o morro.	295184
+I wonder if he can lend me his guitar during the vacation.	Será que ele pode me emprestar seu violão durante as férias?	295201
+He enjoys reading novels on holiday.	Ele gosta de ler romances nas férias.	295204
+It appears that he was in a hurry.	Parece que ele estava com pressa.	295205
+He got into his car in a hurry.	Ele entrou em seu carro às pressas.	295211
+He put his foot on the brake suddenly.	Ele colocou seu pé no freio de repente.	295218
+He felt a sudden pain.	Ele sentiu uma dor aguda.	295226
+He stopped short and looked back.	Ele parou subitamente e olhou para trás.	295232
+Urgent business discouraged him from going on a picnic.	Um assunto urgente o impediu de ir a um piquenique.	295233
+He breeds cattle and horses.	Ele cria gado e cavalos.	295253
+He exchanged his cow for two horses.	Ele trocou sua vaca por dois cavalos.	295255
+He died of cancer last year.	Morreu de câncer ano passado.	295258
+He had long hair last year.	Ele tinha o cabelo comprido o ano passado.	295263
+He is able to swim like a fish.	Ele é capaz de nadar como um peixe.	295271
+I think he makes money by selling fish.	Acho que ele faz dinheiro vendendo peixe.	295274
+He is studying at Kyoto University.	Ele está estudando na Universidade de Quioto.	295281
+He found that teaching was his calling.	Ele achava que ensinar era sua vocação.	295329
+He is engaged in teaching.	Ele está comprometido em ensinar.	295332
+He has had a long teaching career.	Ele teve uma longa carreira de magistério.	295343
+He's a teacher and so am I.	Ele é professor e eu também.	295345
+He is a teacher and novelist.	Ele é professor e romancista.	295350
+He has little experience in teaching.	Ele tem pouca experiência em ensinar.	295353
+He has decided to become a teacher.	Ele decidiu virar professor.	295358
+He works as a teacher, but actually he is a spy.	Ele trabalha como professor, mas na verdade é um espião.	295361
+He ran into the classroom.	Ele correu para dentro da sala de aula.	295363
+He has long experience in teaching.	Ele tem uma vasta experiência em ensinar.	295367
+He acted like a madman.	Ele agiu como louco.	295368
+He couldn't restrain his excitement.	Ele não conseguiu conter a empolgação.	295379
+He picked up a mirror and examined his tongue.	Ele pegou um espelho e examinou sua língua.	295382
+He lay on his back.	Ele se deitou de costas.	295394
+Was he lying on his back?	Ele estava deitado de costas?	295396
+I hear he is looking for work.	Ouvi que ele está procurando trabalho.	295400
+I think he can get along with his neighbor.	Eu acho que ele pode se dar bem com seu vizinho.	295431
+He took a short cut.	Ele pegou um atalho.	295437
+He is liberal with his money and buys a lot of presents.	Ele é liberal com o seu dinheiro e compra vários presentes.	295449
+He sold his principles for money.	Ele vendeu seus princípios por dinheiro.	295454
+He doesn't know what to do with his money.	Ele não sabe o que fazer com seu dinheiro.	295456
+He asked for some money.	Ele pediu dinheiro.	295461
+He invested his money in stocks.	Ele investiu seu dinheiro em ações.	295466
+He slid the money into my pocket.	Ele sorrateiramente colocou o dinheiro no meu bolso.	295469
+He lost the respect of his people when he accepted the money.	Ele perdeu o respeito de seu povo quando aceitou o dinheiro.	295471
+He was robbed of all his money.	Roubaram-lhe todo o seu dinheiro.	295473
+He is generous with his money.	Ele é generoso com o dinheiro.	295480
+He's rich, but he isn't happy.	Ele é rico, mas não é feliz.	295484
+He has more money than taste.	Ele tem mais dinheiro do que gosto.	295486
+Although he is rich he works very hard.	Apesar de ser rico, ele trabalha muitíssimo.	295487
+He is rich and I am poor.	Ele é rico e eu sou pobre.	295500
+Though he is rich, he is not happy.	Apesar de ser rico, ele não é feliz.	295505
+He is not rich. On the contrary, he is deep in debt.	Ele não é rico. Pelo contrário, ele está com grandes dívidas.	295510
+He's not rich, but he's happy.	Não é rico, mas é feliz.	295511
+He looked like a rich man.	Ele parecia um homem rico.	295526
+He thinks only of making money.	Ele só pensa em fazer dinheiro.	295538
+He had heard wonderful stories about cities of gold with silver trees.	Ele tinha ouvido maravilhosas histórias sobre cidades de ouro com árvores de prata.	295544
+He got a loan from the bank.	Ele pegou um empréstimo do banco.	295545
+He has plenty of money in the bank.	Ele tem muito dinheiro no banco.	295550
+He had a lot of money in the bank.	Ele tinha muito dinheiro no banco.	295555
+He's the president of the bank.	Ele é o presidente do banco.	295558
+He said, "It's nine o'clock."	"São nove horas", disse ele.	295564
+He cried out in pain.	Ele gritou de dor.	295572
+He seems to be sick.	Ele parece estar doente.	295580
+He was looking at the sky.	Ele olhava o céu.	295586
+He looked up at the sky.	Ele levantou os olhos para o céu.	295588
+He lives in a world of fantasy.	Ele vive num mundo de fantasia.	295592
+He is no more than a dreamer.	Ele não passa de ser um sonhador.	295594
+He fainted with hunger and fatigue, but came to after a while.	Ele desmaiou de fome e cansaço, mas voltou a si pouco depois.	295599
+He found his lost camera by chance.	Ele encontrou por acaso a câmera que tinha perdido.	295605
+It happened that he found the treasure.	Sem querer ele encontrou o tesouro.	295606
+He wants a watch like yours.	Ele quer um relógio como o teu.	295617
+He runs as fast as you.	Ele corre tão rápido quanto você.	295621
+He wants you to stay here.	Ele quer que você fique aqui.	295622
+He's very angry with you.	Ele está muito zangado com você.	295629
+He is angry with you.	Ele está com raiva de você.	295630
+He asked me to communicate his wishes to you.	Ele pediu-me que lhe comunicasse seus desejos.	295632
+He listens to whatever you say.	Ele escuta qualquer coisa que você diga.	295639
+He has no intention to interfere with your business.	Ele não tem nenhuma intenção de interferir em seus assuntos.	295640
+He is not so tall as you.	Ele não é tão alto como você.	295646
+He's much taller than you.	Ele é muito mais alto do que você.	295647
+He's a little taller than you are.	Ele é um pouquinho mais alto que você.	295649
+He battled his way out of the mob.	Ele lutou para conseguir sair da multidão.	295657
+He disappeared into the crowd.	Ele desapareceu na multidão.	295658
+He passed among the crowd.	Ele passou entre o público.	295659
+He was sentenced to death.	Ele foi condenado à morte.	295667
+He is an authority on criminal law.	Ele é uma autoridade em direito penal.	295669
+He was sent to prison.	Ele foi mandado à prisão.	295671
+He differs from his brother.	Ele é diferente do irmão.	295673
+He got angry with his brother.	Zangou-se com o seu irmão.	295674
+He is less patient than his brother.	Ele é menos paciente que o seu irmão.	295675
+He grappled with his brother.	Ele lutou com seu irmão.	295677
+He ran faster than his brother did.	Ele correu mais rápido do que seu irmão.	295688
+Does he have any brothers?	Ele tem irmãos?	295689
+He is an experienced teacher.	Ele é um professor experiente.	295706
+He contributed much to the development of the economy.	Ele contribuiu bastante ao desenvolvimento da economia.	295710
+He is a great authority on economics.	Ele é uma grande autoridade em economia.	295712
+He gave up the plan for economic reasons.	Ele desistiu do plano por motivos econômicos.	295714
+He relies on his wife financially.	Ele depende financeiramente de sua mulher.	295715
+He notified the police of the traffic accident.	Ele informou a polícia sobre o acidente de trânsito.	295743
+I heard that he gave himself up to the police.	Ouvi dizer que ele se entregou à polícia.	295744
+He's wanted by the police.	Ele é procurado pela polícia.	295747
+He is not interested in art at all.	Ele não se interessa nem um pouco por arte.	295759
+He has a good eye for art.	Ele tem bom gosto para arte.	295761
+He fancies himself as an artist.	Ele se julga um artista.	295768
+He is the last person to tell a lie.	Ele é a última pessoa para se contar uma mentira.	295791
+He is the last man to take a bribe.	Ele é o último homem a aceitar um suborno.	295797
+He never seems to feel the cold.	Parece que ele nunca sente frio.	295805
+He was by no means happy.	Ele não estava nada feliz.	295811
+He is the last person to speak ill of others.	Ele é a última pessoa a falar mal dos outros.	295830
+He never gets up early in the morning.	Ele nunca se levanta de manhã cedo.	295837
+He is no ordinary student.	Ele não é um estudante comum.	295845
+He is not at all a gentleman.	Ele não é mesmo um cavalheiro.	295854
+He is the last person to betray his friends.	Ele seria o último a trair os seus amigos.	295856
+He never goes against his parents.	Ele nunca vai contra seus pais.	295859
+He will never live up to his parents' expectations.	Ele nunca estará à altura das esperanças de seus pais.	295860
+He can't make a decision.	Ele não pode tomar uma decisão.	295866
+He seemed disappointed at the results.	Ele parecia desapontado com os resultados.	295874
+He didn't turn up after all.	No final das contas, ele não apareceu.	295878
+He was right after all.	Ele estava certo, afinal.	295883
+I wonder if he is married.	Será que ele é casado?	295889
+He earns 300,000 yen a month.	Ele ganha 300.000 ienes por mês.	295903
+He gets a haircut three times a month.	Ele corta o cabelo três vezes por mês.	295904
+He never fails to write home once a month.	Ele sempre escreve para casa uma vez por mês.	295905
+He will have spent all his money by the end of the month.	Ele teria gastado todo o seu dinheiro no fim do mês.	295912
+He works from Monday to Friday.	Ele trabalha de segunda a sexta.	295914
+He went to New York on Monday.	Ele foi a Nova Iorque na segunda-feira.	295916
+He was compelled to resign on account of ill health.	Ele foi forçado a renunciar por causa de sua saúde.	295918
+His health enables him to work so hard.	É a saúde dele que lhe permite trabalhar tão duro.	295926
+He stopped smoking for the improvement of his health.	Ele deixou de fumar para melhorar a sua saúde.	295929
+He was killed with a sword.	Mataram-no com uma espada.	295952
+He went to the back of the building.	Ela foi para trás do prédio.	295957
+He gave the dog a bone.	Ele deu um osso ao cachorro.	295969
+I like dogs better than cats.	Eu gosto mais de cachorros do que de gatos.	295970
+Does he have a dog?	Ele tem cachorro?	295974
+He let the dog loose in the garden.	Ele deixou o cachorro solto no jardim.	295978
+He carried a rifle on his shoulder.	Ele carregava um rifle no ombro.	295994
+He is not what he seems.	Ele não é o que parece.	296002
+He isn't as stupid as he looks.	Ele não é tão burro quanto parece.	296004
+He is not as simple as he seems.	Ele não é tão simples quanto parece.	296007
+He has become thin beyond all recognition.	Ele emagreceu tanto que ninguém pode reconhecê-lo.	296017
+He searched his pockets for the key.	Ele procurou nos bolsos pela chave.	296034
+He put the key in the lock.	Ele pôs a chave na fechadura.	296039
+He looked for the key.	Ele procurou a chave.	296040
+It seems that he's fine.	Parece que ele está bem.	296049
+He adhered to the original plan.	Ele dedicou-se ao plano original.	296051
+He is living in an apartment at present.	Atualmente ele está morando em um apartamento.	296069
+He is in the hospital at present.	Atualmente ele se encontra no hospital.	296073
+He's the Bach of today.	Ele é o Bach dos tempos atuais.	296078
+He is at home in modern English literature.	Ele é versado em literatura inglesa moderna.	296080
+He began to make excuses.	Ele começou a dar desculpas.	296091
+He did what he had been told.	Ele fez o que lhe foi dito.	296098
+He had no choice but to do as he was told.	Ele não teve outra escolha a não ser fazer como foi dito a ele.	296101
+He has a great knowledge of the linguistic field.	Ele tem um grande conhecimento na área de linguística.	296106
+He is a man of few words, but he always keeps his promise.	Ele é um homem de poucas palavras, mas sempre cumpre suas promessas.	296117
+He has a strong personality.	Ele tem uma forte personalidade.	296120
+He exchanged his old car for a new one.	Ele trocou seu carro antigo por um novo.	296127
+He bound old letters into a bundle.	Ele amarrou velhas cartas num feixe.	296130
+He is well acquainted with ancient history.	Ele conhece bem sobre história antiga.	296137
+He delivered the package to the orphanage.	Ele entregou o pacote no orfanato.	296146
+He hid himself behind the door.	Ele se escondeu atrás da porta.	296149
+He lives far away from his hometown.	Ele vive longe da cidade natal.	296161
+He returned to his native village.	Ele retornou à sua vila natal.	296165
+He dreamed about his home.	Ele sonhou com sua casa.	296169
+He came at three in the afternoon.	Ele veio às três da tarde.	296193
+He will come this afternoon.	Ele virá esta tarde.	296197
+He is supposed to come here at 9 p. m.	Ele está para vir aqui às 21h00.	296198
+He shut the door behind him.	Ele fechou a porta atrás de si.	296207
+He has no friends to talk with.	Ele não tem amigos com quem conversar.	296213
+He lost his son in the traffic accident.	Ele perdeu o seu filho num acidente de tráfego.	296226
+He likes walking in the park.	Ele gosta de caminhar no parque.	296243
+He was sitting there with a pipe in his mouth.	Ele estava sentado lá com um cachimbo na boca.	296261
+He never opens his mouth without complaining about something.	Ele não abre a boca senão para reclamar de algo.	296267
+He made up an excuse.	Ele inventou uma desculpa.	296277
+He can do whatever he likes with the money.	Ele pode fazer o que ele quiser com o dinheiro.	296283
+He took advantage of the good weather to do some gardening.	Ele tirou vantagem do bom tempo para fazer um pouco de jardinagem.	296288
+He works in a factory.	Ele trabalha numa fábrica.	296292
+He may not be happy.	Talvez ele não seja feliz.	296295
+He had the good fortune to marry a pretty girl.	Ele teve a boa sorte de se casar com uma moça bonita.	296300
+He had the fortune to find a job.	Ele teve a sorte de encontrar trabalho.	296304
+He seems to be very happy.	Ele parece estar muito feliz.	296308
+I believe that he's happy.	Eu acho que ele é feliz.	296310
+He set fire to the school building.	Ele pôs fogo no prédio da escola.	296327
+He thrust some coins into my pocket.	Ele enfiou algumas moedas no meu bolso.	296332
+He added a little sugar and milk to his tea.	Ele adicionou um pouco de açúcar e leite ao seu chá.	296334
+He ordered a cup of tea.	Ele pediu uma xícara de chá.	296335
+He lost hold of the rope and fell into the river.	Ele soltou a corda e caiu no rio.	296336
+He doesn't want to go; neither do I.	Ele não quer ir, nem eu.	296349
+He is a man of action.	Ele é um homem de ação.	296362
+The way he talks and acts, you can tell he's a redneck.	O jeito que ele fala e age, dá para perceber que ele é caipira.	296363
+He was counted as lost.	Ele foi contado como perdido.	296366
+He returned home by way of Hong Kong.	Ele voltou para casa via Hong Kong.	296378
+He has a long nose.	Ele tem um narigão.	296383
+He attended the high school for three years without missing a single day or being late.	Ele frequentou o ensino médio por três anos sem faltar nenhuma vez ou chegar atrasado.	296398
+He teaches English grammar at a high school.	Ele ensina gramática inglesa numa escola secundária.	296399
+He is a student at a high school.	Ele é um estudante de ensino médio.	296400
+He has been playing chess since he was in high school.	Ele joga xadrez desde quando estava no secundário.	296403
+They must've skipped out of town.	Eles devem ter escapado para fora da cidade.	296409
+He is a famous painter and should be treated as such.	Ele é um pintor famoso e deveria ser tratado como tal.	296411
+He lends money at a high rate of interest.	Ele empresta dinheiro a uma alta taxa de juros.	296413
+He gave his life for his country.	Ele deu sua vida por seu país.	296421
+He passed across the border.	Ele atravessou a fronteira.	296430
+He traveled throughout the country.	Ele viajou por todo o país.	296435
+He traveled around the country.	Ele viajou pelo país.	296436
+He became a national hero.	Ele se tornou um herói nacional.	296439
+He caught a terrible cold.	Ele pegou uma gripe terrível.	296443
+Since he was dressed in black, he looked like a priest.	Desde que ele estava vestido de preto, ele parecia um padre.	296445
+He was dressed in black.	Ele estava vestido de preto.	296446
+He drew two squares on the blackboard.	Ele desenhou dois quadrados no quadro.	296449
+He got wet from the waist to the knees.	Ele se molhou da cintura aos joelhos.	296450
+He has an eye for antiques.	Ele tem bom olho para antiguidades.	296454
+He has a cold now.	Ele está com um resfriado agora.	296464
+He is now playing tennis on the court.	Ele agora está jogando tênis na quadra.	296466
+He ought to have arrived in New York about this time.	Ele deve ter chegado em Nova Iorque mais ou menos essa hora.	296471
+He left the office just now.	Ele acabou de sair do escritório.	296474
+He is not what he was.	Ele não é o que costumava ser.	296484
+He still writes to me from time to time.	Ele ainda me escreve de vez em quando.	296486
+He still rings me from time to time.	Ele ainda me liga de vez em quando.	296487
+He still writes novels from time to time, but not as often as he used to.	Ele ainda escreve romances de vez em quando, mas não tão frequentemente quanto escrevia.	296488
+He is watching TV now.	Ele está vendo TV agora.	296490
+I wonder where he is now.	Pergunto-me onde estará agora.	296492
+He is now in a very difficult situation.	Ele agora está numa situação muito difícil.	296494
+I'm sure he's going to be somebody someday.	Tenho certeza de que um dia ele vai ser alguém.	296495
+He is sure to pass the exam if he studies at this rate.	Ele certamente vai passar no exame se estudar com essa regularidade.	296499
+He is at work now, but will return at seven.	Ele está no trabalho agora, mas retornará às sete.	296505
+He is swimming in the pool.	Ele nada na piscina.	296506
+He has little money with him.	Ele tem pouco dinheiro consigo.	296508
+He has never been to Okinawa before.	Ele nunca foi a Okinawa antes.	296518
+He is on the radio.	Ele está no rádio.	296529
+He is the last person I want to see now.	Ele é a última pessoa que eu quero ver agora.	296531
+He is not studying English now.	Ele não está estudando inglês agora.	296532
+Now he is recognized as one of the most promising writers.	Agora ele é reconhecido como um dos escritores mais promissores.	296546
+He is leaving home now.	Ele está saindo de casa agora.	296555
+He is older and wiser now.	Ele está mais velho e mais sábio agora.	296558
+He is very busy now.	Ele está muito ocupado agora.	296563
+He received a good many letters this morning.	Ele recebeu um bom número de cartas nesta manhã.	296567
+He has been writing poems since this morning.	Ele está escrevendo poemas desde hoje de manhã.	296569
+He is not running in the coming election.	Ele não vai concorrer na próxima eleição.	296582
+He will play golf next Sunday.	Ele jogará golfe domingo que vem.	296583
+He is living in Tokyo.	Ele está morando em Tóquio.	296584
+He will play tennis with his friends.	Ele irá jogar ténis com os seus amigos.	296594
+It seems that he is very busy today.	Parece que ele está muito ocupado hoje.	296601
+He is supposed to be at home today.	Era para ele estar em casa hoje.	296603
+He is at home today.	Ele está em casa hoje.	296616
+He has grown three centimeters this year.	Este ano ele cresceu três centímetros.	296624
+He becomes a university student this year.	Ele se torna um estudante universitário este ano.	296628
+I wonder if he'll come tonight.	Será que ele virá hoje à noite?	296634
+He's writing a book now.	Ele está escrevendo um livro agora.	296637
+He is reading a book.	Ele está lendo um livro.	296638
+Will he come this evening?	Ele virá esta tarde?	296642
+He promised to come home early tonight.	Ele prometeu voltar cedo para casa esta noite.	296646
+He writes to his parents once a month.	Ele escreve aos pais uma vez por mês.	296647
+You should be careful not to bother him.	Você deve tomar cuidado para não aborrecê-lo.	296655
+He was confronted with some difficulties.	Ele foi confrontado por algumas dificuldades.	296658
+He hurt his left hand.	Ele machucou a mão esquerda.	296678
+He had an operation on his left leg.	Ele operou a perna esquerda.	296679
+He broke his left arm.	Ele quebrou o braço esquerdo.	296680
+He likes drinking coffee without sugar.	Ele gosta de beber café sem açúcar.	296682
+He uses honey instead of sugar.	Ele usa mel em vez de açúcar.	296683
+He mixed sugar with milk.	Ele misturou açúcar com leite.	296684
+He likes coffee without sugar.	Ele gosta de café sem açúcar.	296685
+He sat reading with his wife sewing by the fire.	Ele sentou-se lendo junto a sua esposa costurando à fogueira.	296693
+He is among the best jazz singers.	Ele está entre os melhores cantores de jazz.	296710
+It is necessary that he prepare for the worst.	É preciso que ele se prepare para o pior.	296711
+He ended up in jail.	Ele acabou na cadeia.	296733
+He was the last person to arrive.	Ele foi a última pessoa a chegar.	296734
+He left the last page blank.	Ele deixou a última página em branco.	296736
+He breathed his last breath.	Ele deu seu último suspiro.	296740
+He will end up in prison.	Ele vai acabar na cadeia.	296743
+He missed the last train.	Ele perdeu o último trem.	296751
+He went to a fruit store first.	Ele foi à uma frutaria primeiro.	296755
+On hearing the news of the birth of his first child, he jumped for joy.	Ao ouvir sobre o nascimento de seu primeiro filho, ele pulou de alegria.	296761
+At first he hated her but gradually came to love her.	No começo ele a odiava, mas aos poucos acabou a amando.	296763
+He did his best, but failed.	Ele fez o melhor que pôde, mas fracassou.	296769
+He said to his wife "Are you coming with me"?	Perguntou à mulher: "Você vem comigo?"	296779
+He reminded his wife to wake him up at 7:00 a.m.	Ele lembrou sua mulher que o acordasse às 7:00 da manhã.	296785
+He wrote a book based on an idea which he borrowed from his wife.	Ele escreveu um livro baseado em uma ideia que ele pegou da esposa.	296791
+He was angry with his wife.	Ele estava zangado com a esposa.	296792
+I do not think he will ever get over the loss of his wife.	Eu não acho que algum dia ele vai se recuperar da perda de sua esposa.	296794
+He is discouraged over his wife's death.	Ele está desanimado pela morte da esposa.	296795
+He was jealous of his wife.	Ele estava com ciúme da esposa.	296808
+He was accompanied by his wife.	Ele estava acompanhado de sua mulher.	296810
+I wonder if he's at home.	Será que ele está em casa?	296829
+He had his wallet stolen.	Sua carteira foi roubada.	296855
+Having failed twice yesterday, he doesn't want to try again.	Como falhou duas vezes ontem, ele não quer tentar de novo.	296869
+He was late for school yesterday.	Ele chegou atrasado à escola ontem.	296872
+He attended the party yesterday.	Ele participou da festa ontem.	296877
+He was present at the meeting yesterday.	Ele esteve presente na reunião de ontem.	296878
+He cut himself with a knife yesterday.	Ele se cortou com uma faca ontem.	296880
+Last night, he studied all night long.	Ontem à noite, ele estudou a noite toda.	296889
+He feels a good deal better than yesterday.	Ele se sente um tanto melhor do que ontem.	296891
+Did he study English yesterday?	Ele estudou inglês ontem?	296896
+He did not eat anything yesterday.	Ele não comeu nada ontem.	296897
+He returned from abroad yesterday.	Ele voltou do exterior ontem.	296898
+He was absent from school yesterday.	Ele não veio à escola ontem.	296900
+He took me to the park yesterday.	Ele me levou ao parque ontem.	296904
+He visited his uncle yesterday.	Ele visitou seu tio ontem.	296909
+He came from Tokyo yesterday.	Ele veio de Tóquio ontem.	296911
+He went to Tokyo yesterday.	Ele foi ontem pra Tóquio.	296912
+The hospital took him in yesterday.	O hospital o admitiu ontem.	296914
+He joined the club last year.	Ele se juntou ao clube no ano passado.	296922
+He made a will last year.	Ele fez um testamento no ano passado.	296926
+He visited Kyoto last year.	Ele visitou Quito ano passado.	296927
+He was working at the office yesterday evening.	Ele estava trabalhando no escritório ontem ao anoitecer.	296940
+He came home late last night.	Ele chegou em casa tarde ontem à noite.	296950
+He cut down a cherry tree.	Ele cortou uma cerejeira.	296952
+He is guilty of murder.	Ele é culpado de assassinato.	296958
+He is accused of murder.	Ele é acusado de homicídio.	296963
+He was surprised to hear about the murder case.	Ele ficou surpreso ao ouvir sobre o assassinato.	296973
+He has a morbid fondness for murder mysteries.	Ele tem uma predileção mórbida por mistérios de assassinato.	296975
+He ate three and said he could eat as many again.	Ele comeu três e disse que podia comer o mesmo tanto de novo.	296981
+He has been to London three times.	Ele esteve em Londres três vezes.	296982
+He won the third prize.	Ele ganhou o terceiro prêmio.	296986
+He has been unconscious for three days.	Ele está inconsciente há três dias.	296988
+He used his umbrella as a weapon.	Ele usou o guarda-chuva como arma.	296994
+He is taking a walk.	Ele está dando uma volta.	297003
+Whenever he goes out for a walk, he takes his dog with him.	Sempre que ele sai para uma caminhada, ele leva o cachorro com ele.	297005
+He was blind from birth.	Ele era cego de nascença.	297006
+He let out a sigh when the job was finished.	Ele suspirou quando o trabalho foi concluído.	297017
+He went there on business.	Ele foi lá a negócios.	297019
+He stuck to his job.	Ele continuou a fazer o trabalho dele.	297056
+He didn't have as much trouble finding a job as he thought he would.	Ele não teve tanta dificuldade em encontrar um emprego como pensou que teria.	297065
+He is looking for a job.	Ele está procurando emprego.	297077
+He got hurt in the accident at work.	Ele se machucou no acidente de trabalho.	297089
+He earns more money than he can spend.	Ele ganha mais dinheiro do que o que pode gastar.	297091
+He will come back at four.	Ele vai voltar às quatro.	297100
+She said that she would visit Jack with her sisters.	Ela disse que iria visitar Jack com as suas irmãs.	297109
+Though only a child, he was interested in reading books on philosophy.	Apesar de ser apenas uma criança, ele tinha interesse em ler livros de filosofia.	297120
+He gave his children a good education.	Ele deu a seus filhos uma boa formação.	297126
+He does not take care of his children.	Ele não cuida de seus filhos.	297131
+He lost his eyesight when he was still a child.	Ele perdeu a visão quando ainda era criança.	297143
+He took great pains in educating his children.	Ele sofreu bastante para educar suas crianças.	297148
+He was severe with his children.	Ele era severo com os filhos.	297156
+He did what he could for his children.	Ele fez tudo o que podia pelos seus filhos.	297157
+He warned the children against playing in the street.	Ele alertou as crianças sobre brincar na rua.	297158
+He breeds cattle for market.	Ele cria gado para o mercado.	297166
+He is acquainted with the mayor.	Ele conhece o prefeito.	297169
+He laughed in spite of himself.	Ele riu apesar de si mesmo.	297193
+He lost himself in thought.	Ele se perdeu em seus pensamentos.	297195
+He is on the point of death.	Ele está a ponto de morrer.	297211
+He has one foot in the grave.	Ele está com o pé na cova.	297213
+He is afraid of death.	Ele está com medo da morte.	297216
+He kept his sense of humor until the day he died.	Ele conservou seu senso de humor até o dia em que morreu.	297217
+On his deathbed he asked me to continue writing to you.	Em seu leito de morte, ele pediu que eu continuasse a escrever para você.	297220
+He amassed a large fortune before he died.	Ele acumulou uma grande fortuna antes de morrer.	297221
+He is as good as dead.	Ele está praticamente morto.	297225
+He avenged his dead father.	Ele vingou o pai morto.	297230
+He was condemned to death.	Ele foi condenado à morte.	297237
+He has a car which I gave to him.	Ele tem um carro que eu dei para ele.	297238
+He said that I must go there.	Ele disse que eu preciso ir lá.	297247
+He could not approve of my going there.	Ele não consentiu que eu fosse lá.	297248
+He censured me for what I had done.	Ele me censurou pelo que fiz.	297256
+He was given a book by me.	De mim ele ganhou um livro.	297259
+He is the last man I want to see.	Ele é a última pessoa que eu quero ver.	297264
+He believes whatever I say.	Acredita em tudo que digo.	297270
+He doesn't want me to go, but I mean to.	Ele não quer que eu vá, mas eu pretendo ir.	297275
+He mentioned a book the title of which I can't remember now.	Ele mencionou um livro cujo título já não me lembro.	297276
+He is the most obstinate child I have ever seen.	Ele é a criança mais obstinada que eu já vi.	297278
+He stood by me whenever I was in trouble.	Ele ficou ao meu lado sempre que eu tive problemas.	297282
+He helped me carry the baggage.	Ele me ajudou a carregar a bagagem.	297294
+He is the only friend I can really trust.	Ele é o único amigo no qual posso realmente confiar.	297309
+He did the reverse of what I asked.	Ele fez o contrário do que eu pedi.	297317
+He is about my size.	Ele é mais ou menos do meu tamanho.	297318
+He went in the opposite direction from us.	Ele veio à direção oposta a nós.	297329
+He has given us useful knowledge.	Ele nos deu conhecimento útil.	297334
+He told us an interesting story.	Ele nos contou uma história interessante.	297339
+He demanded that we leave at once.	Ele exigiu que fôssemos embora imediatamente.	297344
+He suggested to us that we should stay.	Ele sugeriu que deveríamos ficar.	297348
+He tried to speak French to us.	Ele tentou falar em francês conosco.	297351
+He wants to see us again.	Ele quer nos ver de novo.	297352
+He did not say a word to us.	Ele não nos disse uma única palavra.	297354
+He commanded us to work hard.	Eles nos ordenaram a trabalhar duro.	297355
+He is a British teacher who teaches us English.	Ele é um professor britânico que nos ensina inglês.	297357
+He tried speaking French to us.	Ele tentou falar conosco em francês.	297362
+He showed us his mother's picture.	Ele mostrou-nos a foto de sua mãe.	297370
+He brought us sad news.	Ele trouxe-nos notícias tristes.	297371
+He is one of our most experienced chairmen.	Ele é um dos nossos diretores mais experientes.	297377
+It is possible that he will come to our party.	É possível que ele venha à nossa festa.	297384
+He plays basketball best of us all.	Ele joga basquete melhor que todos nós.	297405
+He left soon after our arrival.	Ele saiu logo após a nossa chegada.	297407
+He knows us very well.	Ele nos conhece muito bem.	297413
+He seems to know us.	Ele parece nos conhecer.	297417
+He took us to the zoo.	Ele nos levou ao zoológico.	297419
+He has the same camera as I have.	Ele tem a mesma câmera que eu.	297430
+He explained to me that he had no money.	Ele me explicou que não tinha dinheiro.	297440
+He asked me who that man was.	Ele me perguntou quem era aquele homem.	297443
+He told me that he would wait till I returned.	Ele me disse que ficaria esperando até eu voltar.	297448
+He asked me who had painted the picture.	Ele me perguntou quem havia pintado o quadro.	297451
+He said to me, "You look sad. What is the matter with you?"	Ele me disse: "Você parece triste. O que há com você?"	297454
+He gave me 10,000 yen.	Ele me deu dez mil ienes.	297462
+He asked a few questions of me.	Ele me perguntou algumas coisas a meu respeito.	297463
+He gave me a vague answer.	Ele deu-me uma resposta vaga.	297467
+He didn't give me much advice.	Ele não me deu muitos conselhos.	297471
+He showed me his album.	Ele mostrou-me seu álbum.	297473
+He showed me his photograph album.	Ele me mostrou o álbum de fotos dele.	297474
+He showed me how to make a cake.	Ele me mostrou como se faz um bolo.	297483
+He gave me this book.	Ele me deu este livro.	297484
+He did what he promised to do for me.	Ele fez o que ele prometeu fazer para mim.	297495
+He said to me, 'I read this book yesterday'.	Ele me disse: "Eu li esse livro ontem."	297502
+He told me that the book was interesting.	Ele me disse que o livro era interessante.	297507
+He told me to do it.	Ele me disse para fazer isso.	297512
+He found me a taxi.	Ele me encontrou um táxi.	297515
+He called me a cab.	Ele me chamou um táxi.	297516
+He suggested that I accompany him to the party.	Ele sugeriu que eu o acompanhasse à festa.	297531
+He gave me a present.	Ele me deu um presente.	297539
+He encouraged me to try again.	Ele me incentivou a tentar novamente.	297545
+He told me to speak more slowly.	Ele me disse para falar mais lentamente.	297546
+He told me that I should be more careful.	Ele me disse que eu deveria ter mais cuidado.	297547
+He used to tell me stories about India.	Ele gostava de me contar histórias sobre a Índia.	297552
+He explained the rule to me.	Ele me explicou a regra.	297555
+He sent me an affectionate letter.	Ele me escreveu uma carta cheia de afeição.	297559
+He told me not to tell lies.	Ele me disse para não contar mentiras.	297566
+He showed me the way to the station.	Mostrou-me o caminho até a estação.	297569
+He assured me of his help.	Ele me garantiu a sua ajuda.	297570
+He advised me not to smoke.	Ele me aconselhou a não fumar.	297571
+He asked me what my name was.	Ele me perguntou qual era meu nome.	297575
+He presented me with a bouquet of flowers.	Ele me presenteou com um buquê de flores.	297577
+He came to see me.	Ele veio para me ver.	297579
+He warned me of the danger.	Ele me alertou do perigo.	297589
+He told me to go home and I obeyed him.	Ele disse para eu ir para casa e eu obedeci.	297590
+He asked for my pardon.	Ele me pediu perdão.	297595
+He told me that he was very tired then.	Ele me disse que estava muito cansado depois.	297613
+He taught me how to write a poem.	Ele me ensinou como escrever um poema.	297618
+He gave me a watch.	Ele me deu um relógio.	297621
+He got me a watch.	Ele me deu um relógio.	297622
+He promised that he would write to me once in a while.	Ele prometeu que escreveria para mim de vez em quando.	297623
+He gave me an example.	Ele me deu um exemplo.	297627
+He offered to help me.	Ofereceu-me ajuda.	297637
+He gave me not just advice, but money as well.	Ele me deu não só conselho, mas também dinheiro.	297647
+He asked me to renew the bond.	Ele me pediu para renovar o título.	297650
+He didn't give me anything to eat.	Ele não me deu nada para comer.	297652
+He is kind to her.	Ele é gentil com ela.	297660
+He asked me if I liked mathematics.	Ele me perguntou se eu gostava de matemática.	297665
+He showed me his stamp collection.	Ele me mostrou a coleção de selos dele.	297669
+He gave me some stamps.	Ele me deu alguns selos.	297670
+He asked if I liked Chinese food.	Ele perguntou se eu gostava de comida chinesa.	297683
+He gave me a piece of advice.	Ele me deu um conselho.	297684
+He wrote me a long letter.	Ele me escreveu uma longa carta.	297685
+He asked me two questions.	Ele me fez duas perguntas.	297695
+He asked me my age, my name, my address, and so forth.	Perguntou minha idade, nome, endereço, etc.	297697
+He begged me to stay.	Ele me implorou para ficar.	297699
+He gave me what money he had.	Ele me deu o dinheiro que ele tinha.	297700
+He told me that she was sick.	Ele me disse que ela estava doente.	297704
+He suggested to me that I should take her there.	Ele sugeriu que eu deveria levá-la até lá.	297707
+He smiled at me and got on the train.	Ele sorriu para mim e entrou no trem.	297709
+He said he would write to me, but he hasn't.	Ele disse que me escreveria, mas não o fez.	297715
+He lent me two books.	Ele me emprestou dois livros.	297718
+He gave me a wink.	Ele piscou pra mim.	297727
+He recommended this dictionary to me.	Ele me recomendou este dicionário.	297749
+He made me sing on the stage.	Ele me fez cantar em cima do palco.	297753
+He is a complete stranger to me.	Ele é um completo estranho para mim.	297754
+He tried to put the blame on me.	Ele tentou colocar a culpa em mim.	297755
+I wonder if he can reserve the flight for me.	Será que ele pode reservar o voo para mim?	297756
+He suggested a plan similar to mine.	Ele sugeriu um plano similar ao meu.	297765
+He touched me on the cheek.	Ele tocou na minha bochecha.	297768
+He is an old friend of mine.	Ele é um velho amigo meu.	297769
+He looked over my report.	Ele examinou o meu relatório.	297771
+He can't endure my selfishness any more.	Ele não pode mais aguentar o meu egoísmo.	297772
+He acted as my guide.	Ele agiu como meu guia.	297774
+He listened to my opinion.	Ele escutou a minha opinião.	297778
+He is my best friend.	Ele é meu melhor amigo.	297783
+He looked at all the beautiful things in my house.	Ele olhou todas as coisas bonitas na minha casa.	297791
+He kissed me on the forehead.	Ele me beijou na testa.	297798
+He doesn't live in my neighborhood.	Ele não mora no meu bairro.	297817
+He is as tall as my brother.	Ele é tão alto quanto o meu irmão.	297822
+He's like a brother to me.	Ele é como um irmão para mim.	297823
+He nodded to show that he approved of my plan.	Ele balançou a cabeça para me mostrar que aprovou meu plano.	297830
+He paid no attention to my warning.	Ele não prestou atenção ao meu aviso.	297831
+He tapped me on the shoulder.	Ele deu-me uma palmada no ombro.	297836
+He doesn't speak our language.	Ele não fala a nossa língua.	297848
+He earns three times as much as I.	Ele ganha três vezes mais que eu.	297859
+He has three times as many books as I have.	Ele tem três vezes mais livros que eu.	297860
+He assisted me with my business.	Ele me auxiliou com meus afazeres.	297864
+He forgot to give back my dictionary.	Ele esqueceu de devolver meu dicionário.	297873
+He answered my question easily.	Ele respondeu facilmente à minha questão.	297876
+He nodded in response to my question.	Ele inclinou a cabeça em resposta à minha pergunta.	297878
+He didn't answer my question.	Não respondeu à minha pergunta.	297879
+He will never forgive my debt.	Ele nunca perdoará minha dívida.	297881
+He held out his hand and I took it.	Ele estendeu a mão e eu a peguei.	297883
+He didn't reply to my letter.	Ele não respondeu a minha carta.	297892
+He asked for my advice.	Ele pediu meu conselho.	297901

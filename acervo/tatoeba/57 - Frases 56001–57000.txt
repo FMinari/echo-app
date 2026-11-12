@@ -1,0 +1,1000 @@
+You've got to help me.	Você tem de me ajudar.	1895548
+You've got my help if you need it.	Você tem minha ajuda, se dela precisar.	1895552
+You've both been very helpful.	Vocês dois têm sido muito úteis.	1895553
+You're smarter than Tom is.	Você é mais esperto que o Tom.	1895573
+You're smarter than I am.	Você é mais inteligente que eu.	1895575
+You're not the only one who knows how to do that.	Você não é o único que sabe fazer isso.	1895585
+You're lucky it didn't rain yesterday.	Você teve sorte de não ter chovido ontem.	1895601
+You're going to need your umbrella.	Vai precisar do seu guarda-chuva.	1895611
+You're going to love this book.	Você vai adorar este livro.	1895612
+You're going to like Tom.	Vocês vão gostar do Tom.	1895613
+You're braver than I am.	Você é mais corajoso do que eu.	1895625
+You're acting like a child.	Você está agindo como uma criança.	1895630
+You won't be needing that.	Você não irá precisar disso.	1895645
+You shouldn't have come back.	Você não deveria ter voltado.	1895660
+You shouldn't have come alone.	Você não deveria ter vindo sozinho.	1895661
+You should've listened to me.	Você deveria ter me escutado.	1895666
+You should've gone there by yourself.	Você devia ter ido sozinho.	1895667
+You should wash your face.	Você deveria lavar o rosto.	1895672
+You should wash your car.	Você deveria lavar o seu carro.	1895673
+You said Mary was a flight attendant.	Você disse que Mary era aeromoça.	1895691
+You said it was beef. However, I think it's pork.	Você disse que era carne de boi, mas eu acho que é carne de porco.	1895692
+You said I was a liar.	Você disse que eu era um mentiroso.	1895693
+You owe me an explanation.	Você me deve uma explicação.	1895697
+You ought to trust me.	Você deveria confiar em mim.	1895698
+You need to keep trying until you get it right.	Você precisa continuar tentando até conseguir.	1895703
+You must face your fears.	Você precisa encarar os seus medos.	1895705
+You lied to me again.	Você mentiu para mim outra vez.	1895721
+You know where Tom is.	Você sabe onde Tom está.	1895723
+You know what Tom wants.	Você sabe o que Tom quer.	1895724
+You know what I want.	Você sabe o que eu quero.	1895725
+You know we'd never hurt you.	Você sabe que nós nunca te machucaríamos.	1895726
+You know Tom is telling the truth.	Você sabe que Tom está dizendo a verdade.	1895727
+You haven't done anything wrong.	Você não fez nada de errado.	1895731
+You have to spend more time with your son.	Você tem que passar mais tempo com seu filho.	1895732
+You have to help me.	Você tem de me ajudar.	1895735
+You have to call Tom.	Você precisa ligar para o Tom.	1895739
+You have no idea how much time I've spent on this project.	Você não tem ideia do tempo que gastei neste projeto.	1895747
+You have a secret admirer.	Você tem um admirador secreto.	1895751
+You don't owe me anything.	Você não me deve nada.	1895759
+You don't need to come into the office tomorrow.	Você não precisa ir ao escritório amanhã.	1895761
+You don't look like you're enjoying yourself.	Você não parece estar curtindo.	1895764
+You don't have to thank me.	Não tens que me agradecer.	1895770
+You don't have to tell Tom twice to do something.	Você não precisa mandar duas vezes Tom fazer algo.	1895771
+You didn't have to come into the office today.	Você não tinha que vir no escritório hoje.	1895779
+You can't keep Tom from going to work tomorrow.	Você não pode impedir que Tom vá trabalhar amanhã.	1895789
+You can come with us.	Você pode vir conosco.	1895812
+You can always ask me for help.	Você pode sempre me pedir ajuda.	1895816
+You are going to be OK.	Você vai ficar bem.	1895824
+You almost stepped on the dog's tail.	Você quase pisou no rabo do cachorro.	1895829
+I was, I am and I will be a tired being.	Eu era, eu sou e serei um cansado.	1896907
+The water bottle is in the fridge.	A garrafa d'água está na geladeira.	1897488
+Paper, glass and plastic are recyclable materials.	Papel, vidro e plástico são materiais recicláveis.	1897494
+If you don't leave right now, I'll call security.	Se você não sair agora, vou chamar o segurança.	1897682
+If you think that this is going to be easy, you're wrong.	Se você acha que isso vai ser fácil, você está enganado.	1897686
+If you're going to the beach, you need sunscreen.	Se você for à praia, vai precisar de filtro solar.	1897688
+It doesn't look like Tom is very happy.	Não parece que Tom está muito feliz.	1897696
+It looks like I got here too early.	Parece que cheguei aqui cedo demais.	1897703
+It looks like Tom got what he wanted.	Parece que Tom conseguiu o que queria.	1897705
+It looks like Tom is going to cry.	Parece que Tom vai chorar.	1897706
+It looks like we'll get there in time.	Parece que chegaremos lá a tempo.	1897712
+It looks like you took care of the problem.	Parece que você tomou conta do problema.	1897715
+It may take a while.	Pode demorar um pouco.	1897719
+It was a simple matter.	Era um problema simples.	1897725
+It was all my fault.	Foi tudo culpa minha.	1897726
+It was nice talking to you.	Foi bom conversar contigo.	1897730
+It wasn't Tom who betrayed us.	Não foi o Tom quem nos traiu.	1897739
+That sounds like a lot of work.	Isto soa a trabalho duro.	1897762
+That's an even better idea.	Essa é uma ideia ainda melhor.	1897781
+That's not how you spell my name.	Não é assim que se soletra o meu nome.	1897803
+That's not what I want.	Não é isso o que eu quero.	1897810
+That's not what I'm saying.	Não é isso o que eu estou dizendo.	1897811
+That's what friends are for.	Amigo é para essas coisas.	1897825
+I expected better of him.	Eu esperava mais dele.	1897851
+I expected better of her.	Eu esperava mais dela.	1897852
+He wants to be different.	Ele quer ser diferente.	1897872
+I just want to be different.	Eu só quero ser diferente.	1897874
+How long have you been traveling?	Há quanto tempo você está viajando?	1897896
+When I first met Tom, I was eighteen.	Quando conheci o Tom, tinha dezoito anos.	1898012
+What's the title of the book you're reading?	Qual é o título do livro que está lendo?	1898013
+What Tom really wanted was enough money to buy a house.	O que o Tom realmente queria era dinheiro suficiente para comprar uma casa.	1898021
+What Tom really wanted was a rest.	O que Tom realmente queria era um descanso.	1898023
+What Tom really wanted was a date with Mary.	O que Tom queria mesmo era ter um encontro com Mary.	1898027
+What did Tom do with the money?	O que Tom fez com o dinheiro?	1898036
+What could they possibly tell us that we don't already know?	O que eles, possivelmente, poderiam nos contar que nós já não saibamos?	1898037
+What are the chances that Tom will actually come?	Quais são as chances de o Tom vir realmente?	1898038
+What are the chances of that happening?	Quais são as chances de isso acontecer?	1898039
+We'll never have to do this again.	Nunca mais teremos de fazer isso.	1898042
+We might as well wait until Tom gets here.	Nós deveríamos, também, esperar até que o Tom chegue aqui.	1898045
+Tom carved his initials on the large oak tree in front of the school.	O Tom gravou as iniciais dele no grande carvalho na frente da escola.	1898057
+Three of Tom's friends went to Mary's party.	Três dos amigos de Tom foram à festa de Maria.	1898058
+This would be a lot easier if you would help.	Isto seria muito mais fácil se você ajudasse.	1898061
+This was all a mistake.	Tudo isto foi um erro.	1898063
+This is your last chance.	Esta é a sua última chance.	1898082
+This is the last time I'm going to tell you this.	Esta é a última vez que eu vou te dizer isto.	1898089
+This is the last piece of cake.	Este é o último pedaço de bolo.	1898090
+This is the best guitar in the store.	Este é o melhor violão da loja.	1898092
+This is not a game.	Isto não é um jogo.	1898099
+This is easy. It's like taking candy from a baby.	Isso é como tirar doce de uma criança.	1898109
+This is a good place to pitch a tent.	Este é um bom lugar para montar uma barraca.	1898116
+This doesn't seem to make sense.	Isso não parece fazer sentido.	1898117
+They've had plenty of time.	Eles tiveram bastante tempo.	1898120
+They're all scared of Tom.	Eles estão todos com medo do Tom.	1898130
+They'll take care of Tom.	Eles vão cuidar do Tom.	1898131
+They won't tell us anything.	Eles não nos dirão nada.	1898132
+They want to have a meeting with you.	Eles querem ter uma reunião com você.	1898133
+They are probably all dead now.	Eles provavelmente estão todos mortos agora.	1898149
+There's something Tom isn't telling Mary.	Há algo que Tom não está contando para Mary.	1898153
+There's something moving in the next room.	Há algo se movendo no quarto ao lado.	1898155
+There's really nothing else to say.	Realmente não há mais nada para dizer.	1898156
+There's only one way to find out how to do that. Ask Tom.	Só há uma maneira de descobrir como fazer isso. Pergunte ao Tom.	1898157
+There's no way to know who's coming.	Não há como saber quem vem.	1898158
+There's no way to know how much that will cost.	Não há como saber quanto vai custar.	1898159
+There's no need to be gentle.	Não precisa ser gentil.	1898160
+There's no need to ask for permission.	Não precisa pedir permissão.	1898161
+There's no blood on the floor.	Não há sangue no chão.	1898162
+There's a fine line between what's acceptable and what's unacceptable.	Existe uma fina linha entre o que é aceitável e o que é inaceitável.	1898165
+There's a fine line between what's acceptable and what's not.	Existe uma fina linha entre o que é aceitável e o que não é.	1898166
+There's a fine line between love and hate.	Existe uma fina linha entre amor e ódio.	1898167
+There's a fine line between genius and stupidity.	Existe uma fina linha entre genialidade e estupidez.	1898168
+There's a fine line between genius and insanity.	Existe uma fina linha entre genialidade e insanidade.	1898169
+There's a call for you. It's Tom.	Ligação para você. É o Tom.	1898171
+There were three women standing at the bar.	Havia três mulheres paradas no bar.	1898172
+There were almost no cars in the parking lot.	Quase não havia carros no estacionamento.	1898173
+There was a bullet hole in the windshield.	Havia um furo de bala no para-brisas.	1898176
+There must be some mistake.	Deve haver algum erro.	1898177
+There must be a way we can convince Tom to work for us.	Deve haver um jeito de convencer o Tom a trabalhar com a gente.	1898179
+There may be another way to do this.	Deve haver outra forma de fazer isso.	1898180
+There is nothing I can do to change that.	Não há nada que eu possa fazer para mudar isso.	1898182
+There is no other explanation.	Não há outra explicação.	1898183
+There is a crowd of women around Tom.	Há uma multidão de mulheres ao redor do Tom.	1898184
+There are only two correct answers.	Só há duas respostas corretas.	1898185
+There are many things worse than death.	Há muitas coisas piores que a morte.	1898186
+The supermarket didn't have what I wanted.	O supermercado não tinha o que eu queria.	1898190
+The students pretended that they couldn't hear the teacher.	Os alunos fingiram que não conseguiam ouvir o professor.	1898192
+The shirt you gave me fit perfectly.	A camisa que você me deu serviu certinho.	1898194
+The police showed me your picture.	A polícia me mostrou a sua foto.	1898198
+The police have been following me.	A polícia tem estado me seguindo.	1898199
+The police aren't after us anymore.	A polícia não está mais atrás da gente.	1898201
+The police are not here to arrest you.	A polícia não está aqui para te prender.	1898202
+The old man in the wheelchair told me that he knew my mother when she was a teenager.	O velho da cadeira de rodas disse-me que conheceu a minha mãe quando ela era adolescente.	1898209
+The next time you do that, you're fired.	Da próxima vez que fizer isso, você está despedido.	1898210
+The man carrying a violin seemed upset.	O homem que carregava um violino parecia chateado.	1898211
+The fugitive is armed and dangerous.	O fugitivo está armado e é perigoso.	1898216
+The fireman chopped his way through the door.	O bombeiro entrou cortando a porta.	1898218
+The doctor told Tom that he only had six months to live.	O médico disse ao Tom que ele só tinha seis meses de vida.	1898220
+The campfire is still burning.	A fogueira ainda está acesa.	1898222
+The bartender kicked Tom out of the bar.	O garçom botou o Tom para fora do bar.	1898223
+Thanks for saving my life.	Obrigado por salvar a minha vida.	1898229
+Thanks for calling. I was just about to call you.	Obrigado por ligar. Eu estava a ponto de te ligar.	1898233
+Thanks for believing in me.	Obrigado por acreditar em mim.	1898234
+Thank you for being my friend.	Obrigado por ser meu amigo.	1898236
+Someone told me you left your husband.	Alguém me disse que você deixou seu marido.	1898247
+Someone told me Mary left her husband.	Alguém me contou que a Mary deixou o marido.	1898248
+Please tell me you're OK.	Por favor, diga-me que está bem.	1898257
+Please tell me how to get to your house.	Por favor, diga-me como chegar a sua casa.	1898258
+Please send help right away.	Mande ajuda imediatamente, por favor.	1898260
+Please return to your seat.	Por favor, volte ao seu lugar.	1898261
+Please don't say anything embarrassing.	Por favor, não diga nada embaraçoso.	1898268
+Oh, by the way, I have something to show you.	Oh, falando nisso, eu tenho algo para te mostrar.	1898286
+Nobody's getting out of here alive.	Ninguém vai sair vivo daqui.	1898293
+Nobody tried to help Tom.	Ninguém tentou ajudar o Tom.	1898294
+Nobody had anything else to say.	Ninguém tinha mais nada a dizer.	1898295
+Nobody else would help Tom.	Ninguém mais ajudaria o Tom.	1898296
+Nobody deserves to die like that.	Ninguém merece morrer assim.	1898297
+No one has heard Tom say Mary's name.	Ninguém ouviu o Tom dizer o nome da Maria.	1898300
+My pen is out of ink.	Minha caneta está sem tinta.	1898302
+My pen has run out of ink.	A tinta da minha caneta acabou.	1898303
+My parents fought all the time when I was a kid.	Meus pais brigavam o tempo todo quando eu era criança.	1898304
+My mother never wanted to be just a housewife.	Minha mãe nunca quis ser só uma dona de casa.	1898308
+My life isn't worth living.	Minha vida não vale a pena ser vivida.	1898309
+My grandfather died in Korea.	O meu avô morreu na Coreia.	1898311
+My French is a little rusty.	Meu francês está um pouco enferrujado.	1898312
+My father died in Vietnam.	O meu pai morreu no Vietnã.	1898313
+My cold is getting worse.	Meu resfriado está piorando.	1898314
+My car cost more than yours did.	Meu carro custou mais que o seu.	1898315
+Maybe we should wait until Tom gets here.	Talvez devêssemos esperar até o Tom chegar aqui.	1898316
+Maybe we should tell Tom that he's being obnoxious.	Talvez tenhamos de dizer ao Tom que ele está sendo detestável.	1898317
+Maybe we should come back later.	Talvez devêssemos voltar mais tarde.	1898318
+Maybe we should be quiet.	Talvez devêssemos ficar quietos.	1898319
+Maybe we should ask Tom if he wants this old piano.	Talvez devêssemos perguntar ao Tom se ele quer este piano velho.	1898320
+Maybe we could get together tomorrow afternoon.	Talvez pudéssemos nos encontrar amanhã à tarde.	1898321
+Maybe we already have enough money to buy a house.	Talvez já tenhamos dinheiro suficiente para comprar uma casa.	1898322
+Maybe Tom is in love.	Talvez Tom esteja apaixonado.	1898325
+Maybe I should become a painter.	Talvez devesse me tornar pintor.	1898327
+Mary's dress doesn't fit her very well.	O vestido de Mary não lhe serve muito bem.	1898328
+Mary thought she could change Tom.	A Maria pensou que podia mudar o Tom.	1898332
+Mary is not my type.	Maria não é meu tipo.	1898336
+Mary came on her own.	Maria veio sozinha.	1898340
+Like it or not, we have to attend that meeting.	Goste ou não, precisamos ir a essa reunião.	1898343
+Just so you know, I'm an FBI agent.	Só para que você saiba, eu sou um agente do FBI.	1898349
+It's too bad you've caught a cold.	É uma pena que tenha pegado um resfriado.	1898354
+It's too bad you can't stay a little longer.	É uma pena que não possa ficar mais um pouquinho.	1898355
+It's too bad you can't come with us today.	É uma pena que não possa vir conosco hoje.	1898356
+I never wanted to leave Boston.	Eu nunca quis ir embora de Boston.	1898359
+I never wanted to hurt Tom.	Eu nunca quis machucar o Tom.	1898360
+I never wanted to be a fireman.	Eu nunca quis ser bombeiro.	1898361
+I never want to see you again.	Não quero te ver nunca mais.	1898362
+I never want to retire.	Não quero me aposentar nunca.	1898363
+I never want to hear his name again.	Não quero ouvir seu nome nunca mais.	1898364
+I never want to eat at this restaurant again.	Não quero comer nesta restaurante nunca mais.	1898365
+I need somebody to talk to.	Preciso de alguém com quem conversar.	1898366
+I hope we'll never have to do that again.	Espero que nunca precisemos fazer isso de novo.	1898367
+I didn't want to risk missing the train, so I arrived at the station an hour early.	Não queria correr o risco de perder o trem, então cheguei à estação uma hora mais cedo.	1898368
+His first name was Tom.	Seu primeiro nome era Tom.	1898373
+Here's someone I want you to meet.	Eis aqui alguém que eu quero que conheça.	1898376
+Everything's going to be fine.	Vai ficar tudo bem.	1898384
+Everything in this room needs to be sold.	Tudo o que há nesta sala precisa ser vendido.	1898386
+Everyone's having a great time.	Todo mundo está se divertindo.	1898391
+Everyone knows Tom has poor people skills.	Todo mundo sabe que o Tom tem poucas habilidades pessoais.	1898394
+Do you think Tom will come?	Você acha que Tom virá?	1898404
+Do you really want me to do that?	Você realmente quer que eu faça isso?	1898408
+Do whatever needs to be done.	Faça o que for necessário.	1898410
+Both of my parents died when I was five.	Os meus pais morreram quando eu tinha cinco anos.	1898419
+Both of my parents can speak French.	Meu pai e minha mãe sabem falar francês.	1898420
+Both girls plan to go to college.	As duas meninas pretendem entrar na faculdade.	1898421
+Both girls coughed at the same time.	As duas garotas tossiram ao mesmo tempo.	1898423
+As soon as Tom heard the phone, he answered it.	Assim que Tom ouviu o telefone, ele o atendeu.	1898425
+All you need to do is wait.	Tudo o que você precisa fazer é esperar.	1898427
+All you need to do is listen carefully.	Tudo o que você precisa fazer é escutar atenciosamente.	1898428
+All Tom can think about is sleep.	O Tom só sabe pensar em dormir.	1898437
+All Tom can think about is Mary.	O Tom só consegue pensar na Maria.	1898438
+All Tom can think about is food.	O Tom só consegue pensar em comida.	1898439
+All the boys were yelling.	Todos os meninos estavam gritando.	1898440
+All the boys were whistling and cheering.	Todos os garotos assobiavam e regozijavam.	1898441
+All the boys were looking at Tom.	Todos os meninos estavam olhando para o Tom.	1898442
+All the boys were dancing.	Todos os meninos estavam dançando.	1898443
+All I can do at the moment is wait.	Tudo o que eu posso fazer no momento é esperar.	1898444
+All I can do at the moment is sit here and listen.	Tudo o que eu posso fazer no momento é sentar-me aqui e escutar.	1898445
+A woman like you doesn't deserve a man like me.	Uma mulher como você não merece um homem como eu.	1898446
+A pretty girl like you will definitely be noticed.	Uma garota linda como você certamente será notada.	1898449
+A lot of people are coming out of the movie theater.	Muitas pessoas estão saindo do cinema.	1898450
+A boy like Tom doesn't deserve a girl like Mary.	Um garoto como o Tom não merece uma garota como a Maria.	1898451
+I'm very glad to have found this site, because it rocks!	Estou muito contente de ter encontrado esta página, pois está muito boa.	1898456
+That fighter plane dropped a bomb.	O caça lançou uma bomba.	1898532
+We'll talk about it tomorrow.	Falaremos sobre isso amanhã.	1898808
+You have a big nose.	Você tem um narigão.	1898983
+My friend doesn't play tennis.	Meu amigo não joga tênis.	1899347
+I will not blame him for the accident.	Não o culparei pelo acidente.	1899396
+Don't take it too literally.	Não encare de forma tão literal.	1899412
+I don't know how to continue this sentence.	Não sei como continuar esta frase.	1899601
+I don't know what happens here.	Não sei o que acontece aqui.	1899639
+Wake us up in time for breakfast.	Desperte-nos a tempo para o café da manhã.	1899651
+He threw the banana away.	Ele jogou a banana fora.	1900164
+I will change this translation.	Eu vou modificar essa tradução.	1900165
+Just download the app, install it, and run it. It's as easy as that!	É só baixar o aplicativo, instalar e abrir. Fácil assim.	1900574
+"It's a miracle! It moved!" "I think it's the wind."	"É um milagre! Se mexeu!" "Eu acho que é o vento."	1901584
+You look like a girl.	Você parece uma menina.	1901595
+You look like a boy.	Você parece um menino.	1901600
+How will I pay my debts now?	Como eu pagarei minhas dívidas agora?	1901610
+How will we pay our debts now?	Como nós pagaremos nossas dívidas agora?	1901611
+How will she pay her debts?	Como ela pagará suas dívidas?	1901612
+You don't need to wait.	Você não precisa esperar.	1901678
+Are you tired of waiting in line?	Está cansada de esperar na fila?	1901680
+I did what I had to do.	Eu fiz o que tinha de fazer.	1901695
+I have a liberal neighbor.	Eu tenho um vizinho liberal.	1901710
+I have a Jewish neighbor.	Tenho um vizinho judeu.	1901711
+I have an Egyptian neighbor.	Eu tenho um vizinho Egipcio.	1901752
+Tom and Mary live in separate states.	Tom e Maria moram em estados diferentes.	1901777
+Tom reads the New York Times.	Tom lê o New York Times.	1901789
+Tom reads the Washington Post every day.	Tom lê o 'Washington Post' todos os dias.	1901790
+My car is older than me.	O meu carro é mais velho que eu.	1901791
+I did what I was told.	Eu fiz o que me mandaram fazer.	1901799
+Don't believe anything he says.	Não acredite em nada do que ele diz.	1901814
+I'm using an expensive watch.	Estou usando um relógio caro.	1902102
+She calculates faster than any other student.	Ela calcula mais rapidamente que qualquer outro estudante.	1902404
+He has to work on his own.	Ele tem que trabalhar por conta própria.	1902472
+Man proposes and God disposes.	O homem propõe, Deus dispõe.	1903153
+Some scenes from the movie were recorded in Leblon Beach.	Algumas cenas do filme foram gravadas na praia do Leblon.	1903481
+She works for a bank.	Ela trabalha em um banco.	1903592
+Enjoy your youth while it lasts.	Aproveite a sua juventude enquanto dure.	1904194
+What on earth is this?	O que diabo é isso?	1904244
+She agreed with my idea.	Ela concordou com a minha ideia.	1904269
+She's the perfect girl for you.	Ela é a garota perfeita para você.	1904454
+Tom has a heavy German accent.	Tom tem um sotaque alemão muito pesado.	1904459
+She talks with a heavy German accent.	Ela fala com um forte sotaque alemão.	1904460
+Tom has a southern accent.	Tom tem sotaque sulista.	1904467
+Tom has a British accent.	Tom tem sotaque britânico.	1904469
+Tom has an American accent.	Tom tem sotaque americano.	1904470
+What kind of American accent does Tom have?	Que tipo de sotaque americano o Tom tem?	1904472
+Tom has an Australian accent.	Tom tem sotaque australiano.	1904473
+Tom is a New Yorker, but he doesn't have a New York accent.	Tom é nova-iorquino, mas não tem sotaque de Nova Iorque.	1904475
+She doesn't have any proof.	Ela não tem nenhuma prova.	1904478
+Don't try to do two things at the same time.	Não tente fazer duas coisas ao mesmo tempo.	1904648
+I'm not even sure whether Tom will come or not.	Nem sequer tenho certeza se Tom virá ou não.	1904814
+This is my friend's letter.	Esta é a carta do meu amigo.	1905029
+Today I am four years old.	Hoje completo quatro anos.	1905091
+Come in. The door is open.	Entre, a porta está aberta.	1905347
+They met on a blind date.	Eles se conheceram em um encontro às escuras.	1905852
+Nature is like a book that wants to be read and properly understood.	A natureza é como um livro que quer ser lido e devidamente compreendido.	1905910
+We have a five percent chance of success.	Temos cinco por cento de probabilidade de êxito.	1906412
+She woke up naked on the floor.	Ela acordou pelada no chão.	1907897
+Tell her what he told you.	Diga-lhe o que ele te disse.	1907927
+Tell them what I told you.	Diga a eles o que eu te disse.	1907930
+What I did was wrong.	O que eu fiz foi errado.	1908368
+He made me a cake.	Ele fez um bolo para mim.	1908417
+Do you have a crush on Tom?	Você tem uma queda por Tom?	1908418
+Do you have a crush on Mary?	Você está apaixonado pela Mary?	1908420
+Tom, what are you doing?	Tom, o que você está fazendo?	1908438
+You cannot hit your brother.	Você não pode bater em seu irmão.	1908445
+You cannot hit your sister.	Você não pode bater em sua irmã.	1908447
+I was the one who suggested it.	Fui eu quem sugeriu isto.	1908944
+I never want to see her again.	Não quero vê-la nunca mais.	1908959
+You won't believe what I just saw!	Você não vai acreditar no que eu acabei de ver!	1908980
+Do you really expect me to help you?	Você espera que eu realmente te ajude?	1909016
+Tom said it was too risky to go there alone.	Tom disse que foi muito arriscado ir lá sozinho.	1910421
+I haven't been home on a Friday night since I was thirteen.	Eu não estive em casa numa noite de sexta desde que eu tinha treze anos.	1911065
+All the guests have gone home.	Todos os convidados foram para casa.	1911732
+None of this makes any sense.	Nada disso faz sentido.	1911854
+She lives in a gated community.	Ela vive numa comunidade fechada.	1911858
+I have never seen anyone like him.	Eu nunca vi ninguém como ele.	1911861
+I have never seen anyone like you.	Eu nunca vi ninguém qual você.	1911863
+She has a fertile imagination.	Ela tem uma imaginação fértil.	1911866
+Guess who's coming for dinner.	Adivinha quem está vindo jantar.	1911867
+You have the right to remain silent.	Você tem o direito de permanecer calado.	1911885
+I want to live in the same neighborhood where Tom lives.	Eu quero morar no mesmo bairro em que Tom mora.	1911891
+I want to eat the same thing Tom is eating.	Eu quero comer a mesma coisa que o Tom está comendo.	1911894
+I want to buy the same car that Tom wants to buy.	Quero comprar o mesmo carro que Tom.	1911895
+She left the farm to go to the city.	Ela deixou a fazenda para ir à cidade.	1911897
+Tom is eating breakfast with his family.	Tom está tomando café da manhã com a família.	1911898
+This is the craziest thing I've ever heard.	Esta é a coisa mais louca que eu já ouvi.	1911900
+This is the craziest thing I've ever seen.	Esta é a coisa mais louca que eu já vi.	1911901
+Do what you have to do.	Faça o que tem de fazer.	1911902
+Just do what you have to do.	Apenas faça o que você tem de fazer.	1911903
+I can scarcely sleep at night.	Mal durmo à noite.	1911905
+He showed her the way.	Ele mostrou-lhe o caminho.	1911907
+I showed her the way.	Mostrei-lhe o caminho.	1911908
+She showed me the way.	Ela me mostrou o caminho.	1911909
+He showed me the way.	Ele me mostrou o caminho.	1911911
+I showed him the way.	Eu mostrei o caminho para ele.	1911912
+She seems interested in me.	Ela parece interessada em mim.	1911922
+He seems interested in me.	Ele parece interessado em mim.	1911923
+She seems interested in him.	Ela parece interessada nele.	1911924
+He seems interested in her.	Ele parece interessado nela.	1911925
+My cat is following me.	O meu gato está me seguindo.	1911930
+I want to go home and sleep.	Eu quero ir para casa dormir.	1911936
+I dreamt of coming to class naked.	Eu sonhava em ir para a aula nu.	1911945
+I think it's cruel to keep a cat inside.	Eu acho cruel deixar um gato preso dentro de casa.	1911950
+Atlantis sank into the sea.	A Atlântida afundou no mar.	1911959
+Tom thinks he has found Atlantis.	Tom acha que encontrou a Atlântida.	1911960
+I don't believe Atlantis ever existed.	Eu não acredito que a Atlântida tenha existido.	1911962
+I have always liked the mountains.	Eu sempre gostei das montanhas.	1911963
+She fell in love with a vampire.	Ela se apaixonou por um vampiro.	1911977
+It doesn't fit well here.	Não encaixa bem aqui.	1911980
+Do you want me to walk you home?	Você quer que eu te acompanhe até em casa?	1911981
+I've been riding so long I'm starting to smell like my horse.	Tenho estado a cavalgar há tanto tempo que estou a começar a cheirar como o meu cavalo.	1911983
+I must do it now.	Devo fazê-lo agora.	1911987
+He must do it now.	Ele deve fazer isso agora.	1911988
+She must do it now.	Ela deve fazer isso agora.	1911989
+I could have stopped Tom, but I didn't.	Poderia ter detido o Tom, mas não o detive.	1911992
+I don't know where to begin.	Não sei por onde começar.	1911993
+What's the last thing you remember?	Qual é a última coisa de que você se lembra?	1912001
+You're the champion, aren't you?	Você é o campeão, não é?	1912002
+He was staring at her.	Ele a estava mirando.	1912007
+She was staring at him.	Ela o estava mirando.	1912008
+What do you expect to happen?	O que você espera que aconteça?	1912011
+What did you expect to happen?	O que você esperava que acontecesse?	1912012
+Tom came to see me after you left.	O Tom veio me ver depois que você foi embora.	1912013
+Just out of curiosity, what do you expect to happen?	Só por curiosidade, o que você espera que aconteça?	1912014
+I'm from the East Coast.	Eu sou da Costa Leste.	1912019
+I'm from the West Coast.	Eu sou da costa oeste.	1912020
+I would like to meet you.	Gostaria de conhecer-te.	1912023
+He's sweet, fun and talented.	Ele é doce, divertido e talentoso.	1912024
+He dressed like a girl.	Ele se vestiu como uma garota.	1912053
+Do you see the rose?	Vês a rosa?	1912209
+Do you see a rose?	Vês uma rosa?	1912211
+Do you see the star?	Vês a estrela?	1912215
+Do you see a star?	Vês uma estrela?	1912217
+Do you see the queen?	Vês a rainha?	1912221
+Do you see a queen?	Vês uma rainha?	1912222
+Do you see my rose?	Vês a minha rosa?	1912226
+Do you see my pen?	Vês a minha caneta?	1912228
+Which rose do you see?	Que rosa vês?	1912234
+What table do you see?	Que mesa vês?	1912237
+Do you see the crown?	Vês a coroa?	1912240
+What crown do you see?	Que coroa vês?	1912246
+Which pen do you see?	Que caneta vês?	1912249
+Do you see your table?	Vês a tua mesa?	1912250
+Today I feel higher than the mountains. Today I want to touch the sky.	Hoje me sinto mais alto que as montanhas. Hoje quero tocar o céu.	1912864
+Give me one good reason.	Dá-me uma boa razão.	1912958
+Where do we go from here?	Aonde vamos daqui?	1912962
+What a fool I've been!	Que tolo eu fui!	1913097
+What a lot of pens!	Quantas canetas!	1913100
+If only I'd done my homework!	Se pelo menos eu tivesse feito o meu dever de casa!	1913258
+If I'd only listened to my parents!	Se eu tivesse dado ouvido aos meus pais!	1913264
+If life gives you lemons, make lemonade.	Se a vida te der limões, faça uma limonada.	1914519
+The teachers greeted the children.	Os professores cumprimentaram as crianças.	1914669
+She knew something was wrong.	Ela sabia que algo estava errado.	1915226
+How do you pronounce his name?	Como se pronuncia o nome dele?	1915628
+How do you pronounce her name?	Como se pronuncia o nome dela?	1915668
+How often do you wash your clothes?	Com que frequência você lava as suas roupas?	1915769
+How often do you wash your jeans?	Com que frequência você lava os seus jeans?	1915771
+How often do you wash your bed sheets?	Com que frequência você lava os lençóis cama?	1915772
+How often do you brush your teeth?	Com que frequência você escova os dentes?	1915773
+How often do you shower?	Com que frequência você toma banho?	1915774
+How often do you wash your sheets?	Com que frequência você lava seus lençóis?	1915786
+I checkmated my opponent by using my two rooks.	Eu dei xeque-mate no meu adversário usando minhas duas torres.	1915796
+My mother's friends are my friends.	Os amigos de minha mãe são meus amigos.	1915803
+It's such a beautiful flower.	É uma flor bem bonita.	1915844
+The boys in the village laughed at me.	Os garotos da vila riram de mim.	1915918
+I'm not ashamed of who I am or what I did.	Não me envergonho de quem sou ou do que fiz.	1915921
+I'm not ashamed of who I am.	Não me envergonho de quem sou.	1915922
+I'm not ashamed of what I did.	Não me envergonho do que fiz.	1915923
+What do I get in return?	O que eu recebo em troca?	1916096
+Tom says that he can't remember anything that happened on the day of the accident.	Tom diz que não consegue se lembrar de nada do que aconteceu no dia do acidente.	1916289
+If a woman has the choice between love and wealth, she always tries to choose both.	Se uma mulher pode escolher entre o amor e a riqueza, ela sempre tenta escolher os dois.	1916366
+I don't like to study languages.	Eu não gosto de estudar línguas.	1916441
+He knows close to nothing about this issue.	Ele não sabe quase nada sobre este assunto.	1916586
+Ah ... okay, I was young, but what a stupid mistake!	Ah, tudo bem. Eu era jovem, mas que erro estúpido!	1916593
+The women of the group are different from each other.	As mulheres do grupo são diferentes uma da outra.	1916649
+My guinea pig was my first girlfriend.	O meu porquinho-da-índia foi a minha primeira namorada.	1916731
+I know that she doesn't know who I am.	Eu sei que ela não sabe quem eu sou.	1916881
+Cleaning up radiation, in soil, air, and water, became possible in the 23rd century.	A eliminação da radiação no solo, ar e água tornou-se possível no século XXIII.	1916888
+No, I don't have a drinking problem except when I can't get a drink.	Não, eu não tenho problema com bebida, exceto quando não posso beber.	1916993
+Do you see the portrait?	Você vê o retrato?	1917174
+Can we believe in that?	Podemos acreditar nisso?	1917611
+Does your friend speak Esperanto?	Sua amiga fala esperanto?	1917668
+A dog's nose is very sensitive.	O nariz do cão é muito sensível.	1917770
+The restaurant will reopen under new management.	O restaurante será reaberto sob nova gerência.	1917777
+The sky is clear and full of stars.	O céu está limpo e cheio de estrelas.	1917913
+The dog wants to leave.	O cachorro quer sair.	1918261
+Of the three girls, Emi was the one who danced most beautifully.	Das três meninas, Emi era a que dançava de forma mais bela.	1918270
+I buy things that I know I am not going to use.	Eu compro coisas que sei que não vou usar.	1918276
+The boys played cops and robbers.	Os meninos brincavam de polícia e ladrão.	1918280
+Friendship is a matter of trust.	A amizade é uma questão de confiança.	1918316
+Her heart was beating wildly.	O seu coração batia desenfreadamente.	1918318
+His heart was beating wildly.	Seu coração batia desenfreadamente.	1918319
+He wants to learn to swim.	Ele quer aprender a nadar.	1918320
+She wants to learn to swim.	Ela quer aprender a nadar.	1918321
+She knew what needed to be done.	Ela sabia o que se devia fazer.	1918439
+"I am very happy," he said.	"Estou muito feliz", disse ele.	1918441
+The time has passed very quickly.	O tempo passou muito depressa.	1918450
+The two-spotted ladybird is very rare.	A joaninha de duas pintas é muito rara.	1918763
+I sent it by post.	Enviei-o pelo correio.	1919352
+I'll be damned, if by the end of the movie the chef doesn't turn out to be the killer.	Se o cozinheiro não for o assassino no final do filme, eu vou pagar a língua.	1920003
+It's never too late to start.	Nunca é tarde demais para começar.	1920099
+It's a matter of life and death.	É uma questão de vida ou morte.	1920134
+My son is a rebellious teenager.	O meu filho é um adolescente rebelde.	1920147
+Where do we come from? Who are we? Where are we going?	De onde viemos? Quem somos? Para onde vamos?	1920252
+I visited her in Germany.	Visitei-a na Alemanha.	1920282
+Do you want to see more?	Você quer ver mais?	1920420
+Would you like to see Tom?	Gostaria de ver o Tom?	1920440
+Would you like to see my new car?	Você gostaria de ver meu carro novo?	1920441
+Do you think he will like it?	Você acha que ele vai gostar?	1920444
+What else do you have?	O que mais você tem?	1920679
+What do you want me to do, Tom?	O que quer que eu faça, Tom?	1920680
+When can I see you again?	Quando poderei te ver novamente?	1920685
+I love talking to you.	Adoro falar com você.	1920694
+Do you think anyone can see us?	Você acha que alguém pode nos ver?	1920695
+Do you think anyone can see me?	Você acha que alguém pode me ver?	1920696
+I'm sure things will work out.	Estou certo de que tudo sairá bem.	1920701
+Are you from around here?	Você é daqui?	1920739
+He decided not to go.	Ele decidiu não ir.	1920767
+What do you have to lose?	O que você tem a perder?	1920773
+Did you know him well?	Você o conhecia bem?	1920822
+Tom wedged the claw of the crowbar under the nailhead and pulled out the nail.	O Tom cravou a garra do pé-de-cabra debaixo da cabeça do prego e puxou o prego para fora.	1922104
+Tom tried to pry open the box with a crowbar.	Tom tentou abrir a caixa com um pé de cabra.	1922106
+Tom pried open the door with a crowbar.	Tom arrombou a porta com um pé de cabra.	1922111
+Tom grabbed a crowbar to use as a weapon.	Tom pegou um pé de cabra para usar como arma.	1922113
+Who will understand the loss?	Quem vai entender a perda?	1922444
+Show me how to do that!	Mostre-me como se faz!	1922460
+If you can kill your enemy, do it, if not, make him your friend.	Se você puder matar seu inimigo, faça-o; senão, faça dele seu amigo.	1922782
+He finished reading the letter.	Ele terminou de ler a carta.	1922889
+The dog is afraid of the horse.	O cachorro tem medo do cavalo.	1922950
+It is much safer to be feared than loved.	É muito mais seguro ser temido do que amado.	1922958
+I felt like an idiot.	Eu me senti um idiota.	1923237
+Her house is a few kilometers away from here.	A casa dela fica a alguns quilômetros daqui.	1923276
+Excuse me, sir, have you been drinking tonight?	Com licença, senhor. O senhor esteve bebendo esta noite?	1923391
+I don't think they're married.	Eu não acho que eles sejam casados.	1923399
+We were in the living room when we heard the gunshot.	Estávamos na sala quando ouvimos o tiro.	1923401
+We heard the sound of gunshots.	Nós ouvimos o barulho dos tiros.	1923404
+We heard gunshots from next door.	Ouvimos tiros vindos do quarto ao lado.	1923405
+Two people say they heard a gunshot.	Duas pessoas dizem ter ouvido um tiro.	1923407
+Tom said he heard gunshots.	Tom disse que ouviu tiros.	1923411
+Tom noticed a gunshot wound in Mary's right arm.	Tom notou um ferimento a bala no braço direito de Maria.	1923412
+Tom heard gunshots and looked out the window to see what was happening.	Tom ouviu tiros e olhou através da janela para ver o que estava acontecendo.	1923414
+Tom heard a gunshot just as he was opening the door.	Tom ouviu um tiro bem quando abria a porta.	1923415
+Three of the bodies had gunshot wounds.	Três dos cadáveres tinham marcas de bala.	1923418
+This patient was brought in with a gunshot wound.	Este paciente foi trazido com um ferimento a bala.	1923419
+This looks like a gunshot wound.	Isto parece um ferimento a bala.	1923420
+There were many ambulances filled with gunshot victims.	Havia muitas ambulâncias carregadas de vítimas de tiroteio.	1923423
+The wall was covered with pictures of gunshot victims.	O muro estava coberto de fotos de vítimas do tiroteio.	1923425
+The two gunshot victims are in the intensive care unit at a nearby hospital.	As duas vítimas baleadas estão em uma unidade de tratamento intensivo em um hospital próximo.	1923426
+The three gunshot victims are in critical condition.	As três vítimas do tiroteio estão em condições críticas.	1923427
+The sound of a gunshot echoed across the canyon.	O som de um tiro ecoou pelo desfiladeiro.	1923428
+I'm not sure what it was, but it sounded like a gunshot.	Eu não tenho certeza do que foi isso, mas soou como um tiro.	1923440
+What does it feel like?	Como é que você está se sentindo?	1923447
+How did it feel like?	Como é que você se sentiu?	1923448
+I keep thinking night and day about you.	Eu fico pensando em você dia e noite.	1923692
+I think about you all the time.	Eu penso em vocês o tempo todo.	1923694
+I think about you all day long.	Eu penso em você o dia todo.	1923695
+Tom asked Mary to help him reformat the hard disk.	O Tom pediu à Maria que o ajudasse a formatar o HD.	1923701
+This product does not contain GMO.	Este produto não contém OGM.	1924160
+Tom had trouble falling asleep.	O Tom tinha problemas para pegar no sono.	1924964
+Tom was very tired and fell asleep during the meeting.	O Tom estava muito cansado e dormiu durante a reunião.	1924970
+Americans under the age of eighteen aren't allowed to vote in presidential elections.	Os estadunidenses menores de dezoito anos não têm o direito de votar nas eleições presidenciais.	1925363
+Are you a registered voter?	Você tem título de eleitor?	1925367
+Are you going to vote in the upcoming election?	Você vai votar nas eleições que vêm?	1925368
+Did you vote in the last election?	Você votou nas últimas eleições?	1925370
+There were 215 votes for the motion and 15 votes against it.	Houve 215 votos a favor da proposta e 15 contra.	1925380
+Tom and Mary are planning to vote for the same candidate.	Tom e Maria pretendem votar no mesmo candidato.	1925383
+Tom says he thinks it's a waste of time to vote.	O Tom diz que, para ele, votar é uma perda de tempo.	1925384
+Tom says he won't vote.	O Tom diz que não vai votar.	1925386
+Does anyone know the Japanese language?	Alguém sabe a língua japonesa?	1925930
+I like Harry, not as much as I like Draco of course, but still I think he's cool.	Eu gosto do Harry; não tanto quanto do Draco, é claro, mas ainda o acho legal.	1926290
+There are many housewives who complain about high prices.	Há muitas donas de casa que reclamam dos preços altos.	1926379
+This afternoon we will have an interview.	Esta tarde teremos uma entrevista.	1926396
+It is absolutely necessary that you drink the medicine before sleeping.	É absolutamente necessário que você tome o remédio antes de dormir.	1926399
+I would like to ask a question.	Eu gostaria de fazer uma pergunta.	1926400
+If the address changes, please contact us.	Se o endereço mudar, favor entrar em contato conosco.	1926401
+I don't know what to do tomorrow.	Eu não sei o que fazer amanhã.	1926402
+What do you want then?	O que você quer então?	1926405
+The new plan has been very successful.	O novo plano foi muito bem sucedido.	1926408
+Hello, have you already eaten?	Olá, você já comeu?	1926409
+The meat has begun to rot.	A carne começou a apodrecer.	1926410
+Will you be here tomorrow?	Você estará aqui amanhã?	1926411
+I want to be alone!	Eu quero ficar sozinho!	1926424
+Tom looked for a job in the end.	O Tom procurou por trabalho no fim.	1928025
+Would there be traitor among us?	Haveria um traidor entre nós?	1929076
+It's annoying to hear people talking loudly in a library.	É irritante ouvir pessoas falando alto em uma biblioteca.	1929630
+I'm not annoying anyone, am I?	Não incomodo a ninguém, não é?	1929645
+That's the most annoying song I've ever heard.	Aquela é a música mais chata que já ouvi.	1929665
+There are mosquitoes even in Greece.	Há mosquitos até mesmo na Grécia.	1929758
+False friends are pairs of words in two languages that are similar in spelling or pronunciation, but differ in meaning.	Falsos amigos são pares de palavras, de duas línguas, que são semelhantes na grafia ou na pronúncia, mas diferem quanto ao significado.	1929826
+You're starting to annoy me.	Você está começando a me irritar.	1930782
+Tom seems more annoyed than angry.	O Tom parece estar mais irritado do que zangado.	1930813
+Thanks for being on time.	Obrigado por chegar na hora.	1930917
+I don't know which child is yours.	Eu não sei qual criança é o seu filho.	1931167
+He has gathered an army of lawless criminals.	Ele reuniu um exército de criminosos fora da lei.	1931235
+It took less than five minutes.	Demorou menos de cinco minutos.	1931896
+I taught my wife how to drive.	Eu ensinei minha esposa a dirigir.	1931920
+I taught my girlfriend how to drive.	Eu ensinei a minha namorada a dirigir.	1931921
+I taught Tom how to drive.	Eu ensinei o Tom a dirigir.	1931923
+There's one thing I must tell you.	Tem uma coisa que devo te contar.	1931939
+"Why did Tom do that?" "I have no idea."	"Por que Tom fez isso?" "Não faço ideia."	1931957
+He wants to talk to you.	Ele quer conversar contigo.	1931974
+The fugitive crossed the river.	O fugitivo atravessou o rio.	1931995
+He's going to cross the river.	Ele vai atravessar o rio.	1931996
+Don't mess with me, Tom!	Não mexa comigo, Tom!	1932041
+The policeman aimed his gun at Tom and yelled, "Hold it right there!"	O policial apontou a arma para Tom e gritou: "Pare aí mesmo!"	1932300
+This box is very heavy.	Esta caixa está muito pesada.	1933181
+I got an F in chemistry.	Fiquei com F em química.	1933290
+I got a D on my science test.	Fiquei com D na prova de ciências.	1933291
+I got a C in English.	Tirei C em inglês.	1933293
+I got a B in physics.	Tirei B em física.	1933294
+I expected to get an A in biology, but I only got a C.	Eu esperava conseguir um A em biologia, mas apenas consegui um C.	1933295
+I appreciate your coming on such short notice.	Obrigado por vir mesmo tendo sido avisado na última hora.	1933590
+I appreciate your attention to detail.	Eu aprecio a sua atenção aos detalhes.	1933592
+I appreciate you coming here.	Muito obrigado por ter vindo.	1933601
+I appreciate the offer, but I can't accept it.	Eu agradeço a proposta, mas não posso aceitá-la.	1933616
+I appreciate everything you've done for me.	Eu aprecio tudo o que você tem feito por mim.	1933629
+I appreciate all you've done for me.	Eu agradeço tudo o que você fez por mim.	1933635
+Georgina bit her lips until they bled.	Georgina mordeu seus lábios até eles sangrarem.	1933737
+This is a good question.	Esta é uma boa pergunta.	1934483
+I've been trying to picture the rest of my life with you.	Eu tenho tentado imaginar o resto de minha vida contigo.	1934713
+I've been trying to get in touch with you for months.	Há meses que eu tento entrar com contato contigo.	1934723
+I've been trying to figure out how Tom did what he did.	Eu tenho tentado descobrir como o Tom fez o que fez.	1934737
+I've been trying to explain to Tom that he can't keep coming in here without permission.	Eu tenho tentado explicar ao Tom que ele não pode entrar aqui sem permissão.	1934740
+I've been trying not to get angry.	Tenho tentado não ficar nervoso.	1934747
+I've been trying not to eat so much candy.	Tenho tentado não comer tanto doce.	1934748
+I wish my daughter would dress more modestly.	Eu gostaria que minha filha se vestisse com mais modestia.	1934755
+Do you know what day it is today?	Você sabe que dia é hoje?	1934756
+"Do you know what day it is today?" "It's our wedding anniversary!"	"Você sabe que dia é hoje?" "É o nosso aniversário de casamento!"	1934759
+You forgot our wedding anniversary.	Você se esqueceu do nosso aniversário de casamento.	1934761
+He forgot his wedding anniversary.	Ele se esqueceu de seu aniversário de casamento.	1934762
+Tom forgot his wedding anniversary.	Tom se esqueceu de seu aniversário de casamento.	1934763
+She forgot her first wedding anniversary!	Ela se esqueceu de seu primeiro aniversário de casamento!	1934768
+Tom forgot his wife's birthday.	Tom esqueceu o aniversário da esposa.	1934770
+Why don't you want to help the police?	Por que você não quer ajudar a polícia?	1934780
+Can you tell me what day it is today?	Dá para você me dizer que dia é hoje?	1934786
+I'd just like to talk.	Eu só queria conversar.	1934797
+I don't owe him anything.	Eu não lhe devo nada.	1934798
+I suppose I'm going to have to teach you a lesson.	Acho que terei de lhe ensinar uma lição.	1934804
+Don't speak to me like that!	Não fale comigo desse jeito!	1934810
+What's wrong with my manners?	O que há de errado com os meus modos?	1934811
+Let's talk about something else.	Vamos falar de outra coisa.	1934814
+Will I see you later?	Te vejo mais tarde?	1934815
+He didn't want to disappoint his mother.	Ele não queria desapontar a mãe.	1934819
+She didn't want to disappoint her mother.	Ela não queria desapontar a mãe.	1934820
+She didn't want to disappoint her father.	Ela não queria desapontar o pai.	1934821
+Tom is a police officer.	O Tom é policial.	1934829
+I'd just like to talk with Tom before we leave.	Eu só queria falar com o Tom antes de partirmos.	1934832
+I'd just like to point out a few potential problems.	Eu só queria apontar alguns problemas em potencial.	1934833
+I'd just like to know what's going on here.	Eu só queria saber o que está acontecendo aqui.	1934834
+I'd just like to know what you knew and when you knew it.	Eu só queria saber o que você soube e quando soube.	1934835
+I'd just like to know if you're coming or not.	Eu só queria saber se você vem ou não.	1934836
+I'd just like to have a quick conversation with Tom before we leave.	Eu só queria bater um papinho com Tom antes dele sair.	1934838
+I'd just like to eat my breakfast in peace.	Eu só queria tomar o meu café da manhã em paz.	1934841
+I'd just like to be ignored.	Eu só queria ser ignorado.	1934842
+I'd just like to be able to save a little money.	Eu só queria poder economizar um dinheiro.	1934843
+I'd just like to ask Tom one question.	Eu só queria perguntar ao Tom uma coisa.	1934844
+I don't know what I'm going to do with her.	Eu não sei o que vou fazer com ela.	1934848
+I don't know what I'm going to do with him.	Eu não sei o que vou fazer com ele.	1934849
+I don't know what I'm going to do with my cat now that I'm moving to another country.	Eu não sei o que eu vou fazer com o meu gato agora que estou me mudando para outro país.	1934850
+I just want to be left alone.	Eu só quero que me deixem sozinho.	1934851
+He has a swimming pool.	Ele tem uma piscina.	1934852
+She has a heated swimming pool.	Ela tem uma piscina com aquecedor.	1934853
+He just wants to be left alone.	Ele só quer que o deixem sozinho.	1934854
+She just wants to be left alone.	Ela só quer que a deixem sozinha.	1934855
+You look like your father.	Você se parece com o seu pai.	1934856
+You look like your dad.	Você se parece com o seu pai.	1934857
+You look like your mother.	Você se parece com a sua mãe.	1934858
+"He looks like your father." "What?"	"Ele se parece com o seu pai." "Quê?"	1934861
+We ate some turtle soup.	A gente comeu sopa de tartaruga.	1934865
+This is a violent neighborhood.	Este é um bairro violento.	1934868
+The boy started to sob.	O menino começou a soluçar.	1934871
+The girl started to sob.	A menina começou a soluçar.	1934872
+I knew it was wrong.	Eu sabia que estava errado.	1934873
+You knew it was wrong.	Você sabia que estava errado.	1934874
+He knew it was wrong.	Ele sabia que estava errado.	1934875
+She knew it was wrong.	Ela sabia que estava errado.	1934876
+He avoided looking at her.	Ele evitou olhar para ela.	1934882
+The young boy helped the old woman.	O jovem ajudou a idosa.	1934884
+Get out of my bed.	Sai da minha cama.	1934890
+She's not my girlfriend. She's my sister.	Ela não é a minha namorada. Ela é a minha irmã.	1935031
+I don't care what your mother said.	Eu não me importo com o que sua mãe disse.	1935197
+She wants to wait until she's married.	Ela quer esperar até casar.	1935236
+She sneaked up behind me.	Ela me pegou de surpresa.	1935335
+I'd like to thank you for your cooperation.	Gostaria de lhes agradecer pela cooperação.	1936309
+I'd like to talk to you about what happened at school yesterday.	Eu gostaria de conversar com você sobre o que aconteceu ontem na escola.	1936325
+I'd like to talk to Tom.	Eu gostaria de falar com Tom.	1936327
+I'd like to talk to the head of security.	Gostaria de conversar com o chefe da segurança.	1936330
+I'd like to stay if you don't mind.	Eu gostaria de ficar se você não se importar.	1936344
+I'd like to stay here with Tom.	Eu gostaria de ficar aqui com o Tom.	1936345
+I'd like to spend a few days with Tom.	Eu gostaria de passar alguns dias com o Tom.	1936352
+I'd like to speak with Tom.	Quero falar com o Tom.	1936353
+I'd like to show this picture of Tom to you.	Eu gostaria de te mostrar essa foto do Tom.	1936363
+I'd like to see that.	Gostaria de vê-lo.	1936381
+I'd like to see that happen.	Eu gostaria de ver isso acontecer.	1936383
+I'd like to see it, please.	Eu gostaria de ver, por favor.	1936386
+I'd like to say something.	Eu tenho algo que quero dizer.	1936388
+I'd like to read your new book.	Gostaria de ler o seu novo livro.	1936390
+I'd like to meet Tom sometime.	Algum dia gostaria de conhecer o Tomás.	1936398
+I'd like to lie down.	Eu gostaria de me deitar.	1936413
+I'd like to know why you didn't finish your homework on time.	Eu gostaria de saber porque você não terminou a sua lição de casa a tempo.	1936416
+I'd like to know more about Tom.	Eu gostaria de saber mais sobre o Tom.	1936427
+I'd like to interview Tom.	Eu gostaria de entrevistar Tom.	1936435
+I'd like to help you.	Eu gostaria de te ajudar.	1936440
+I'd like to hear you sing your new song.	Gostaria de ouvi-lo cantar sua nova canção.	1936445
+I'd like to have some time alone with Tom.	Gostaria de ter algum tempo a sós com Tom.	1936454
+I'd like to go with Tom.	Eu gostaria de ir com o Tom.	1936462
+I'd like to go out with you.	Eu gostaria de sair com você.	1936465
+I'd like to go back to the office.	Gostaria de voltar ao escritório.	1936468
+I'd like to get married.	Eu gostaria de me casar.	1936481
+I'd like to find somebody to talk to.	Eu queria achar alguém para conversar.	1936487
+I'd like to find somebody to take care of my children.	Eu gostaria de encontrar alguém para tomar conta dos meus filhos.	1936488
+I'd like to come along if you don't mind.	Eu gostaria de ir junto, se você não se importar.	1936505
+I'd like to call Tom and see if he can come visit me tomorrow.	Eu gostaria de ligar para o Tom para saber se ele vem me visitar amanhã.	1936509
+I'd like to buy everyone a round.	Eu gostaria de comprar uma rodada para todo mundo.	1936513
+I'd like to borrow about three hundred thousand dollars.	Gostaria de pedir emprestado cerca de trezentos mil dólares.	1936519
+I'd like to believe we learn from our mistakes.	Eu gostaria de acreditar que aprendemos com nossos erros.	1936520
+I'd like to be your friend.	Eu gostaria de ser seu amigo.	1936523
+I'd like to be woken up tomorrow at 6:30.	Eu gostaria de ser acordado amanhã às 6:30.	1936525
+I'd like to be called Tom.	Gosto de ser chamado de Tom.	1936531
+I'd like to be alone.	Eu gostaria de ficar sozinho.	1936532
+For how long has this been standing there?	Há quanto tempo isso está parado aí?	1937410
+I reckon it's time to wake up Robert.	Eu acho que esta na hora de acordar o Robert.	1937540
+The rain has let up, so we can begin.	A chuva diminuiu, então podemos começar.	1937610
+Anna's hair is brown, but Magdalena's is blonde.	O cabelo de Anna é castanho, porém o de Magdalena é loiro.	1937613
+My house is near the school.	Minha casa fica perto da escola.	1937619
+Women age faster than men.	As mulheres envelhecem mais rápido do que os homens.	1937648
+No one I know talks to Tom anymore.	Ninguém que conheço fala mais com o Tom.	1937689
+No one I know buys CDs anymore.	Ninguém que eu conheça compra CDs mais.	1937693
+No one uses that word anymore.	Ninguém mais usa essa palavra.	1937701
+No one thinks that way anymore.	Ninguém mais pensa desta maneira.	1937703
+No one speaks that language anymore.	Ninguém fala mais esta língua.	1937704
+No one says that anymore.	Ninguém mais diz isso.	1937705
+No one pays attention to anything Tom says anymore.	Ninguém mais presta atenção ao que o Tom diz.	1937706
+No one goes there anymore.	Ninguém vai lá mais.	1937710
+No one cares about that anymore.	Ninguém se importa mais com isso.	1937712
+No one believes that anymore.	Ninguém mais acredita nisso.	1937714
+Tom spent the entire afternoon with Mary.	Tom passou a tarde com Mary.	1938707
+I thought Tom would work on the plumbing.	Eu pensei que Tom iria trabalhar no encanamento.	1938764
+I thought Tom would try to help us.	Eu achei que o Tom tentaria nos ajudar.	1938780
+I thought Tom would take Mary to the aquarium.	Eu pensei que Tom fosse levar Maria para o aquário.	1938782
+I thought Tom would speak French better than Mary.	Eu pensei que o Tom falaria francês melhor que a Mary.	1938791
+I thought Tom would sleep until noon.	Eu achava que o Tom dormiria até o meio-dia.	1938792
+I thought Tom would remember.	Eu achei que o Tom ia lembrar.	1938797
+I thought Tom would panic.	Eu pensei que o Tom entraria em pânico.	1938799
+I thought Tom would meet Mary.	Eu pensei que o Tom fosse se encontrar com a Mary.	1938805
+I thought Tom would like it.	Eu pensei que o Tom gostaria disso.	1938812
+I thought Tom would leave that part out.	Eu pensei que Tom deixaria essa parte de fora.	1938815
+I thought Tom would enjoy the party.	Achei que o Tom gostaria da festa.	1938828
+I thought Tom would buy a new car.	Eu pensei que o Tom fosse comprar um carro novo.	1938833
+I thought Tom would be interested in this.	Achei que o Tom se interessaria com isso.	1938847
+I thought we'd have fun together.	Achei que nos divertiríamos juntos.	1938875
+I thought we'd be safe here.	Eu pensava que estaríamos seguros aqui.	1938877
+I thought Tom had gone to Boston.	Achei que o Tom tinha ido a Boston.	1938889
+I thought Tom had been told.	Eu achei que tinham dito ao Tom.	1938893
+I thought Tom had answered all your questions.	Pensei que Tom tivesse respondido todas as suas perguntas.	1938895
+I thought Tom had already talked to Mary about that.	Eu achava que Tom já tinha falado com Mary sobre isso.	1938896
+I thought Tom had agreed to do the job.	Pensei que Tom tinha concordado em fazer o serviço.	1938900
+I thought Tom had a dog.	Achei que Tom tivesse um cachorro.	1938904
+I thought Tom had a day off.	Achei que Tom tinha um dia de folga.	1938905
+I thought you had all the answers.	Pensei que tivesse todas as respostas.	1938908
+She came to Japan to study Japanese.	Ela veio ao Japão para estudar japonês.	1938952
+I thought he wouldn't recognize her.	Eu pensei que ele não fosse reconhecê-la.	1939138
+I thought Tom wouldn't like Mary.	Eu achei que Tom não gostaria da Mary.	1939139
+I thought Tom wouldn't come.	Pensei que o Tom não viria.	1939143
+She was afraid of travelling alone.	Ela tinha medo de viajar sozinha.	1939375
+Tom is ready to fight.	Tom está pronto para lutar.	1940735
+Tom talked about Mary behind her back.	Tom falou de Mary pelas costas.	1940960
+I've got to speak to her.	Eu tenho que falar com ela.	1941222
+I've got to speak to Tom.	Eu preciso falar com o Tom.	1941224
+Please correct me when I make a mistake.	Por favor, corrija-me quando eu cometer um erro.	1941523
+These clothes are too small for him.	Essas roupas são muito pequenas para ele.	1943737
+I'll call you right back.	Já te ligo de volta.	1943793
+Stop. I don't want to.	Pare. Não quero.	1943873
+I can't stop. The brakes...	Não consigo parar. Os freios...	1943886
+You're the most beautiful girl I've ever seen.	Você é a menina mais linda que eu já vi.	1943887
+Stop contributing to Tatoeba. You're addicted.	Pare de contribuir a Tatoeba. Você está viciado.	1943894
+I'm too old for him.	Sou muito velha para ele.	1943897
+You don't need to explain.	Você não precisa explicar.	1943915
+Did you take him back to your apartment?	Você o levou de volta a seu apartamento?	1943944
+Love is not a crime.	O amor não é um crime.	1943951
+Don't come in! I'm naked.	Não entre! Eu estou nu.	1944098
+Do you want to come in?	Quer entrar?	1944103
+Make up your own mind.	Decida-se por si mesmo.	1944105
+I bought three bottles of wine.	Eu comprei três garrafas de vinho.	1944150
+I know one thing, that I know nothing.	Sei uma coisa, que eu não sei nada.	1946029
+Sometimes telling the truth hurts.	Falar a verdade às vezes dói.	1946134
+Juan doesn't know that Maria is his daughter.	João não sabe que Maria é sua filha.	1946344
+I think he's going to be sick.	Eu acho que ele vai adoecer.	1946831
+He instantly fell in love with her.	Ele, instantaneamente, se apaixonou por ela.	1946837
+Don't you think I know my own sister?	Não acha que eu conheço minha própria irmã?	1946843
+It's more fun than drinking tea.	É mais divertido do que beber chá.	1946879
+She took off her clothes.	Ela tirou a roupa.	1946886
+The dog and the cat are sleeping together in a basket.	O cachorro e o gato estão dormindo juntos em uma cesta.	1947461
+I feel much better already.	Já me sinto muito melhor.	1948031
+The number of people on Facebook is greater than the population of the United States.	O número de pessoas no Facebook é maior que o da população dos Estados Unidos.	1948397
+I want to tell you something.	Eu quero te dizer uma coisa.	1948525
+I knew I was making mistakes.	Eu sabia que estava cometendo um erro.	1948584
+I knew I was making progress.	Eu sabia que estava progredindo.	1948587
+I consider making mistakes an important part of the learning process.	Considero o errar uma parte importante do processo de aprendizagem.	1948729
+Tom has trouble making friends.	Tom tem dificuldade para fazer amigos.	1949048
+The people here are crazy for football.	As pessoas daqui são loucas por futebol.	1949099
+The people here are well off.	As pessoas daqui são bem de vida.	1949101
+Everyone knows that it wasn't your fault.	Todo mundo sabe que a culpa não foi sua.	1949105
+Yesterday was more fun than today.	Ontem foi muito mais divertido que hoje.	1949129
+Yesterday was a lot colder than today.	Ontem estava muito mais frio que hoje.	1949133
+Your brother wasn't at school today.	O teu irmão não estava na escola hoje.	1949166
+Tomorrow, God willing, we'll be with your parents.	Amanhã, se Deus quiser, estaremos com os teus pais.	1949171
+She told me to meet her at her house.	Ela me pediu que a encontrasse em sua casa.	1950122
+My cat is hiding under the stove.	Meu gato está se escondendo debaixo do fogão.	1950162
+Tom is hiding under the bed.	Tom está escondido embaixo da cama.	1950163
+Tom is hiding behind the door.	Tom está escondido atrás da porta.	1950168
+It's no use trying to convince Tom.	É inútil tentar convencer Tom.	1950187
+I worked enough on my German today.	Trabalhei bastante no meu Alemão hoje.	1950522
+We can't accept all of this.	Não podemos aceitar tudo isto.	1950637
+I can't accept this, Tom.	Não posso aceitar isso, Tom.	1950640
+Tom can't afford a lawyer.	Tom não pode pagar um advogado.	1950645
+We can't afford to buy all the things we want.	Não podemos comprar tudo que queremos.	1950658
+They can't all be bad.	Não podem ser todos maus.	1950676
+They can't all be full.	Eles não podem estar todos cheios.	1950677
+I can't answer that question.	Eu não posso responder a essa pergunta.	1950686
+I can't answer the phone now.	Não posso atender o telefone agora.	1950687
+The police can't arrest Tom.	A polícia não pode prender Tom.	1950690
+You can't ask me to do this.	Você não pode pedir que eu faça isso.	1950692
+You can't ask us to do nothing.	Você não pode nos pedir para não fazermos nada.	1950696
+We can't assume this money is Tom's.	Não podemos presumir que esse dinheiro seja do Tom.	1950699
+We can't be certain they're Canadians.	Nós não podemos ter certeza de que eles sejam canadenses.	1950710
+We can't be happy here any longer.	Não podemos mais ser felizes aqui.	1950720
+I can't be in two places at the same time.	Não posso estar em dois lugares ao mesmo tempo.	1950729
+I can't be seen wearing the same dress as Mary.	Eu não posso ser vista vestindo o mesmo vestido que Mary.	1950739
+Tom can't be that bad.	Tom não pode ser tão mau assim.	1950753
+You can't be too careful in situations like this.	Não se pode ter cuidado demais em situações assim.	1950760
+I can't beat Tom at chess.	Não consigo vencer o Tom no xadrez.	1950778
+You can't believe anything Tom says about me.	Você não pode acreditar em nada do que o Tom fala sobre mim.	1950782
+I can't believe I did that.	Eu não acredito que eu fiz aquilo.	1950796
+I can't believe I forgot about this.	Eu não posso acreditar que eu me esqueci disto.	1950800
+I can't believe I showed you that.	Não acredito que te mostrei isso.	1950809
+I can't believe I won.	Eu não posso acreditar que ganhei.	1950811
+I can't believe I'm doing this.	Eu não acredito que eu tô fazendo isso.	1950814
+I can't believe I'm graduating this year.	Eu não posso acreditar que estarei me formando este ano.	1950817
+I can't believe I'm here again.	Eu não posso acreditar que estou aqui novamente.	1950818
+I can't believe I'm here.	Não posso acreditar que estou aqui.	1950819
+I can't believe I'm kissing you.	Não posso acreditar que estou beijando você!	1950820
+I can't believe I'm really here.	Não posso acreditar que estou realmente aqui.	1950821
+I can't believe I'm still alive.	Eu não acredito que ainda estou vivo.	1950823
+I can't believe it's really Tom.	Eu não posso acreditar que seja mesmo o Tom.	1950829
+I can't believe it's true.	Não consigo acreditar que seja verdade.	1950832
+I can't believe this is happening to us.	Não acredito que isso esteja acontecendo conosco.	1950853
+I can't believe Tom ate that.	Não posso acreditar que o Tom comeu aquilo.	1950857
+I can't believe Tom didn't tell us about Mary.	Eu não acredito que o Tom não nos falou sobre a Mary.	1950860
+I can't believe Tom knows sign language.	Não acredito que Tom sabe linguagem de sinais.	1950875
+I can't believe Tom said that.	Eu não acredito que Tom disse isso.	1950882
+I can't believe Tom still uses it.	Não acredito que Tom ainda usa isso.	1950884
+I can't believe Tom would just give up.	Eu não posso acreditar que o Tom simplesmente desistiu.	1950893
+I can't believe Tom would say that to you.	Eu não posso acreditar que Tom diria isso para você.	1950894
+I can't believe we've never done this before.	Não acredito que nunca fizemos isto antes.	1950903
+Tom can't believe what he's just seen.	Tom não pode acreditar no que acabou de ver.	1950907
+I can't believe what I'm hearing.	Não posso acreditar no que estou ouvindo.	1950908
+Tom can't believe what's happening.	Tom não está conseguindo acreditar no que está acontecendo.	1950911
+I can't believe you said that.	Eu não acredito que você disse isso.	1950920
+I can't believe you're giving up.	Não posso acreditar que você está desistindo.	1950924
+I can't believe your mom let you go.	Não acredito que sua mãe te deixou ir.	1950932
+Excuse me, do you speak English?	Com licença, você fala inglês?	1951244
+You can't blame this on us.	Você não pode nos culpar por isso.	1951349
+You can't both be telling the truth.	Vocês dois não podem estar dizendo a verdade.	1951362
+I can't break this code.	Eu não consigo decifrar este código.	1951364
+You can't bury the truth.	Não se pode enterrar a verdade.	1951374
+You can't buy anything interesting in this store.	Não pode comprar nada interessante nesta loja.	1951375
+You can't cancel the meeting.	Você não pode cancelar a reunião.	1951384
+I can't change these plans.	Não posso mudar esses planos.	1951393
+I can't change who I am.	Eu não posso mudar quem eu sou.	1951399
+We can't choose who our parents are.	Nós não podemos escolher aqueles que são nossos pais.	1951401
+I can't come right now.	Não posso ir agora.	1951407
+I can't continue doing this.	Não posso continuar fazendo isso.	1951430
+I can't continue to ignore the problem.	Eu não posso continuar a ignorar o problema.	1951431
+I can't count the number of times Tom has complained about that.	Não posso contar o número de vezes que o Tom reclamou sobre isso.	1951444
+You can't dance, can you?	Você não sabe dançar, sabe?	1951449
+I can't deal with this problem anymore.	Não consigo mais lidar com esse problema.	1951457
+I can't deal with this right now.	Eu não posso lidar com isto no momento.	1951458
+You can't defeat Tom without my help.	Você não vai conseguir derrotar o Tom sem a minha ajuda.	1951465
+You can't deny that what Tom is saying is true.	Você não pode negar que o que o Tom está dizendo é verdade.	1951471
+I can't describe how I felt.	Não consigo descrever como me senti.	1951474
+I can't detect any pattern.	Não consigo detectar nenhum padrão.	1951475
+I can't do any more than that.	Não posso fazer mais do que isso.	1951483
+I can't do anything until this project is done.	Eu não posso fazer nada até que este projeto esteja pronto.	1951494
+I can't do it right now.	Não posso fazer isso agora.	1951504
+You can't do it too soon.	Tu não consegues fazer isso tão cedo.	1951507
+I can't do it without you.	Não posso fazer isso sem você.	1951509
+You can't do it, can you?	Você não consegue, não é?	1951510
+I can't do that again.	Eu não posso fazer isso novamente.	1951512
+I can't do that anymore.	Eu não posso fazer mais isso.	1951513
+I can't do that now.	Não posso fazer isso agora.	1951516
+I can't do this job without you.	Eu não posso fazer este trabalho sem você.	1951529
+You can't do this to me.	Você não pode fazer isto comigo.	1951532
+Tom can't do this to us.	Tom não pode fazer isso conosco.	1951534
+I can't do this without you, Tom.	Eu não posso fazer isto sem você, Tom.	1951538
+We can't do this without you.	Não podemos fazer isto sem você.	1951539
+I can't eat another bite.	Não posso dar outra mordida.	1951548
+You can't even help yourself.	Você não pode nem mesmo se ajudar.	1951561
+I can't even remember my own name.	Eu não consigo nem me lembrar do meu próprio nome.	1951565
+Tom can't figure out how to get the box open.	Tom não sabe como se abre a caixa.	1951600
+I can't find my keys.	Não consigo encontrar as minhas chaves.	1951619
+I can't find my plane ticket.	Eu não consigo achar a minha passagem aérea.	1951620
+I can't find Tom either.	Eu não consigo encontrar o Tom também.	1951624
+You can't force me to do anything.	Você não pode me obrigar a nada.	1951633
+I can't force Tom to go.	Não posso forçar Tom a ir.	1951635
+You can't force us to go.	Você não pode nos forçar a ir.	1951639
+I can't forgive what you did.	Não posso perdoar o que você fez.	1951642
+I can't get married without my parents' permission.	Eu não posso me casar sem a permissão de meus pais.	1951655
+I can't get over you.	Eu não consigo te esquecer.	1951665
+I can't get the door open.	Não consigo abrir a porta.	1951669
+I can't get this suitcase open.	Não posso abrir esta mala.	1951672
+We can't go back out there.	Não podemos voltar para lá.	1951705
+I can't go back there alone.	Não posso voltar lá sozinho.	1951706
+I can't go into detail.	Não posso dar os pormenores.	1951718
+I can't go on Saturday.	Eu não poderei ir no sábado.	1951722
+We can't go right now.	Agora agora não podemos ir.	1951727
+I can't go to the movies.	Não posso ir ao cinema.	1951735
+Tom can't handle this job on his own.	Tom não consegue lidar com esse trabalho sozinho.	1951807
+I can't handle two nights in a row with Tom.	Eu não posso aguentar duas noites seguidas com o Tom.	1951808
+We can't have a press conference on Friday.	Não podemos ter uma conferência de imprensa na sexta-feira.	1951812
+Tom can't have gone far.	Tom não pode ter ido longe.	1951815
+I can't hear a word Tom is saying.	Eu não estou ouvindo uma palavra do que Tom está falando.	1951820
+I can't hear a word.	Não consigo entender nem uma palavra.	1951822
+I can't help Tom with that.	Não posso ajudar o Tom com isso.	1951850
+I can't help you right now.	Não posso te ajudar agora.	1951857
+I can't help you unless you tell me the truth.	Eu não poderei ajudar-te a não ser que me fales a verdade.	1951859
+You can't hide from me forever.	Você não pode se esconder de mim para sempre.	1951867
+Who should I vote for?	Em quem eu deveria votar?	1951926
+I can't ignore my commanding officer's orders.	Eu não posso ignorar as ordens do meu oficial comandante.	1951955
+I can't imagine a day without you.	Não consigo imaginar um dia sem você.	1951962
+I can't imagine life without Tom.	Não consigo imaginar viver sem Tom.	1951965
+I can't imagine living like that.	Eu não posso imaginar viver assim.	1951966
+I can't imagine what life would be like without you.	Eu não consigo imaginar como seria a vida sem você.	1951969
+You can't imagine what my life's been like since you've left.	Você não pode imaginar o que a minha vida tem sido desde que você partiu.	1951970
+I can't imagine why anyone would want to steal something like that.	Eu não consigo imaginar porque alguém iria querer roubar uma coisa dessas.	1951972
+You can't just change your mind.	Você não pode, simplesmente, mudar de ideia.	1951978
+I can't just give up. I've put in way too much time on this.	Não posso simplesmente desistir. Dediquei muito tempo a isso.	1951987
+We can't just ignore what Tom told us to do.	Nós simplesmente não podemos ignorar o que o Tom nos disse para fazer.	1951990
+You can't just leave me here to die.	Você não pode me deixar aqui para morrer!	1951992
+I can't just leave you here.	Eu simplesmente não posso te deixar aqui.	1951997
+You can't keep doing this to Tom.	Você não pode continuar fazendo isso com o Tom.	1952018
+You can't keep hiding from me, Tom.	Você não pode continuar escondendo isso de mim, Tom.	1952021
+Tom can't keep his mouth shut.	Tom não consegue ficar calado.	1952024
+We can't keep on fooling ourselves.	Não podemos continuar nos enganando.	1952029
+I can't keep this watch. I have to give it back to Tom.	Eu não posso ficar com este relógio. Tenho de o devolver ao Tomás.	1952038
+You can't keep us here.	Você não pode nos manter aqui.	1952043
+You can't kill us all.	Não podem matar todos nós.	1952048
+We need to be honest.	Nós precisamos ser honestos.	1953117
+I can't help laughing at that.	Eu não consigo evitar rir disso.	1953136
+What was your name again?	Qual é mesmo o seu nome?	1953232
+She has never lived in India.	Ela nunca morou na Índia.	1953302
+It would be nice if you had a wedge of lime I could squeeze into my icewater.	Seria ótimo se você tivesse uma fatia de limão para eu espremer na minha água gelada.	1953487
+Watch how I do it.	Olhe como eu faço.	1954280
+You can't leave me now.	Você não pode me deixar agora!	1954510
+We can't leave Tom here. He won't survive on his own.	Não podemos deixar o Tom aqui. Ele não vai sobreviver sozinho.	1954520
+I can't leave Tom there.	Não posso deixar Tom ali.	1954521
+You can't leave us here.	Pode nos deixar aqui.	1954528
+I can't let this happen.	Não posso deixar isso acontecer.	1954554
+We can't let Tom have that diamond.	Nós não podemos deixar Tom ter esse diamante.	1954575
+We can't let Tom in.	Nós não podemos deixar Tom entrar.	1954576
+I can't let you do that.	Não posso permitir que você faça isso.	1954590
+I can't lie to Tom again.	Não posso mentir para o Tom de novo.	1954603
+I can't live in this house anymore.	Eu não posso mais morar nessa casa.	1954607
+I can't look at this anymore.	Não posso mais olhar para isso.	1954616
+I can't look at Tom.	Não posso olhar para o Tom.	1954617
+You can't lose what you don't have.	Você não pode perder aquilo que você não tem.	1954620
+I can't make a decision about that right now.	Não consigo tomar uma decisão quanto a isso agora.	1954623
+I can't make any promises.	Não posso prometer nada.	1954625
+Tom can't make his own decisions.	O Tom não pode tomar suas próprias decisões.	1954628
+I can't make it to the hospital without some help.	Eu não consigo ir ao hospital sem ajuda.	1954632
+I can't make it without you.	Não posso fazer isso sem você.	1954634
+I can't make that decision without talking to Tom first.	Eu não posso tomar essa decisão sem falar com Tom primeiro.	1954643
+We can't make Tom do something he doesn't want to do.	Não podemos fazer com que o Tom faça algo que não quer fazer.	1954646
+I can't make you any promises.	Não posso te prometer nada.	1954650
+I can't offer you anything in return.	Não posso te oferecer nada em troca.	1954661
+I can't open the door.	Eu não consigo abrir a porta.	1954662
+We can't open this envelope until Tom gets here.	Não podemos abrir esse envelope até que o Tom chegue.	1954663
+We can't open this yet.	Ainda não podemos abrir isso.	1954664
+We can't pay the taxi driver if we don't have any money.	Não podemos pagar o motorista de táxi se não temos dinheiro algum.	1954671
+I can't pay Tom today.	Não posso pagar Tom hoje.	1954672
+I can't pay you. Are you still willing to help?	Eu não posso te pagar. Você ainda está disposto a ajudar?	1954674
+I can't picture Tom doing that.	Não consigo imaginar Tom fazendo isso.	1954675
+We can't postpone the meeting.	Não podemos adiar esta reunião.	1954683
+We can't pretend Tom is normal.	Não podemos fingir que Tom é normal.	1954693
+You can't put toothpaste back in the tube.	Você não pode colocar a pasta de dente de volta no tubo.	1954714
+I can't raise our child by myself.	Não posso criar nosso filho sozinha.	1954720
+We can't really be certain that Tom will get on the baseball team.	Não podemos ter certeza, realmente, de que o Tom entrará em um time de beisebol.	1954731
+I can't really do anything until Tom gets here.	Eu não posso fazer nada até que o Tom chegue aqui.	1954737
+I can't relax for a second when the kids are home.	Não consigo relaxar nem por um segundo quando as crianças estão em casa.	1954759
+I can't remember the lyrics.	Não me recordo da letra da canção.	1954777
+I can't remember the password I used for this website.	Eu não consigo me lembrar da senha que usava neste site.	1954778
+I can't remember the secret code.	Eu não consigo me lembrar do código secreto.	1954779
+I can't remember who I gave it to.	Não consigo me lembrar a quem o dei.	1954788
+I can't remember your name.	Não me lembro do seu nome.	1954791
+I can't reveal my source.	Eu não posso revelar a minha fonte.	1954799
+You can't say a word about this to anyone.	Você não pode dizer uma palavra sobre isso para ninguém.	1954815
+I can't say I'm surprised.	Não posso dizer que estou surpreso.	1954820
+I can't see a thing.	Não vejo nada.	1954830
+I can't see anything from here.	Não consigo ver nada daqui.	1954834
+You can't see my house from here.	Não dá para ver a minha casa daqui.	1954844
+I can't see without my glasses.	Não consigo enxergar sem meus óculos.	1954856
+You can't seem to finish anything.	Você não consegue terminar nada.	1954860
+You can't show this video to anyone.	Você não pode mostrar este vídeo a ninguém.	1954872
+I can't sleep when I'm stressed out.	Não consigo dormir quando estou estressado.	1954879
+I can't stand babies crying.	Eu não suporto ouvir bebês chorando.	1954886
+I can't stand listening to loud music.	Eu não suporto ouvir música alta.	1954894
+Tom can't stand seeing Mary so happy.	Tom não suporta ver Maria tão feliz.	1954897
+I can't stand the sight of blood.	Não suporto ver sangue.	1954900
+I can't stand the thought of losing you forever.	Eu não suporto a ideia de te perder para sempre.	1954902
+I can't stand this kind of movie.	Eu não suporto este tipo de filme.	1954903
+I can't stand this kind of music.	Eu não suporto este tipo de música.	1954904
+We can't stay here long.	Não podemos ficar aqui por muito tempo.	1954915
+I can't stay here tonight.	Não posso ficar aqui essa noite.	1954917
+I can't stay much longer.	Não posso ficar por muito mais tempo.	1954920
+Tom can't stop looking at Mary.	Tom não consegue parar de olhar para a Mary.	1954927
+I can't stop thinking about Tom.	Eu não consigo parar de pensar em Tom.	1954933
+I can't take my glasses off.	Eu não posso tirar os óculos.	1954956
+I can't talk about this right now.	Eu não posso falar sobre isso agora.	1954966
+I can't talk right now.	Não posso falar agora.	1954970
+I can't tell Tom that.	Eu não posso dizer isso a Tom.	1954994
+You can't tell Tom what to do.	Você não pode mandar em Tom.	1954997
+I can't tell you all my secrets.	Eu não posso dizer-lhe todos os meus segredos.	1955003
+I can't tell you how good it is to see you again.	Eu não posso te dizer como é bom te ver de novo.	1955009
+I can't tell you how long I've been waiting for this.	Não dá para te dizer quanto tempo eu tenho esperado por isso.	1955015
+I can't tell you how many times I've thought about all the good times we used to have together.	Não sei dizer quantas vezes eu pensei sobre todos os bons momentos que nós costumávamos ter juntos.	1955017
+I can't tell you how much I'll miss Tom.	Não consigo dizer o quanto vou sentir falta do Tom.	1955022
+I can't tell you much more than that.	Não posso te contar mais do que isso.	1955036
+I can't tell you that.	Eu não posso te contar isso.	1955037
+I can't tell you what I don't know.	Eu não posso te contar o que eu não sei.	1955040
+I can't tell you what I think.	Não posso te dizer o que penso.	1955042
+I can't tell you what it is.	Eu não posso te dizer o que é.	1955043
+I can't tell you who's on the list. My boss told me not to.	Eu não posso te contar quem está na lista. O meu chefe me disse para não contar.	1955047
+I can't think about anything else.	Não posso pensar sobre mais nada.	1955054
+I can't think of anyone who hates you more than Tom does.	Não consigo pensar em ninguém que odeie você mais do que o Tom	1955063
+I can't think of anything to say.	Não consigo pensar em nada para falar.	1955068
+Tom can't tie a tie.	Tom não sabe colocar uma gravata.	1955071
+We can't trust Tom anymore.	Nós não podemos mais confiar no Tom.	1955081
+I can't understand why Tom doesn't want to go with us.	Não consigo entender por que o Tom não quer ir conosco.	1955093
+I can't understand why Tom won't let us go.	Não consigo entender por que o Tom não nos deixa ir.	1955094
+We can't wait much longer.	Não podemos esperar mais.	1955105
+I can't wait to get home.	Não vejo a hora de chegar em casa.	1955109
+Tom can't wait to get married.	O Tom não vê a hora de se casar.	1955110
+I can't wait to leave.	Mal posso esperar para ir embora.	1955113
+I can't work for you.	Eu não posso trabalhar para ti.	1955137
+You can't yell at Tom.	Você não pode gritar com o Tom.	1955145
+When the intent is clear, overlooking minor errors in composition is recommended.	Quando o propósito for claro, é recomendado deixar passar pequenos deslizes na composição.	1955363
+Nothing interesting happens in this small town.	Nada de interessante acontece nessa cidade pequena.	1955544
+Takuya told me to depart immediately.	Takuya me disse para partir imediatamente.	1955941
+Butterflies have short life spans.	As borboletas vivem pouco.	1955951
+She looks like a monkey.	Ela parece uma macaca.	1955965
+He and only he knows the whole truth.	Ele e só ele sabe toda a verdade.	1955966
+He looks like a monkey.	Ele parece um macaco.	1955967
+I didn't mean to hit him.	Eu não tive a intenção de acertá-lo.	1956008
+I'll cut your head off!	Vou cortar sua cabeça!	1956017
+I only ate one piece of cake.	Apenas comi um pedaço de bolo.	1956029
+I only had one sip of beer.	Eu só tomei um gole de cerveja.	1956036
+I only have one brother.	Eu só tenho um irmão.	1956043
+I only have one more question for you.	Eu só tenho mais uma pergunta para você.	1956045
+I only have one question.	Eu apenas tenho uma pergunta.	1956046
+I only have time for coffee.	Eu só tenho tempo para o café.	1956047
+I only have two children.	Eu só tenho dois filhos.	1956048
+I only have two plane tickets.	Só tenho duas passagens aéreas.	1956049
+I only hope it is not too late.	Só espero que não seja tarde demais.	1956053
+I only hope Tom likes Mozart.	Apenas espero que o Tom goste de Mozart.	1956054
+I only need to buy one.	Eu só preciso comprar um.	1956074
+I only want to help Tom.	Só quero ajudar o Tom.	1956087

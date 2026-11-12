@@ -31,8 +31,8 @@ function comTrechos(frase, destaques, por) {
 
 function fonte(x) {
   if (x.tipo === "musica") return `${x.obra} · ${x.titulo}`;
-  const filme = x.referencia === "filme" || x.temporada == null;
-  return filme ? `${x.obra} (filme)` : `${x.obra} · ${x.referencia}${x.titulo ? ` · ${x.titulo}` : ""}`;
+  if (x.referencia === "filme" || (x.temporada == null && x.tipo === "filme")) return `${x.obra} (filme)`;
+  return [x.obra, x.referencia, x.titulo].filter(Boolean).join(" · ");
 }
 
 /** Quais trechos viram lacuna: os que têm verbo ("if" do third conditional fica à vista); se nenhum

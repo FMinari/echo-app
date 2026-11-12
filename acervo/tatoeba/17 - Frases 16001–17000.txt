@@ -1,0 +1,1000 @@
+I really want a motorcycle.	Eu quero mesmo uma moto.	255159
+I don't care what will become of me.	Eu não me importo com o que eu me tornarei.	255180
+I could manage to earn my living.	Eu consegui ganhar para o meu sustento.	255181
+I manage to support my family.	Eu consigo sustentar a minha família.	255183
+I managed to catch the last train.	Consegui apanhar o último comboio.	255184
+It was only with great difficulty that I managed to stop myself from laughing.	Foi com grande dificuldade que consegui parar de me rir.	255186
+I can't bring myself to help him.	Não posso ajudá-lo.	255188
+I don't know how to swim.	Eu não sei nadar.	255189
+I ate a modest breakfast of toast, coffee, and one egg.	Comi um café da manhã modesto: torradas, café e um ovo.	255190
+At times I feel like quitting my job.	Às vezes sinto vontade de abandonar o emprego.	255197
+I sometimes hear my father singing in the bathroom.	Às vezes, eu ouço o meu pai cantar no banheiro.	255204
+I remember seeing him somewhere.	Eu me lembro de tê-lo visto em algum lugar.	255208
+I don't know where to wait for her.	Não sei onde esperar por ela.	255210
+I don't want to go any place.	Não quero ir a lugar nenhum.	255215
+I'll follow you wherever you go.	Onde quer que você vá, eu o seguirei.	255217
+I don't know where to go or what to do.	Não sei aonde ir nem o que fazer.	255218
+I asked where to go.	Perguntei aonde ir.	255220
+It's all the same to me.	Para mim, tanto faz.	255222
+I don't know either girl.	Não conheço nenhuma das duas garotas.	255224
+I don't know which to choose.	Eu não sei qual escolher.	255230
+I want some coffee badly.	Estou com muita vontade de tomar um pouco de café.	255233
+I can't drink any more.	Eu não posso mais beber.	255236
+I was in such a hurry that I forgot to lock the door.	Eu estava com tanta pressa que esqueci de trancar a porta.	255240
+I had a very high fever.	Eu estava com uma febre muito alta.	255247
+I can't afford to buy a car.	Não tenho condições de comprar um carro.	255249
+I have so many clothes I don't know what to wear tomorrow.	Eu tenho tantas roupas que eu nem sei o que vou vestir amanhã.	255251
+I want to see her very much.	Quero muito vê-la.	255253
+I am so tired that I can't walk another step.	Estou tão cansado que não consigo dar nem mais um passo.	255258
+I am so busy that I can't help you.	Estou tão ocupado, que não posso ajudá-los.	255260
+I'd like to talk with Tony.	Gostaria de falar com Tony.	255266
+I went to Tokyo to see Tony.	Fui à Tóquio ver o Tony.	255267
+I asked Tony a question.	Fiz uma pergunta a Tony.	255268
+I am never free on Sundays.	Nunca estou livre de domingo.	255273
+I saw Tom play tennis.	Eu vi o Tom jogar tênis.	255277
+I sat between Tom and John.	Sentei-me entre Tom e João.	255279
+I am talking with Tom.	Estou falando com o Tom.	255281
+I asked Tom to close the door.	Pedi a Tom que fechasse a porta.	255282
+I asked Tom to open the window.	Eu pedi a Tom para abrir a janela.	255284
+I asked Tom about his new book.	Perguntei a Tom a respeito de seu novo livro.	255287
+I thought that Tom was kind.	Achei que Tom fosse gentil.	255290
+I was involved in the trouble.	Eu fui envolvido no problema.	255294
+I'm opposed to any type of war.	Sou contra todo tipo de guerra.	255307
+I cut myself with a knife.	Cortei-me com uma faca.	255310
+I cut my finger with a knife.	Eu cortei meu dedo com uma faca.	255311
+I don't believe Naomi. I think she's lying.	Eu não acredito em Naomi. Acho que ela está mentindo.	255313
+What little money I had was stolen.	O pouco dinheiro que eu tinha foi roubado.	255316
+I want to eat something good.	Quero comer alguma coisa gostosa.	255317
+I managed to get over the habit of finding fault with others.	Eu consegui superar o hábito de sempre achar culpa nos outros.	255327
+What a fool I was!	Que trouxa que eu fui!	255332
+I turned on the radio to listen to the news.	Eu liguei o rádio para escutar as notícias.	255335
+I worked with Mr Spencer for a year in New York.	Eu trabalhei com o Sr. Spencer por um ano em Nova Iorque.	255337
+I lost my way in New York.	Perdi-me em Nova York.	255338
+I've never been to New York, and my sister hasn't, either.	Eu nunca estive em Nova York, tampouco minha irmã esteve.	255339
+I'd like to live in New York.	Gostaria de morar em Nova York.	255340
+I am staying at a hotel in New York.	Eu estou hospedado em um hotel em Nova York.	255341
+I would like to visit New York.	Gostaria de visitar Nova York.	255344
+I have a cat and a dog. The cat is black and the dog is white.	Eu tenho um gato e um cachorro. O gato é preto e o cachorro é branco.	255347
+I am a cat person.	Eu gosto de gatos.	255348
+I cleaned up after the party.	Eu fiz a limpeza depois da festa.	255357
+I had a good time at the party.	Eu me diverti muito na festa.	255359
+I saw her at the party.	Vi-a na festa.	255363
+I was at the party.	Eu estava na festa.	255368
+I put on my favorite dress for the party.	Eu vesti meu vestido favorito para a festa.	255371
+I poured water into the bucket.	Derramei água no balde.	255384
+I like volleyball as well as basketball.	Eu gosto de vôlei como eu gosto de basquete.	255394
+I don't go to school by bus.	Eu não vou à escola de ônibus.	255396
+I must renew my passport.	Preciso revalidar meu passaporte.	255405
+I like trains better than buses.	Eu gosto mais de trens do que de ônibus.	255408
+I'm waiting for the bus.	Estou esperando o ônibus.	255413
+I have been in Paris.	Eu estive em Paris.	255429
+I wanted a hamburger, but I restrained myself.	Eu queria um hambúrguer, mas me contive.	255443
+I ate a hamburger and ordered another.	Eu comi um hambúrguer e pedi outro.	255444
+I keep my hammer in the toolbox.	Eu guardo o meu martelo na caixa de ferramentas.	255446
+I bought bread, coffee, sugar and the like.	Comprei pão, café, açúcar, entre outros.	255447
+I can't play the piano, but she can.	Eu não sei tocar piano, mas ela sabe.	255452
+I like the sound of the piano.	Eu gosto do som do piano.	255454
+I like playing the piano.	Eu gosto de tocar piano.	255455
+I do not play the piano.	Eu não toco piano.	255458
+I'd like to read some books about the Beatles.	Eu gostaria de ler alguns livros sobre os Beatles.	255461
+I like green peppers very much.	Eu gosto muito de pimentão verde.	255462
+I cut myself while shaving.	Eu me cortei fazendo a barba.	255468
+I don't know how to use a VCR.	Não sei como usar um videocassete.	255471
+I'm suffering from a bad headache.	Estou com uma terrível dor de cabeça.	255474
+I stayed home because I had a bad cold.	Eu fiquei em casa porque eu estava com um forte resfriado.	255477
+I am so tired that I can hardly walk.	Eu estou tão cansado que mal posso andar.	255482
+I'm afraid to go alone.	Eu tenho medo de ir sozinho.	255487
+I am good friends with Bill.	Eu e Bill somos bons amigos.	255494
+I bought a pair of boots.	Eu comprei um par de botas.	255500
+I don't like to swim in the pool.	Eu não gosto de nadar na piscina.	255503
+I don't usually have to work on Sundays.	Normalmente eu não tenho que trabalhar aos domingos.	255507
+I quickly tried to get advice from him.	Eu rapidamente tentei obter conselhos dele.	255514
+I am not as young as Miss Brown.	Eu não sou tão jovem quanto a Senhorita Brown.	255518
+I got acquainted with her in France.	Eu a conheci na França.	255525
+I want to go over to France.	Quero ir à França.	255526
+I can't read French, nor can I speak it.	Não sei falar ou escrever em Francês.	255530
+I can't make myself understood in French.	Não consigo me fazer entender em francês.	255533
+I don't know any French.	Eu não sei nada de francês.	255536
+I can speak neither French nor German.	Não falo nem francês nem alemão.	255537
+I want to learn French.	Eu quero aprender francês.	255539
+I am going to major in French.	Vou me especializar em francês.	255543
+I want to study French.	Eu quero estudar francês.	255547
+I like French food very much.	Eu gosto muito de comida francesa.	255550
+I remember Fred visiting Kyoto with his mother.	Eu me lembro de Fred visitando Kyoto com sua mãe.	255552
+I hid myself under the bed.	Eu me escondi debaixo da cama.	255557
+I heard the sound of a ringing bell.	Eu ouvi o som de um sino tocando.	255559
+I had lost my pen.	Eu tinha perdido minha caneta.	255569
+I have lost my pen. Will you help me look for it?	Perdi minha caneta. Você me ajuda a procurá-la?	255570
+I'm looking for my pen.	Estou procurando minha caneta.	255574
+I bought a pen, but I lost it.	Eu comprei uma caneta, mas eu a perdi.	255575
+I have something else to do.	Tenho algo mais a fazer.	255583
+I thrust my hand into my pocket.	Eu enfiei minha mão no meu bolso.	255587
+I pressed the button to turn the radio on.	Eu apertei o botão para ligar o rádio.	255591
+I bought two bags of popcorn.	Eu comprei dois sacos de pipoca.	255593
+I get up at six almost every day.	Eu me levanto às seis quase todos os dias.	255607
+I take a bath almost every day.	Eu tomo banho quase todo dia.	255608
+I am all but ready.	Eu estou tudo menos pronto.	255610
+I'd like to listen to pop music.	Gostaria de ouvir música pop.	255612
+I do like ice cream.	Eu gosto mesmo de sorvete.	255617
+I missed the airplane by a minute.	Perdi o avião por causa de um minuto.	255621
+I asked Mike to help me.	Pedi a Mike que me ajudasse.	255626
+I have never been inside this classroom.	Eu nunca estive dentro da classe.	255631
+I've never come across such a strange case.	Eu nunca me deparei com um caso tão estranho.	255634
+I'm happy to see you again.	Fico feliz em vê-lo de novo.	255644
+I still have some money in hand.	Ainda tenho algum dinheiro disponível.	255649
+I have not eaten breakfast yet.	Ainda não tomei café da manhã.	255654
+I have not finished breakfast yet.	Ainda não terminei de tomar café da manhã.	255655
+I haven't eaten breakfast yet.	Ainda não tomei café.	255656
+I have not heard from her yet.	Ainda não tenho notícias dela.	255659
+I've never gotten on a plane yet.	Ainda nunca entrei num avião.	255660
+I have never climbed Mt. Fuji.	Nunca escalei o Monte Fuji.	255661
+I felt as happy as if I were still dreaming.	Me senti tão feliz como se ainda estivesse sonhando.	255664
+I don't mind being criticized when I am wrong.	Eu não me importo em ser criticado quando estou errado.	255666
+I feel as if I were dreaming.	Sinto-me como se estivesse sonhando.	255684
+I feel like crying out loud as if I were a little girl.	Sinto que vou chorar como uma garotinha.	255686
+I have drunk all my milk.	Já bebi o meu leite todo.	255692
+I drank some of the milk and kept the rest in the refrigerator.	Bebi algum leite e guardei o resto no frigorífico.	255694
+I believe that everyone will like this picture.	Penso que todos vão gostar desta foto.	255695
+I know the boy standing over there.	Conheço o rapaz que está ali de pé.	255697
+I would rather stay here.	Prefiro ficar aqui.	255699
+I'd rather not spend so much money on clothes.	Preferia não gastar tanto dinheiro em roupa.	255701
+I would rather not go there alone.	Preferia não ir lá sozinho.	255702
+I prefer you to come.	Eu prefiro que você venha.	255703
+I would rather live alone in the country.	Eu prefiro morar sozinho no campo.	255704
+I can't sing as well as Mary did.	Eu não consigo cantar tão bem quanto Mary cantou.	255708
+I owe Mary some money and must pay her back by next Monday.	Eu devo dinheiro à Mary e tenho que lhe pagar até a próxima segunda-feira.	255713
+I phoned Mary, but the line was busy.	Telefonei à Mary mas estava ocupado.	255716
+I gave Mary a book.	Dei um livro a Mary.	255717
+I saw a woman who I thought was Mary's mother.	Eu vi uma mulher que eu pensava ser a mãe de Mary.	255718
+I thanked Mary for her help.	Agradeci à Mary pela ajuda.	255719
+I introduced Mary to my parents.	Apresentei Mary aos meus pais.	255720
+I cannot read without glasses.	Eu não consigo ler sem óculos.	255722
+I noticed that I had lost my glasses.	Apercebi-me que tinha perdido os óculos.	255723
+I woke up at the sound of the alarm.	Acordei com o tocar do despertador.	255725
+I rarely catch a cold.	Eu raramente pego um resfriado.	255730
+I've already finished my homework.	Eu já terminei o meu dever de casa.	255732
+I have already finished this book.	Eu já terminei de ler este livro.	255739
+I am going to be fourteen.	Vou fazer quatorze anos.	255748
+It's all over for me. I lost my job.	Está tudo acabado para mim. Perdi meu emprego.	255755
+I don't have to go to the doctor any more. I'm feeling much better.	Não tenho que ir mais ao médico. Estou me sentindo muito melhor.	255758
+I decided to try again.	Resolvi tentar de novo.	255762
+I must be going now.	Eu devo ir agora.	255770
+Now I have my composition written.	Agora, tenho minha composição escrita.	255772
+I almost caught the fish.	Eu quase peguei o peixe.	255778
+I don't want to eat any more.	Não quero comer mais.	255783
+I am staying for another few weeks.	Eu vou ficar por mais algumas semanas.	255784
+I have already had my breakfast.	Já tomei meu café da manhã.	255790
+I do not trust him any longer.	Já não confio mais nele.	255797
+I am no longer tired.	Não estou mais cansado.	255799
+I'm not afraid any more.	Já não tenho medo.	255800
+I have made up my mind to work harder.	Eu decidi trabalhar pesado.	255808
+I made up my mind to study harder.	Eu decidi estudar com mais afinco.	255810
+I wanted to talk more, but she just hung up on me.	Eu queria conversar mais, mas ela desligou na minha cara.	255815
+I got lost in the forest.	Eu me perdi na floresta.	255821
+I was forced to go.	Eu fui forçado a ir.	255839
+I was forced to abandon the plan.	Fui forçado a abandonar o plano.	255842
+I like having plenty to do.	Eu gosto de ter um monte de coisas para fazer.	255844
+I've got too much to do.	Tenho coisas demais para fazer.	255846
+I had a dream about you last night.	Eu sonhei com você a noite passada.	255847
+I want to go somewhere in Europe.	Quero ir para algum lugar da Europa.	255858
+I decided not to go to Europe.	Eu decidi não ir à Europa.	255859
+I have been to Europe twice.	Eu fui na Europa duas vezes.	255861
+I often lie on this bench.	Eu costumo deitar nesse banco.	255862
+I often refer to the dictionary.	Eu frequentemente consulto o dicionário.	255865
+I often think of my dead mother.	Penso com frequência na minha falecida mãe.	255877
+I used to listen to the radio very late at night.	Eu ouvia rádio até tarde da noite.	255878
+I used to do fishing.	Eu costumava pescar.	255882
+I often call, but seldom write a letter.	Eu telefono com frequência, mas raramente escrevo uma carta.	255884
+I often have quarrels with her.	Frequentemente discuto com ela.	255890
+I go to bed late at night.	Vou dormir muito tarde da noite.	255903
+I turned on the lights.	Eu acendi as luzes.	255906
+I heard it on the radio.	Eu ouvi no rádio.	255910
+I also like listening to music on the radio.	Também gosto de escutar música no rádio.	255911
+I turned off the radio.	Desliguei o rádio.	255912
+I am listening to the radio.	Eu estou escutando rádio.	255914
+I trust Richard; he is a man of his word.	Eu confio em Richard; ele é um homem de palavra.	255919
+I would like to read some books about Lincoln.	Gostaria de ler alguns livros sobre Lincoln.	255921
+I like neither apples nor grapes.	Não gosto nem de maçãs nem de uvas.	255924
+I like to eat apples.	Eu gosto de comer maçã.	255926
+I've left out the nuts in this recipe because Delia's allergic to them.	Eu não usei nozes nesta receita porque Delia é alérgica.	255929
+I blew the candle out.	Eu apaguei a vela.	255933
+I am thinking of going to Los Angeles.	Estou pensando em ir para Los Angeles.	255936
+I met her in London for the first time.	Eu a conheci em Londres.	255942
+I'd like to go to London.	Gostaria de ir para Londres.	255944
+I'd like to visit London.	Gostaria de visitar Londres.	255945
+I have been to London.	Eu estive em Londres.	255950
+I broke the vase on purpose.	Eu quebrei o vaso de propósito.	255957
+I have no more than 1,000 yen with me.	Não tenho mais de 1.000 ienes comigo.	255961
+I like Sachiko better than Akiko.	Eu gosto mais de Sachiko do que de Akiko.	255967
+I don't like walking home alone after dark.	Eu não gosto de ir sozinho pra casa depois de escurecer.	255974
+I must get home before it gets dark.	Preciso chegar em casa antes que escureça.	255975
+I've been to Sapporo before.	Eu já estive em Sapporo.	255984
+I didn't use to like wine, but now I'm quite fond of it.	Eu não costumava gostar de vinho, mas agora eu adoro.	255989
+I used to take a walk every morning.	Eu costumava dar uma volta todas as manhãs.	255990
+I have seen a UFO before.	Já vi um óvni antes.	255991
+I used to take a walk early in the morning.	Eu costumava caminhar de manhã cedo.	255992
+I've lived in Kobe before.	Eu já morei em Kobe antes.	255999
+I have met him before.	Eu o encontrei antes.	256000
+I have climbed Mt. Fuji before.	Eu subi o Monte Fuji antes.	256001
+I like all films that Juzo Itami directs.	Eu gosto de todos os filmes que Juzo Itami dirige.	256002
+I am acquainted with the chairman of the committee.	Sou familiarizado com o presidente do comitê.	256003
+I was compelled to do this against my will.	Fui obrigado a fazer isto contra a minha vontade.	256005
+I married him against my will.	Casei-me com ele contra a minha vontade.	256006
+I boldly jumped into the sea.	Pulei corajosamente no mar.	256007
+I felt a sharp pain in the stomach.	Senti uma dor aguda no estômago.	256008
+I usually buy clothing at a local store.	Eu geralmente compro roupas numa loja local.	256009
+I am looking at the matter from a different viewpoint.	Estou olhando o assunto por um ponto de vista diferente.	256011
+I am majoring in medicine.	Estou me formando em medicina.	256014
+I asked the doctor some questions.	Fiz ao médico algumas perguntas.	256016
+I want to be a doctor or a nurse or a teacher.	Quero ser médico, enfermeiro ou professor.	256017
+I am not a doctor, but a teacher.	Eu não sou médico, mas professor.	256019
+I wish to be a doctor.	Eu quero ser médico.	256020
+I wanted to become a doctor.	Eu queria ter me tornado um médico.	256021
+I made up my mind to be a doctor.	Decidi ser médico.	256024
+I decided to be a doctor.	Decidi ser médico.	256025
+I was told that I should see a doctor.	Disseram-me que eu devia consultar um médico.	256026
+I must pay a visit to the doctor.	Preciso pagar uma consulta ao médico.	256027
+I regret not having taken my doctor's advice.	Eu lamento não ter ouvido os conselhos do meu médico.	256031
+I must send for the doctor.	Preciso enviar ao médico.	256033
+I am just a humble teacher.	Sou apenas um simples professor.	256040
+I knew at a glance that he was an honest man.	Eu soube de imediato que ele era um homem honesto.	256041
+I looked for the book for an hour.	Procurei o livro por uma hora.	256044
+I cannot get there in an hour.	Não posso chegar lá em uma hora.	256045
+I am paid 10 dollars an hour.	Pagam-me 10 dólares a hora.	256046
+I studied for one hour.	Estudei por uma hora.	256047
+I go to the library two or three times a week.	Vou à biblioteca duas ou três vezes por semana.	256049
+I must return home within a week.	Devo voltar para casa dentro de uma semana.	256050
+I can't go out, because I was injured a week ago in an accident.	Não posso sair, pois me machuquei uma semana atrás em um acidente.	256051
+I am an only child.	Sou filho único.	256056
+I don't like to be alone.	Eu não gosto de estar sozinho.	256058
+I had to go there alone.	Eu tenho de ir lá sozinho.	256060
+I finished the work by myself.	Terminei o trabalho sozinho.	256061
+I was compelled to do the work alone.	Fui obrigado a fazer o trabalho sozinho.	256062
+I can do it by myself.	Eu mesmo posso fazê-lo.	256063
+I would rather not go shopping alone.	Eu preferiria não ir fazer compras sozinho.	256064
+Do you think I should go alone?	Você acha que eu deveria ir sozinho?	256065
+I can't bear living alone.	Eu não posso aguentar viver sozinho.	256067
+I met an old woman.	Eu encontrei uma mulher velha.	256070
+I don't want to live by myself.	Eu não quero morar sozinho.	256072
+I am accustomed to living alone.	Estou acostumado a viver sozinho.	256074
+I worked hard all day, so I was very tired.	Trabalhei duro o dia todo, então estava muito cansado.	256077
+I am accustomed to working hard.	Estou acostumado a trabalhar duro.	256078
+I turned off the TV because I had seen the movie before.	Desliguei a TV porque já vira o filme antes.	256082
+I have visited Paris once.	Eu visitei Paris uma vez.	256085
+I have never been to America.	Eu nunca estive na América.	256086
+I have never been to Europe.	Eu nunca estive na Europa.	256087
+I have never been to Kushiro.	Eu nunca estive em Kushiro.	256088
+I go to the restaurant every 2 days.	Vou ao restaurante a cada dois dias.	256090
+I have to use English all day.	Tenho que usar inglês o dia todo.	256093
+I stayed home all day.	Fiquei em casa o dia todo.	256094
+I spent the entire day on the beach.	Passo o dia inteiro na praia.	256097
+I've worked all day, so that I am very tired.	Trabalhei o dia inteiro, por isso estou muito cansado.	256098
+I'm very tired from working all day.	Estou muito cansado de trabalhar o dia todo.	256099
+I was busy all day.	Estive ocupado o dia todo.	256100
+I was revived by a glass of water.	Fui reanimado por um copo d'água.	256101
+I had a good night's rest.	Tive uma boa noite de descanso.	256104
+I sat up all night.	Passei a noite em claro.	256105
+I was wearing my best clothes.	Eu estava vestindo minhas melhores roupas.	256106
+I can't reach the top shelf.	Não posso alcançar a prateleira de cima.	256108
+I got up early enough to catch the first train.	Levantei-me cedo o suficiente para pegar o primeiro trem.	256109
+I hurried in order to catch the first train.	Apressei-me a fim de pegar o primeiro trem.	256110
+I recognized him at first glance.	Eu o reconheci ao primeiro relance de olhos.	256116
+I am blind in the right eye.	Eu sou cego do olho direito.	256128
+I got my right leg injured.	Eu machuquei minha perna direita.	256130
+I went out although it was raining.	Mesmo chovendo, eu saí.	256131
+I always keep my promises.	Eu sempre mantenho minhas promessas.	256142
+I was afraid I might fall asleep while driving.	Eu estava com medo de dormir enquanto dirigia.	256147
+I broke a bone in my foot while exercising.	Quebrei um osso do pé enquanto me exercitava.	256149
+I flew above the clouds.	Eu voei por cima das nuvens.	256153
+I suggested that we should go to the movies.	Eu sugeri que fôssemos ao cinema.	256161
+I feel like going to the movies.	Estou a fim de ir ao cinema.	256163
+I want to live forever.	Eu quero viver para sempre.	256167
+I know how to swim, but I don't like swimming in the river.	Eu sei nadar, mas não gosto de nadar no rio.	256168
+I want to learn how to swim.	Eu quero aprender a nadar.	256169
+I know how to swim.	Eu sei nadar.	256170
+I like English, but I cannot speak well.	Eu gosto de inglês, mas não sei falar direito.	256181
+I like English very much.	Eu gosto muito de inglês.	256183
+I am able to read English.	Eu posso ler em inglês.	256184
+I was poor at English.	Eu era terrível em inglês.	256185
+I'm afraid I cannot make myself understood in English.	Eu tenho medo de não fazer as pessoas me entenderem em inglês.	256189
+I wrote a letter in English.	Escrevi uma carta em inglês.	256196
+I received a letter written in English.	Eu recebi uma carta escrita em inglês.	256198
+I bought a newspaper written in English.	Comprei um jornal escrito em inglês.	256199
+I keep a diary in English.	Eu mantenho um diário em inglês.	256201
+I'm fed up with English.	Estou cheio do inglês.	256207
+I would like to brush up my English.	Gostaria de recapitular o meu inglês.	256208
+I want to study German in addition to English.	Quero estudar alemão além do inglês.	256210
+I am interested in English.	Eu me interesso pelo inglês.	256211
+I know how to write a letter in English.	Eu sei escrever uma carta em inglês.	256216
+I would like to improve my English pronunciation.	Eu gostaria de melhorar minha pronúncia de inglês.	256219
+I study French in addition to English.	Eu estudo francês além do inglês.	256222
+I have few English books.	Eu tenho poucos livros de inglês.	256224
+I have some English books.	Eu tenho alguns livros para estudar inglês.	256225
+It is six years since I started to study English.	Faz seis anos que comecei a estudar inglês.	256233
+I cannot speak English, much less German.	Eu não falo inglês, muito menos alemão.	256244
+I want to be able to speak English.	Eu quero poder falar inglês.	256245
+I don't like a novel without a hero.	Não gosto de novela sem herói.	256250
+I live within 200 meters of the station.	Moro a 200 metros da estação.	256251
+I took a taxi from the station to the hotel.	Tomei um táxi da estação para o hotel.	256252
+I want to live close to the station.	Eu quero morar perto da estação.	256254
+I walked from the station.	Eu vim da estação a pé.	256255
+I ran across my uncle at the station.	Eu me encontrei por acaso com o meu tio na estação.	256259
+I heard my name called in the station.	Ouvi meu nome sendo chamado na estação.	256260
+I bumped into him at the station.	Eu trombei com ele na estação.	256263
+I arrived at the station.	Cheguei à estação.	256264
+I will pick him up at the station.	Pegarei ele na estação.	256265
+I am near the station.	Eu estou perto da estação.	256268
+I walked as far as the station.	Eu fui andando até a estação.	256277
+I belong to the drama club.	Eu participo do clube de teatro.	256281
+I was unable to breathe because of the smoke.	Não conseguia respirar por causa da fumaça.	256285
+I stopped smoking and drinking.	Parei de fumar e de beber.	256286
+I lay down to rest.	Eu me deitei para descansar.	256306
+I was raised in Yokohama.	Fui criada em Yokohama.	256308
+I love the sound of rain on the roof.	Eu gosto do barulho da chuva batendo no telhado.	256313
+I painted the roof light blue.	Pintei o telhado de azul claro.	256314
+I got this job with my teacher's help.	Eu consegui este emprego com a ajuda do meu professor.	256315
+I do not like music.	Não gosto de música.	256325
+I would like to go to Austria in order to study music.	Gostaria de ir à Áustria para estudar música.	256333
+I am listening to the music.	Estou escutando música.	256337
+I like listening to music.	Gosto de escutar música.	256342
+I love music, especially rock.	Eu gosto de música, especialmente de rock.	256344
+I belong to the music club.	Sou do clube de música.	256345
+I'm not a bit interested in chemistry.	Não estou nem um pouco interessado em química.	256350
+I ordered half a dozen books on chemistry from New York.	Encomendei meia dúzia de livros de química de Nova York.	256351
+I want to drink something.	Quero beber algo.	256358
+I want to eat something.	Quero comer algo.	256362
+I feel like eating something.	Estou com vontade de comer alguma coisa.	256363
+I want something to read on the train.	Eu quero algo para ler no trem.	256367
+I will give up drinking at any cost.	Vou parar de beber a qualquer custo.	256377
+I prefer working to doing nothing.	Eu prefiro trabalhar a não fazer nada.	256388
+I value your friendship more than anything.	Valorizo sua amizade mais que qualquer coisa.	256404
+I know what to do.	Sei o que fazer.	256407
+I don't know what to study.	Eu não sei o que estudar.	256422
+How old do you think I am?	Quantos anos você me dá?	256425
+I don't know what time it is.	Eu não sei que horas são.	256429
+I waited for hours, but she didn't show up.	Eu esperei horas, mas ela não apareceu.	256432
+I tried again and again.	Eu tentei de novo e de novo.	256440
+I have traveled many times.	Eu viajei muitas vezes.	256447
+I lived for years and years.	Eu vivi por anos e anos.	256450
+I like summer the best.	Eu gosto mais do verão.	256455
+I end up unconsciously trying to get fit as summer draws near.	Acabo tentando inconscientemente entrar em forma quando o verão se aproxima.	256456
+I swim in the summer.	Eu nado no verão.	256458
+I swam in the afternoons during the summer vacation.	Eu nadava nas tardes durante as férias do verão.	256474
+I study English at home.	Eu estudo inglês em casa.	256477
+I have to stay home.	Tenho que ficar em casa.	256482
+I will stay at home.	Ficarei em casa.	256483
+I used to drop in at the bookstore on my way home.	Eu costumava parar em uma livraria no meu caminho para casa.	256492
+I saw a white bird on my way home.	A caminho de casa, vi um pássaro branco.	256495
+I want to go home.	Quero ir para casa.	256506
+I'm looking for a house.	Estou procurando uma casa.	256507
+I have abandoned the idea of buying a house.	Abandonei a ideia de comprar uma casa.	256508
+I'm going to sell my house.	Eu vou vender a minha casa.	256509
+I went camping with my family.	Eu fui acampar com a minha família.	256514
+I took a picture of my family.	Eu tirei uma foto da minha família.	256520
+I worked hard in order to support my family.	Eu tenho trabalhado duro para sustentar minha família .	256523
+I write poems in my free time.	Eu escrevo poemas no meu tempo livre.	256528
+I found out where to buy fruit cheaply.	Descobri onde comprar fruta barata.	256530
+I like to sing songs.	Gosto de cantar canções.	256535
+I am allergic to pollen.	Eu sou alérgico ao pólen.	256550
+I got bitten by mosquitoes.	Fui picado pelos mosquitos.	256554
+I've given my best for the company.	Eu dei o melhor de mim pela empresa.	256572
+I went swimming in the sea.	Eu fui nadar no mar.	256584
+I'd like you to be more punctual.	Eu gostaria que você fosse mais pontual.	256595
+I spoke so loudly as to be heard by everyone.	Falei bem alto, para ser ouvido por todos.	256596
+I showed genius in painting.	Mostrei talento na pintura.	256598
+I can't draw, but my sister is a great artist.	Eu não sei desenhar, mas minha irmã é uma grande artista.	256600
+I like to draw pictures.	Eu gosto de desenhar.	256602
+I would like to draw.	Gostaria de desenhar.	256603
+I'm going to give Emi a new CD.	Eu vou dar um novo CD para Emi.	256606
+I met him on the stairs as I was coming up.	Eu encontrei ele na escada quando eu estava subindo.	256609
+I wish to go abroad.	Queria viajar para fora.	256616
+I have many friends in foreign countries.	Tenho muitos amigos no exterior.	256617
+I am thinking of going abroad.	Estou pensando em viajar para fora.	256623
+I am learning two foreign languages.	Estou aprendendo duas línguas estrangeiras.	256624
+I was taught English by a foreigner.	Um estrangeiro me ensinou inglês.	256626
+I don't want to go out.	Não quero sair.	256628
+I was going out, when the telephone rang.	Eu estava saindo quando o telefone tocou.	256631
+I never go out without buying something.	Nunca saio sem comprar algo.	256633
+I must finish it before I go out.	Eu tenho que terminá-lo antes de sair.	256635
+I stayed at home instead of going out.	Eu fiquei em casa ao invés de sair.	256636
+I go to school because I want to learn.	Vou à escola porque quero aprender.	256645
+I met Tony on my way home from school.	Eu vi Tony enquanto ia de casa para a escola.	256649
+I'm studying art at school.	Eu estou estudando arte na escola.	256660
+I put in an hour of jogging before I go to school.	Eu faço caminhadas de uma hora antes de ir para a escola.	256665
+You were going to the school.	Você estava indo à escola.	256667
+I arrived at school on time.	Eu cheguei na hora certa na escola.	256668
+I hurried in order not to be late for school.	Eu me apressei para não chegar tarde na escola.	256672
+I do not go to school.	Eu não vou à escola.	256677
+I met Tony on my way school this morning.	Eu encontrei o Tony no caminho para a escola essa manhã.	256680
+I am a student, but he isn't.	Eu sou um estudante, mas ele não é.	256687
+I play the piano for amusement.	Toco piano por diversão.	256701
+I received a good job offer.	Recebi uma boa oferta de trabalho.	256706
+I slipped and fell down the stairs.	Escorreguei e caí escada abaixo.	256707
+I am accustomed to cold weather.	Estou acostumado ao tempo frio.	256713
+I am very sensitive to the cold.	Sou muito sensível ao frio.	256715
+I know a lot about environmental problems.	Sei bastante sobre problemas ambientais.	256719
+I like sweet cakes very much.	Gosto muito de bolos doces.	256720
+I have a sweet tooth.	Eu gosto de doces.	256724
+I want to be a nurse.	Eu quero ser enfermeira.	256727
+I can read Spanish easily.	Consigo ler em espanhol facilmente.	256728
+I have a history of liver trouble.	Tenho um histórico de problemas no fígado.	256729
+I was at the theater.	Eu estava no teatro.	256730
+I have a tourist visa.	Eu tenho um visto de turista.	256731
+I do not like to make mistakes.	Não gosto de cometer erros.	256732
+I was abashed when my mistakes were pointed out.	Eu me envergonhei quando meus erros foram apontados.	256733
+I may have made a mistake.	Eu posso ter cometido um erro.	256735
+I asked forgiveness for the mistake I made.	Pedi perdão por ter cometido um erro.	256738
+I can hardly see without my glasses.	Eu mal consigo enxergar sem meus óculos.	256746
+I was nearly run over by a truck.	Quase fui atropelado por um caminhão.	256754
+I came near to being run over by the truck.	Eu quase fui atropelado por um caminhão.	256755
+I heard a funny noise.	Ouvi um barulho engraçado.	256775
+I'm feeling kind of tired.	Estou me sentindo um pouco cansado.	256778
+I go to the museum whenever I get the chance.	Vou ao museu sempre que tenho a oportunidade.	256782
+I have to go home.	Tenho que ir para casa.	256788
+I always brush my coat when I come home.	Eu sempre escovo meu casaco depois que volto para casa.	256789
+I slept soon when I came home.	Eu logo dormi quando cheguei em casa.	256790
+I can't hide my feelings.	Não posso ocultar meus sentimentos.	256797
+I like spring the best of the seasons.	A primavera é a estação que eu mais gosto.	256805
+I want to be an engineer.	Eu quero ser engenheiro.	256815
+I was out of town on vacation.	Eu estava fora da cidade, em férias.	256834
+I used to fish for hours on holidays.	Eu passava horas a pescar nas férias.	256843
+I'm not in a hurry.	Eu não estou com pressa.	256847
+I finished my lunch quickly.	Terminei meu almoço rapidamente.	256852
+I had a hasty breakfast and left home.	Tive um café da manhã apressado e parti.	256854
+I couldn't help but cry.	Não pude deixar de chorar.	256860
+I prefer mutton to beef.	Eu prefiro carne de carneiro a carne de boi.	256869
+I must buy some milk.	Eu tenho que comprar leite.	256871
+I lived in New York last year.	Morei em Nova Iorque o ano passado.	256875
+I didn't see a doctor last year.	Eu não fui ao médico no ano passado.	256881
+I like meat better than fish.	Gosto mais de carne do que de peixe.	256893
+I'd prefer meat to fish.	Prefiro carne a peixe.	256894
+I was born in Kyoto.	Eu nasci em Quioto.	256896
+I graduated from Kyoto University.	Graduei-me na Universidade de Quioto.	256909
+The evolution of dinosaurs interests me greatly.	A evolução dos dinossauros me interessa muito.	256919
+I am very tired from teaching.	Estou muito cansado de ensinar.	256920
+"I am a teacher." "So am I."	"Eu sou professor." "Eu também sou."	256930
+I am a writer rather than a teacher.	Eu sou um escritor ao invés de um professor.	256931
+I started to learn English with the aim of becoming a teacher.	Comecei a aprender inglês com a finalidade de me tornar professor.	256934
+I was surprised and became sad.	Eu estava surpreso e fiquei triste.	256947
+I tried to learn the melody by heart.	Tentei aprender a melodia de cor.	256949
+I don't like the taste of onions.	Eu não gosto do gosto da cebola.	256950
+I had an interesting conversation with my neighbor.	Eu tive uma conversa interessante com minha vizinha.	256958
+I'm on good terms with the neighbors.	Estou de bem com os vizinhos.	256959
+Though I have neither money nor friends, I am not so unhappy as you think.	Apesar de eu não ter amigos nem dinheiro, eu não sou tão infeliz o quanto você pensa.	256964
+I have neither money nor friends.	Porém, eu não tenho nem dinheiro e nem amigos.	256965
+I'm not rich but have so much to offer.	Eu não sou abastado mas tenho muito a oferecer.	256969
+I worked for a bank.	Eu trabalhei para um banco.	256978
+I work for a bank.	Eu trabalho num banco.	256979
+I have to go to the bank.	Tenho que ir ao banco.	256981
+I'm going to the bank.	Eu estou indo ao banco.	256982
+I'm from Fukuoka in Kyushu.	Eu sou de Fukuoka em Kyushu.	256986
+I was foolish enough to believe him.	Fui tolo demais em acreditar nele.	256994
+I met a friend of mine at the airport.	Encontrei um amigo meu no aeroporto.	257000
+I have a picture of an airport.	Tenho uma foto de um aeroporto.	257002
+I felt faint with hunger.	Fiquei fraco de fome.	257005
+I am a hungry spider.	Eu sou uma aranha faminta.	257007
+I found the book by chance.	Eu encontrei o livro por sorte.	257010
+I came upon an old friend of mine on the train.	Eu encontrei um velho amigo meu no trem.	257015
+I met him by chance.	Conheci-o ao acaso.	257016
+I got my shoes wet.	Molhei os meus sapatos.	257021
+I must buy a pair of shoes.	Preciso comprar um par de sapatos.	257024
+I am afraid of bears.	Eu tenho medo de ursos.	257026
+I don't know where you're from, and neither does he.	Eu não sei de onde você é, e ele também não.	257031
+I am glad to be with you.	Estou feliz de estar contigo.	257050
+I'd love to come with you.	Adoraria vir com você.	257056
+I owe you 3,000 yen.	Eu te devo 3000 ienes.	257060
+How much do I owe you?	Quanto eu te devo?	257062
+I want you to read this English letter.	Eu quero que você leia esta carta em inglês.	257065
+I want you to read this letter.	Quero que você leia esta carta.	257066
+I'd like you to go there.	Gostaria que fosses ali.	257069
+I will give you a notebook.	Eu te darei um caderno.	257072
+I will keep nothing back from you.	Eu não guardarei segredos de você.	257077
+I want to see you.	Eu quero te ver.	257078
+I can't let you talk about your own father that way.	Eu não posso deixá-lo falar sobre o seu próprio pai desse jeito.	257085
+I know your brother very well.	Eu conheço muito bem o seu irmão.	257090
+I know your father very well.	Conheço muito bem o seu pai.	257092
+I like you very much.	Eu gosto muito de você.	257095
+I can't make heads or tails of what you say.	Eu não entendo nada do que você diz.	257105
+I know the person you are talking about.	Eu sei de quem você está falando.	257106
+I don't quite know how it happened.	Não sei muito bem como ocorreu.	257111
+I have the same dictionary as your brother has.	Eu tenho o mesmo dicionário que o seu irmão.	257118
+I agree to your proposal.	Eu concordo com a sua proposta.	257119
+I am not as interested in literature as you.	Não sou tão interessado em literatura como você.	257126
+I'm much younger than you.	Sou muito mais jovem que você.	257130
+I have confidence in you.	Confio em ti.	257142
+I played tennis with my brother.	Eu joguei tênis com o meu irmão.	257147
+I went to the movies with my brother.	Fui ao cinema com meu irmão.	257148
+I am economically independent of my parents.	Eu sou economicamente independente dos meus pais.	257158
+I am in financial difficulties.	Estou com dificuldades financeiras.	257159
+I'll never let you down.	Nunca vou te decepcionar.	257176
+I never try to go to there.	Eu nunca tento ir lá.	257180
+I adhered to my decision.	Fiquei fiel à minha decisão.	257185
+I go to the movies once a month.	Vou ao cinema uma vez por mês.	257209
+I go to the barber's once a month.	Vou ao cabeleireiro uma vez por mês.	257210
+I study English on Monday and Friday.	Estudo inglês segundas e sextas.	257214
+I want to travel to the moon.	Quero viajar para a Lua.	257216
+I invited Ken, Bill and Yumi.	Eu convidei Ken, Bill e Yumi.	257217
+I asked Ken to help me.	Pedi a Ken que me ajudasse.	257219
+I exercise because I want to stay healthy.	Exercito-me porque quero continuar saudável.	257220
+I take my health seriously.	Eu levo minha saúde a sério.	257225
+I had a physical checkup.	Passei por um checkup.	257226
+I like dogs, but my sister likes cats.	Eu gosto de cachorros, mas minha irmã gosta de gatos.	257237
+I feed meat to my dog.	Eu dei carne para o meu cachorro.	257240
+I fed some meat to my dog.	Dei um pouco de carne para o meu cachorro.	257241
+I prefer cats to dogs.	Gosto mais de gatos que de cachorros.	257246
+I have a dog and two cats.	Eu tenho um cachorro e dois gatos.	257247
+I saw a dog. The dog held a piece of meat in its mouth.	Eu vi um cachorro. O cachorro tinha um pedaço de carne na boca.	257249
+I looked around, but saw nobody.	Eu olhei por aí, mas não vi ninguém.	257262
+I saw a stranger enter that house.	Vi um estranho entrar nessa casa.	257263
+I have lost my key.	Eu perdi minha chave.	257266
+It seems that I have lost my keys.	Parece que eu perdi minhas chaves.	257267
+I have lost the key.	Eu perdi a chave.	257268
+I'm trying to lose weight.	Eu estou tentando perder peso.	257276
+I only did as I was told.	Eu só fiz como me disseram.	257288
+I bought an old lamp.	Comprei uma lâmpada velha.	257298
+I have an old bicycle.	Eu tenho uma bicicleta velha.	257299
+I bought an old car.	Comprei um carro velho.	257301
+I saw an old friend of mine.	Vi um velho amigo meu.	257304
+I aimed at the tiger and fired, but missed him.	Eu apontei para o tigre e disparei, mas eu o perdi.	257317
+I am free this afternoon.	Eu estou livre esta tarde.	257325
+I arrived at the stadium at 4:00 p.m., but the game had already started.	Eu cheguei ao estádio às 16:00, mas o jogo já tinha começado.	257329
+I want to build up my vocabulary.	Eu quero melhorar meu vocabulário.	257343
+I am no better than a beggar.	Não sou melhor que um mendigo.	257346
+My leg was broken in a traffic accident.	Quebrei minha perna em um acidente de trânsito.	257348
+I saw him in the park.	Eu o vi no parque.	257352
+I walk to the park.	Eu ando até o parque.	257355
+I went for a walk in the park.	Eu fui dar uma volta no parque.	257357
+I like going for a walk in the park.	Eu gosto de ir caminhar no parque.	257358
+I'm more interested in spoken English.	Eu estou mais interessado em inglês falado.	257364
+I am far from happy.	Estou longe de ser feliz.	257384
+I had a happy childhood.	Eu tive uma infância feliz.	257385
+I have never been to Hiroshima.	Eu nunca estive em Hiroxima.	257389
+I want to drink a cup of tea.	Eu quero tomar uma xícara de chá.	257402
+I'd like to make it clear that I will not change my mind.	Gostaria de deixar claro que não mudarei de opinião.	257404
+I was searched by the customs officers at the airport.	Eu passei pela revista dos agentes alfandegários no aeroporto.	257406
+I didn't go, but stayed at home.	Eu não fui, mas fiquei em casa.	257409
+I don't think I want to go.	Acho que não quero ir.	257412
+I didn't want to go, but she had been so kind to me that I couldn't but accept the invitation.	Eu não queria ir, mas ela tem sido tão gentil comigo que eu não pude recusar o seu convite.	257413
+I intended to go, but forgot to.	Eu queria ir, mas me esqueci.	257415
+I am afraid to go.	Estou com medo de ir.	257416
+I cannot go, nor do I want to.	Eu não posso ir, nem quero.	257419
+I can't go, nor do I want to.	Eu não posso e nem quero ir.	257421
+I need time to mull things over before I decide what to do.	Eu preciso de tempo para refletir antes de eu decidir o que fazer.	257423
+I am in the first year of high school.	Estou no primeiro ano do ensino médio.	257431
+I have never been to the U.S.	Eu nunca estive nos EUA.	257436
+I have a black and white dog.	Eu tenho um cachorro preto e branco.	257441
+I put on my glasses to see the blackboard.	Eu coloquei meus óculos para ver o quadro.	257442
+I am now on duty.	Eu agora estou de plantão.	257445
+I am busy now and can't play with you.	Estou ocupado agora e não posso brincar com você.	257447
+I do not need money now.	Eu não preciso de dinheiro agora.	257450
+I still correspond with an old friend of mine from time to time.	Eu ainda troco cartas com um velho amigo meu de vez em quando.	257456
+I still think about her from time to time.	Eu ainda penso nela de vez em quando.	257457
+I am busy cooking at the moment.	No momento estou ocupado cozinhando.	257461
+I am playing volleyball now.	Agora estou jogando vôlei.	257465
+I don't want to eat lunch now.	Não quero almoçar agora.	257469
+I have been studying English for three years.	Eu venho estudando inglês por três anos.	257474
+Never in my life have I seen such a peaceful sight.	Em minha vida toda, nunca vi uma vista tão calma.	257483
+I am studying English now.	Estou estudando inglês agora.	257487
+I haven't studied physics much all semester.	Não tenho estudado muito física este semestre.	257498
+I live in Kyoto now.	Eu moro em Quioto agora.	257500
+I'm at the airport now.	Agora eu estou no aeroporto.	257501
+I am now in an old castle.	Agora estou em um castelo velho.	257504
+I was told to learn this poem by heart by the end of this week.	Me mandaram aprender este poema de cor até o fim desta semana.	257516
+I got up late this morning.	Eu me levantei tarde hoje de manhã.	257523
+I got up very late this morning.	Levantei muito tarde esta manhã.	257532
+I have been working since six this morning.	Eu estive trabalhando desde às seis essa manhã.	257534
+I have arrived here safe and sound this morning.	Eu cheguei aqui são e salvo nesta manhã.	257553
+I tried to get up at six this morning.	Eu tentei levantar às seis esta manhã.	257554
+I must get this work finished by next Tuesday.	Preciso terminar este trabalho até a próxima terça-feira.	257559
+I'll not be at home next Sunday.	Não estarei em casa no domingo que vem.	257561
+I am now in a delicate position.	Agora estou em uma posição delicada.	257562
+I am taking my son to the zoo this afternoon.	Vou levar meu filho para o zoológico hoje à tarde.	257574
+I have nothing to do this afternoon.	Não tenho nada que fazer esta tarde.	257578
+I am going to study English this afternoon.	Eu estudarei inglês nessa tarde.	257582
+I have a bad headache today.	Hoje estou com uma forte dor de cabeça.	257586
+I didn't have lunch today.	Não almocei hoje.	257594
+I am in Tokyo today.	Estou em Tóquio hoje.	257596
+I have to cook dinner today.	Tenho que fazer o jantar hoje.	257600
+I get only five days off this summer.	Tenho só cinco dias de férias este verão.	257602
+I am going to watch TV this evening.	Hoje à noite vou ver televisão.	257613
+I am starting this evening.	Estou começando nessa noite.	257616
+I can't think of his name just now.	Não consigo lembrar de seu nome neste momento.	257619
+I have no thought of seeing her now.	Não tenho vontade de vê-la agora.	257620
+I can't recall her name at the moment.	Não consigo me lembrar de seu nome neste momento.	257621
+I have caught a cold.	Peguei um resfriado.	257622
+I'm now busy writing a book.	Agora estou ocupado escrevendo um livro.	257628
+I will be with you tonight.	Eu vou estar com você hoje a noite.	257630
+I never turn my back on a friend in need.	Jamais virei as costas para um amigo em apuros.	257642
+I am not used to drinking coffee without sugar.	Eu não estou acostumado a beber café sem açúcar.	257650
+I am the fastest runner.	Eu sou o corredor mais rápido.	257652
+I've not been feeling very well lately.	Não estou me sentindo muito bem ultimamente.	257655
+I have recently given up smoking.	Deixei recentemente de fumar.	257658
+I've been very busy lately.	Tenho estado muito ocupado ultimamente.	257659
+I could not accept that my wife was really dead.	Não pudia aceitar que minha esposa estava realmente morta.	257686
+I went to the hospital to see my wife.	Fui ao hospital para ver a minha mulher.	257689
+I seem to have lost my purse.	Parece que perdi minha carteira.	257695
+I left my purse behind.	Eu deixei minha bolsa para trás.	257698
+I read an article about acid rain yesterday.	Li um artigo sobre chuva ácida ontem.	257709
+I stayed up late last night.	Eu fiquei acordado até tarde ontem à noite.	257711
+I had to go there yesterday.	Eu tinha que ir lá ontem.	257720
+I fixed the bike yesterday.	Consertei a bicicleta ontem.	257723
+I fixed the car yesterday.	Eu consertei o carro ontem.	257724
+I bought the book yesterday.	Eu comprei o livro ontem.	257726
+I saw an old film featuring Charlie Chaplin yesterday.	Ontem vi um filme antigo estrelado por Charlie Chaplin.	257729
+I did not play tennis yesterday.	Eu não joguei tênis ontem.	257730
+I played with Tony yesterday.	Ontem brinquei com Tony.	257732
+I called at Tony's house yesterday.	Liguei na casa de Tony ontem.	257733
+It was not till yesterday that I knew the fact.	Eu não sabia do fato até ontem.	257736
+I left home without having breakfast yesterday.	Ontem saí de casa sem tomar café da manhã.	257745
+I was in bed all day long yesterday.	Ontem estive na cama o dia todo.	257753
+I went to school yesterday.	Eu fui à escola ontem.	257759
+I caught five fish yesterday.	Ontem peguei cinco peixes.	257763
+I intended to have called on you yesterday.	Eu pretendia ter te ligado ontem.	257767
+I had to work overtime yesterday.	Eu tive de fazer hora extra ontem.	257775
+I lost my watch yesterday.	Perdi meu relógio ontem.	257780
+I had my watch stolen yesterday.	Roubaram meu relógio ontem.	257781
+He wrote a letter yesterday.	Ontem ele escreveu uma carta.	257783
+I played tennis yesterday for the first time.	Joguei tênis pela primeira vez ontem.	257784
+I went swimming in the river yesterday.	Ontem fui nadar no rio.	257787
+I got up early yesterday.	Eu levantei cedo ontem.	257789
+I caught a big fish yesterday.	Peguei um peixe grande ontem.	257790
+He read a most interesting novel yesterday.	Ele leu um romance muito interessante ontem.	257803
+I had a strange dream last night.	Tive um sonho estranho ontem à noite.	257805
+I helped my father yesterday.	Eu ajudei meu pai ontem.	257806
+I didn't have to study yesterday.	Eu não tive que estudar ontem.	257808
+I listened to some CDs last night.	Ontem à noite escutei vários CDs.	257821
+I finished reading the book last night.	Eu terminei de ler o livro na noite passada.	257823
+I had a bad dream last night.	Ontem à noite eu tive um pesadelo.	257828
+I wrote three letters last night.	Escrevi três cartas ontem à noite.	257832
+I watched the baseball game last night.	Assisti ao jogo de beisebol ontem à noite.	257833
+I had a funny dream last night.	Eu tive um sonho engraçado noite passada.	257837
+I arrived here last night.	Eu cheguei aqui noite passada.	257838
+I watched TV last night.	Eu assisti TV ontem à noite.	257843
+I had my bicycle stolen last night.	Roubaram minha bicicleta ontem à noite.	257848
+I painted the fence green.	Pintei a cerca de verde.	257856
+I had no more than three pounds.	Eu não tinha mais do que três libras.	257861
+I must go to the station at three o'clock.	Eu devo ir para a estação às três em ponto.	257863
+I reserved my hotel room three weeks in advance.	Eu reservei meu quarto no hotel com três semanas de antecedência.	257865
+I lived in Japan three years ago.	Eu morei no Japão três anos atrás.	257872
+I didn't need to take an umbrella with me.	Não precisei levar um guarda-chuva comigo.	257875
+I saw a chain of mountains.	Eu vi uma cadeia de montanhas.	257881
+I got my hair cut.	Eu cortei o meu cabelo.	257883
+I like walking, especially in the morning.	Eu gosto de caminhar, principalmente de manhã.	257886
+I was told to wait for a while.	Pediram-me que esperasse um instante.	257891
+I'm very tired from work.	Estou muito cansado do trabalho.	257896
+I don't like to mix business with pleasure.	Não gosto de misturar negócios com diversão.	257902
+I stayed home all day instead of going to work.	Fiquei em casa o dia todo em vez de ir trabalhar.	257903
+I made an effort to finish my work.	Fiz um esforço para terminar meu trabalho.	257919
+I have to part with my old furniture.	Devo me separar dos meus velhos móveis.	257928
+I discharged one of my servants.	Eu demiti um dos meus empregados.	257930
+I can't stand raw fish.	Não suporto peixe cru.	257931
+I took the lift to the third floor.	Eu peguei o elevador para o terceiro andar.	257932
+I like summer best of the four seasons.	Das quatro estações eu gosto mais do verão.	257933
+I said all along that he was not a person to be trusted, but you would not listen to me.	Eu dizia o tempo todo que ele não era uma pessoa de confiança, mas você não me escutou.	257935
+You are in my thoughts at all times.	Você está em meus pensamentos todo o tempo.	257937
+I had wanted to catch the first train.	Minha intenção tinha sido a de tomar o primeiro trem.	257943
+I saw my sister tear up the letter.	Vi a minha irmã rasgar a carta.	257944
+I want the same watch as my sister has.	Quero o mesmo relógio que a minha irmã tem.	257945
+I went to the zoo with my sister.	Fui ao jardim zoológico com minha irmã.	257947
+I couldn't eat fish when I was a child.	Eu não pude comer peixe quando eu era criança.	257957
+I don't like being treated like a child.	Não gosto de ser tratado como uma criança.	257959
+I don't have any children.	Eu não tenho filhos.	257961
+I told an amusing story to the children.	Eu contei uma história divertida para as crianças.	257965
+I have known Tom since I was a little boy.	Conheço Tom desde quando eu era um garotinho.	257974
+I was a healthy child.	Eu era uma criança saudável.	257976
+I could swim well when I was a boy.	Eu sabia nadar bem quando era um garoto.	257980
+When I was a kid, I was all thumbs.	Quando eu era criança, eu era muito desajeitado.	257985
+I went to church every Sunday when I was a boy.	Eu ia à igreja todo domingo quando era garoto.	257987
+I cannot tolerate noisy children.	Eu não posso tolerar crianças barulhentas.	257994
+I borrow them from the city library.	Eu os pego emprestados na biblioteca da cidade.	258001
+I took it upon myself to telephone the police.	Eu assumi a responsabilidade de telefonar para a polícia.	258005
+I was able to finish the work earlier than I had expected.	Consegui terminar o trabalho antes do que eu havia imaginado.	258009
+I will abolish capital punishment.	Eu vou abolir a pena de morte.	258024
+I am the tallest in our class.	Eu sou o mais alto da nossa classe.	258029
+I'm looking for my camera.	Estou procurando a minha câmera.	258034
+I like the way she laughs at my jokes.	Eu gosto da maneira como ela ri de minhas piadas.	258035
+I couldn't make myself understood.	Eu não consegui me fazer entender.	258038
+It is interesting for me to read my old diary.	Acho interessante ler o meu velho diário.	258039
+I don't have much in common with my left-handed boyfriend.	Eu não tenho muito em comum com meu namorado canhoto.	258042
+I was not as strong as my father.	Eu não era tão forte como meu pai.	258049
+I am loved by my parents.	Eu sou amado por meus pais.	258052
+I am going to write about our parks and mountains.	Vou escrever sobre os nossos parques e montanhas.	258058
+I wrote down his phone number on a scrap of paper.	Eu anotei o número de telefone dele num pedaço de papel.	258061
+I cut the paper with a pair of scissors.	Cortei o papel com uma tesoura.	258062
+I would like to try this dress on.	Gostaria de provar este vestido.	258067
+I tried climbing the mountain.	Tentei escalar a montanha.	258068
+I studied hard so that I could pass the examination.	Eu estudei bastante para que assim eu possa passar no exame.	258078
+I am anxious about the results of the examination.	Eu estou ansioso acerca dos resultados do exame.	258080
+I keep a female cat.	Eu cuido de uma gata.	258086
+I know it for a fact.	Eu não tenho nenhuma dúvida.	258102
+I rarely go to the movies.	Vou raramente ao cinema.	258113
+I failed to go there in time.	Eu falhei em ir lá a tempo.	258116
+I'm paid by the hour.	Sou pago por hora.	258119
+I lost my watch, so I have to buy one.	Eu perdi meu relógio e então tenho que comprar outro.	258127
+I have lost my watch.	Perdi meu relógio.	258128
+I looked up the arrival time in the timetable.	Vi a hora de chegada no horário.	258140
+I meet him at the club from time to time.	Encontro-o no clube de vez em quando.	258144
+I play tennis once in a while.	Eu jogo tênis de vez em quando.	258146
+I sometimes enjoy my leisure in fishing.	Às vezes eu gozo do meu tempo livre pescando.	258148
+I go to the movies once in a while.	Vou ao cinema de vez em quando.	258151
+I sometimes dream of home.	Eu às vezes sonho com minha casa.	258153
+I fall asleep in the class every now and then.	De vez em quando, eu durmo durante a aula.	258154
+I go to the library from time to time.	Vou à biblioteca de vez em quando.	258156
+I meet him from time to time.	Encontro-o de vez em quando.	258158
+I visit my friend's house at intervals.	Eu às vezes visito a casa do meu amigo.	258162
+I meet her at school now and then.	Eu a encontro na escola de vez em quando.	258167
+I don't know what to do next.	Eu não sei o que fazer em seguida.	258177
+I will take the next plane for New York.	Vou pegar o próximo voo para Nova Iorque.	258184
+I am getting off at the next station.	Vou descer na próxima estação.	258187
+I'm getting off at the next station.	Vou descer na próxima estação.	258188
+I turned page after page.	Eu virei página por página.	258192
+I go to school by bicycle.	Eu vou à escola de bicicleta.	258202
+I like to think I know what I'm talking about.	Eu gosto de achar que sei sobre o que estou falando.	258224
+I hope I am very efficient.	Eu espero que eu seja muito eficiente.	258228
+I can prove that I am right.	Posso provar que tenho razão.	258229
+I wondered if I could do such a thing.	Eu imaginei se eu conseguiria fazer tal coisa.	258243
+I bought this book for myself, not for my wife.	Comprei este livro para mim, não para minha mulher.	258248
+I lay on my bed.	Eu deitei na minha cama.	258251
+I decided on telling her of my love.	Eu decidi falar do meu amor para ela.	258255
+I told a lie against my will.	Eu menti contra a minha vontade.	258256
+I'm not good at expressing my feelings.	Não sou bom em expressar meus sentimentos.	258272
+I feel abashed at my mistake.	Envergonho-me pelo meu erro.	258277
+I like going on trips in my car.	Gosto de viajar com o meu carro.	258292
+I compared my car with his.	Comparei o meu carro com o dele.	258294
+I loved my life and my money.	Amava minha vida e meu dinheiro.	258301
+I remember the house where I grew up.	Lembro-me da casa em que cresci.	258302
+He is proud of his son.	Ele tem orgulho do filho.	258309
+I have to clean my room.	Tenho que limpar meu quarto.	258316
+I don't care what people think about the way I dress.	Eu não me importo com o que as pessoas pensam sobre como eu me visto.	258319
+I quoted some famous phrases in my book.	Citei algumas frases famosas em meu livro.	258320
+I found my name written on the blackboard.	Eu encontrei o meu nome escrito no quadro.	258324
+I felt that my honor was at stake.	Eu senti que a minha honra estava em jogo.	258327
+I am not all too certain of my position.	Não estou muito certo de minha posição.	258334
+I have a lot of money at my disposal.	Tenho muito dinheiro a minha disposição.	258342
+I'd like to see the Statue of Liberty.	Gostaria de ver a Estátua da Liberdade.	258343
+I cannot do without a dictionary.	Eu não posso fazer sem um dicionário.	258347
+I had an excellent breakfast at seven.	Tive um excelente café-da-manhã às sete horas.	258353
+I left home at seven.	Eu saí de casa às sete horas.	258354
+I made up for lost time.	Eu recompensei o tempo perdido.	258360
+I raised my hand to ask a question.	Levantei a minha mão para fazer uma pergunta.	258371
+I don't really care for that sort of thing.	Não me interesso muito por esse tipo de coisa.	258373
+I did not take many photos.	Não tirei muitas fotos.	258374
+I watched the car disappearing slowly around the corner.	Vi o carro desaparecendo lentamente ao virar a esquina.	258385
+I am fond of cars.	Eu gosto de carros.	258386
+I go to church by car.	Vou à igreja de carro.	258388
+I know how to drive a car.	Eu sei como dirigir um carro.	258393
+I am able to drive a car.	Eu consigo dirigir um carro.	258399
+I don't have a car.	Não tenho carro.	258401
+I don't have a car, but my sister does.	Não tenho carro, mas minha irmã sim.	258402
+I had my car stolen.	Meu carro foi roubado.	258405
+I decided to buy a car.	Eu decidi comprar um carro.	258406
+I have enough money to buy a car.	Tenho dinheiro suficiente para comprar um carro.	258409
+I watched from the garage window, amazed at what I saw.	Olhei pela janela da garagem e fiquei surpreso com o que vi.	258412
+I don't like to be disturbed.	Não gosto de ser incomodado.	258417
+I did smoke when I was young.	Eu fumava quando eu era jovem.	258425
+I often played soccer when I was young.	Eu de vez em quando jogava futebol quando era jovem.	258427
+I often played baseball when I was young.	Eu jogava muito basebol quando era jovem.	258429
+I don't agree to a young lady going there alone.	Não concordo que uma jovem vá naquele lugar sozinha.	258439
+I was young, and I wanted to live.	Eu era jovem e queria viver.	258441
+I have a book in my hand.	Tenho um livro na mão.	258450
+I finished writing a letter.	Terminei de escrever uma carta.	258462
+I am going to write a letter.	Vou escrever uma carta.	258463
+I don't remember posting the letter.	Eu não me lembro de ter enviado a carta.	258464
+I have a little money with me.	Tenho pouco dinheiro comigo.	258465
+I was relieved to know that the operation was a success.	Fiquei aliviado em saber que a operação foi um sucesso.	258466
+I bought a pair of gloves.	Comprei um par de luvas.	258467
+Will you please help me?	Você me ajuda, por favor?	258469
+I bought him a drink in return for his help.	Comprei-lhe uma bebida em troca de sua ajuda.	258470
+I want to be a magician.	Quero ser mágico.	258471
+I collect stamps as a hobby.	Coleciono selos por hobby.	258472
+I neither smoke nor drink.	Eu não fumo nem bebo.	258475
+I succeeded in the recovery of the stolen wallet.	Consegui recuperar a carteira roubada.	258481
+I put the receiver to my ear.	Coloquei o fone na orelha.	258484
+I ordered sushi, and John tempura.	Eu pedi sushi e o John, tempura.	258485
+I hurried out so as to be in time for class.	Eu saí correndo para chegar a tempo na aula.	258487
+I went to sleep during the lesson.	Eu dormi durante a aula.	258488
+I've lost my religious faith.	Perdi minha fé religiosa.	258490
+I turned the table upside down to fix it.	Virei a mesa de ponta-cabeça para consertá-la.	258492
+I'm going to Paris in the fall.	Vou a Paris no outono.	258494
+I prefer spring to autumn.	Prefiro a primavera ao outono.	258495
+I like spring better than fall.	Gosto mais da primavera do que do outono.	258496
+I missed the last bus, and was obliged to walk home in the rain.	Perdi o último ônibus, e fui obrigado a andar até em casa na chuva.	258497
+I was late for the last train.	Atrasei-me para o último trem.	258499
+I spent the whole day reading a novel.	Passei o dia inteiro lendo um romance.	258500
+I work out in a gym two or three times a week.	Faço exercícios no ginásio duas ou três vezes por semana.	258501
+I jog twice a week.	Eu corro duas vezes por semana.	258502
+I visit my grandparents twice a week.	Visito meus avós duas vezes por semana.	258503
+I visit my grandmother twice a week.	Visito minha avó duas vezes por semana.	258504
+I meet her once a week.	Eu a encontro uma vez por semana.	258505
+I bought a weekly magazine.	Comprei uma revista semanal.	258507
+I'm going to Izu over the weekend.	Vou a Izu durante o fim de semana.	258509
+I never work on weekends.	Eu nunca trabalho nos finais de semana.	258510
+I enjoyed playing tennis over the weekend.	Eu gostava de jogar tênis durante os finais de semana.	258511
+I have a lot of work to finish up before the end of the week.	Tenho muito trabalho para terminar antes do fim da semana.	258512
+I am going to spend the weekend in Kanazawa.	Vou passar o final de semana em Kanazawa.	258514
+I spent the weekend reading a long novel.	Passei o final de semana lendo um longo romance.	258515
+I had a good sleep.	Dormi bem.	258520
+I have enjoyed myself to the full.	Eu me diverti ao máximo.	258521
+I accepted the offer after due consideration.	Aceitei a oferta após devida consideração.	258522
+I am sixteen years old.	Tenho dezesseis anos.	258523
+I like to sleep on a soft bed.	Gosto de dormir numa cama macia.	258525
+I made a serious mistake.	Cometi um grave erro.	258527
+We found a room at the inn.	Encontrámos um quarto na pousada.	258538
+I watch TV after I finish my homework.	Eu vejo televisão depois de fazer os deveres.	258540
+I fell asleep while I was doing my homework.	Eu adormeci enquanto fazia minha lição de casa.	258544
+Having done my homework, I watched television.	Tendo meu dever de casa finalizado, assisti televisão.	258548
+I am going to start.	Eu vou começar.	258564
+I am ready to start.	Estou pronto para começar.	258565
+I put up with her as long as I could.	Eu a aturei o máximo que pude.	258571
+I am going to work during the spring vacation.	Vou trabalhar durante as férias de primavera.	258575
+I visited New York for the first time.	Visitei Nova York pela primeira vez.	258580
+I ate Japanese food for the first time.	Comi comida japonesa pela primeira vez.	258582
+I met him for the first time.	Eu o encontrei pela primeira vez.	258583
+At first I did not like him, but now I do.	No princípio, eu não gostava dele, mas agora, sim.	258584
+I am very sensitive to heat.	Sou muito sensível ao calor.	258588
+I was affected by the heat.	Eu fui afetado pelo calor.	258591
+I couldn't sleep because of the heat.	Eu não consegui dormir por causa do calor.	258592
+I am looking for an assistant.	Estou procurando um assistente.	258601
+I have never fallen in love with any girl.	Eu nunca me apaixonei por nenhuma garota.	258604
+I intend seeing the queen.	Pretendo ver a rainha.	258606
+I heard a woman scream.	Eu ouvi uma mulher gritar.	258609
+I work for a trading company.	Eu trabalho em uma empresa comercial.	258613
+I would like to be a pilot in the future.	Gostaria de ser um piloto no futuro.	258624
+I hope I will become a dentist in the future.	Espero me tornar um dentista no futuro.	258630
+I will look after my parents in the future.	Tomarei conta dos meus pais no futuro.	258633
+I live in a small town.	Moro numa pequena cidade.	258639
+I stayed home all day long reading novels.	Eu fiquei o dia todo em casa lendo novelas.	258643
+I crossed the river by boat.	Eu atravessei o rio de barco.	258645
+I can't swim at all.	Eu não sei nadar.	258660
+I'm not a bit tired.	Não estou nem um pouco cansado.	258663
+I can speak English a little.	Eu falo um pouco de inglês.	258664
+I was a little surprised.	Estava um pouco surpresa.	258665
+I am a bit drunk.	Estou um pouco bêbado.	258666
+I speak a little Japanese.	Eu falo um pouco de japonês.	258667
+Please tell her I'll come after I do some shopping.	Por favor diga a ela que virei depois de fazer algumas compras.	258670
+I go to the library at least once a week.	Vou à biblioteca pelo menos uma vez por semana.	258678
+I read at least one book every month.	Eu leio pelo menos um livro ao mês.	258681
+I heard the girl crying for help.	Ouvi a menina pedindo socorro.	258682
+I polished up the floor and furniture.	Lustrei o chão e os móveis.	258696
+I go to any party I am invited to.	Eu vou para qualquer festa que sou convidado.	258703
+I had to compete with him for promotion.	Eu tive que competir com ele por uma promoção.	258706
+I'm anxious for a promotion.	Estou ansioso por uma promoção.	258707
+I tried not to laugh.	Eu tentei não rir.	258716
+I don't want to be laughed at.	Não gosto de ser motivo de riso.	258718
+I'm very fond of joking.	Eu gosto muito de brincar.	258734
+He placed the order over the phone after he got to his workplace.	Ele fez seu pedido pelo telefone depois que ele chegou ao seu lugar de trabalho.	258742
+I have to discharge my duty.	Tenho que cumprir com a minha obrigação.	258743
+I'm a deeply religious man and believe in life after death.	Eu sou um homem profundamente religioso e acredito em vida após a morte.	258759
+I always brush my teeth before I go to bed.	Sempre escovo os meus dentes antes de deitar.	258765
+I overslept and was not able to catch the bus.	Dormi demais e perdi o ônibus.	258770
+I slept late and I missed the first train.	Dormi até tarde e perdi o primeiro comboio.	258774
+I want a new oven.	Eu quero um novo forno.	258783
+I got a new camera.	Consegui uma câmera nova.	258784
+I want to buy a new camera.	Eu quero comprar uma câmera nova.	258785
+I want to buy a new computer.	Quero comprar um computador novo.	258788
+I bought a new bag.	Comprei uma nova bolsa.	258791
+I bought a new sewing machine.	Comprei uma máquina de costura nova.	258792
+I am pleased with my new house.	Estou feliz com a minha nova casa.	258794
+I built a new house.	Eu construí uma casa nova.	258797
+I argued with him about the new plan.	Discuti com ele sobre o novo plano.	258803
+I left my new pair of gloves in the library.	Eu deixei meu novo par de luvas na biblioteca.	258806
+I'm pleased with my new jacket.	Eu estou contente com a minha jaqueta nova.	258809
+I'm saving up to buy a new car.	Eu estou economizando para comprar um carro novo.	258818
+I am going to buy a new car.	Eu vou comprar um carro novo.	258819
+I bought a new car.	Eu comprei um novo automóvel.	258821
+I am a new student.	Eu sou um aluno novo.	258823
+I read about him in the newspaper.	Eu li sobre ele no jornal.	258826
+I threw down the newspaper.	Joguei o jornal no chão.	258832
+I didn't know about it until I read the paper.	Eu não sabia disso até que li o jornal.	258833
+I tore the paper into pieces.	Piquei o papel em pedacinhos.	258834
+I found out the truth.	Eu descobri a verdade.	258843
+I'd like to live in the suburbs of Kobe.	Gostaria de morar nos subúrbios de Kobe.	258851
+I'm economically independent of my parents.	Eu sou economicamente independente dos meus pais.	258852
+I saw a stranger standing at the door.	Vi um estranho parado na porta.	258855
+I glimpsed the girl among the crowd.	Eu avistei a garota na multidão.	258875
+I lost sight of her in the crowd.	Eu perdi ela de vista na multidão.	258876
+I made my way through the crowd.	Eu atravessei a multidão.	258878
+I want to devote my life to education.	Eu quero dedicar minha vida à educação.	258883
+I'm not used to making speeches in public.	Eu não estou acostumado a fazer discursos em público.	258884
+I can't stand being laughed at in public.	Não suporto que riam de mim em público.	258886
+I have read every book in the library.	Eu tenho lido todos os livros na biblioteca.	258897
+On my way to the library I met my friend.	Me encontrei com meu amigo quando ia para a biblioteca.	258899
+I have been to the library.	Eu estive na biblioteca.	258900
+I am poor at swimming.	Eu nado mal.	258904
+I like swimming, but I don't like to swim here.	Eu gosto de nadar, só não gosto de nadar aqui.	258906
+I belong to the swimming club.	Faço parte do clube de natação.	258912
+I'm a member of the swimming club.	Eu sou membro do clube de natação.	258913
+I don't like math, much less physics.	Eu não gosto de matemática, muito menos de física.	258921
+I like mathematics, chemistry and the like.	Eu gosto de matemática, química e coisas do tipo.	258929
+I need to study math.	Preciso estudar matemática.	258939
+I'm taking a couple of days off.	Estou saindo de férias por alguns dias.	258941
+I am convinced that things will change for the better.	Estou convencido de que a situação vai mudar para melhor.	258947
+I want to fly more than anything else in the world.	Eu quero voar mais que qualquer coisa no mundo.	258948
+I'd like to travel around the world.	Gostaria de viajar ao redor do mundo.	258950
+I don't agree with the government's policy on education.	Não concordo com a política do governo em matéria de educação.	258968
+I will do whatever I think is right.	Eu farei tudo o que pensar ser certo.	258969
+I have lunch at noon.	Eu almoço ao meio dia.	258971
+I don't want to eat a live lobster.	Eu não quero comer uma lagosta viva.	258978
+I'll never see him again as long as I live.	Não voltarei a vê-lo enquanto viva.	258979
+I've never seen a live whale.	Eu nunca vi uma baleia viva.	258980
+I have lived on this block, and next to the same neighbor, all my life.	Eu moro nesse quarteirão com o mesmo vizinho a minha vida toda.	258986
+I visited Rome for the first time in my life.	Visitei Roma pela primeira vez na vida.	258987
+I was born and raised in Tokyo.	Nasci e cresci em Tóquio.	258990
+I paid $200 in taxes.	Paguei duzentos dólares de impostos.	259005
+I'm not what I used to be.	Eu não sou mais quem eu era	259009
+I tripped on a stone, twisting my ankle.	Eu tropecei numa pedra, torcendo meu tornozelo.	259011
+I bought a red sports car.	Comprei um carro esportivo vermelho.	259014
+I like white roses better than red ones.	Prefiro rosas brancas do que vermelhas.	259016
+I have a new red car.	Tenho um novo carro vermelho.	259020
+I had no money to buy the ticket.	Eu não tinha dinheiro para comprar o ingresso.	259031
+I am constantly forgetting people's names.	Eu sempre esqueço o nome das pessoas.	259034
+There's no way we're going to do that.	De jeito nenhum nós vamos fazer isso.	259036
+I haven't seen her since last month.	Não a vejo desde o mês passado.	259044
+I was in London last month.	Eu estive em Londres no mês passado.	259045
+I worked hard last month.	Eu trabalhei duro no mês passado.	259046
+I didn't go to school last month.	Não frequentei a escola o mês passado.	259047
+I bought a new computer last month.	Comprei um computador novo mês passado.	259048
+I forgot that the daylight saving time ended last week.	Esqueci que o horário de verão terminou na semana passada.	259053
+I saw her a week ago today.	Eu a vi faz uma semana.	259055
+I have been ill in bed since last Friday.	Eu estou de cama desde sexta passada.	259056
+I saw him last week.	Vi-o semana passada.	259064
+I saw her last week.	Eu a vi semana passada.	259066
+I am not a teacher.	Eu não sou professor.	259070
+I'd like to be a teacher.	Gostaria de ser professor.	259075
+I saw your brother the other day.	Eu vi seu irmão outro dia desse.	259087
+I met Jane the other day.	Eu me encontrei com Jane um dia destes.	259088
+I am a citizen of Chiba, but work in Tokyo.	Eu sou um cidadão de Chiba, mas trabalho em Tóquio.	259097
+I was swimming in the river.	Eu estava nadando no rio.	259100
+I like to fish in the river.	Eu gosto de pescar no rio.	259102
+I have already visited America.	Eu já visitei a América.	259118
+I am wholly in agreement with you.	Estou inteiramente de acordo com você.	259128
+I can't think of everything.	Não posso pensar em tudo.	259134
+I was able to answer all the questions.	Eu consegui responder à todas as perguntas.	259150
+I was born in the year that Grandfather died.	Nasci no ano que vovô morreu.	259153
+I don't remember my grandmother's face accurately.	Eu não me lembro muito bem do rosto de minha avó.	259160
+I would prefer any alternative to a lawsuit.	Eu preferiria qualquer coisa a um processo.	259161
+I didn't want to get up early.	Eu não quero acordar cedo.	259162
+I do not get up early.	Eu não me levanto cedo.	259166
+I had to get up early.	Tive de acordar cedo.	259167
+I want my mother to get well soon.	Quero que minha mãe fique logo boa.	259171
+I'm not used to getting up early.	Não estou habituado a levantar-me cedo.	259172
+I tried to avoid conflict.	Eu tentei evitar um conflito.	259180
+I still haven't learned to drive a car.	Eu ainda não aprendi a dirigir.	259181
+I looked out the window.	Olhei pela janela.	259183
+I'm used to the noise.	Estou acostumada ao barulho.	259197
+I don't like artificial flowers.	Não gosto de flores artificiais.	259202
+I ran out of breath.	Eu fiquei sem ar.	259206
+I paid my son 5 dollars to wash my car.	Eu paguei para o meu filho 5 dólares para lavar o meu carro.	259211
+I'll buy a watch for my son.	Vou comprar um relógio para meu filho.	259225
+I'm responsible for what my son has done.	Sou eu o responsável pelo que meu filho fez.	259226
+I'm proud of my son.	Estou orgulhoso do meu filho.	259233
+I am going to send my son to college.	Eu vou mandar o meu filho para a faculdade.	259235
+I like addition but not subtraction.	Gosto de adição, mas não de subtração.	259238
+I tried to run fast.	Eu tentei correr rápido.	259247
+I paid for the damage.	Eu paguei pelos danos.	259253
+I can't do anything else.	Não posso fazer mais nada.	259258
+I can't imagine life on another planet.	Não posso imaginar a vida em outro planeta.	259264
+I was confronted with many difficulties.	Enfrentei muitas dificuldades.	259271
+I was hurt by many people.	Eu fui ferido por muitas pessoas.	259276
+I am not well at all.	Definitivamente eu não estou bem.	259287
+I have to alter my clothes because I've lost weight.	Eu tenho que mudar minhas roupas porque perdi peso.	259294
+I want to lose weight.	Eu quero emagrecer.	259295
+My physical power has decayed.	Minha potência física decaiu.	259298
+I don't like visiting big cities.	Não gosto de visitar cidades grandes.	259315
+I have a large family to provide for.	Eu tenho uma família grande para sustentar.	259318
+I majored in chemistry at the university.	Formei-me em química na universidade.	259324
+I'm studying economics at university.	Estou estudando economia na universidade.	259325
+I want to go to college.	Quero ir para uma faculdade.	259326
+I am satisfied with my life in college to a certain extent.	Até certo ponto eu estou satisfeito com a minha vida na faculdade.	259333
+I was born in Osaka.	Eu nasci em Osaca.	259335
+I have an open ticket to Osaka.	Tenho uma passagem válida para Osaka.	259338
+I was born in Osaka, but was brought up in Tokyo.	Eu nasci em Osaka, mas fui criado em Tóquio.	259343
+I took a book from the shelf.	Eu peguei um livro da prateleira.	259363
+I heard someone come into the room.	Eu ouvi alguém entrar no quarto.	259370
+I don't know who made the cake.	Não sei quem fez o bolo.	259371
+I know who lives in this house.	Eu sei quem mora nessa casa.	259372
+I don't know who to ask for advice.	Eu não sei a quem pedir conselhos.	259380
+I made sure that no one was watching.	Garanti que ninguém estava vendo.	259383
+I have been busy writing a short story.	Eu tenho andado ocupado escrevendo uma pequena estória.	259391
+I saw the figure of a man.	Vi a figura dum homem.	259397
+I go to school by subway.	Eu vou para a escola de metrô.	259409

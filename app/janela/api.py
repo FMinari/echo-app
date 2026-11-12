@@ -9,7 +9,7 @@ from pathlib import Path
 from janela import APP, UI
 from janela.edge import perfil_do_edge
 from nucleo import (atualizacao, audio, aulas, bancos, blocos, busca, catalogo, desinstalar, dicionario, favoritos,
-                    github, grupos, livre, registro, sobre, textos)
+                    github, grupos, indice, livre, registro, sobre, textos)
 from nucleo.registro import NaoEncontrado, log
 
 
@@ -44,7 +44,15 @@ class Api:
     def inicio(self):
         return {"estruturas": catalogo.listar(), "obras": busca.listar_obras(),
                 "grupos": grupos.listar(), "versao": sobre.numero(), "data": sobre.data(),
-                "pecas": blocos.catalogo_de_pecas()}
+                "pecas": blocos.catalogo_de_pecas(), "acervo": bancos.estado_acervo()}
+
+    @_seguro
+    def ligar_acervo(self, ligado):
+        """Interruptor "Acervo livre": a escolha fica guardada; a tela recarrega com o banco novo."""
+        busca._AVULSAS.clear()  # buscas avulsas guardam ids de frase do banco de antes
+        estado = bancos.ligar_acervo(ligado)
+        threading.Thread(target=indice.construir, name="indice", daemon=True).start()
+        return estado
 
     @_seguro
     def sobre(self):

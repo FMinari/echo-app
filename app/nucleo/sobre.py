@@ -44,7 +44,7 @@ def _banco():
                               " WHERE o.tipo = 'musica'").fetchone()[0]
         frases = con.execute("SELECT count(*) FROM frases").fetchone()[0]
     return {"rotulo": busca.rotulo_corpus(), "series": tipos.get("serie", 0), "filmes": tipos.get("filme", 0),
-            "musicas": musicas, "frases": frases}
+            "musicas": musicas, "frases": frases, "tipos": tipos}
 
 
 def _ultimo_backup():

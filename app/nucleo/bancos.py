@@ -1,14 +1,20 @@
 """Onde ficam os dois bancos e como abri-los.
 
 - corpus.db: frases das obras. Só leitura; é trocado inteiro quando entra obra nova.
-  Procurado em $FRASES_CORPUS, depois em app/corpus.db, depois na pasta acima de app/.
+  Procurado em $FRASES_CORPUS, depois em app/corpus.db, depois na pasta acima de app/; sem nenhum,
+  o acervo.db (acervo público, ver publico/ACERVO.md) da pasta acima de app/. Com um próprio e o acervo,
+  o interruptor "Acervo livre" da busca decide se os dois vão juntos (combinado.db, na pasta de dados).
 - dados.db: o que é da pessoa (estruturas, favoritos, falsos positivos, grupos de obras). Fica na pasta de dados
   do usuário para sobreviver a atualizações: %APPDATA%\\FrasesSeries no Windows,
   ~/.local/share/frases-series no Linux. $FRASES_DADOS troca o caminho.
 """
+import gzip
+import json
 import os
+import shutil
 import sqlite3
 import sys
+import threading
 from contextlib import contextmanager
 from datetime import date
 from pathlib import Path
@@ -17,15 +23,162 @@ APP = Path(__file__).resolve().parent.parent
 
 
 def caminho_corpus():
+    """O banco que a busca usa. Com um corpus.db próprio (com frases) e o acervo público ao mesmo tempo,
+    o interruptor "Acervo livre" da busca escolhe: ligado, os dois juntos (combinado.db na pasta de
+    dados); desligado, só o próprio. Com um só, é ele."""
     if os.environ.get("FRASES_CORPUS"):
         caminho = Path(os.environ["FRASES_CORPUS"])
         if not caminho.exists():
             raise FileNotFoundError(f"corpus.db não encontrado em {caminho}")
         return caminho
-    for candidato in (APP / "corpus.db", APP.parent / "corpus.db"):
-        if candidato.exists():
-            return candidato
+    proprio, acervo = _proprio(), _acervo()
+    if proprio and acervo and not _tem_frases(proprio):
+        proprio = None  # banco próprio vazio: fica o acervo
+    if proprio and acervo and acervo_ligado():
+        return _combinado(proprio, acervo)
+    if proprio or acervo:
+        return proprio or acervo
     raise FileNotFoundError("corpus.db não encontrado (coloque-o na pasta do app)")
+
+
+def _proprio():
+    return next((c for c in (APP / "corpus.db", APP.parent / "corpus.db") if c.exists()), None)
+
+
+def _acervo():
+    """acervo.db: o acervo público (domínio público), para quem clonou o código. O repositório traz ele
+    compactado (acervo.db.gz): na primeira vez, descompacta."""
+    acervo = APP.parent / "acervo.db"
+    compactado = APP.parent / "acervo.db.gz"
+    if not acervo.exists() and compactado.exists():
+        with _trava:
+            if not acervo.exists():
+                parcial = compactado.with_name("acervo.db.parcial")
+                with gzip.open(compactado) as origem, open(parcial, "wb") as destino:
+                    shutil.copyfileobj(origem, destino)
+                parcial.replace(acervo)
+    return acervo if acervo.exists() else None
+
+
+_trava = threading.Lock()
+_cache = {}  # (o que, arquivo, mtime, tamanho...) -> resposta; o arquivo mudou = chave nova
+_ligado = None  # o interruptor "Acervo livre" (acervo.json na pasta de dados), lido uma vez
+
+
+def _marca(caminho):
+    s = caminho.stat()
+    return (str(caminho), s.st_mtime_ns, s.st_size)
+
+
+def _tem_frases(caminho):
+    chave = ("frases", *_marca(caminho))
+    if chave not in _cache:
+        con = sqlite3.connect(so_leitura(caminho), uri=True)
+        try:
+            _cache[chave] = con.execute("SELECT 1 FROM frases LIMIT 1").fetchone() is not None
+        except sqlite3.Error:
+            _cache[chave] = False
+        finally:
+            con.close()
+    return _cache[chave]
+
+
+def acervo_ligado():
+    global _ligado
+    if _ligado is None:
+        try:
+            _ligado = json.loads((caminho_dados().parent / "acervo.json").read_text(encoding="utf-8"))["ligado"] is not False
+        except (OSError, ValueError, KeyError, TypeError):
+            _ligado = True  # começa ligado
+    return _ligado
+
+
+def estado_acervo():
+    """Para o interruptor da busca: ele só aparece com os dois bancos e o próprio com frases."""
+    proprio, acervo = (None, None) if os.environ.get("FRASES_CORPUS") else (_proprio(), _acervo())
+    return {"disponivel": bool(proprio and acervo and _tem_frases(proprio)), "ligado": acervo_ligado()}
+
+
+def ligar_acervo(ligado):
+    """Guarda a escolha (vale nas próximas aberturas) e já prepara o banco que a busca vai usar."""
+    global _ligado
+    arquivo = caminho_dados().parent / "acervo.json"
+    arquivo.parent.mkdir(parents=True, exist_ok=True)
+    arquivo.write_text(json.dumps({"ligado": bool(ligado)}), encoding="utf-8")
+    _ligado = bool(ligado)
+    caminho_corpus()  # junta os dois aqui, com a tela esperando, e não na primeira busca
+    return estado_acervo()
+
+
+def _versao(caminho):
+    con = sqlite3.connect(so_leitura(caminho), uri=True)
+    try:
+        r = con.execute("SELECT valor FROM meta WHERE chave = 'versao'").fetchone()
+        return r[0] if r else "sem-versao"
+    except sqlite3.Error:
+        return None
+    finally:
+        con.close()
+
+
+def _combinado(proprio, acervo):
+    chave = ("combinado", *_marca(proprio), *_marca(acervo))
+    if chave not in _cache:
+        with _trava:
+            if chave not in _cache:
+                destino = caminho_dados().parent / "combinado.db"
+                versao = f"{_versao(proprio)}+{_versao(acervo)}"
+                if not (destino.exists() and _versao(destino) == versao):
+                    juntar(proprio, acervo, destino, versao)
+                _cache[chave] = destino
+    return _cache[chave]
+
+
+def juntar(proprio, acervo, destino, versao):
+    """Cópia do próprio + o acervo com os ids deslocados. Os ids do próprio não mudam: as frases guardadas,
+    os falsos positivos e o cache continuam valendo. Monta num .parcial e só troca no fim."""
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    parcial = destino.with_name(destino.name + ".parcial")
+    shutil.copyfile(proprio, parcial)
+    con = sqlite3.connect(parcial.resolve().as_uri(), uri=True)
+    try:
+        con.execute("PRAGMA ignore_check_constraints = ON")  # corpus de antes dos tipos livro, peça...
+        con.execute("ATTACH DATABASE ? AS b", (so_leitura(acervo),))
+        o, e, li, f = (con.execute(f"SELECT coalesce(max(id), 0) FROM main.{t}").fetchone()[0]
+                       for t in ("obras", "episodios", "linhas", "frases"))
+        con.execute(f"""INSERT INTO obras (id, nome, tipo, ano, pasta)
+                        SELECT id + {o}, nome, tipo, ano, pasta FROM b.obras""")
+        con.execute(f"""INSERT INTO episodios (id, obra_id, temporada, episodio, episodio_fim, titulo, arquivo,
+                                               duracao_min, palavras)
+                        SELECT id + {e}, obra_id + {o}, temporada, episodio, episodio_fim, titulo, arquivo,
+                               duracao_min, palavras FROM b.episodios""")
+        con.execute(f"""INSERT INTO linhas (id, episodio_id, n, tipo, falante, texto, cena, segundo)
+                        SELECT id + {li}, episodio_id + {e}, n, tipo, falante, texto, cena, segundo FROM b.linhas""")
+        con.execute(f"""INSERT INTO frases (id, linha_id, texto, tagged, offsets)
+                        SELECT id + {f}, linha_id + {li}, texto, tagged, offsets FROM b.frases""")
+        tabelas = lambda banco: {r[0] for r in con.execute(f"SELECT name FROM {banco}.sqlite_master WHERE type = 'table'")}  # noqa: E731
+        nos_dois = tabelas("main") & tabelas("b")
+        if "grupos" in tabelas("b"):
+            con.execute("CREATE TABLE IF NOT EXISTS grupos (nome TEXT, ordem INTEGER, obra_id INTEGER REFERENCES obras)")
+            ordem = con.execute("SELECT coalesce(max(ordem), -1) + 1 FROM main.grupos").fetchone()[0]
+            con.execute(f"INSERT INTO grupos (nome, ordem, obra_id) SELECT nome, ordem + {ordem}, obra_id + {o} FROM b.grupos")
+        if {"fabrica_regras", "fabrica_ocorrencias"} <= nos_dois:
+            # cache de fábrica só das regras que os dois têm: com só um, a regra acharia só metade
+            con.execute("DELETE FROM fabrica_ocorrencias WHERE regra NOT IN (SELECT regra FROM b.fabrica_regras)")
+            con.execute("DELETE FROM fabrica_regras WHERE regra NOT IN (SELECT regra FROM b.fabrica_regras)")
+            con.execute(f"""INSERT INTO fabrica_ocorrencias (regra, frase_id, obra_id, temporada, falante, palavras, destaques)
+                            SELECT regra, frase_id + {f}, obra_id + {o}, temporada, falante, palavras, destaques
+                            FROM b.fabrica_ocorrencias WHERE regra IN (SELECT regra FROM main.fabrica_regras)""")
+            con.execute("""UPDATE fabrica_regras SET total = total + coalesce(
+                               (SELECT r.total FROM b.fabrica_regras r WHERE r.regra = fabrica_regras.regra), 0)""")
+        else:
+            con.execute("DROP TABLE IF EXISTS fabrica_ocorrencias")
+            con.execute("DROP TABLE IF EXISTS fabrica_regras")
+        con.execute("INSERT OR REPLACE INTO meta (chave, valor) VALUES ('versao', ?)", (versao,))
+        con.commit()
+    finally:
+        con.close()
+    parcial.replace(destino)
 
 
 def caminho_dados():

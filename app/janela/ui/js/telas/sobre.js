@@ -2,6 +2,7 @@
 import { api } from "../lib/ponte.js";
 import { $, el, esperar, trocar } from "../lib/dom.js";
 import { dataBr, plural } from "../lib/formato.js";
+import { TIPOS } from "../lib/tipos.js";
 import { ouvir } from "../lib/eventos.js";
 import { avisarErro, botaoPastaErros, erroEm } from "../componentes/avisos.js";
 import { botaoConfirmar } from "../componentes/confirmacao.js";
@@ -26,7 +27,9 @@ function cartaoEstado(s) {
     el("dl", {},
       linha("Versão do app", el("b", { text: s.app.numero }), el("small", { text: s.app.versao })),
       linha("Banco de frases", el("b", { text: b.rotulo }),
-        el("small", { text: `${b.series} séries · ${b.filmes} filmes${b.musicas ? ` · ${plural(b.musicas, "música")}` : ""} · ${b.frases.toLocaleString("pt-BR")} frases` })),
+        el("small", { text: `${b.series} séries · ${b.filmes} filmes${b.musicas ? ` · ${plural(b.musicas, "música")}` : ""}`
+          + TIPOS.slice(3).filter((x) => b.tipos?.[x.chave]).map((x) => ` · ${plural(b.tipos[x.chave], x.um, x.pluralUm)}`).join("")
+          + ` · ${b.frases.toLocaleString("pt-BR")} frases` })),
       linha("Seus dados", el("span", { text: s.dados })),
       linha("Última cópia de segurança", el("span", { text: s.ultimo_backup ? dataBr(s.ultimo_backup) : "ainda nenhuma (é feita ao abrir o app)" })),
       s.dicionario ? link("Dicionário", s.dicionario.url, `${s.dicionario.nome} (${s.dicionario.licenca})`) : null),
@@ -52,6 +55,7 @@ function cartaoContato(c) {
 function cartaoAtualizar() {
   return cartao(null, "Atualizar",
     ajuda("O app procura versões novas sozinho quando abre (pela internet e nos seus Downloads) e avisa lá em cima. Se recebeu um arquivo de atualização que está em outro lugar, escolha aqui."),
+    ajuda("Um banco de frases feito com os seus próprios textos (corpus.db) também entra por aqui. Importe só textos de sua autoria ou que você tenha direito de usar. O Echo não fornece conteúdo protegido e não se responsabiliza pelo que for importado nem pelo uso dos trechos fora de fins didáticos."),
     el("div", { class: "botoes" },
       el("button", { type: "button", class: "btn", text: "Procurar atualização", onclick: () => verAtualizacao(true) }),
       el("button", { type: "button", class: "btn", text: "Escolher arquivo…", onclick: escolherAtualizacao })));
@@ -158,6 +162,8 @@ async function carregar() {
       cartaoEstado(s),
       cartaoContato(s.contato),
       cartaoAtualizar(),
+      cartao(null, "Uso dos trechos",
+        ajuda("Os trechos são para uso didático: cite a obra de onde vieram e não revenda o material.")),
       vozCartao,
       versoes,
       cartao(null, "Novidades", s.novidades.length

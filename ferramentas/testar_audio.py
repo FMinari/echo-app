@@ -32,13 +32,13 @@ def erro(fn, *args):
     return None
 
 
-ep = {"obra": "Friends", "referencia": "S04E12", "tipo": "serie",
+ep = {"obra": "Café da Esquina", "referencia": "S01E02", "tipo": "serie",
       "frase": "I mean if they had lost, we would've made them get rid of the birds and the duck too, right?"}
 nome = audio.nome_do_arquivo(ep)
-caso("nome com obra e episódio", nome.startswith("Friends S04E12 - I mean if they had lost"), nome)
+caso("nome com obra e episódio", nome.startswith("Café da Esquina S01E02 - I mean if they had lost"), nome)
 caso("frase cortada numa palavra inteira", nome.endswith(".wav") and len(nome) < 90 and "rig.wav" not in nome, nome)
-filme = audio.nome_do_arquivo({"obra": "Shrek", "referencia": "filme", "tipo": "filme", "frase": 'What? "Ogres": are/like <onions>?'})
-caso("filme sem episódio e sem o que o Windows não aceita", filme == "Shrek - What Ogres are like onions.wav", filme)
+filme = audio.nome_do_arquivo({"obra": "Sintel", "referencia": "filme", "tipo": "filme", "frase": 'What? "Ogres": are/like <onions>?'})
+caso("filme sem episódio e sem o que o Windows não aceita", filme == "Sintel - What Ogres are like onions.wav", filme)
 caso("velocidade no nome", audio.nome_do_arquivo(ep, "bem-devagar").endswith("(bem devagar).wav"))
 caso("frase só de pontuação ainda tem nome", audio.nome_do_arquivo({"frase": "..."}) == "Frase.wav")
 
@@ -63,9 +63,9 @@ caso("sem vozes: nada a tentar", audio.escolher([], "x") == ([], False))
 caso("frase vazia recusada", erro(audio.salvar, {"frase": "  "}) == "Essa frase está vazia.")
 if sys.platform != "win32":
     caso("fora do Windows avisa", "só funciona no Windows" in (erro(audio.salvar, ep) or ""))
-(PASTA / "Friends S04E12 - Hi.wav").write_bytes(b"x")
-(PASTA / "Friends S04E12 - Hi (2).wav").write_bytes(b"x")
-caso("não sobrescreve: numera", audio.livre(PASTA / "Friends S04E12 - Hi.wav").name == "Friends S04E12 - Hi (3).wav")
+(PASTA / "Café da Esquina S01E02 - Hi.wav").write_bytes(b"x")
+(PASTA / "Café da Esquina S01E02 - Hi (2).wav").write_bytes(b"x")
+caso("não sobrescreve: numera", audio.livre(PASTA / "Café da Esquina S01E02 - Hi.wav").name == "Café da Esquina S01E02 - Hi (3).wav")
 caso("nome livre fica igual", audio.livre(PASTA / "Outra.wav").name == "Outra.wav")
 caso("mostrar só abre áudio da pasta", erro(audio.mostrar, "/etc/passwd") is not None
      and erro(audio.mostrar, str(PASTA / "x.txt")) is not None)

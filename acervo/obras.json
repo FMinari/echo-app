@@ -1,0 +1,196 @@
+{
+  "the-importance-of-being-earnest": {
+    "nome": "The Importance of Being Earnest",
+    "tipo": "peca",
+    "ano": 1895
+  },
+  "an-ideal-husband": {
+    "nome": "An Ideal Husband",
+    "tipo": "peca",
+    "ano": 1895
+  },
+  "lady-windermeres-fan": {
+    "nome": "Lady Windermere's Fan",
+    "tipo": "peca",
+    "ano": 1892
+  },
+  "pygmalion": {
+    "nome": "Pygmalion",
+    "tipo": "peca",
+    "ano": 1913
+  },
+  "arms-and-the-man": {
+    "nome": "Arms and the Man",
+    "tipo": "peca",
+    "ano": 1894
+  },
+  "she-stoops-to-conquer": {
+    "nome": "She Stoops to Conquer",
+    "tipo": "peca",
+    "ano": 1773
+  },
+  "the-school-for-scandal": {
+    "nome": "The School for Scandal",
+    "tipo": "peca",
+    "ano": 1777
+  },
+  "romeo-and-juliet": {
+    "nome": "Romeo and Juliet",
+    "tipo": "peca",
+    "ano": 1597
+  },
+  "a-midsummer-nights-dream": {
+    "nome": "A Midsummer Night's Dream",
+    "tipo": "peca",
+    "ano": 1600
+  },
+  "twelfth-night": {
+    "nome": "Twelfth Night",
+    "tipo": "peca",
+    "ano": 1623
+  },
+  "pride-and-prejudice": {
+    "nome": "Pride and Prejudice",
+    "tipo": "livro",
+    "ano": 1813
+  },
+  "emma": {
+    "nome": "Emma",
+    "tipo": "livro",
+    "ano": 1815
+  },
+  "a-christmas-carol": {
+    "nome": "A Christmas Carol",
+    "tipo": "livro",
+    "ano": 1843
+  },
+  "great-expectations": {
+    "nome": "Great Expectations",
+    "tipo": "livro",
+    "ano": 1861
+  },
+  "alice-in-wonderland": {
+    "nome": "Alice's Adventures in Wonderland",
+    "tipo": "livro",
+    "ano": 1865
+  },
+  "little-women": {
+    "nome": "Little Women",
+    "tipo": "livro",
+    "ano": 1868
+  },
+  "tom-sawyer": {
+    "nome": "The Adventures of Tom Sawyer",
+    "tipo": "livro",
+    "ano": 1876
+  },
+  "huckleberry-finn": {
+    "nome": "Adventures of Huckleberry Finn",
+    "tipo": "livro",
+    "ano": 1884
+  },
+  "treasure-island": {
+    "nome": "Treasure Island",
+    "tipo": "livro",
+    "ano": 1883
+  },
+  "three-men-in-a-boat": {
+    "nome": "Three Men in a Boat",
+    "tipo": "livro",
+    "ano": 1889
+  },
+  "sherlock-holmes": {
+    "nome": "The Adventures of Sherlock Holmes",
+    "tipo": "livro",
+    "ano": 1892
+  },
+  "the-hound-of-the-baskervilles": {
+    "nome": "The Hound of the Baskervilles",
+    "tipo": "livro",
+    "ano": 1902
+  },
+  "the-wizard-of-oz": {
+    "nome": "The Wonderful Wizard of Oz",
+    "tipo": "livro",
+    "ano": 1900
+  },
+  "anne-of-green-gables": {
+    "nome": "Anne of Green Gables",
+    "tipo": "livro",
+    "ano": 1908
+  },
+  "the-wind-in-the-willows": {
+    "nome": "The Wind in the Willows",
+    "tipo": "livro",
+    "ano": 1908
+  },
+  "peter-pan": {
+    "nome": "Peter Pan",
+    "tipo": "livro",
+    "ano": 1911
+  },
+  "the-secret-garden": {
+    "nome": "The Secret Garden",
+    "tipo": "livro",
+    "ano": 1911
+  },
+  "the-great-gatsby": {
+    "nome": "The Great Gatsby",
+    "tipo": "livro",
+    "ano": 1925
+  },
+  "prime-ministers-questions": {
+    "nome": "Prime Minister's Questions",
+    "tipo": "conversa",
+    "ano": 2025
+  },
+  "tatoeba": {
+    "nome": "Tatoeba",
+    "tipo": "frases",
+    "ano": 2006
+  },
+  "tears-of-steel": {
+    "nome": "Tears of Steel",
+    "tipo": "filme",
+    "ano": 2012,
+    "duracao_min": 12
+  },
+  "sintel": {
+    "nome": "Sintel",
+    "tipo": "filme",
+    "ano": 2010,
+    "duracao_min": 15
+  },
+  "blind-lemon-jefferson": {
+    "nome": "Blind Lemon Jefferson",
+    "tipo": "musica"
+  },
+  "bessie-smith": {
+    "nome": "Bessie Smith",
+    "tipo": "musica"
+  },
+  "ma-rainey": {
+    "nome": "Ma Rainey",
+    "tipo": "musica"
+  },
+  "george-m-cohan": {
+    "nome": "George M. Cohan",
+    "tipo": "musica"
+  },
+  "mother-goose": {
+    "nome": "Mother Goose",
+    "tipo": "musica",
+    "ano": 1916
+  },
+  "lets-learn-english": {
+    "nome": "Let's Learn English (VOA)",
+    "tipo": "serie",
+    "ano": 2016,
+    "duracao_min": 5
+  },
+  "apollo": {
+    "nome": "Missões Apollo (NASA)",
+    "tipo": "conversa",
+    "ano": 1968
+  }
+}

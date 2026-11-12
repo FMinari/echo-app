@@ -13,6 +13,7 @@ import { pedirConfirmacao } from "./confirmacao.js";
 import { icone } from "./icones.js";
 import { mostrarPalavra } from "./palavra.js";
 import { recolhivel } from "./recolhivel.js";
+import { SEM_FALANTE } from "../lib/tipos.js";
 
 /** A frase com os trechos da estrutura em <mark>. `destaques` = [[início, fim], ...] em caracteres. */
 export function fraseDestacada(frase, destaques) {
@@ -58,11 +59,11 @@ export function cartaoFrase(x, { estrutura = null, favorito = null, textoRemover
   const cartao = el("article", { class: "cartao" },
     el("header", {},
       el("span", { class: "onde" }, el("b", { text: x.obra }),
-        musica ? ` · ${x.titulo}` : filme ? " · filme" : ` · ${x.referencia} · ${x.titulo}`),
-      el("span", { class: "tempo", text: x.tempo,
-        title: musica ? "Momento do verso na música" : "Momento estimado pela posição da fala no roteiro (pode errar uns 2–3 minutos)" })),
+        (musica ? [x.titulo] : filme ? ["filme"] : [x.referencia, x.titulo]).filter(Boolean).map((p) => ` · ${p}`).join("")),
+      x.tempo ? el("span", { class: "tempo", text: x.tempo,
+        title: musica ? "Momento do verso na música" : "Momento estimado pela posição da fala no roteiro (pode errar uns 2–3 minutos)" }) : null),
     el("p", { class: "fala" },
-      el("span", { class: "quem", text: x.falante || "personagem não identificado" }), " ",
+      el("span", { class: "quem", text: x.falante || (SEM_FALANTE.has(x.tipo) ? "" : "personagem não identificado") }), " ",
       el("span", { class: "frase", title: "Clique numa palavra para ver o que ela quer dizer", onclick: mostrarPalavra },
         fraseDestacada(x.frase, x.destaques))),
     x.cena ? el("p", { class: "cena", text: x.cena }) : null,

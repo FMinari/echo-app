@@ -1,0 +1,16 @@
+{
+  "_como_usar": "Grupos prontos do acervo público (mesmo formato de ferramentas/grupos.json): nome e as pastas de acervo/. O nome não pode ser igual ao de uma obra.",
+  "grupos": [
+    {"nome": "Peças", "obras": ["the-importance-of-being-earnest", "an-ideal-husband", "lady-windermeres-fan", "pygmalion", "arms-and-the-man", "she-stoops-to-conquer", "the-school-for-scandal", "romeo-and-juliet", "a-midsummer-nights-dream", "twelfth-night"]},
+    {"nome": "Oscar Wilde", "obras": ["the-importance-of-being-earnest", "an-ideal-husband", "lady-windermeres-fan"]},
+    {"nome": "Bernard Shaw", "obras": ["pygmalion", "arms-and-the-man"]},
+    {"nome": "Shakespeare", "obras": ["romeo-and-juliet", "a-midsummer-nights-dream", "twelfth-night"]},
+    {"nome": "Jane Austen", "obras": ["pride-and-prejudice", "emma"]},
+    {"nome": "Charles Dickens", "obras": ["a-christmas-carol", "great-expectations"]},
+    {"nome": "Mark Twain", "obras": ["tom-sawyer", "huckleberry-finn"]},
+    {"nome": "Conan Doyle", "obras": ["sherlock-holmes", "the-hound-of-the-baskervilles"]},
+    {"nome": "Livros infantis", "obras": ["alice-in-wonderland", "the-wizard-of-oz", "peter-pan", "the-secret-garden", "the-wind-in-the-willows", "anne-of-green-gables", "little-women", "treasure-island"]},
+    {"nome": "Inglês de hoje", "obras": ["lets-learn-english", "prime-ministers-questions", "tatoeba", "tears-of-steel", "sintel"]},
+    {"nome": "Blues dos anos 1920", "obras": ["bessie-smith", "ma-rainey", "blind-lemon-jefferson"]}
+  ]
+}
