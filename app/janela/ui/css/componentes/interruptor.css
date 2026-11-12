@@ -1,0 +1,21 @@
+/* Liga/desliga (js/componentes/interruptor.js): a caixa de verdade fica invisível por cima do trilho. */
+
+.interruptor { display: grid; grid-template-columns: 36px 1fr; gap: 10px; align-items: start; position: relative; cursor: pointer; }
+.interruptor input { position: absolute; opacity: 0; width: 36px; height: 20px; margin: 0; cursor: pointer; }
+.interruptor-trilho {
+  width: 36px; height: 20px; border-radius: 10px; background: var(--borda); position: relative;
+  transition: background .15s; margin-top: 1px;
+}
+.interruptor-trilho::after {
+  content: ""; position: absolute; top: 2px; left: 2px; width: 16px; height: 16px; border-radius: 50%;
+  background: var(--superficie); box-shadow: 0 1px 2px rgb(0 0 0 / .2); transition: transform .15s;
+}
+.interruptor input:checked + .interruptor-trilho { background: var(--destaque); }
+.interruptor input:checked + .interruptor-trilho::after { transform: translateX(16px); }
+.interruptor input:focus-visible + .interruptor-trilho { outline: 2px solid var(--destaque); outline-offset: 2px; }
+.interruptor-texto { display: flex; flex-direction: column; gap: 1px; }
+.interruptor-rotulo { font-weight: 600; font-size: 14px; }
+.interruptor-detalhe { font-size: 13px; color: var(--texto-2); }
+@media (prefers-reduced-motion: reduce) {
+  .interruptor-trilho, .interruptor-trilho::after { transition: none; }
+}

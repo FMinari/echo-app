@@ -1,0 +1,27 @@
+/* Estilos do Echo: base e layout, depois um arquivo por componente e por tela. */
+@import url("base.css");
+@import url("layout.css");
+
+@import url("componentes/botoes.css");
+@import url("componentes/seletor.css");
+@import url("componentes/cartao-frase.css");
+@import url("componentes/avisos.css");
+@import url("componentes/paginador.css");
+@import url("componentes/montador.css");
+@import url("componentes/esqueleto.css");
+@import url("componentes/digitando.css");
+@import url("componentes/recolhivel.css");
+@import url("componentes/alternador.css");
+@import url("componentes/interruptor.css");
+@import url("componentes/fichas.css");
+@import url("componentes/campo-nome.css");
+@import url("componentes/item-lista.css");
+@import url("componentes/balao.css");
+@import url("componentes/palavra.css");
+@import url("componentes/progresso.css");
+
+@import url("telas/buscar.css");
+@import url("telas/estruturas.css");
+@import url("telas/aulas.css");
+@import url("telas/textos.css");
+@import url("telas/sobre.css");

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114 46" color="#ffd400">
+  <!-- a marca do Echo, em traço (a do topo do app, em app/janela/ui/index.html, é esta com currentColor).
+       Letras de y=14 a y=36: as redondas têm centro em 25 e raio 8 (+3 do traço); o h termina em 33 (+3 da ponta). -->
+  <g fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 25H20A8 8 0 1 0 17.66 30.66"/>
+    <path d="M43.66 19.34A8 8 0 1 0 43.66 30.66"/>
+    <path d="M54 4V33M54 25a8 8 0 0 1 16 0V33"/>
+    <circle cx="88" cy="25" r="8"/>
+  </g>
+  <circle cx="88" cy="25" r="2.6" fill="currentColor"/>
+  <g fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round">
+    <path d="M97.64 13.51A15 15 0 0 1 97.64 36.49"/>
+    <path d="M102.14 8.15A22 22 0 0 1 102.14 41.85" opacity=".5"/>
+  </g>
+</svg>

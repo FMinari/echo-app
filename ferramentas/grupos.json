@@ -1,0 +1,4 @@
+{
+  "_como_usar": "Grupos prontos de obras, na ordem em que aparecem no app. Cada grupo lista pastas de transcripts/ (as mesmas chaves do obras.json); uma obra pode estar em vários grupos. O nome não pode ser igual ao de uma obra.",
+  "grupos": []
+}

@@ -1,0 +1,63 @@
+/* Tela Buscar: formulário à esquerda, resultado à direita. */
+
+#aba-buscar { display: grid; grid-template-columns: 330px 1fr; gap: 24px; align-items: start; }
+.filtros {
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 18px; display: flex; flex-direction: column; gap: 14px; position: sticky; top: 92px;
+}
+.linha { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.linha .campo:first-child { grid-column: 1 / -1; }
+
+/* fórmula e explicação da estrutura escolhida */
+.explicacao { font-size: 13px; color: var(--texto-2); background: var(--superficie-2); border-radius: var(--raio-pequeno); padding: 10px 12px; }
+.explicacao:empty { display: none; }
+.explicacao .formula { display: block; font-weight: 700; color: var(--texto); margin-bottom: 2px; }
+
+/* salvar a escolha de obras como grupo */
+.salvar-grupo { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.salvar-grupo:empty { display: none; }
+
+/* coluna da direita: filtro dos resultados + resultado */
+.coluna-resultado { display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.filtro-resultados .sel-busca { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); }
+.filtro-resultados .sel-busca:focus-within { border-color: var(--destaque); }
+
+.resultado { display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.resumo { padding: 4px 2px 6px; }
+.resumo h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
+.resumo p { margin: 0; color: var(--texto-2); }
+.por-pagina { display: inline-flex; align-items: center; gap: 6px; margin-top: 6px; font-size: 14px; color: var(--texto-2); }
+.por-pagina select { width: auto; padding: 4px 8px; }
+.barras { display: flex; height: 6px; border-radius: 3px; overflow: hidden; margin-top: 10px; background: var(--superficie-2); gap: 2px; }
+
+.secao-obras { margin: 0 2px; font-size: 13px; color: var(--texto-2); }
+
+@media (max-width: 860px) {
+  #aba-buscar { grid-template-columns: 1fr; }
+  .filtros { position: static; }
+}
+
+/* modo Do catálogo | Escrever o que procuro */
+.modo { display: flex; flex-direction: column; gap: 14px; }
+.modo[hidden] { display: none; }
+
+/* phrasal verbs do verbo escrito, acima do resultado */
+.fichas-livre {
+  display: flex; flex-direction: column; gap: 10px; background: var(--superficie);
+  border: 1px solid var(--borda); border-radius: var(--raio); padding: 14px 16px;
+}
+.fichas-livre[hidden] { display: none; }
+.fichas-livre h3 { margin: 0; font-size: 15px; }
+.fichas-livre .ajuda { margin-top: -6px; }
+.botoes.centro { justify-content: center; }
+
+/* o que quer dizer o phrasal verb da busca escrita */
+.resumo .significado { color: var(--texto); margin: 2px 0 4px; }
+.resumo .significado b { color: var(--texto-2); font-weight: 600; }
+
+/* "Guardar como estrutura" da busca escrita */
+.guardar-busca { margin-top: 8px; }
+.guardar-form {
+  display: grid; gap: 10px; max-width: 440px; padding: 12px 14px;
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio);
+}

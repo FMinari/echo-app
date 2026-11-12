@@ -1,0 +1,26 @@
+/* Montar a regra com peças (js/componentes/montador-pecas.js). */
+
+.montador {
+  display: flex; flex-direction: column; gap: 10px;
+  background: var(--fundo); border: 1px solid var(--borda); border-radius: var(--raio); padding: 14px;
+}
+.montador h3 { margin: 0; font-size: 15px; }
+.pecas { display: flex; flex-direction: column; gap: 6px; }
+.pecas:empty { display: none; }
+.peca {
+  display: grid; grid-template-columns: 22px minmax(150px, 210px) 1fr auto auto; gap: 8px; align-items: center;
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio-pequeno); padding: 6px 8px;
+}
+.peca-n { font-size: 12px; font-weight: 700; color: var(--texto-2); text-align: center; }
+.peca select, .peca .peca-texto { padding: 6px 8px; min-width: 0; }
+.peca-classe { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.peca-exemplos { font-size: 13px; color: var(--texto-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex: 1; min-width: 0; }
+.peca .peca-menos { width: 150px; flex: none; padding: 5px 8px; font-size: 13px; }
+.peca-opcional { font-size: 13px; color: var(--texto-2); display: flex; align-items: center; gap: 4px; white-space: nowrap; }
+.peca-botoes { display: flex; gap: 2px; }
+.resumo-regra { margin: 0; font-size: 14px; }
+
+@media (max-width: 700px) {
+  .peca { grid-template-columns: 22px 1fr auto; }
+  .peca .peca-texto, .peca .peca-classe, .peca-opcional { grid-column: 2 / -1; }
+}

@@ -1,0 +1,32 @@
+/* Tela Estruturas: lista do catálogo à esquerda, formulário à direita. */
+
+.catalogo { display: grid; grid-template-columns: 300px 1fr; gap: 24px; align-items: start; }
+.lista-estruturas { display: flex; flex-direction: column; gap: 2px; position: sticky; top: 92px; max-height: calc(100vh - 120px); overflow: auto; }
+.lista-nada { padding: 8px 10px; }
+.nivel { font-size: 11px; font-weight: 700; padding: 1px 6px; border-radius: 5px; background: var(--superficie-2); color: var(--texto-2); }
+
+.detalhe {
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 20px; display: flex; flex-direction: column; gap: 14px;
+}
+.detalhe h2 { margin: 0; font-size: 20px; }
+.detalhe-form { display: flex; flex-direction: column; gap: 14px; }
+.detalhe .grade { display: grid; grid-template-columns: 1fr 1fr 110px; gap: 12px; }
+.avancado { border-top: 1px solid var(--borda); padding-top: 12px; }
+
+/* ações do formulário presas no rodapé da janela enquanto ele rola */
+.barra-acoes {
+  position: sticky; bottom: 0; z-index: 2;
+  margin: 0 -20px -20px; padding: 12px 20px;
+  background: var(--superficie); border-top: 1px solid var(--borda); border-radius: 0 0 var(--raio) var(--raio);
+}
+.avancado > .recolhivel-corpo { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; }
+
+/* exemplos do "Testar" */
+.amostra { display: flex; flex-direction: column; gap: 6px; font-size: 14px; }
+.amostra p { margin: 0; padding: 8px 10px; background: var(--fundo); border-radius: 6px; }
+
+@media (max-width: 860px) {
+  .catalogo, .detalhe .grade { grid-template-columns: 1fr; }
+  .lista-estruturas { position: static; max-height: none; }
+}

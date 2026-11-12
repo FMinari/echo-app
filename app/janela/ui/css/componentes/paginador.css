@@ -1,0 +1,6 @@
+/* « ‹ Página 2 de 22 › » (js/componentes/paginador.js). */
+
+.paginador { display: flex; align-items: center; justify-content: center; gap: 6px; flex-wrap: wrap; padding: 4px 0 8px; }
+.paginador span { color: var(--texto-2); font-size: 14px; padding: 0 6px; }
+.paginador .btn { padding: 6px 12px; }
+.paginador .btn:disabled { opacity: .4; }

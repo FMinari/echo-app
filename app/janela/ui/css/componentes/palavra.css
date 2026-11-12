@@ -1,0 +1,10 @@
+/* Dicionário no balão (js/componentes/palavra.js). */
+
+.cartao .frase { cursor: help; }
+.dic-classe + .dic-classe { margin-top: 10px; }
+.dic-classe h4 { margin: 0 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--texto-2); }
+.dic-classe ol { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 4px; }
+.dic-traducao { font-weight: 600; }
+.dic-classe small { display: block; color: var(--texto-2); font-size: 12px; }
+.dic-tambem { margin: 12px 0 2px; padding-top: 8px; border-top: 1px solid var(--borda); font-weight: 600; }
+.dic-fonte { margin: 12px 0 0; font-size: 11px; color: var(--texto-2); }

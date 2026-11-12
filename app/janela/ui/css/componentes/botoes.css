@@ -1,0 +1,25 @@
+/* Botões: um estilo base e variações.
+   .btn             contorno discreto (padrão)
+   .btn-primario    ação principal (Buscar, Salvar, Instalar agora)
+   .btn-perigo      apagar (fica à direita numa linha de botões)
+   .btn-link        parece link (Salvar como grupo, Adicionar peça)
+   .btn-contorno    contorno na cor do texto ao redor (Abrir pasta de erros)
+   .btn-icone       só um símbolo (↑ ↓ ×)
+   .btn-pequeno, .btn-largo   tamanhos */
+
+.btn {
+  border: 1px solid var(--borda); background: var(--superficie); color: var(--texto);
+  padding: 8px 14px; border-radius: var(--raio-pequeno); font-weight: 600;
+}
+.btn-primario { background: var(--destaque); color: var(--destaque-texto); border-color: var(--destaque); }
+.btn-perigo { color: var(--perigo); margin-left: auto; }
+.btn-perigo[data-confirmar="1"] { background: var(--perigo); color: var(--perigo-texto); border-color: var(--perigo); }
+.btn-link { border: 0; background: none; padding: 0; color: var(--destaque); font-weight: 600; align-self: flex-start; }
+.btn-contorno {
+  border: 1px solid currentColor; background: none; color: inherit; border-radius: var(--raio-pequeno);
+  padding: 5px 10px; font-weight: 600; font-size: 13px;
+}
+.btn-icone { border: 0; background: none; padding: 5px; border-radius: 6px; color: var(--texto-2); display: inline-grid; place-items: center; }
+.btn-icone:hover:not(:disabled) { background: var(--superficie-2); color: var(--texto); }
+.btn-pequeno { padding: 6px 10px; font-size: 13px; }
+.btn-largo { width: 100%; }

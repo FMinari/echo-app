@@ -1,0 +1,9 @@
+{
+  "_como_usar": "Uma entrada por pasta de transcripts/. tipo: serie (arquivos SxxEyy - Titulo.txt), filme (cada .txt é o filme inteiro) ou musica (pasta = artista, um .txt LRC por música, gravado pelo baixar_letra.py; sem duracao_min, a duração vem do [length:]). duracao_min: duração nominal de um episódio (série) ou do filme. titulos: correções manuais de título por SxxEyy.",
+  "cafe-da-esquina": {
+    "nome": "Café da Esquina (exemplo)",
+    "tipo": "serie",
+    "ano": 2026,
+    "duracao_min": 3
+  }
+}

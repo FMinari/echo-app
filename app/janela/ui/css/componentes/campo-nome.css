@@ -1,0 +1,5 @@
+/* Link que vira campo de nome (js/componentes/campo-nome.js). */
+
+.campo-nome { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.campo-nome .btn-link { font-size: 13px; }
+.campo-nome input { flex: 1 0 100%; min-width: 0; padding: 6px 8px; }

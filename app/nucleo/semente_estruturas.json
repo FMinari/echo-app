@@ -1,0 +1,5730 @@
+[
+  {
+    "nome": "Zero conditional",
+    "categoria": "Condicionais",
+    "nivel": "A2",
+    "explicacao": "Verdades gerais e consequências que sempre acontecem: as duas orações no presente simples.",
+    "formula": "If/When + present simple, present simple",
+    "padrao": "[w=if|when] []{1,4} [t=VBP|VBZ] ... [w=,] [t=PRP|NN|NNS|NNP|DT|EX] [t=RB]* [t=VBP|VBZ]",
+    "excluir": "\\b(will|would|'ll|'d|wo|gonna|going to|could|should|might)\\b|\\?|\\b(i|you) (know|mean|think|suppose|guess|see)\\b|\\bif (that|it)'s\\b",
+    "exemplos": [
+      "If you heat ice, it melts.",
+      "When I drink coffee at night, I can't sleep."
+    ],
+    "pegadinhas": "Muitos 'if' com presente nas duas orações são, na verdade, first conditional sem will, ou ordens ('if you see him, tell him'). Confira se é algo que sempre acontece."
+  },
+  {
+    "nome": "First conditional",
+    "categoria": "Condicionais",
+    "nivel": "B1",
+    "explicacao": "Situação possível no futuro e a consequência provável: if + presente, will + verbo.",
+    "formula": "If + present simple, will + verbo base",
+    "padrao": "if [t=PRP|NNP|NN|NNS|DT|EX]+ [t=RB]* [t=VBP|VBZ] ... [w=will|'ll|wo] [t=RB]* [t=VB]",
+    "exemplos": [
+      "If you cut that in half, you will get two pieces.",
+      "If it rains, we'll stay home."
+    ],
+    "pegadinhas": "'I don't know if he will come' não é condicional: o if ali significa 'se' de 'whether'."
+  },
+  {
+    "nome": "Second conditional",
+    "categoria": "Condicionais",
+    "nivel": "B1",
+    "explicacao": "Situação hipotética ou improvável no presente/futuro: if + passado, would + verbo.",
+    "formula": "If + past simple, would + verbo base",
+    "padrao": "if [t=PRP|NNP|NN|NNS|DT|EX]+ [t=RB]* [t=VBD] ... [w=would|'d] [t=RB]* [t=VB]",
+    "exemplos": [
+      "If I had a million dollars, I would buy a castle.",
+      "If I were you, I'd call her."
+    ],
+    "pegadinhas": "'If I were you' é second conditional mesmo com were para todas as pessoas. O 'd depois do if costuma ser had (third conditional), e depois do sujeito na outra oração costuma ser would.",
+    "excluir": "\\b(would|'d|could|might|should)(n't| not)? (have|'ve|of)\\b|\\b(would|could|might|should)(n't)?'ve\\b"
+  },
+  {
+    "nome": "Third conditional",
+    "categoria": "Condicionais",
+    "nivel": "B2",
+    "explicacao": "Passado que não aconteceu e sua consequência imaginada: if + past perfect, would have + particípio.",
+    "formula": "If + past perfect, would/could/might have + particípio",
+    "padrao": "if ... [l=have t=VBD] [t=RB]* [t=VBN] ... [w=would|'d|could|might] [t=RB]* [w=have|'ve|of] [t=VBN]",
+    "exemplos": [
+      "If you had told me, I would have helped.",
+      "If they had lost, we would've made them get rid of the birds."
+    ],
+    "pegadinhas": "Na fala, 'would have' vira would've (e às vezes é transcrito como 'would of')."
+  },
+  {
+    "nome": "Mixed conditional",
+    "categoria": "Condicionais",
+    "nivel": "C1",
+    "explicacao": "Mistura tempos: passado irreal com consequência no presente (if + past perfect, would + verbo).",
+    "formula": "If + past perfect, would + verbo base (now)",
+    "padrao": "if ... [l=have t=VBD] [t=RB]* [t=VBN] ... [w=would|'d] [t=RB]* [t=VB]",
+    "excluir": "\\b(would|'d|could|might|should)(n't| not)? (have|'ve|of)\\b|\\b(would|could|might|should)(n't)?'ve\\b",
+    "exemplos": [
+      "If I had studied medicine, I would be a doctor now."
+    ],
+    "pegadinhas": "Se a consequência for 'would have + particípio', é third conditional, não mixed."
+  },
+  {
+    "nome": "Past perfect",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "explicacao": "Ação que aconteceu antes de outro momento do passado: had + particípio.",
+    "formula": "had + particípio",
+    "padrao": "[l=have t=VBD] [t=RB]* [t=VBN]",
+    "excluir": "\\bhad to\\b",
+    "exemplos": [
+      "When I arrived, the movie had already started."
+    ],
+    "pegadinhas": "'had to' é obrigação no passado, não past perfect. O 'd também pode ser would ('I'd go'); só é past perfect quando vem um particípio depois."
+  },
+  {
+    "nome": "Past perfect continuous",
+    "categoria": "Tempos verbais",
+    "nivel": "B2",
+    "explicacao": "Ação que vinha acontecendo até um momento do passado: had been + -ing.",
+    "formula": "had been + verbo-ing",
+    "padrao": "[l=have t=VBD] [t=RB]* [w=been] [t=VBG]",
+    "exemplos": [
+      "She had been waiting for an hour when he finally called."
+    ]
+  },
+  {
+    "nome": "Present perfect",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "explicacao": "Passado ligado ao presente: experiências, mudanças, ações sem tempo definido. have/has + particípio.",
+    "formula": "have/has + particípio",
+    "padrao": "[l=have t=VBP|VBZ] [t=RB]* [t=VBN]",
+    "excluir": "\\b(have|has|'ve|'s) (got|gotten) to\\b",
+    "exemplos": [
+      "I've never been to Paris.",
+      "She has lost her keys."
+    ],
+    "pegadinhas": "O 's pode ser is ou has: só é present perfect com particípio depois ('she's gone'). 'I've got' muitas vezes significa só 'eu tenho'."
+  },
+  {
+    "nome": "Present perfect continuous",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "explicacao": "Ação que começou no passado e continua (ou acabou de parar): have/has been + -ing.",
+    "formula": "have/has been + verbo-ing",
+    "padrao": "[l=have t=VBP|VBZ] [t=RB]* [w=been] [t=VBG]",
+    "exemplos": [
+      "I've been working here for five years."
+    ]
+  },
+  {
+    "nome": "Future continuous",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "explicacao": "Ação em andamento num momento do futuro: will be + -ing.",
+    "formula": "will be + verbo-ing",
+    "padrao": "[w=will|'ll] [t=RB]* [w=be] [t=VBG]",
+    "exemplos": [
+      "This time tomorrow I'll be flying to London."
+    ]
+  },
+  {
+    "nome": "Future perfect",
+    "categoria": "Tempos verbais",
+    "nivel": "B2",
+    "explicacao": "Ação que estará concluída antes de um momento do futuro: will have + particípio.",
+    "formula": "will have + particípio",
+    "padrao": "[w=will|'ll] [t=RB]* [w=have] [t=VBN]",
+    "exemplos": [
+      "By next year, I will have finished my thesis."
+    ]
+  },
+  {
+    "nome": "Be going to",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "explicacao": "Planos e previsões com evidência: be going to + verbo (na fala, muitas vezes 'gonna').",
+    "formula": "am/is/are going to (gonna) + verbo base",
+    "padrao": "[l=be] [t=RB]* [w=going|gon] [w=to|na] [t=RB]* [t=VB]",
+    "exemplos": [
+      "I'm going to tell her tonight.",
+      "It's gonna rain."
+    ],
+    "pegadinhas": "'I'm going to the store' é verbo go no sentido de ir, não futuro: depois do to vem um lugar, não um verbo."
+  },
+  {
+    "nome": "Used to",
+    "categoria": "Hábitos",
+    "nivel": "A2",
+    "explicacao": "Hábito ou estado do passado que não existe mais: used to + verbo.",
+    "formula": "used to + verbo base",
+    "padrao": "[w=used|use] [w=to] [t=VB]",
+    "exemplos": [
+      "I used to play the piano."
+    ],
+    "pegadinhas": "'be used to + -ing' (estar acostumado) é outra estrutura."
+  },
+  {
+    "nome": "Be/get used to",
+    "categoria": "Hábitos",
+    "nivel": "B1",
+    "explicacao": "Estar ou ficar acostumado a algo: be/get used to + substantivo ou -ing.",
+    "formula": "be/get used to + -ing / substantivo",
+    "padrao": "[l=be|get] [t=RB]* [w=used] [w=to] [t=VBG|NN|NNS|NNP|PRP|DT|PRP\\$]",
+    "exemplos": [
+      "I'm not used to waking up so early.",
+      "You'll get used to it."
+    ]
+  },
+  {
+    "nome": "Passive voice",
+    "categoria": "Voz passiva",
+    "nivel": "B1",
+    "explicacao": "O foco está em quem sofre a ação: be + particípio (opcionalmente by + agente).",
+    "formula": "be + particípio (+ by ...)",
+    "padrao": "[l=be] [t=RB]* [t=VBN] [w=by]",
+    "exemplos": [
+      "The paper was written by Sheldon.",
+      "He was fired by his boss."
+    ],
+    "pegadinhas": "Esta regra pega só passivas com 'by' (as mais fáceis de reconhecer). Sem o by, 'I'm tired' / 'I'm married' parecem passiva mas são adjetivos."
+  },
+  {
+    "nome": "Wish + past",
+    "categoria": "Desejos",
+    "nivel": "B1",
+    "explicacao": "Desejo sobre o presente que não é real: wish + passado.",
+    "formula": "wish + sujeito + past simple",
+    "padrao": "[l=wish] [t=PRP|NNP|NN|DT] [t=VBD]",
+    "excluir": "\\bwish(ed)? \\w+ (had|'d) \\w+(ed|en)\\b",
+    "exemplos": [
+      "I wish I knew the answer.",
+      "I wish you were here."
+    ]
+  },
+  {
+    "nome": "Wish + past perfect",
+    "categoria": "Desejos",
+    "nivel": "B2",
+    "explicacao": "Arrependimento sobre o passado: wish + had + particípio.",
+    "formula": "wish + sujeito + had + particípio",
+    "padrao": "[l=wish] [t=PRP|NNP|NN|DT] [l=have t=VBD] [t=RB]* [t=VBN]",
+    "exemplos": [
+      "I wish I had told her the truth."
+    ]
+  },
+  {
+    "nome": "Modal perfect",
+    "categoria": "Modais",
+    "nivel": "B2",
+    "explicacao": "Modal sobre o passado (crítica, dedução, possibilidade): should/could/must/might have + particípio.",
+    "formula": "should/could/would/might/must have + particípio",
+    "padrao": "[w=should|could|would|might|must|may] [t=RB]* [w=have|'ve|of] [t=VBN]",
+    "exemplos": [
+      "You should have called me.",
+      "He must have forgotten."
+    ]
+  },
+  {
+    "nome": "Reported speech",
+    "categoria": "Discurso indireto",
+    "nivel": "B1",
+    "explicacao": "Contar o que alguém disse, recuando o tempo verbal: said (that) + passado.",
+    "formula": "said/told + (that) + oração no passado",
+    "padrao": "[l=say|tell t=VBD] [t=PRP]? [w=that]? [t=PRP|NNP] [t=VBD|MD]",
+    "excluir": "[\"“”]",
+    "exemplos": [
+      "She said she was tired.",
+      "He told me he would call."
+    ]
+  },
+  {
+    "nome": "Comparative + than",
+    "categoria": "Comparações",
+    "nivel": "A2",
+    "formula": "adjetivo-er + than",
+    "explicacao": "Para comparar duas coisas com adjetivos curtos: acrescenta -er no adjetivo e usa than (= do que).",
+    "exemplos": [
+      "Batman is so much cooler than James Bond!",
+      "It's a lot harder than I thought."
+    ],
+    "pegadinhas": "Irregulares: good → better, bad → worse, far → farther/further. Frases com 'more than', 'less than' e 'rather than' ficam de fora (têm estrutura própria).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "comparativo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "than"
+        }
+      ],
+      "excluir": [
+        "more than",
+        "less than",
+        "rather than",
+        "fewer than"
+      ]
+    }
+  },
+  {
+    "nome": "More + adjective + than",
+    "categoria": "Comparações",
+    "nivel": "A2",
+    "formula": "more + adjetivo + than",
+    "explicacao": "Com adjetivos longos (de duas ou mais sílabas, quase sempre), o comparativo usa more antes do adjetivo, em vez de -er.",
+    "exemplos": [
+      "Some things are more important than a game.",
+      "You're even more beautiful than in the photos."
+    ],
+    "pegadinhas": "Não se diz 'more bigger'. Adjetivos de duas sílabas terminados em -y viram -ier: happier, easier.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "more"
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "than"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Less + adjective + than",
+    "categoria": "Comparações",
+    "nivel": "B1",
+    "formula": "less + adjetivo + than",
+    "explicacao": "O contrário de more: diz que algo tem menos daquela qualidade (= menos ... do que).",
+    "exemplos": [
+      "It was slightly less gross than I expected.",
+      "No one is less competitive than me."
+    ],
+    "pegadinhas": "Com less nunca se usa -er: 'less smart', não 'less smarter'. Na fala é mais comum 'not as ... as'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "less"
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "than"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Superlative with -est",
+    "categoria": "Comparações",
+    "nivel": "A2",
+    "formula": "the + adjetivo-est",
+    "explicacao": "Para dizer que algo é o mais ... de um grupo, com adjetivos curtos: the + adjetivo com -est.",
+    "exemplos": [
+      "It is now the largest city on Earth.",
+      "She's the hardest worker I've ever seen."
+    ],
+    "pegadinhas": "Irregulares: good → the best, bad → the worst. 'Hope for the best' e 'at least' são expressões fixas. 'The most/the least' fica na outra estrutura.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "the"
+        },
+        {
+          "tipo": "superlativo"
+        }
+      ],
+      "excluir": [
+        "the most",
+        "the least"
+      ]
+    }
+  },
+  {
+    "nome": "The most / the least + adjective",
+    "categoria": "Comparações",
+    "nivel": "A2",
+    "formula": "the most / the least + adjetivo",
+    "explicacao": "Superlativo de adjetivos longos: the most (o mais) ou the least (o menos) antes do adjetivo.",
+    "exemplos": [
+      "You're the most talented person I know.",
+      "That is the least romantic thing I've ever heard."
+    ],
+    "pegadinhas": "Não se diz 'the most biggest'. Muito comum com 'I've ever ...' depois: the most ... I've ever seen.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "the most/the least"
+        },
+        {
+          "tipo": "adjetivo"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "As + adjective + as",
+    "categoria": "Comparações",
+    "nivel": "A2",
+    "formula": "as + adjetivo + as",
+    "explicacao": "Para dizer que duas coisas são iguais naquela qualidade (= tão ... quanto).",
+    "exemplos": [
+      "I'm as frustrated as you are.",
+      "We work just as hard as the sales people."
+    ],
+    "pegadinhas": "'As soon as', 'as long as' e 'as well as' parecem iguais mas não comparam (o adjetivo da regra já deixa a maioria de fora).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "as"
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "as"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Not as / so + adjective + as",
+    "categoria": "Comparações",
+    "nivel": "B1",
+    "formula": "not / n't + as (so) + adjetivo + as",
+    "explicacao": "Comparação negativa: algo não é tão ... quanto outra coisa. É o jeito mais natural de dizer 'menos ... do que'.",
+    "exemplos": [
+      "It's not as bad as it sounds.",
+      "I'm not as strong as you."
+    ],
+    "pegadinhas": "'Not so ... as' existe mas é mais formal; na fala quase sempre é 'not as'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "not/n't"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "as/so"
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "as"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "The more..., the more...",
+    "categoria": "Comparações",
+    "nivel": "B2",
+    "formula": "the + comparativo ..., the + comparativo ...",
+    "explicacao": "Dois comparativos ligados: quando uma coisa aumenta (ou diminui), a outra também muda (= quanto mais ..., mais ...).",
+    "exemplos": [
+      "The more I watch this, the less convinced I am.",
+      "The sooner we leave, the better."
+    ],
+    "pegadinhas": "Os dois lados começam com the. Versões curtas e fixas: 'The more, the merrier', 'the sooner, the better'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "the"
+        },
+        {
+          "tipo": "comparativo"
+        },
+        {
+          "tipo": "palavras_meio"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "the"
+        },
+        {
+          "tipo": "comparativo"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Comparative and comparative",
+    "categoria": "Comparações",
+    "nivel": "B1",
+    "formula": "comparativo + and + o mesmo comparativo",
+    "explicacao": "Repetir o comparativo com and mostra uma mudança contínua (= cada vez mais ...).",
+    "exemplos": [
+      "This day just keeps getting worse and worse.",
+      "You're becoming more and more like your mother."
+    ],
+    "pegadinhas": "Com adjetivo longo repete só o more: 'more and more nervous', não 'more nervous and more nervous'. Quase sempre vem com get/become/keep getting.",
+    "padrao": "[t=JJR|RBR] and [t=JJR|RBR]",
+    "excluir": "^(?!.*\\b(\\w+)\\s+and\\s+\\1\\b)"
+  },
+  {
+    "nome": "Too + adjective",
+    "categoria": "Descrições",
+    "nivel": "A2",
+    "formula": "too + adjetivo (+ to + verbo / for alguém)",
+    "explicacao": "Too antes do adjetivo quer dizer 'demais', com sentido de problema: mais do que deveria.",
+    "exemplos": [
+      "It's too big.",
+      "I'm too old for this stuff."
+    ],
+    "pegadinhas": "Too ≠ very: 'very hot' é só muito quente; 'too hot' é quente demais (não dá). 'Too' no fim da frase é 'também'. 'Too bad' é 'que pena' e ficou de fora; 'too much/too many' também.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "too"
+        },
+        {
+          "tipo": "adjetivo"
+        }
+      ],
+      "excluir": [
+        "too much",
+        "too many",
+        "too bad"
+      ]
+    }
+  },
+  {
+    "nome": "Too + adjective + to + verb",
+    "categoria": "Descrições",
+    "nivel": "B1",
+    "formula": "too + adjetivo + to + verbo",
+    "explicacao": "Adjetivo demais para conseguir fazer algo: 'too tired to swim' = cansado demais para nadar.",
+    "exemplos": [
+      "She's too proud to ask for the money.",
+      "You're too young to remember."
+    ],
+    "pegadinhas": "Não se usa 'for to': é 'too young to drive', não 'too young for to drive'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "too"
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Adjective + enough",
+    "categoria": "Descrições",
+    "nivel": "A2",
+    "formula": "adjetivo + enough (+ to + verbo)",
+    "explicacao": "Enough depois do adjetivo quer dizer 'suficientemente': tem a qualidade na medida certa (ou, no negativo, falta).",
+    "exemplos": [
+      "You're not tall enough to be a Mark.",
+      "I will never be good enough for you."
+    ],
+    "pegadinhas": "A ordem é invertida em relação ao português: 'old enough', nunca 'enough old'. Com substantivo é o contrário (veja 'Enough + noun').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "enough"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Enough + noun",
+    "categoria": "Descrições",
+    "nivel": "A2",
+    "formula": "enough + substantivo",
+    "explicacao": "Enough antes do substantivo quer dizer 'suficiente' (quantidade): enough time, enough money.",
+    "exemplos": [
+      "I don't have enough money.",
+      "There's not enough room for all of us."
+    ],
+    "pegadinhas": "Com substantivo, enough vem antes; com adjetivo, vem depois ('big enough'). 'That's enough' sozinho = chega!",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "enough"
+        },
+        {
+          "tipo": "substantivo"
+        }
+      ],
+      "excluir": [
+        "enough today",
+        "enough tonight",
+        "enough guys",
+        "enough boys",
+        "enough girls"
+      ]
+    }
+  },
+  {
+    "nome": "So + adjective + that",
+    "categoria": "Descrições",
+    "nivel": "B1",
+    "formula": "so + adjetivo + that + consequência",
+    "explicacao": "So + adjetivo diz que algo é tão intenso que provoca uma consequência, que vem depois de that (= tão ... que ...).",
+    "exemplos": [
+      "It was so loud that the neighboring farm heard it.",
+      "He is so dumb that he puts his M&Ms in alphabetical order."
+    ],
+    "pegadinhas": "Muitas vezes o that some: 'I was so tired I fell asleep' (essas a regra não pega). 'I'm so glad that...' e 'it's so important that...' não são consequência; foram tiradas.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "so"
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "that"
+        }
+      ],
+      "excluir": [
+        "so sorry that",
+        "so glad that",
+        "so happy that",
+        "so excited that",
+        "so sure that",
+        "so much that",
+        "so many that",
+        "so great that",
+        "so sad that",
+        "so cool that",
+        "so upset that",
+        "so sweet that",
+        "so nervous that",
+        "so lucky that",
+        "so worried that",
+        "so wonderful that",
+        "so unfair that",
+        "so grateful that",
+        "so relieved that",
+        "so nice that",
+        "so impressed that",
+        "so proud that",
+        "so thankful that",
+        "so weird that",
+        "so scared that",
+        "so afraid that",
+        "so certain that",
+        "so convinced that",
+        "so mad that",
+        "so guilty that",
+        "so amazing that",
+        "so awesome that",
+        "so funny that",
+        "so cute that",
+        "so strange that",
+        "so interesting that",
+        "so surprising that",
+        "so shocking that",
+        "so crazy that",
+        "so delighted that",
+        "so surprised that",
+        "so perfect that",
+        "so frustrating that",
+        "so natural that",
+        "so random that",
+        "so horrible that",
+        "it's so",
+        "it is so",
+        "it's just so",
+        "it's really so",
+        "that's so",
+        "is it so",
+        "is it really so"
+      ]
+    }
+  },
+  {
+    "nome": "Such (a) + adjective + noun",
+    "categoria": "Descrições",
+    "nivel": "B1",
+    "formula": "such (a/an) + adjetivo + substantivo",
+    "explicacao": "Such intensifica um substantivo com adjetivo (= um ... tão ...). Com substantivo no singular contável vem a/an depois de such.",
+    "exemplos": [
+      "You're such an amazing detective.",
+      "We had such a great time!"
+    ],
+    "pegadinhas": "A ordem é 'such a nice guy', não 'a such nice guy'. Compare: 'so nice' (só adjetivo) × 'such a nice guy' (com substantivo).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "such"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "a/an",
+          "opcional": true
+        },
+        {
+          "tipo": "adjetivo"
+        },
+        {
+          "tipo": "substantivo"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Get + adjective",
+    "categoria": "Descrições",
+    "nivel": "A2",
+    "formula": "get + adjetivo (mudança de estado)",
+    "explicacao": "Get + adjetivo mostra uma mudança: ficar cansado, ficar bravo, ficar velho (get tired, get angry, get old).",
+    "exemplos": [
+      "Don't get upset.",
+      "It's getting late."
+    ],
+    "pegadinhas": "Em português é 'ficar'; não traduza por 'pegar'. 'Get better/worse' = melhorar/piorar. A lista de adjetivos é fechada (dá para acrescentar outros na peça); sem ela vinham 'got new uniforms', 'get rid of'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "tired/angry/mad/upset/bored/sick/old/drunk/hungry/scared/nervous/jealous/excited/worse/better/dark/cold/hot/warm/late/serious/fat/busy/weird/lucky/rich/wet/dirty/annoyed/worried/lonely/emotional/defensive/crazy/ugly/sleepy/thirsty/fit/healthy/pregnant/famous/sad/impatient/awkward/boring/heavy/lazy/sentimental/comfortable/desperate/suspicious/violent/aggressive/curious/quiet/loud/dangerous/real"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Adjectives -ed vs -ing",
+    "categoria": "Descrições",
+    "nivel": "B1",
+    "formula": "be + adjetivo -ed (como a pessoa se sente) / -ing (como a coisa é)",
+    "explicacao": "-ed descreve o que a pessoa sente (I'm bored = estou entediado); -ing descreve o que causa o sentimento (it's boring = é chato).",
+    "exemplos": [
+      "I'm so embarrassed.",
+      "This is so exciting!"
+    ],
+    "pegadinhas": "'I'm boring' quer dizer 'eu sou chato', não 'estou entediado'. Mesma coisa com interested/interesting, tired/tiring, confused/confusing.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "bored/boring/interested/interesting/excited/exciting/tired/tiring/confused/confusing/embarrassed/embarrassing/surprised/surprising/annoyed/annoying/frightened/frightening/disappointed/disappointing/amazed/amazing/shocked/shocking/exhausted/exhausting/terrified/terrifying/fascinated/fascinating/frustrated/frustrating/depressed/depressing/relaxed/relaxing/satisfied/satisfying/thrilled/thrilling/overwhelmed/overwhelming/horrified/horrifying/disgusted/disgusting/amused/amusing/irritated/irritating/challenged/challenging/inspired/inspiring/humiliated/humiliating"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Look / sound / seem like",
+    "categoria": "Descrições",
+    "nivel": "A2",
+    "formula": "look / sound / seem / smell / taste + like + substantivo ou frase",
+    "explicacao": "Verbo de percepção + like compara com outra coisa (= parece ..., tem cheiro/gosto de ...).",
+    "exemplos": [
+      "He looks like a man-dolphin.",
+      "That sounds like love to me."
+    ],
+    "pegadinhas": "Com adjetivo não vai like: 'you look tired', não 'look like tired'. 'What does he look like?' pergunta a aparência. 'Feel like' ficou de fora porque costuma ser 'estar a fim de'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "look/sound/seem/smell/taste"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "like"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Linking verb + adjective",
+    "categoria": "Descrições",
+    "nivel": "A2",
+    "formula": "look / sound / seem / feel / smell / taste + adjetivo",
+    "explicacao": "Esses verbos ligam o sujeito a um adjetivo que o descreve, como o be: you look nice, it sounds great, I feel bad.",
+    "exemplos": [
+      "You look very nice.",
+      "It all sounds great."
+    ],
+    "pegadinhas": "Depois deles vem adjetivo, não advérbio: 'I feel bad' (não 'badly'), 'it smells good' (não 'well').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "look/sound/seem/smell/taste/feel"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "adjetivo"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Unless",
+    "categoria": "Condicionais",
+    "nivel": "B1",
+    "formula": "unless + oração (= if ... not)",
+    "explicacao": "Unless quer dizer 'a menos que' / 'a não ser que': é o mesmo que if + not.",
+    "exemplos": [
+      "I won't go unless you come with me.",
+      "Unless it rains, we'll play outside."
+    ],
+    "pegadinhas": "Depois de unless o verbo fica afirmativo: 'unless you come' (e não 'unless you don't come').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "unless"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Even if",
+    "categoria": "Condicionais",
+    "nivel": "B1",
+    "formula": "even if + oração",
+    "explicacao": "Even if = 'mesmo que' / 'mesmo se': a consequência acontece de qualquer jeito, com ou sem a condição.",
+    "exemplos": [
+      "I'll go even if it rains.",
+      "I couldn't tell you even if I wanted to."
+    ],
+    "pegadinhas": "Even though fala de algo que é real ('embora'); even if fala de uma hipótese ('mesmo que').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "even if"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "As long as",
+    "categoria": "Condicionais",
+    "nivel": "B1",
+    "formula": "as long as + oração",
+    "explicacao": "As long as = 'desde que' / 'contanto que' (condição); às vezes também 'enquanto' ('as long as I'm alive'). Mais formal: provided (that) / providing.",
+    "exemplos": [
+      "You can borrow my car as long as you're careful.",
+      "As long as you're happy, I'm happy."
+    ],
+    "pegadinhas": "'Stay as long as you want' é 'o tempo que quiser' (duração), não condição. 'It's not as long as yours' é comparação (tão longo quanto).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "as long as"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": [
+        "for as long as",
+        "as long as you want",
+        "as long as you like",
+        "as long as you need",
+        "as long as he wants",
+        "as long as she wants",
+        "as long as I like",
+        "as long as he needs",
+        "as long as she needs",
+        "as long as it takes",
+        "as long as we have",
+        "as long as I have",
+        "as long as you have",
+        "almost as long as",
+        "exactly as long as",
+        "twice as long as",
+        "isn't as long as"
+      ]
+    }
+  },
+  {
+    "nome": "In case",
+    "categoria": "Condicionais",
+    "nivel": "B1",
+    "formula": "(just) in case + oração no presente",
+    "explicacao": "In case = 'caso' / 'para o caso de': você faz algo agora como prevenção, por precaução.",
+    "exemplos": [
+      "Take an umbrella in case it rains.",
+      "I brought pizza in case you were hungry."
+    ],
+    "pegadinhas": "In case não é 'if': 'Take an umbrella in case it rains' = leve de qualquer jeito, por precaução. E depois de in case não vem will.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "in case"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "What if",
+    "categoria": "Condicionais",
+    "nivel": "A2",
+    "formula": "What if + oração?",
+    "explicacao": "What if = 'e se...?': para imaginar uma possibilidade (muitas vezes preocupação) ou sugerir algo.",
+    "exemplos": [
+      "What if she says no?",
+      "What if we order pizza?"
+    ],
+    "pegadinhas": "Com presente é possibilidade real ('What if he finds out?'); com passado fica mais hipotético ('What if I told you...?').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "what if"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": [
+        "so what if"
+      ]
+    }
+  },
+  {
+    "nome": "If only",
+    "categoria": "Desejos",
+    "nivel": "B2",
+    "formula": "If only + past / past perfect / could",
+    "explicacao": "If only = 'quem me dera' / 'se ao menos': desejo forte, como wish, mas mais emotivo. Passado para o presente, past perfect para o passado.",
+    "exemplos": [
+      "If only I had more time!",
+      "If only you'd told me sooner."
+    ],
+    "pegadinhas": "'Only if' (= 'só se') é outra coisa: 'I'll go only if you go'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "if only"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Wish + would",
+    "categoria": "Desejos",
+    "nivel": "B2",
+    "formula": "wish + alguém + would + verbo base",
+    "explicacao": "Usado para reclamar ou pedir que OUTRA pessoa (ou coisa) mude de comportamento: 'eu queria que você parasse...'.",
+    "exemplos": [
+      "I wish you would stop.",
+      "I wish it would stop raining."
+    ],
+    "pegadinhas": "Não se usa 'I wish I would': para você mesmo, use wish + past ('I wish I knew') ou wish + could.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "wish"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "would/'d"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "wish I'd",
+        "wish I would",
+        "wished I'd",
+        "wished I would",
+        "wishes I'd",
+        "would have",
+        "would've",
+        "wouldn't have",
+        "you'd have",
+        "he'd have",
+        "she'd have",
+        "they'd have",
+        "we'd have"
+      ]
+    }
+  },
+  {
+    "nome": "Wish + could",
+    "categoria": "Desejos",
+    "nivel": "B1",
+    "formula": "wish + alguém + could + verbo base",
+    "explicacao": "Desejo sobre algo que a pessoa não consegue (ou não pode) fazer agora: 'quem me dera eu pudesse...'.",
+    "exemplos": [
+      "I wish I could stay.",
+      "I wish you could see this."
+    ],
+    "pegadinhas": "'I wish I could have gone' fala do passado: 'queria ter podido ir'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "wish"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "could"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "could have",
+        "could've"
+      ]
+    }
+  },
+  {
+    "nome": "It's time + past",
+    "categoria": "Desejos",
+    "nivel": "B2",
+    "formula": "It's (high/about) time + alguém + past simple",
+    "explicacao": "'Já está na hora de alguém fazer algo' (e já devia ter feito): o verbo vai no passado, mas o sentido é presente.",
+    "exemplos": [
+      "It's time we left.",
+      "It's about time you got a job."
+    ],
+    "pegadinhas": "'It's time to go' (com to) também existe e é mais neutro; com passado soa como crítica ou urgência.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "'s/is/about/high/was"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "time"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_passado"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Would rather",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "would rather ('d rather) + verbo base / + alguém + past",
+    "explicacao": "Preferência: 'eu preferiria'. Com verbo: 'I'd rather stay'. Para dizer o que você prefere que OUTRA pessoa faça, o verbo vai no passado: 'I'd rather you didn't'.",
+    "exemplos": [
+      "I'd rather stay home tonight.",
+      "I'd rather you didn't tell her."
+    ],
+    "pegadinhas": "Comparação usa than: 'I'd rather die than go'. Negativo: 'I'd rather not' (sem don't).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "'d/would"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "rather"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Although / even though",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "although / (even) though + oração",
+    "explicacao": "Although, though e even though = 'embora' / 'apesar de que': ligam duas ideias que contrastam. Even though é o mais enfático.",
+    "exemplos": [
+      "Although it was raining, we went out.",
+      "Even though I was tired, I finished it."
+    ],
+    "pegadinhas": "'Though' no fim da frase é advérbio ('It's good, though' = 'mas é bom'). E depois de although vem oração, não substantivo (para isso, despite).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "even",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "although/though"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Despite / in spite of",
+    "categoria": "Conectores",
+    "nivel": "B2",
+    "formula": "despite / in spite of + substantivo / -ing / the fact that",
+    "explicacao": "Despite e in spite of = 'apesar de': mostram contraste, mas vêm seguidos de substantivo ou -ing, não de uma oração completa.",
+    "exemplos": [
+      "Despite the rain, we went out.",
+      "In spite of being tired, she kept working."
+    ],
+    "pegadinhas": "Nunca 'despite of'. Para usar com oração: 'despite the fact that...'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "in",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "despite/spite"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "of",
+          "opcional": true
+        }
+      ],
+      "excluir": [
+        "out of spite",
+        "for spite",
+        "to spite",
+        "not spite",
+        "spite her"
+      ]
+    }
+  },
+  {
+    "nome": "So that",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "so that + alguém + can/could/will/would",
+    "explicacao": "So that = 'para que': mostra a finalidade, o objetivo de uma ação. Normalmente vem com can/could/will/would.",
+    "exemplos": [
+      "I'll write it down so that I don't forget.",
+      "Speak louder so that everyone can hear."
+    ],
+    "pegadinhas": "'So that's why...' é 'então é por isso', não finalidade. Na fala muita gente tira o that: 'so I can'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "so that"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "modal"
+        }
+      ],
+      "excluir": [
+        "so that way"
+      ]
+    }
+  },
+  {
+    "nome": "As soon as",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "as soon as + oração (presente para futuro)",
+    "explicacao": "As soon as = 'assim que' / 'logo que': uma coisa acontece imediatamente depois da outra.",
+    "exemplos": [
+      "Call me as soon as you land.",
+      "As soon as I got home, I went to bed."
+    ],
+    "pegadinhas": "Falando do futuro, depois de as soon as vem presente: 'as soon as I get home' (nunca 'as soon as I will get').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "as soon as"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Until / till",
+    "categoria": "Conectores",
+    "nivel": "A2",
+    "formula": "until / till + oração",
+    "explicacao": "Until e till = 'até que' / 'até': a ação continua até aquele momento. Till é mais informal.",
+    "exemplos": [
+      "Wait here until I come back.",
+      "Don't love it till you try it."
+    ],
+    "pegadinhas": "Futuro com until usa presente: 'until he comes back'. 'Wait till you see this' = 'espera só até você ver'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "until/till/'til/til"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "By the time",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "by the time + oração",
+    "explicacao": "By the time = 'quando' / 'até o momento em que': algo já terá (ou já tinha) acontecido antes daquele momento. Combina com past perfect e future perfect.",
+    "exemplos": [
+      "By the time I got there, they had left.",
+      "By the time you get home, I'll be asleep."
+    ],
+    "pegadinhas": "No futuro, depois de by the time vem presente ('by the time you get home').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "by the time"
+        },
+        {
+          "tipo": "pessoa"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "While (simultaneity)",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "while + alguém + be + verbo-ing",
+    "explicacao": "While = 'enquanto': duas ações acontecendo ao mesmo tempo. Muito comum com o passado contínuo ('while I was cooking').",
+    "exemplos": [
+      "While I was cooking, the phone rang.",
+      "Don't text while you're driving."
+    ],
+    "pegadinhas": "While também pode significar 'embora / enquanto que' (contraste): 'While I like him, I don't trust him'. E 'a while' = 'um tempo'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "while"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Whereas",
+    "categoria": "Conectores",
+    "nivel": "B2",
+    "formula": "oração, whereas + oração",
+    "explicacao": "Whereas = 'enquanto (que)' / 'ao passo que': compara duas coisas mostrando a diferença entre elas. É meio formal.",
+    "exemplos": [
+      "I like coffee, whereas my sister prefers tea.",
+      "A Hobbit is mortal, whereas an Elf is immortal."
+    ],
+    "pegadinhas": "Não confundir com 'whereby' (= pelo qual).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "whereas"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Otherwise",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "..., otherwise + alguém + will/would/might...",
+    "explicacao": "Otherwise = 'senão' / 'caso contrário': mostra o que acontece (ou aconteceria) se a primeira coisa não for feita ou não fosse verdade.",
+    "exemplos": [
+      "Hurry up, otherwise we'll miss the bus.",
+      "I'm busy, otherwise I'd come."
+    ],
+    "pegadinhas": "Otherwise também significa 'de outra forma' ('I think otherwise' = 'eu penso diferente').",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "otherwise"
+        },
+        {
+          "tipo": "palavra",
+          "texto": ",",
+          "opcional": true
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "modal"
+        }
+      ],
+      "excluir": [
+        "or otherwise"
+      ]
+    }
+  },
+  {
+    "nome": "In order to",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "in order to + verbo base",
+    "explicacao": "In order to = 'para' / 'a fim de': mostra o objetivo. É uma versão mais formal e enfática do simples 'to'.",
+    "exemplos": [
+      "She left early in order to catch the train.",
+      "In order to win, we need to practice."
+    ],
+    "pegadinhas": "Negativo: 'in order not to'. Nunca 'for to' ou 'for + verbo' para finalidade.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "in order to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "However",
+    "categoria": "Conectores",
+    "nivel": "B1",
+    "formula": "However, + oração  /  ..., however, ...",
+    "explicacao": "However = 'porém' / 'no entanto': mostra contraste com o que foi dito antes. Costuma vir no começo da frase com vírgula, ou no meio entre vírgulas.",
+    "exemplos": [
+      "However, I've done it before.",
+      "I, however, am not boyfriend material."
+    ],
+    "pegadinhas": "'However much it costs' / 'however you like' = 'não importa quanto / como' (outro sentido, sem vírgula).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "however"
+        },
+        {
+          "tipo": "palavra",
+          "texto": ","
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "As if / as though",
+    "categoria": "Conectores",
+    "nivel": "B2",
+    "formula": "as if / as though + oração",
+    "explicacao": "As if e as though = 'como se': comparam com uma situação imaginada. Para algo irreal, o verbo vai para o passado ('as if he were').",
+    "exemplos": [
+      "He talks as if he knew everything.",
+      "Don't talk about me as if I'm not here."
+    ],
+    "pegadinhas": "'As if!' sozinho é gíria para 'até parece!'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "as if/as though"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Can / could (ability)",
+    "categoria": "Modais",
+    "nivel": "A1",
+    "formula": "alguém + can / could / can't + verbo (see, hear, swim, speak, remember…)",
+    "explicacao": "Can fala do que alguém consegue ou sabe fazer agora; could é o mesmo no passado (\"conseguia\", \"sabia\"). A negativa é can't / couldn't.",
+    "exemplos": [
+      "I can swim, but I can't dance.",
+      "I couldn't sleep last night."
+    ],
+    "pegadinhas": "Can também serve para pedir ou dar permissão (\"You can stay\") e could para sugerir (\"We could go out\"). Esta busca se limita a verbos de capacidade (ver, ouvir, nadar, lembrar…) para mostrar o sentido de habilidade.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "i/he/she/they/you"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "can/could/ca"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "forma",
+          "texto": "see/hear/smell/speak/read/write/swim/dance/sing/cook/drive/play/understand/remember/find/sleep/breathe/handle/lift/climb/draw/paint/type/ski/skate/fly/walk/move/feel"
+        }
+      ],
+      "excluir": [
+        "you can see",
+        "you could see",
+        "you can find",
+        "can feel free",
+        "you can play",
+        "you could play"
+      ]
+    }
+  },
+  {
+    "nome": "Be able to",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "be (am/is/are/was/will be/been) + able to + verbo na forma básica",
+    "explicacao": "Outra forma de dizer que alguém consegue fazer algo. É usada onde can não cabe: no futuro (will be able to), depois de outro verbo (I'd love to be able to) e no present perfect (I haven't been able to).",
+    "exemplos": [
+      "I won't be able to come tomorrow.",
+      "She was able to fix the car."
+    ],
+    "pegadinhas": "No passado, was able to costuma indicar que a pessoa conseguiu numa ocasião específica; could é mais para habilidade geral.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "able to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Have to (obligation)",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "have / has / had to + verbo na forma básica",
+    "explicacao": "Diz que algo é obrigatório ou necessário (\"ter que\"). Em geral a obrigação vem de fora: regras, situação, outra pessoa. Had to é o passado.",
+    "exemplos": [
+      "I have to go now.",
+      "She had to work on Saturday."
+    ],
+    "pegadinhas": "Pronuncia-se \"hafta\" / \"hasta\". Na negativa muda de sentido: don't have to = não precisa (não é proibido).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "have"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Must",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "must + verbo na forma básica",
+    "explicacao": "Must tem dois usos: obrigação forte (\"You must turn it off\" = você tem que) e dedução sobre o presente, quando temos quase certeza (\"You must be tired\" = você deve estar cansado).",
+    "exemplos": [
+      "You must wear a seatbelt.",
+      "You must be Leonard's mother."
+    ],
+    "pegadinhas": "\"Must have + particípio\" fala do passado e tem estrutura própria. Na fala do dia a dia, a obrigação costuma vir com have to; must aparece mais na dedução (must be).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "must"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "must have",
+        "must've",
+        "must of"
+      ]
+    }
+  },
+  {
+    "nome": "Don't have to",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "don't / doesn't / didn't have to + verbo na forma básica",
+    "explicacao": "Diz que algo não é necessário: você pode fazer, mas não precisa (\"não precisa\").",
+    "exemplos": [
+      "You don't have to pay, it's free.",
+      "She didn't have to wait."
+    ],
+    "pegadinhas": "Não confunda com mustn't, que significa \"é proibido\". \"You don't have to go\" = não precisa ir; \"You mustn't go\" = você não pode ir. Mustn't quase não aparece nas séries americanas.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "do"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "have to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Should (advice)",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "alguém + should / shouldn't + verbo na forma básica",
+    "explicacao": "Usado para dar conselho ou opinião sobre o que é certo fazer (\"deveria\").",
+    "exemplos": [
+      "You should talk to her.",
+      "We shouldn't be here."
+    ],
+    "pegadinhas": "Should também expressa expectativa (\"It should be ready by Friday\" = deve ficar pronto). Should have + particípio fala de arrependimento no passado e tem estrutura própria.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "i/you/we/he/she/they/guys"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "should"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "should have",
+        "should've",
+        "should of",
+        "shouldn't have",
+        "should not have",
+        "shouldn't've"
+      ]
+    }
+  },
+  {
+    "nome": "Ought to",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "alguém + ought to + verbo na forma básica",
+    "explicacao": "Mesmo sentido de should: conselho ou o que é certo fazer (\"deveria\"). Soa um pouco mais formal ou enfático.",
+    "exemplos": [
+      "You ought to see a doctor.",
+      "We ought to celebrate."
+    ],
+    "pegadinhas": "A negativa é ought not to (rara). \"I ought to punch him\" é uma ameaça meio brincalhona: \"eu deveria era dar um soco nele\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "i/you/we/he/she/they/guys"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "ought"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Had better",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "had better ('d better) + verbo na forma básica",
+    "explicacao": "Conselho forte ou aviso: é melhor fazer isso, senão algo ruim acontece. Na fala quase sempre aparece contraído: you'd better, I'd better.",
+    "exemplos": [
+      "You'd better hurry.",
+      "I'd better go now."
+    ],
+    "pegadinhas": "Apesar do had, fala do presente/futuro, não do passado. A negativa é had better not (You'd better not tell her).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "had/'d"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "better"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Be supposed to",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "be (am/is/are/was/were) + supposed to + verbo na forma básica",
+    "explicacao": "Fala do que é esperado, combinado ou previsto (\"era pra\", \"é pra\", \"deveria\"). No passado (was supposed to) indica algo que era para acontecer e muitas vezes não aconteceu.",
+    "exemplos": [
+      "You're supposed to be at work.",
+      "It was supposed to be a surprise."
+    ],
+    "pegadinhas": "Sempre com o verbo be antes: \"I'm supposed to\", não \"I supposed to\". Na pronúncia o d some (\"supposta\").",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "supposed to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Might / may (possibility)",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "alguém + might / may (not) + verbo na forma básica",
+    "explicacao": "Indica que algo é possível, mas não certo (\"pode ser que\", \"talvez\"). Might é um pouco menos certo que may.",
+    "exemplos": [
+      "It might rain later.",
+      "I may be late tonight."
+    ],
+    "pegadinhas": "May também pede ou dá permissão (\"May I come in?\", \"You may go\"); esses casos foram tirados. Might/may have + particípio fala do passado. \"You might want to…\" é um jeito educado de sugerir.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "might/may"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "may have",
+        "might have",
+        "might've",
+        "may've",
+        "might of",
+        "may i",
+        "you may not",
+        "you may go",
+        "you may now",
+        "you may be seated",
+        "you may kiss",
+        "you may proceed",
+        "you may begin",
+        "you may leave",
+        "you may enter",
+        "you may continue",
+        "might not have",
+        "may not have",
+        "might as well",
+        "may as well"
+      ]
+    }
+  },
+  {
+    "nome": "Would like to",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "would like ('d like) to + verbo na forma básica",
+    "explicacao": "Forma educada de dizer o que você quer fazer (\"eu gostaria de\"). Muito comum em pedidos, apresentações e discursos.",
+    "exemplos": [
+      "I'd like to order a pizza.",
+      "I would like to thank my friends."
+    ],
+    "pegadinhas": "Não confunda com \"I like to\" (eu gosto de, em geral). \"I'd like to\" é um desejo agora.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "would/'d"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "like to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Would you like…?",
+    "categoria": "Modais",
+    "nivel": "A1",
+    "formula": "Would you like + coisa? / Would you like to + verbo?",
+    "explicacao": "Jeito educado de oferecer algo ou convidar alguém (\"você gostaria de…?\", \"aceita…?\").",
+    "exemplos": [
+      "Would you like some coffee?",
+      "Would you like to come in?"
+    ],
+    "pegadinhas": "Para oferecer use would you like, não do you like (\"você gosta de…?\"). \"Would you like me to…?\" = quer que eu…?",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "would you like"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Need to",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "need / needs / needed to + verbo na forma básica",
+    "explicacao": "Diz que algo é necessário (\"preciso\", \"precisa\"). Na negativa (don't need to) significa que não é necessário.",
+    "exemplos": [
+      "I need to talk to you.",
+      "You don't need to worry."
+    ],
+    "pegadinhas": "Needn't (= não precisa) é formal e quase não aparece nas séries (10 frases no banco). Need sem to é substantivo (\"a need to…\" = uma necessidade).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "need"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Should have + past participle",
+    "categoria": "Modais",
+    "nivel": "B2",
+    "formula": "should have (should've) + particípio",
+    "explicacao": "Fala de algo que era o certo a fazer no passado, mas não foi feito: arrependimento ou crítica (\"eu devia ter…\"). Shouldn't have = não devia ter feito (mas fez).",
+    "exemplos": [
+      "I should have told you.",
+      "You shouldn't have said that."
+    ],
+    "pegadinhas": "Na fala, should have vira should've (\"shoulda\"). Não escreva \"should of\": é erro comum de quem só ouviu.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "should"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "have/'ve/of"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Could have + past participle",
+    "categoria": "Modais",
+    "nivel": "B2",
+    "formula": "could have (could've) + particípio",
+    "explicacao": "Fala de uma possibilidade no passado que não aconteceu (\"podia ter…\", \"poderia ter…\"). Também serve para reclamar: \"You could have called!\" (você podia ter ligado!).",
+    "exemplos": [
+      "You could have died!",
+      "I could've helped you."
+    ],
+    "pegadinhas": "Couldn't have + particípio pode significar \"não teria conseguido\" (I couldn't have done it without you) ou \"é impossível que\" (veja Can't have).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "could"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "have/'ve/of"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Must have + past participle",
+    "categoria": "Modais",
+    "nivel": "B2",
+    "formula": "must have (must've) + particípio",
+    "explicacao": "Dedução sobre o passado: você tem quase certeza de que algo aconteceu, por causa das pistas (\"deve ter…\").",
+    "exemplos": [
+      "She must have forgotten.",
+      "That must've hurt."
+    ],
+    "pegadinhas": "Não indica obrigação no passado: para isso use had to. \"I must have left it in the car\" = devo ter deixado no carro.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "must"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "have/'ve/of"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Can't have / couldn't have + past participle",
+    "categoria": "Modais",
+    "nivel": "C1",
+    "formula": "can't / couldn't have + particípio",
+    "explicacao": "Dedução negativa sobre o passado: você tem certeza de que algo não aconteceu ou não foi assim (\"não pode ter…\", \"impossível que tenha…\"). É o contrário de must have.",
+    "exemplos": [
+      "He can't have gone far.",
+      "That couldn't have been easy."
+    ],
+    "pegadinhas": "Couldn't have também aparece em reclamações (\"You couldn't have called?\") e em \"I couldn't have done it without you\"; as perguntas e essas expressões foram tiradas da busca.",
+    "padrao": "[w=ca|can|could] [w=n't|not] [w=have|'ve|of] [t=VBN]",
+    "excluir": "\\?|\\b(without|more|better|worse|any|otherwise|differently|earlier|sooner|faster|happier|prouder|nicer|if|unless|imagined|asked|agreed|said|done|stopped|helped)\\b"
+  },
+  {
+    "nome": "Can I / May I / Could I (permission)",
+    "categoria": "Modais",
+    "nivel": "A1",
+    "formula": "Can / May / Could + I / we + verbo …?",
+    "explicacao": "Para pedir permissão (\"posso…?\", \"podemos…?\"). May I e could I são mais educados que can I.",
+    "exemplos": [
+      "Can I borrow your pen?",
+      "May I come in?"
+    ],
+    "pegadinhas": "\"Can I help you?\" e \"Can I get you anything?\" são ofertas, não pedidos de permissão; essas e as perguntas com what/how foram tiradas da busca.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "can/may/could"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "i/we"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        },
+        {
+          "tipo": "palavras_meio"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "?"
+        }
+      ],
+      "excluir": [
+        "what can",
+        "how can",
+        "what could",
+        "how could",
+        "how may",
+        "where can",
+        "where could",
+        "who can",
+        "why can",
+        "why could",
+        "when can",
+        "can i help",
+        "may i help",
+        "could i help",
+        "can i get you",
+        "can we get you",
+        "can i do",
+        "could i have been",
+        "could i have possibly",
+        "may i take your",
+        "can i offer",
+        "can i say",
+        "can we talk",
+        "can we do",
+        "can we go",
+        "can i tell",
+        "can we just",
+        "can i want"
+      ]
+    }
+  },
+  {
+    "nome": "Can you / Could you…? (requests)",
+    "categoria": "Modais",
+    "nivel": "A2",
+    "formula": "Can / Could / Will / Would + you + verbo …?",
+    "explicacao": "Para pedir que alguém faça algo (\"você pode…?\", \"você poderia…?\"). Could you e would you são mais educados; com please fica ainda mais gentil.",
+    "exemplos": [
+      "Could you help me?",
+      "Can you give me a ride?"
+    ],
+    "pegadinhas": "\"Can you swim?\" pergunta sobre habilidade, não é pedido. \"Would you stop…?\" com tom irritado é uma ordem disfarçada.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "could/would/can/will"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "you"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        },
+        {
+          "tipo": "palavras_meio"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "?"
+        }
+      ],
+      "excluir": [
+        "how",
+        "what",
+        "when",
+        "where",
+        "why",
+        "who",
+        "which",
+        "would you like",
+        "would you be",
+        "would you rather",
+        "can you believe",
+        "would you say",
+        "would you have",
+        "could you have",
+        "can you imagine",
+        "would you do",
+        "would you want",
+        "can you see",
+        "can you hear",
+        "will you be",
+        "would you think",
+        "would you know",
+        "would you mind",
+        "would you take",
+        "would you tell",
+        "would you go",
+        "can you blame",
+        "can you not",
+        "could you not",
+        "can you do",
+        "could you be",
+        "would you ever",
+        "could you ever",
+        "can you ever",
+        "can you feel",
+        "can you smell",
+        "can you tell",
+        "can you read",
+        "can you remember",
+        "would you really",
+        "would you even",
+        "would you care",
+        "would you marry",
+        "will you marry",
+        "would you agree",
+        "would you consider",
+        "would you call",
+        "would you trust",
+        "would you give",
+        "can you make it",
+        "or",
+        "if"
+      ]
+    }
+  },
+  {
+    "nome": "Be allowed to",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "be (am/is/are/was…) + allowed to + verbo na forma básica",
+    "explicacao": "Fala de permissão (\"poder\", \"ter permissão para\"). Na negativa (not allowed to) indica proibição.",
+    "exemplos": [
+      "You're not allowed to smoke here.",
+      "I wasn't allowed to go out."
+    ],
+    "pegadinhas": "É o jeito mais natural de dizer \"é proibido\" na fala: you're not allowed to, em vez de mustn't.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "allowed to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Gotta (have got to)",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "gotta (= have got to) + verbo na forma básica",
+    "explicacao": "Forma informal e muito falada de have to: obrigação ou necessidade (\"tenho que\"). \"I gotta go\" = I have to go.",
+    "exemplos": [
+      "I gotta go.",
+      "You gotta try this."
+    ],
+    "pegadinhas": "Gotta é só para a fala ou mensagens informais; na escrita formal use have to / have got to.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "gotta"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Shall I / Shall we",
+    "categoria": "Modais",
+    "nivel": "B1",
+    "formula": "Shall + I / we + verbo na forma básica…?",
+    "explicacao": "Para oferecer ajuda (\"Shall I…?\" = quer que eu…?) ou sugerir algo (\"Shall we…?\" = vamos…?). Soa educado e um pouco formal.",
+    "exemplos": [
+      "Shall I open the window?",
+      "Shall we go?"
+    ],
+    "pegadinhas": "Fora dessas perguntas, shall quase não é usado no inglês americano.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "shall"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "i/we"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Question tags",
+    "categoria": "Perguntas",
+    "nivel": "B1",
+    "formula": "frase , + auxiliar (+ n't) + pronome + ?",
+    "explicacao": "A pergunta curtinha no fim da frase (\"né?\") para confirmar algo. Se a frase é afirmativa, a tag é negativa, e vice-versa; o auxiliar é o mesmo da frase.",
+    "exemplos": [
+      "You're coming, aren't you?",
+      "She didn't call, did she?"
+    ],
+    "pegadinhas": "Frase com \"I am\" usa \"aren't I?\". Com \"Let's\" a tag é \"shall we?\". Tags do tipo \"..., right?\" ou \"..., huh?\" não entram nesta regra.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": ","
+        },
+        {
+          "tipo": "palavra",
+          "texto": "is/are/am/was/were/do/does/did/have/has/had/can/could/will/would/should/wo/ca/must/might/shall"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "not/n't",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "i/you/he/she/it/we/they/there"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "?"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Indirect questions",
+    "categoria": "Perguntas",
+    "nivel": "B1",
+    "formula": "Do you know / Can you tell me / Do you remember + where/what/if… + sujeito + verbo",
+    "explicacao": "Pergunta \"embrulhada\" em outra, mais educada. Depois do where/what/if a ordem volta a ser de frase normal (sujeito + verbo), sem do/does/did.",
+    "exemplos": [
+      "Do you know where he lives?",
+      "Can you tell me what time it is?"
+    ],
+    "pegadinhas": "Não é \"Do you know where does he live?\": na pergunta indireta não se inverte nem se usa do/does/did.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "do/did/can/could/would"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "you"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "know/tell/remember"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "me/us",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "where/what/if/who/how/why/when/whether/which"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": [
+        "how do you know"
+      ]
+    }
+  },
+  {
+    "nome": "I wonder if / I was wondering if",
+    "categoria": "Perguntas",
+    "nivel": "B1",
+    "formula": "wonder + if/what/where/why… + sujeito + verbo",
+    "explicacao": "\"Fico me perguntando se…\". Muito usado também para pedir algo com educação: \"I was wondering if you could…\". A ordem depois do if/what é de frase normal.",
+    "exemplos": [
+      "I wonder what he wants.",
+      "I was wondering if you wanted to see a movie."
+    ],
+    "pegadinhas": "Não leva ponto de interrogação nem inversão: \"I wonder where she is\", não \"where is she\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "wonder"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "if/whether/what/where/why/when/how/who"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Subject questions",
+    "categoria": "Perguntas",
+    "nivel": "A2",
+    "formula": "Who/What + verbo (sem do/did) … ?",
+    "explicacao": "Quando who/what é o sujeito (quem fez a ação), a pergunta não usa do/does/did: o verbo vem direto, no passado ou com -s.",
+    "exemplos": [
+      "Who called you?",
+      "What happened to your car?"
+    ],
+    "pegadinhas": "Compare: \"Who called you?\" (quem ligou = sujeito) e \"Who did you call?\" (para quem você ligou = objeto). Errado: \"Who did call you?\".",
+    "padrao": "[w=(?:(?<=^\\s)|(?<=/,\\s)|(?<=/\\.\\s)|(?<=/:\\s)|(?<=/UH\\s)|(?<=/``\\s)|(?<=/CC\\s))(?:who|what) t=WP] [l=(?!(?:be|do|have)/)\\w+ t=VBD|VBZ] ... [w=\\?]"
+  },
+  {
+    "nome": "Wh- questions in the past (did)",
+    "categoria": "Perguntas",
+    "nivel": "A1",
+    "formula": "What/Where/Why/How… + did (n't) + sujeito + verbo na forma básica",
+    "explicacao": "Pergunta no passado com palavra interrogativa: o did já mostra o passado, então o verbo principal fica na forma básica.",
+    "exemplos": [
+      "What did you say?",
+      "Where did you get that?"
+    ],
+    "pegadinhas": "Depois de did o verbo não vai para o passado: \"Where did you go?\", não \"Where did you went?\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "what/where/when/why/how/who/which"
+        },
+        {
+          "tipo": "substantivo",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "did"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't",
+          "opcional": true
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Reported questions",
+    "categoria": "Discurso indireto",
+    "nivel": "B1",
+    "formula": "asked (+ alguém) + if/whether/what/where… + sujeito + verbo",
+    "explicacao": "Contar a pergunta que alguém fez. Usa-se if/whether (perguntas de sim/não) ou a palavra interrogativa, e a ordem vira de frase normal, sem do/did.",
+    "exemplos": [
+      "He asked me if I wanted to go.",
+      "She asked where you were."
+    ],
+    "pegadinhas": "Nada de inversão: \"She asked where I was\", não \"where was I\". O tempo verbal costuma recuar (want → wanted).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "asked"
+        },
+        {
+          "tipo": "pessoa",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "if/whether/what/where/why/when/how/who"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Reported orders and requests",
+    "categoria": "Discurso indireto",
+    "nivel": "B1",
+    "formula": "told/asked/begged/warned + alguém + (not) to + verbo",
+    "explicacao": "Contar uma ordem, pedido ou conselho que alguém deu: told me to… (mandou), asked me to… (pediu), warned me not to… (avisou para não).",
+    "exemplos": [
+      "She told me to wait.",
+      "He asked me not to tell you."
+    ],
+    "pegadinhas": "A negação vai antes do to: \"told me not to go\", não \"told me to not go\" (que aparece na fala, mas é informal) nem \"didn't tell me to go\" (outro sentido).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "told/asked/ordered/begged/warned/reminded"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "not",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Relative clauses with who",
+    "categoria": "Orações relativas",
+    "nivel": "A2",
+    "formula": "substantivo + who + verbo",
+    "explicacao": "who liga uma informação sobre uma pessoa ao substantivo: \"o cara que…\". Funciona como o \"que\" do português, mas só para pessoas.",
+    "exemplos": [
+      "I know a guy who fixes computers.",
+      "She's the one who called."
+    ],
+    "pegadinhas": "Para coisas usa-se which/that, não who. Depois de \"someone/anyone who\" o verbo fica no singular: \"anyone who knows\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "substantivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "who"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": [
+        "idea who",
+        "matter who"
+      ]
+    }
+  },
+  {
+    "nome": "Relative clauses with which/that",
+    "categoria": "Orações relativas",
+    "nivel": "B1",
+    "formula": "substantivo + that/which + (sujeito) + verbo",
+    "explicacao": "that/which ligam uma informação que define de qual coisa estamos falando: \"o livro que…\". that é o mais comum na fala; serve para coisas e também pessoas.",
+    "exemplos": [
+      "It's the best thing that ever happened to me.",
+      "I need a dress that makes me look taller."
+    ],
+    "pegadinhas": "Quando a coisa é o objeto, dá para tirar o that: \"the movie (that) we saw\". Com vírgula antes (\", which…\") a informação é extra, e aí não se usa that.",
+    "padrao": "[t=NN|NNS] [w=that|which t=WDT] [t=PRP|NNP|NN|NNS|DT]{0,2} [t=RB|MD]* [t=VB|VBD|VBG|VBN|VBP|VBZ]"
+  },
+  {
+    "nome": "Relative clauses with whose",
+    "categoria": "Orações relativas",
+    "nivel": "B1",
+    "formula": "substantivo + whose + substantivo",
+    "explicacao": "whose = \"cujo/cuja\", mostra de quem é algo: \"o cara cujo colega de quarto…\". Vem sempre seguido de um substantivo.",
+    "exemplos": [
+      "I met a girl whose dad is a pilot.",
+      "He's the man whose car was stolen."
+    ],
+    "pegadinhas": "Não confundir com who's (= who is): \"the guy who's here\" × \"the guy whose car is here\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "substantivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": ",",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "whose"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "substantivo"
+        }
+      ],
+      "excluir": [
+        "idea whose",
+        "business whose"
+      ]
+    }
+  },
+  {
+    "nome": "Relative clauses with where",
+    "categoria": "Orações relativas",
+    "nivel": "B1",
+    "formula": "substantivo (lugar) + where + sujeito + verbo",
+    "explicacao": "where liga uma informação sobre um lugar: \"o lugar onde…\". Na fala também aparece com situações (\"the part where you…\", \"a world where…\").",
+    "exemplos": [
+      "This is the restaurant where we met.",
+      "That's the part where you say sorry."
+    ],
+    "pegadinhas": "Depois de where vem sujeito + verbo completos. Se a preposição fica no fim, usa which/that: \"the house (that) I live in\" = \"the house where I live\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "substantivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "where"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": [
+        "idea where",
+        "clue where"
+      ]
+    }
+  },
+  {
+    "nome": "So do I / Neither do I",
+    "categoria": "Expressões",
+    "nivel": "B1",
+    "formula": "So/Neither + auxiliar + sujeito",
+    "explicacao": "Para dizer \"eu também\" (So do I, So am I) ou \"eu também não\" (Neither do I, Neither can I). O auxiliar acompanha o da frase anterior.",
+    "exemplos": [
+      "A: I love pizza. B: So do I.",
+      "She can't swim, and neither can I."
+    ],
+    "pegadinhas": "Depois de neither o verbo fica afirmativo: \"Neither do I\", não \"Neither don't I\". \"So do I\" sozinho tem só 3 palavras e some com o mínimo padrão de 4 palavras da busca.",
+    "padrao": "[w=so|neither|nor] [w=do|does|did|am|is|are|was|were|have|has|had|can|could|will|would|should] [w=i|we|you|he|she|they]? [w=i\\.|\\.|!|,|;]"
+  },
+  {
+    "nome": "Me too / Me neither",
+    "categoria": "Expressões",
+    "nivel": "A1",
+    "formula": "Me too. / Me neither.",
+    "explicacao": "Jeito curto e informal de \"eu também\" (me too) e \"eu também não\" (me neither / me either).",
+    "exemplos": [
+      "A: I'm tired. B: Me too.",
+      "A: I don't get it. B: Me neither."
+    ],
+    "pegadinhas": "Para concordar com frase negativa é \"me neither\", não \"me too\". A busca padrão (mínimo de 4 palavras) só mostra quando vem junto com algo (\"Oh yeah, me too.\").",
+    "padrao": "[w=(?:(?<=^\\s)|(?<=/,\\s)|(?<=/\\.\\s)|(?<=/:\\s)|(?<=/UH\\s)|(?<=/``\\s)|(?<=/CC\\s))me] [w=too|neither|either] [w=\\.|!|,|\\.\\.\\.]"
+  },
+  {
+    "nome": "Let's + verb",
+    "categoria": "Expressões",
+    "nivel": "A1",
+    "formula": "Let's (not) + verbo na forma básica",
+    "explicacao": "Para sugerir que façamos algo juntos: \"vamos…\". Negativo: \"Let's not…\" (\"não vamos…\").",
+    "exemplos": [
+      "Let's go!",
+      "Let's not fight about this."
+    ],
+    "pegadinhas": "Depois de let's não vai to: \"Let's go\", não \"Let's to go\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "let's"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "not",
+          "opcional": true
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "How about / What about + -ing",
+    "categoria": "Expressões",
+    "nivel": "A2",
+    "formula": "How about / What about + (not) + verbo-ing",
+    "explicacao": "Para dar uma sugestão: \"que tal…?\". O verbo depois de about vai para a forma -ing.",
+    "exemplos": [
+      "How about going to the movies?",
+      "What about trying again?"
+    ],
+    "pegadinhas": "Não é \"How about go\": depois de preposição (about) o verbo leva -ing. Também dá para usar com substantivo: \"How about a coffee?\" (fora desta regra).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "how/what"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "about"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "not",
+          "opcional": true
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Would you mind + -ing",
+    "categoria": "Expressões",
+    "nivel": "B1",
+    "formula": "Would/Do you mind + (not) + verbo-ing",
+    "explicacao": "Pedido bem educado: \"você se importaria de…?\". O verbo depois de mind vai para a forma -ing.",
+    "exemplos": [
+      "Would you mind closing the door?",
+      "Do you mind waiting outside?"
+    ],
+    "pegadinhas": "Para aceitar o pedido se responde \"No, not at all\" (= não me importo), e não \"Yes\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "would/do/'d"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "mind"
+        },
+        {
+          "tipo": "pessoa",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "not",
+          "opcional": true
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Why don't we / Why don't you (suggestion)",
+    "categoria": "Expressões",
+    "nivel": "A2",
+    "formula": "Why don't we/you + verbo na forma básica?",
+    "explicacao": "Jeito comum de sugerir algo: \"por que a gente não…?\" = \"vamos…\"; \"why don't you…?\" = \"que tal você…\".",
+    "exemplos": [
+      "Why don't we order pizza?",
+      "Why don't you call her?"
+    ],
+    "pegadinhas": "Pode ser pergunta de verdade (\"Why don't you like him?\"); a regra tira os verbos que quase sempre são pergunta real (want, like, know, understand…).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "why"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "do"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "we/you"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "why don't you want",
+        "why don't you like",
+        "why don't you know",
+        "why don't you understand",
+        "why don't you believe",
+        "why don't you trust",
+        "why don't you love",
+        "why don't you care",
+        "why don't you remember",
+        "why don't we have"
+      ]
+    }
+  },
+  {
+    "nome": "Do you want to / Wanna",
+    "categoria": "Expressões",
+    "nivel": "A1",
+    "formula": "(Do) you want to / wanna + verbo … ?",
+    "explicacao": "Para convidar ou oferecer: \"você quer…?\". Na fala, \"want to\" vira \"wanna\" e o \"do\" muitas vezes cai: \"You wanna go?\".",
+    "exemplos": [
+      "Do you want to come in?",
+      "You wanna grab a drink?"
+    ],
+    "pegadinhas": "\"Wanna\" é só fala informal; por escrito use \"want to\". Com he/she é \"Does he want to…?\" (fora desta regra).",
+    "padrao": "[w=(?:(?<=^\\s)|(?<=/,\\s)|(?<=/\\.\\s)|(?<=/:\\s)|(?<=/UH\\s)|(?<=/``\\s)|(?<=/CC\\s))(?:do|you)] [w=you]? [w=want|wanna] [w=to]? [t=VB] ... [w=\\?]"
+  },
+  {
+    "nome": "Emphatic do",
+    "categoria": "Expressões",
+    "nivel": "B2",
+    "formula": "sujeito + do/does/did + verbo na forma básica (frase afirmativa)",
+    "explicacao": "Em frase afirmativa, colocar do/does/did antes do verbo dá ênfase: \"eu AMO sim\", \"eu FALEI sim\". Na fala, o do/did é pronunciado com força.",
+    "exemplos": [
+      "I do love you.",
+      "I did tell you!"
+    ],
+    "pegadinhas": "Só é enfático em frase afirmativa; em pergunta ou negativa o do/did é obrigatório e não tem ênfase. Depois de did o verbo fica na forma básica.",
+    "padrao": "[t=PRP|NNP|NNPS|NN|NNS]+ [w=do|does|did] [w=(?!not/|never/)\\w+ t=RB]? [t=VB]"
+  },
+  {
+    "nome": "Exclamations with What a…!",
+    "categoria": "Expressões",
+    "nivel": "A2",
+    "formula": "What a/an + (adjetivo) + substantivo!",
+    "explicacao": "Para exclamar sobre algo: \"que dia lindo!\", \"que vergonha!\". Com substantivo contável no singular usa-se a/an.",
+    "exemplos": [
+      "What a beautiful day!",
+      "What a shame."
+    ],
+    "pegadinhas": "Com plural ou incontável não tem a/an: \"What nice people!\", \"What terrible weather!\" (fora desta regra).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "what"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "a/an"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "substantivo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "!/./,"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Exclamations with How + adjective!",
+    "categoria": "Expressões",
+    "nivel": "B1",
+    "formula": "How + adjetivo (+ of you / + sujeito + verbo)!",
+    "explicacao": "Outra forma de exclamar, com adjetivo: \"que fofo!\", \"que grosseria a minha!\". Muito comum: \"How nice of you!\", \"How rude of me!\".",
+    "exemplos": [
+      "How nice of you!",
+      "How rude of me."
+    ],
+    "pegadinhas": "How vai com adjetivo sozinho (How cute!); What a vai com substantivo (What a cute dog!). Como \"How cute!\" tem menos de 4 palavras, aparece pouco na busca padrão.",
+    "padrao": "[w=(?:(?<=^\\s)|(?<=/,\\s)|(?<=/\\.\\s)|(?<=/:\\s)|(?<=/UH\\s)|(?<=/``\\s))how] [t=RB]? [w=(?!many/|much/|um+/|uh+/)\\w+ t=JJ] [w=of]? [t=PRP|DT|NN|NNS|NNP]* [t=VBZ|VBD|VBP]? [w=!|\\.|,]"
+  },
+  {
+    "nome": "Give up",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "give up (+ algo / + -ing) = desistir; largar (um hábito)",
+    "explicacao": "Desistir de algo ou parar de fazer algo. Com objeto vira \"largar\": give up smoking = parar de fumar.",
+    "exemplos": [
+      "Don't give up now.",
+      "I gave up coffee last year."
+    ],
+    "pegadinhas": "\"Give it up for (alguém)!\" é pedir aplausos para a pessoa, não desistir. O objeto pronome fica no meio: give it up, não give up it.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "give"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Find out",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "find out (+ algo / + that / + wh-) = descobrir, ficar sabendo",
+    "explicacao": "Descobrir uma informação ou ficar sabendo de algo (uma notícia, um segredo).",
+    "exemplos": [
+      "I just found out she's engaged.",
+      "Let's find out what happened."
+    ],
+    "pegadinhas": "Não é \"achar\" um objeto perdido (isso é find): find out é descobrir uma informação.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "find"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Figure out",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "figure out (+ algo / + wh-) = entender, descobrir, resolver",
+    "explicacao": "Entender ou resolver algo pensando: descobrir como funciona, o que fazer, quem foi.",
+    "exemplos": [
+      "We'll figure it out.",
+      "I can't figure out how to fix this."
+    ],
+    "pegadinhas": "Com pronome, ele vai no meio: figure it out (nunca figure out it).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "figure"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Come up with",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "come up with + algo = inventar, ter (uma ideia, um plano)",
+    "explicacao": "Criar ou pensar em algo novo: uma ideia, um plano, um nome, uma desculpa.",
+    "exemplos": [
+      "I'll come up with something.",
+      "Who came up with that name?"
+    ],
+    "pegadinhas": "Às vezes é só \"come up\" (surgir) + with: \"some issues came up with Ted\" = surgiram problemas com o Ted.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "come"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "with"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Get along",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "get along (with alguém) = se dar bem",
+    "explicacao": "Ter uma boa relação com alguém, não brigar.",
+    "exemplos": [
+      "We get along really well.",
+      "She doesn't get along with her sister."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "along"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Break up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "break up (with alguém) = terminar (namoro)",
+    "explicacao": "Terminar um relacionamento. Também pode ser separar/interromper algo: break up a fight, break up the party.",
+    "exemplos": [
+      "We broke up last week.",
+      "I'm breaking up with him."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "break"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Hang out",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "hang out (with alguém) = passar tempo junto, sair, ficar à toa",
+    "explicacao": "Passar tempo com alguém sem compromisso, ficar de bobeira num lugar.",
+    "exemplos": [
+      "Do you want to hang out tonight?",
+      "We used to hang out at the coffee shop."
+    ],
+    "pegadinhas": "Em sentido literal pode ser \"estar pendurado/para fora\" (your shirt is hanging out).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "hang"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Freak out",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "freak out (alguém) = surtar, pirar; assustar alguém",
+    "explicacao": "Ficar muito nervoso, assustado ou agitado. Com objeto é deixar alguém assim: it freaks me out = isso me apavora.",
+    "exemplos": [
+      "Don't freak out!",
+      "Spiders freak me out."
+    ],
+    "pegadinhas": "\"Freaked out\" também funciona como adjetivo: I'm freaked out = estou apavorado.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "freak"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Turn out",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "turn out (to be / that) = acabar sendo, revelar-se; it turns out = acontece que",
+    "explicacao": "Mostrar como algo realmente era ou como terminou: it turns out that... = no fim, descobriu-se que...",
+    "exemplos": [
+      "It turns out he was right.",
+      "The cake turned out great."
+    ],
+    "pegadinhas": "\"Turn out the lights\" é apagar as luzes, outro sentido do mesmo phrasal.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "turn"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Show up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "show up = aparecer, chegar, dar as caras",
+    "explicacao": "Aparecer num lugar, principalmente quando alguém espera (ou não espera) você.",
+    "exemplos": [
+      "He didn't show up to the party.",
+      "Look who showed up!"
+    ],
+    "pegadinhas": "Às vezes \"show\" é substantivo seguido de up: \"a freak show up here\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "show"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Make up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "make up = inventar; fazer as pazes; make up for = compensar; make it up to = recompensar",
+    "explicacao": "Tem vários sentidos: inventar (uma história, uma desculpa), fazer as pazes depois de brigar, compensar algo (make up for) e ainda \"be made up of\" (ser formado por). Makeup, junto, é maquiagem.",
+    "exemplos": [
+      "You made that up!",
+      "I'll make it up to you."
+    ],
+    "pegadinhas": "\"Make up your mind\" = decida-se.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "make"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Pick up",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "pick up (alguém / algo) = buscar, pegar; atender (o telefone); aprender",
+    "explicacao": "Buscar alguém ou algo num lugar, pegar do chão, atender o telefone, aprender sem estudar (pick up a habit) ou paquerar (pick up a girl).",
+    "exemplos": [
+      "I'll pick you up at five.",
+      "He's not picking up."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "pick"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Put up with",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "put up with + alguém/algo = aguentar, tolerar",
+    "explicacao": "Tolerar uma pessoa ou situação chata sem reclamar (ou reclamando).",
+    "exemplos": [
+      "I don't know why I put up with you.",
+      "I don't have to put up with this."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "put"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "with"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Run out of",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "run out of + algo = ficar sem, acabar (o estoque)",
+    "explicacao": "Usar tudo e não ter mais: run out of time = ficar sem tempo; we ran out of milk = acabou o leite.",
+    "exemplos": [
+      "We're running out of time!",
+      "I ran out of money."
+    ],
+    "pegadinhas": "Também pode ser literal: \"run out of the room\" = sair correndo da sala.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "run"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "of"
+        }
+      ],
+      "excluir": [
+        "out of control",
+        "out of the room",
+        "out of the house",
+        "out of here",
+        "out of there"
+      ]
+    }
+  },
+  {
+    "nome": "Go out",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "go out = sair (para se divertir); go out with alguém = namorar, sair com",
+    "explicacao": "Sair de casa para se divertir. \"Go out with someone\" é sair num encontro ou namorar. Fogo ou luz que \"goes out\" se apaga.",
+    "exemplos": [
+      "Are we going out tonight?",
+      "She went out with him for two years."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "go"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Work out",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "work out = dar certo; resolver (work it out); malhar",
+    "explicacao": "Dar certo (things will work out), resolver um problema (we'll work it out) ou fazer exercício (I work out every day).",
+    "exemplos": [
+      "Everything's going to work out.",
+      "I work out at the gym."
+    ],
+    "pegadinhas": "\"Working out of (um lugar)\" é trabalhar a partir de lá, não phrasal.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "work"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Calm down",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "calm down (alguém) = acalmar-se; acalmar alguém",
+    "explicacao": "Ficar calmo depois de nervoso, ou fazer alguém ficar calmo.",
+    "exemplos": [
+      "Calm down, it's okay.",
+      "I tried to calm him down."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "calm"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "down"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Cheer up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "cheer up (alguém) = animar(-se), alegrar(-se)",
+    "explicacao": "Ficar mais feliz ou deixar alguém mais feliz quando está triste.",
+    "exemplos": [
+      "This will cheer you up.",
+      "Cheer up!"
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "cheer"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "End up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "end up + -ing / + lugar / + with = acabar (fazendo, em, com)",
+    "explicacao": "Chegar a um resultado sem ter planejado: we ended up staying = acabamos ficando.",
+    "exemplos": [
+      "We ended up staying all night.",
+      "You'll end up alone."
+    ],
+    "pegadinhas": "Depois de end up vem verbo com -ing (end up doing), não to + verbo.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "end"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Look after",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "look after + alguém/algo = cuidar de",
+    "explicacao": "Cuidar de uma pessoa, animal ou coisa.",
+    "exemplos": [
+      "Can you look after my cat?",
+      "We look after each other."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "look"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "after"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Take off",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "take off = tirar (roupa); decolar; ir embora; deslanchar",
+    "explicacao": "Tirar uma peça de roupa (take off your coat), decolar (avião), ir embora rápido (I gotta take off) ou fazer sucesso de repente.",
+    "exemplos": [
+      "Take off your shoes.",
+      "I gotta take off."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "take"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "off"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Get over",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "get over + alguém/algo = superar, esquecer; can't get over = não acreditar",
+    "explicacao": "Superar uma tristeza, um ex ou um problema. \"Get over it\" = supera isso. \"I can't get over how...\" = não consigo acreditar como...",
+    "exemplos": [
+      "He'll get over it.",
+      "I still can't get over her."
+    ],
+    "pegadinhas": "\"Get over here/there\" é só \"venha pra cá/vá pra lá\" (literal); essas frases foram tiradas.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "over"
+        }
+      ],
+      "excluir": [
+        "over here",
+        "over there"
+      ]
+    }
+  },
+  {
+    "nome": "Look for",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "look for + alguém/algo = procurar",
+    "explicacao": "Procurar alguém ou algo que você quer achar.",
+    "exemplos": [
+      "I'm looking for my keys.",
+      "Excuse me, I'm looking for Maria."
+    ],
+    "pegadinhas": "Não confunda com look forward to (esperar ansiosamente).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "look"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "for"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Look up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "look up (algo) = pesquisar; look up = olhar para cima; look up to = admirar",
+    "explicacao": "Procurar uma informação (num dicionário, na internet: look it up), olhar para cima, procurar alguém que você não vê faz tempo (look me up), ou admirar alguém (look up to).",
+    "exemplos": [
+      "Look it up online.",
+      "He always looked up to his brother."
+    ],
+    "pegadinhas": "Muitas frases são o literal \"olhar para cima\" (she looked up at me).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "look"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Set up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "set up = montar, organizar; set alguém up (with) = arranjar encontro; armar para alguém",
+    "explicacao": "Montar ou organizar algo (set up a meeting), arranjar um encontro entre duas pessoas (set me up with her) ou armar uma cilada (he was set up).",
+    "exemplos": [
+      "Can you set me up with her?",
+      "We set it up last week."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "set"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Put off",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "put off (algo / + -ing) = adiar; be put off by = desanimar com",
+    "explicacao": "Deixar para depois. \"Be put off by something\" é perder o interesse por causa de algo.",
+    "exemplos": [
+      "We can't put it off forever.",
+      "Stop putting off your homework."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "put"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "off"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Come back",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "come back (to/from) = voltar",
+    "explicacao": "Voltar para um lugar (ou para um assunto: come back to that).",
+    "exemplos": [
+      "Come back here!",
+      "He never came back."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "come"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "back"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Get back",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "get back = voltar; get back to alguém = dar retorno; get back together = reatar; get algo back = recuperar",
+    "explicacao": "Voltar (I'll call you when I get back), retomar algo (get back to work), dar uma resposta depois (I'll get back to you), reatar o namoro (get back together) ou recuperar algo (get it back).",
+    "exemplos": [
+      "I'll get back to you on that.",
+      "They got back together."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "back"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Hold on",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "hold on = espere (um momento); hold on to = segurar firme, não largar",
+    "explicacao": "\"Hold on\" sozinho é \"espera aí\". \"Hold on to something\" é segurar firme ou não abrir mão de algo.",
+    "exemplos": [
+      "Hold on a second.",
+      "Hold on to that feeling."
+    ],
+    "pegadinhas": "\"A hold on\" com \"a\" é substantivo (put a hold on = suspender).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "hold"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "on"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Wake up",
+    "categoria": "Phrasal verbs",
+    "nivel": "A1",
+    "formula": "wake up (alguém) = acordar; acordar alguém",
+    "explicacao": "Acordar, ou acordar outra pessoa (wake me up).",
+    "exemplos": [
+      "I woke up at seven.",
+      "Don't wake him up."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "wake"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Grow up",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "grow up = crescer (virar adulto); amadurecer",
+    "explicacao": "Crescer como pessoa (I grew up in Ohio = fui criado em Ohio) ou amadurecer (grow up! = cresça!).",
+    "exemplos": [
+      "I grew up in a small town.",
+      "What do you want to be when you grow up?"
+    ],
+    "pegadinhas": "\"Growing up, ...\" no começo da frase = \"quando eu era criança, ...\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "grow"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Mess up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "mess up (algo) = estragar, fazer besteira; messed up = zoado, errado",
+    "explicacao": "Estragar algo ou errar feio (I messed up = fiz besteira). \"Messed up\" também é adjetivo: that's so messed up = que absurdo / que errado.",
+    "exemplos": [
+      "I don't want to mess this up.",
+      "That's so messed up."
+    ],
+    "pegadinhas": "Parte das frases é o adjetivo \"messed up\", não o verbo.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "mess"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Catch up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "catch up (with/on) = alcançar; pôr o papo em dia; colocar em dia; be caught up in = estar envolvido em",
+    "explicacao": "Alcançar alguém que está na frente, conversar para pôr as novidades em dia (we should catch up), ou recuperar o atraso (catch up on homework).",
+    "exemplos": [
+      "We should catch up sometime.",
+      "I'll catch up with you later."
+    ],
+    "pegadinhas": "\"Get caught up in\" = ficar envolvido/absorvido em algo.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "catch"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Shut up",
+    "categoria": "Phrasal verbs",
+    "nivel": "A2",
+    "formula": "shut up = cale a boca; parar de falar",
+    "explicacao": "Ficar quieto. É grosseiro como ordem; \"shut up!\" entre amigos também pode ser \"não acredito!\".",
+    "exemplos": [
+      "Just shut up and listen.",
+      "He never shuts up about it."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "shut"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Move on",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "move on (to / from) = seguir em frente; passar para outra coisa",
+    "explicacao": "Superar algo e seguir a vida (he's moved on), ou passar para o próximo assunto (let's move on).",
+    "exemplos": [
+      "It's time to move on.",
+      "Let's move on to the next question."
+    ],
+    "pegadinhas": "Às vezes \"move\" é substantivo: \"get a move on\" (apressar-se), \"a lame move on Ted's part\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "move"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "on"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Check out",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "check out (algo/alguém) = dar uma olhada; secar/paquerar alguém; fazer check-out",
+    "explicacao": "Olhar algo com interesse (check it out = olha só), olhar alguém com interesse romântico (he's checking you out) ou sair do hotel.",
+    "exemplos": [
+      "Check it out!",
+      "That guy is totally checking you out."
+    ],
+    "pegadinhas": "\"Check\" também é cheque: \"make the check out to...\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "check"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Screw up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "screw up (algo) = estragar, pisar na bola (informal)",
+    "explicacao": "Errar feio ou estragar algo. É mais informal (e um pouco mais forte) que mess up.",
+    "exemplos": [
+      "I screwed up, okay?",
+      "Don't screw this up."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "screw"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Settle down",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "settle down = sossegar (casar, ter vida estável); acalmar-se",
+    "explicacao": "Ter uma vida estável, casar e criar raízes, ou se acalmar (settle down, everyone!).",
+    "exemplos": [
+      "I'm not ready to settle down.",
+      "Okay, settle down, everyone."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "settle"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "down"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Turn down",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "turn down (algo/alguém) = recusar; abaixar (o volume)",
+    "explicacao": "Recusar uma oferta, um convite ou uma pessoa (she turned me down), ou abaixar o volume/temperatura.",
+    "exemplos": [
+      "She turned me down.",
+      "Turn that down!"
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "turn"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "down"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Let down",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "let alguém down = decepcionar",
+    "explicacao": "Decepcionar alguém que confiava em você. \"Let down your hair\" é soltar o cabelo.",
+    "exemplos": [
+      "I won't let you down.",
+      "Sorry I let you down."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "let"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "down"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Blow up",
+    "categoria": "Phrasal verbs",
+    "nivel": "B1",
+    "formula": "blow up = explodir; blow up (at) = explodir de raiva; encher (balão)",
+    "explicacao": "Explodir algo ou explodir de raiva com alguém. Também: encher (balão, colchão) e \"blowing up\" (o celular não para de tocar / bombar).",
+    "exemplos": [
+      "They blew up the car.",
+      "It blew up in his face."
+    ],
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "blow"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "it/him/her/them/me/you/us/this/that",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "up"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Make out",
+    "categoria": "Phrasal verbs",
+    "nivel": "B2",
+    "formula": "make out (with alguém) = dar uns amassos, se pegar; make out = distinguir, entender",
+    "explicacao": "Beijar e ficar com alguém de forma intensa. Também é conseguir ver ou entender algo (I couldn't make out what he said).",
+    "exemplos": [
+      "They were making out on the couch.",
+      "I couldn't make out what he said."
+    ],
+    "pegadinhas": "\"Made out of\" é \"feito de\" (outro sentido); essas frases foram tiradas.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "make"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "out"
+        }
+      ],
+      "excluir": [
+        "made out of",
+        "make out of",
+        "making out of"
+      ]
+    }
+  },
+  {
+    "nome": "Present simple",
+    "categoria": "Tempos verbais",
+    "nivel": "A1",
+    "formula": "sujeito + verbo no presente (I work, she works)",
+    "explicacao": "Fala de hábitos, rotinas, gostos e verdades gerais. Com he, she, it ou um nome, o verbo ganha -s (ou -es): she works.",
+    "exemplos": [
+      "She works at a hospital.",
+      "He likes coffee."
+    ],
+    "pegadinhas": "Is/are, has/have e do/does ficam de fora aqui porque também são auxiliares de outros tempos. Com I, you, we e they o verbo não ganha -s (I work).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_presente",
+          "menos": "be/have/do"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Present simple: negativa",
+    "categoria": "Tempos verbais",
+    "nivel": "A1",
+    "formula": "sujeito + don't/doesn't + verbo base",
+    "explicacao": "Para negar no present simple, use don't (I, you, we, they) ou doesn't (he, she, it) antes do verbo na forma básica.",
+    "exemplos": [
+      "I don't like horror movies.",
+      "She doesn't eat meat."
+    ],
+    "pegadinhas": "Depois de doesn't o verbo perde o -s: 'she doesn't eat', não 'doesn't eats'. 'I don't know' aparece muito.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "do/does"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Present simple: pergunta",
+    "categoria": "Tempos verbais",
+    "nivel": "A1",
+    "formula": "(palavra de pergunta) + do/does + sujeito + verbo base",
+    "explicacao": "Para perguntar no present simple, coloque do ou does antes do sujeito, e o verbo fica na forma básica.",
+    "exemplos": [
+      "Do you like pizza?",
+      "What does she want?"
+    ],
+    "pegadinhas": "Com does o verbo também perde o -s: 'Does he know?', não 'Does he knows?'. Aparecem ainda perguntas negativas como 'Why don't you trust us?'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "do/does"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not",
+          "opcional": true
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Present continuous",
+    "categoria": "Tempos verbais",
+    "nivel": "A1",
+    "formula": "sujeito + am/is/are + verbo-ing",
+    "explicacao": "Ação acontecendo agora ou neste período, e também planos já combinados para o futuro próximo.",
+    "exemplos": [
+      "I'm watching TV.",
+      "They're moving to Africa."
+    ],
+    "pegadinhas": "'I'm going to + verbo' é o futuro com going to (outra estrutura) e ficou de fora; por isso somem também frases como 'I'm going to the store'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "am/'m/is/'s/are/'re"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": [
+        "going to",
+        "gonna"
+      ]
+    }
+  },
+  {
+    "nome": "Past simple",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "formula": "sujeito + verbo no passado (went, played, said)",
+    "explicacao": "Ação que começou e terminou no passado. Verbos regulares ganham -ed (played); os irregulares mudam de forma (go → went).",
+    "exemplos": [
+      "I went to the mountains.",
+      "She called me yesterday."
+    ],
+    "pegadinhas": "Was, were, had e did ficam de fora aqui porque também servem de auxiliar de outros tempos. Depois de 'if' o passado pode indicar algo imaginário (second conditional), não passado de verdade.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_passado",
+          "menos": "be/have/do"
+        }
+      ],
+      "excluir": [
+        "used to",
+        "gotta"
+      ]
+    }
+  },
+  {
+    "nome": "Past simple: negativa e pergunta",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "formula": "didn't + verbo base  ·  (palavra de pergunta) + did + sujeito + verbo base",
+    "explicacao": "No passado, a negativa e a pergunta usam did/didn't, e o verbo principal volta para a forma básica.",
+    "exemplos": [
+      "I didn't know that.",
+      "Did you find the dress?"
+    ],
+    "pegadinhas": "O passado fica só no did: 'Did you see?', nunca 'Did you saw?'; 'I didn't go', nunca 'I didn't went'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "did"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not",
+          "opcional": true
+        },
+        {
+          "tipo": "pessoa",
+          "opcional": true
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Past continuous",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "formula": "sujeito + was/were + verbo-ing",
+    "explicacao": "Ação que estava em andamento num momento do passado.",
+    "exemplos": [
+      "I was working on my pottery.",
+      "We were just talking about you."
+    ],
+    "pegadinhas": "'Was going to + verbo' é futuro no passado (outra estrutura) e ficou de fora.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "was/were"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": [
+        "going to",
+        "gonna"
+      ]
+    }
+  },
+  {
+    "nome": "Past continuous + past simple",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "formula": "was/were + verbo-ing ... when + sujeito + verbo no passado",
+    "explicacao": "Uma ação estava acontecendo (past continuous) quando outra, mais curta, interrompeu ou aconteceu no meio (past simple).",
+    "exemplos": [
+      "I was cooking when he called.",
+      "I was studying in Paris when I met her."
+    ],
+    "pegadinhas": "A ação longa vai no past continuous e a curta no past simple: 'when he called', não 'when he was calling'.",
+    "padrao": "[w=was|were] [t=RB]* [t=VBG] [w=(?!(?:and|but|so|about|because|'cause|cause)/)(?!\\W+/)\\S+?]{0,8} [w=when] [t=PRP|NNP|NNPS|NN|NNS]+ [t=RB]* [t=VBD l=(?!be/)\\w+]",
+    "excluir": "\\b(going to|gonna)\\b"
+  },
+  {
+    "nome": "While + past continuous",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "formula": "while + sujeito + was/were + verbo-ing",
+    "explicacao": "While (enquanto) apresenta a ação longa que estava em andamento no passado; a outra parte da frase conta o que aconteceu nesse meio-tempo.",
+    "exemplos": [
+      "While you were sleeping, I ordered room service.",
+      "It turned brown while you were talking."
+    ],
+    "pegadinhas": "Com while vem a ação longa (past continuous); com when costuma vir a ação curta (past simple).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "while"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "was/were"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": [
+        "going to",
+        "gonna"
+      ]
+    }
+  },
+  {
+    "nome": "Future with will",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "formula": "will/'ll/won't + verbo base",
+    "explicacao": "Futuro com will: decisões tomadas na hora, promessas, ofertas e previsões.",
+    "exemplos": [
+      "I'll call you later.",
+      "It won't take long."
+    ],
+    "pegadinhas": "Won't é a negativa de will (will not). 'Will be + -ing' (future continuous) e 'will have + particípio' (future perfect) são outras estruturas e ficaram de fora.",
+    "padrao": "[w=will|'ll|wo t=MD] [w=n't|not]? [t=PRP|NNP|NNPS|NN|NNS|EX]* [t=RB]* [t=VB(?!\\s(?:\\S+/RB\\s)*\\S+/VB(?:G|N)\\s)]"
+  },
+  {
+    "nome": "Be about to",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "formula": "am/is/are/was/were + about to + verbo base",
+    "explicacao": "Algo que vai acontecer daqui a pouquíssimo tempo, ou que estava prestes a acontecer (com was/were).",
+    "exemplos": [
+      "I'm about to leave.",
+      "She was about to ask me."
+    ],
+    "pegadinhas": "Não é 'about' no sentido de 'sobre': o about to aqui quer dizer 'prestes a'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "about to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Future in the past",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "formula": "was/were going to (gonna) + verbo base",
+    "explicacao": "Um plano ou intenção que alguém tinha no passado, muitas vezes algo que acabou não acontecendo.",
+    "exemplos": [
+      "I was going to call you.",
+      "We were gonna take cooking lessons."
+    ],
+    "pegadinhas": "Muitas vezes indica plano frustrado: 'I was gonna tell her, but...'. 'I was going to the store' (ir a um lugar) não é esta estrutura.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "was/were"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "going to/gonna"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Present perfect + ever/never",
+    "categoria": "Tempos verbais",
+    "nivel": "A2",
+    "formula": "have/has + ever/never + particípio",
+    "explicacao": "Experiências de vida: 'já alguma vez' (ever, em perguntas e depois de superlativos) ou 'nunca' (never).",
+    "exemplos": [
+      "Have you ever been to Paris?",
+      "I've never seen that girl before."
+    ],
+    "pegadinhas": "Muito comum depois de superlativo: 'the best thing I've ever heard'. Em português dizemos 'nunca vi', no passado, mas em inglês é present perfect.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "have/'ve/has/'s"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not",
+          "opcional": true
+        },
+        {
+          "tipo": "pessoa",
+          "opcional": true
+        },
+        {
+          "tipo": "palavra",
+          "texto": "ever/never"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Present perfect + just/already",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "formula": "have/has + just/already + particípio",
+    "explicacao": "Just = acabou de acontecer; already = já aconteceu (às vezes antes do esperado).",
+    "exemplos": [
+      "I've just finished.",
+      "We've already made plans."
+    ],
+    "pegadinhas": "Em português dizemos 'acabei de terminar', no passado, mas em inglês se usa muito o present perfect com just (no inglês americano também se ouve 'I just finished'). 'Could have just' é outra estrutura (modal perfect).",
+    "padrao": "[l=have t=VBP|VBZ] [w=n't|not]? [t=PRP|NNP|NNPS|NN|NNS|EX]* [w=just|already] [t=VBN]",
+    "excluir": "\\b(got|gotten) to\\b"
+  },
+  {
+    "nome": "Present perfect + yet",
+    "categoria": "Tempos verbais",
+    "nivel": "B1",
+    "formula": "haven't/hasn't + particípio ... yet  ·  Have you + particípio ... yet?",
+    "explicacao": "Yet (ainda / já) aparece no fim de negativas e perguntas no present perfect, para algo que se espera que aconteça.",
+    "exemplos": [
+      "I haven't told him yet.",
+      "Has he shown up yet?"
+    ],
+    "pegadinhas": "Na negativa yet = 'ainda' (I haven't eaten yet = ainda não comi); na pergunta = 'já' (Have you eaten yet? = você já comeu?).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "have/'ve/has/'s"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not",
+          "opcional": true
+        },
+        {
+          "tipo": "pessoa",
+          "opcional": true
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "yet"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "There is / there are",
+    "categoria": "Expressões",
+    "nivel": "A1",
+    "formula": "there is/there's (singular) · there are (plural)",
+    "explicacao": "Para dizer que algo existe ou está em algum lugar: 'há' ou 'tem'.",
+    "exemplos": [
+      "There's a door here.",
+      "There are new rules."
+    ],
+    "pegadinhas": "Não traduza 'tem' por 'have': 'Tem um gato na sala' = 'There's a cat in the room'. Na fala é comum 'there's' até com plural ('there's no tigers'). Perguntas ('Is there...?') não entram nesta busca.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "there is/there's/there are/there're"
+        }
+      ],
+      "excluir": [
+        "there's been",
+        "there's gonna",
+        "there's going to",
+        "there is going to",
+        "there is gonna",
+        "there are going to",
+        "there are gonna"
+      ]
+    }
+  },
+  {
+    "nome": "There was / there were",
+    "categoria": "Expressões",
+    "nivel": "A2",
+    "formula": "there was (singular) · there were (plural)",
+    "explicacao": "O mesmo que there is/are, no passado: 'havia', 'tinha'.",
+    "exemplos": [
+      "There was a woman at the party.",
+      "There were so many emails."
+    ],
+    "pegadinhas": "Em português dizemos 'tinha muita gente'; em inglês é 'there were a lot of people', nunca 'it had'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "there was/there were"
+        }
+      ],
+      "excluir": [
+        "there was gonna",
+        "there was going to",
+        "there were going to",
+        "there were gonna"
+      ]
+    }
+  },
+  {
+    "nome": "There will be",
+    "categoria": "Expressões",
+    "nivel": "A2",
+    "formula": "there will be / there'll be / there won't be",
+    "explicacao": "O mesmo que there is/are, no futuro: 'vai ter', 'haverá'.",
+    "exemplos": [
+      "There'll be cake.",
+      "There will be no survivors."
+    ],
+    "pegadinhas": "A forma não muda no plural: 'there will be two people', nunca 'there will are'.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "there will/there'll/there wo"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not",
+          "opcional": true
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "be"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Verb + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B1",
+    "formula": "enjoy / mind / avoid / finish / keep / miss / consider / practice… + verbo-ing",
+    "explicacao": "Alguns verbos pedem o outro verbo com -ing, nunca com to: enjoy, mind, avoid, finish, keep, miss, consider, practice, quit, imagine, suggest.",
+    "exemplos": [
+      "Would you mind closing the door?",
+      "He keeps saying that."
+    ],
+    "pegadinhas": "Em português usamos o infinitivo (\"evitar ir\"), por isso é comum errar com \"avoid to go\". Keep + -ing (\"keep doing\") domina os resultados.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "enjoy/mind/avoid/finish/keep/miss/consider/practice/quit/imagine/suggest"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": [
+        "mind reading"
+      ]
+    }
+  },
+  {
+    "nome": "Verb + to",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "A2",
+    "formula": "want / need / decide / plan / hope / try / promise / refuse / learn… + to + verbo",
+    "explicacao": "Outros verbos pedem to + verbo na forma básica: want, need, decide, plan, hope, try, promise, refuse, learn, agree, afford, manage, pretend, offer.",
+    "exemplos": [
+      "I decided to stay home.",
+      "She promised not to tell anyone."
+    ],
+    "pegadinhas": "A negação fica antes do to: \"promise not to tell\". Want to / need to / try to aparecem muito mais que os outros. \"Wanna\" (want to) não entra.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "want/need/decide/plan/hope/try/promise/refuse/learn/agree/expect/afford/manage/pretend/offer/choose/deserve"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Verb + someone + to",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B1",
+    "formula": "want / ask / tell / expect / allow… + alguém + to + verbo",
+    "explicacao": "Para dizer o que você quer ou pede que outra pessoa faça: verbo + pessoa + to + verbo. Em português usamos \"que ele faça\"; em inglês é \"want him to do\".",
+    "exemplos": [
+      "I want you to be happy.",
+      "She asked me to help her."
+    ],
+    "pegadinhas": "Nunca \"I want that you go\": o certo é \"I want you to go\". Want domina os resultados.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "want/ask/tell/expect/allow/remind/convince/force/teach/encourage/beg/invite/warn/persuade/order/advise"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "me/you/him/her/us/them/it"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Stop + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "A2",
+    "formula": "stop + verbo-ing",
+    "explicacao": "Stop + -ing é parar de fazer algo: \"stop talking\" = parar de falar.",
+    "exemplos": [
+      "Stop talking!",
+      "I never stopped loving you."
+    ],
+    "pegadinhas": "Stop + to é outra coisa: parar (o que estava fazendo) para fazer algo: \"he stopped to eat\" = parou para comer.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "stop"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Remember / forget + to",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B1",
+    "formula": "remember / forget + to + verbo",
+    "explicacao": "Remember to / forget to falam de algo que você precisa fazer (ou esqueceu de fazer): \"don't forget to call\" = não esqueça de ligar.",
+    "exemplos": [
+      "Don't forget to call me.",
+      "Did you remember to buy milk?"
+    ],
+    "pegadinhas": "Com -ing o sentido muda: \"I remember meeting her\" = eu me lembro de tê-la conhecido (algo do passado).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "remember/forget"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Remember / regret + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B2",
+    "formula": "remember / forget / regret + verbo-ing",
+    "explicacao": "Com -ing, remember, forget e regret falam de algo que já aconteceu: \"I remember meeting her\" = lembro de tê-la conhecido; \"I regret saying that\" = me arrependo de ter dito.",
+    "exemplos": [
+      "I remember meeting her at a party.",
+      "I regret saying that."
+    ],
+    "pegadinhas": "Compare com \"remember to call\" (lembrar de fazer algo que ainda vai acontecer). \"Forget + -ing\" às vezes é só \"esquece isso\" (forget pulling).",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "remember/forget/regret"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Look forward to + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B1",
+    "formula": "look forward to + verbo-ing",
+    "explicacao": "Look forward to = estar ansioso por, aguardar com alegria. Aqui o to é preposição, então o verbo vem com -ing.",
+    "exemplos": [
+      "I look forward to seeing you.",
+      "We were looking forward to going."
+    ],
+    "pegadinhas": "Erro clássico: \"look forward to see you\". O certo é \"to seeing\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "look"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "forward"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Can't help + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B2",
+    "formula": "can't / couldn't help + verbo-ing  ·  can't help but + verbo",
+    "explicacao": "Can't help + -ing (ou can't help but + verbo) = não conseguir evitar fazer algo: \"I couldn't help laughing\" = não consegui segurar o riso.",
+    "exemplos": [
+      "I couldn't help overhearing.",
+      "I can't help but think about it."
+    ],
+    "pegadinhas": "Não tem nada a ver com ajudar. Nas séries, \"can't help but\" é mais comum que a forma com -ing.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "ca/can/could"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "n't/not"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "help"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "but",
+          "opcional": true
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_qualquer"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Spend time + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B1",
+    "formula": "spend / waste + tempo + verbo-ing",
+    "explicacao": "Para dizer em que você gastou (ou desperdiçou) tempo: spend/waste + período + verbo com -ing.",
+    "exemplos": [
+      "I spent all day cleaning.",
+      "Don't waste time worrying."
+    ],
+    "pegadinhas": "Em português é \"passei o dia limpando\", e o -ing corresponde ao nosso gerúndio, não ao infinitivo.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "spend/waste"
+        },
+        {
+          "tipo": "ate_3"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "There's no point + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B2",
+    "formula": "no point / no use / no sense (in) + verbo-ing  ·  what's the point of + verbo-ing",
+    "explicacao": "Para dizer que não vale a pena fazer algo: \"there's no point in trying\" = não adianta tentar. \"What's the point of…?\" = pra que…?",
+    "exemplos": [
+      "There's no point in trying.",
+      "What's the point of having it?"
+    ],
+    "pegadinhas": "O verbo vem com -ing, não com to: \"no use crying\", não \"no use to cry\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "no/the"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "point/use/sense/good"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "in/of",
+          "opcional": true
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Worth + -ing",
+    "categoria": "Verbos + -ing/to",
+    "nivel": "B2",
+    "formula": "(be) worth + verbo-ing",
+    "explicacao": "Worth + -ing = valer a pena fazer algo: \"it's worth seeing\" = vale a pena ver.",
+    "exemplos": [
+      "It's worth mentioning.",
+      "Life isn't worth living without you."
+    ],
+    "pegadinhas": "Nunca \"worth to see\". Muitas vezes termina com preposição solta: \"a girl worth fighting for\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "worth"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_ing"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Make + someone + verb",
+    "categoria": "Causativas",
+    "nivel": "B1",
+    "formula": "make + alguém + verbo (forma básica)",
+    "explicacao": "Make + pessoa + verbo = fazer alguém fazer algo (obrigar ou provocar): \"you made him cry\" = você o fez chorar.",
+    "exemplos": [
+      "You made him cry!",
+      "It makes me feel better."
+    ],
+    "pegadinhas": "Sem to: \"made me cry\", não \"made me to cry\". (Na voz passiva o to volta: \"I was made to wait\".)",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "make"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Let + someone + verb",
+    "categoria": "Causativas",
+    "nivel": "A2",
+    "formula": "let + me/you/him/her/us/them/it + verbo (forma básica)",
+    "explicacao": "Let + pessoa + verbo = deixar alguém fazer algo: \"let me go\" = me deixa ir.",
+    "exemplos": [
+      "Let me go!",
+      "Don't let them push you around."
+    ],
+    "pegadinhas": "Sem to: \"let me know\", não \"let me to know\". \"Let's go\" (= vamos) ficou de fora de propósito.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "let"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "me/you/him/her/us/them/it"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Help + someone + verb",
+    "categoria": "Causativas",
+    "nivel": "B1",
+    "formula": "help + alguém + verbo (forma básica)",
+    "explicacao": "Help + pessoa + verbo = ajudar alguém a fazer algo. O to é opcional e na fala quase sempre some.",
+    "exemplos": [
+      "Can you help me find my keys?",
+      "I'll help you clean up."
+    ],
+    "pegadinhas": "\"Help me find\" e \"help me to find\" estão certos; esta busca pega a forma sem to.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "help"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": []
+    }
+  },
+  {
+    "nome": "Have something done",
+    "categoria": "Causativas",
+    "nivel": "B2",
+    "formula": "have + algo + particípio",
+    "explicacao": "Have something done = mandar fazer algo (outra pessoa faz por você): \"I had my hair cut\" = cortei o cabelo (no salão). Também serve para algo ruim que aconteceu com você: \"he had his car stolen\".",
+    "exemplos": [
+      "I have my hair done every Wednesday.",
+      "He had my car towed."
+    ],
+    "pegadinhas": "Não confundir com present perfect (\"have you seen…\"). Alguns resultados são só o estado da coisa (\"have it figured out\").",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "have"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "my/your/his/her/our/their/it/them"
+        },
+        {
+          "tipo": "adjetivo",
+          "opcional": true
+        },
+        {
+          "tipo": "substantivo",
+          "opcional": true
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "it made",
+        "been",
+        "named",
+        "left",
+        "lined up",
+        "cut out",
+        "got",
+        "covered",
+        "figured out",
+        "memorized",
+        "picked out",
+        "written",
+        "planned",
+        "closed",
+        "heart set",
+        "committed",
+        "come",
+        "has it",
+        "has your",
+        "back turned",
+        "gone",
+        "gotten"
+      ]
+    }
+  },
+  {
+    "nome": "Get something done",
+    "categoria": "Causativas",
+    "nivel": "B2",
+    "formula": "get + algo + particípio",
+    "explicacao": "Get something done é como have something done, mais informal: \"get your hair cut\" = vai cortar o cabelo. \"Get it done\" = dar um jeito de terminar.",
+    "exemplos": [
+      "You should get your eyes checked.",
+      "I need to get it fixed."
+    ],
+    "pegadinhas": "\"I've got it covered\" e \"she's got her heart set\" não são esta estrutura (são have got = ter) e ficaram de fora.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "my/your/his/her/our/their/it/them/the"
+        },
+        {
+          "tipo": "adjetivo",
+          "opcional": true
+        },
+        {
+          "tipo": "substantivo",
+          "opcional": true
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "heart set",
+        "covered",
+        "figured out",
+        "picked out",
+        "i've got",
+        "we've got",
+        "you've got",
+        "they've got",
+        "she's got",
+        "he's got",
+        "has got",
+        "have got"
+      ]
+    }
+  },
+  {
+    "nome": "Get someone to do",
+    "categoria": "Causativas",
+    "nivel": "B2",
+    "formula": "get + alguém + to + verbo",
+    "explicacao": "Get + pessoa + to + verbo = convencer ou conseguir que alguém faça algo: \"I got him to sign\" = consegui que ele assinasse.",
+    "exemplos": [
+      "I got Penny to sign up.",
+      "How do I get them to like me?"
+    ],
+    "pegadinhas": "Aqui tem to (diferente de make e have). \"Get something to eat\" (pegar algo pra comer) não é esta estrutura e ficou de fora.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "pessoa"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "to"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "verbo_base"
+        }
+      ],
+      "excluir": [
+        "something to",
+        "stuff to",
+        "nothing to",
+        "anything to",
+        "things to",
+        "everything to",
+        "work to",
+        "time to",
+        "money to",
+        "somethin' to"
+      ]
+    }
+  },
+  {
+    "nome": "Passive: present simple",
+    "categoria": "Voz passiva",
+    "nivel": "B1",
+    "formula": "am / is / are + particípio",
+    "explicacao": "Voz passiva no presente: o foco está em quem sofre a ação, não em quem faz. \"It's made of wood\" = é feito de madeira.",
+    "exemplos": [
+      "The door is locked.",
+      "You are required to sign here."
+    ],
+    "pegadinhas": "Particípios que viram adjetivo (I'm tired, I'm married, I'm done, I'm excited) não são passiva e foram tirados. \"He's gone\" é has gone e também ficou de fora.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "am/is/are/'m/'re"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "supposed",
+        "done",
+        "concerned",
+        "engaged",
+        "married",
+        "tired",
+        "gone",
+        "gotta",
+        "got",
+        "finished",
+        "excited",
+        "interested",
+        "scared",
+        "worried",
+        "screwed",
+        "involved",
+        "obsessed",
+        "confused",
+        "pissed",
+        "embarrassed",
+        "impressed",
+        "surprised",
+        "used to",
+        "dressed",
+        "prepared",
+        "qualified",
+        "related",
+        "located",
+        "sorted",
+        "freaked",
+        "stressed",
+        "psyched",
+        "swamped",
+        "stuck",
+        "spoiled",
+        "organized",
+        "organised",
+        "attracted",
+        "pre",
+        "thrilled",
+        "relieved",
+        "disappointed",
+        "annoyed",
+        "bored",
+        "amazed",
+        "shocked",
+        "terrified",
+        "exhausted",
+        "overwhelmed",
+        "devastated",
+        "flattered",
+        "stunned",
+        "offended",
+        "convinced",
+        "determined",
+        "committed",
+        "dedicated",
+        "satisfied",
+        "fascinated",
+        "frightened",
+        "depressed",
+        "delighted",
+        "bound",
+        "broke",
+        "stumped",
+        "appalled",
+        "stoned",
+        "buzzed",
+        "headed"
+      ]
+    }
+  },
+  {
+    "nome": "Passive: past simple",
+    "categoria": "Voz passiva",
+    "nivel": "B1",
+    "formula": "was / were + particípio",
+    "explicacao": "Voz passiva no passado: \"I was born in 1990\", \"he was fired\". Diz o que aconteceu com alguém ou algo.",
+    "exemplos": [
+      "I was raised in Texas.",
+      "Nick Fury was murdered."
+    ],
+    "pegadinhas": "\"I was tired / excited / married\" descreve estado (adjetivo), não ação, e foi tirado.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "palavra",
+          "texto": "was/were"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "supposed",
+        "done",
+        "concerned",
+        "engaged",
+        "married",
+        "tired",
+        "gone",
+        "gotta",
+        "got",
+        "finished",
+        "excited",
+        "interested",
+        "scared",
+        "worried",
+        "screwed",
+        "involved",
+        "obsessed",
+        "confused",
+        "pissed",
+        "embarrassed",
+        "impressed",
+        "surprised",
+        "used to",
+        "dressed",
+        "prepared",
+        "qualified",
+        "related",
+        "located",
+        "sorted",
+        "freaked",
+        "stressed",
+        "psyched",
+        "swamped",
+        "stuck",
+        "spoiled",
+        "organized",
+        "organised",
+        "attracted",
+        "pre",
+        "thrilled",
+        "relieved",
+        "disappointed",
+        "annoyed",
+        "bored",
+        "amazed",
+        "shocked",
+        "terrified",
+        "exhausted",
+        "overwhelmed",
+        "devastated",
+        "flattered",
+        "stunned",
+        "offended",
+        "convinced",
+        "determined",
+        "committed",
+        "dedicated",
+        "satisfied",
+        "fascinated",
+        "frightened",
+        "depressed",
+        "delighted",
+        "bound",
+        "broke",
+        "stumped",
+        "appalled",
+        "stoned",
+        "buzzed",
+        "headed"
+      ]
+    }
+  },
+  {
+    "nome": "Passive with modal",
+    "categoria": "Voz passiva",
+    "nivel": "B2",
+    "formula": "can / should / must / will… + be + particípio",
+    "explicacao": "Modal + be + particípio: passiva com poder, dever, ir… \"It can be fixed\" = pode ser consertado.",
+    "exemplos": [
+      "Everything can be fixed.",
+      "She must be stopped!"
+    ],
+    "pegadinhas": "\"I'd be honored\" e \"I'll be done\" são adjetivos, não passiva, e foram tirados.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "modal"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "supposed",
+        "done",
+        "concerned",
+        "engaged",
+        "married",
+        "tired",
+        "gone",
+        "gotta",
+        "got",
+        "finished",
+        "excited",
+        "interested",
+        "scared",
+        "worried",
+        "screwed",
+        "involved",
+        "obsessed",
+        "confused",
+        "pissed",
+        "embarrassed",
+        "impressed",
+        "surprised",
+        "used to",
+        "dressed",
+        "prepared",
+        "qualified",
+        "related",
+        "located",
+        "sorted",
+        "freaked",
+        "stressed",
+        "psyched",
+        "swamped",
+        "stuck",
+        "spoiled",
+        "organized",
+        "organised",
+        "attracted",
+        "pre",
+        "thrilled",
+        "relieved",
+        "disappointed",
+        "annoyed",
+        "bored",
+        "amazed",
+        "shocked",
+        "terrified",
+        "exhausted",
+        "overwhelmed",
+        "devastated",
+        "flattered",
+        "stunned",
+        "offended",
+        "convinced",
+        "determined",
+        "committed",
+        "dedicated",
+        "satisfied",
+        "fascinated",
+        "frightened",
+        "depressed",
+        "delighted",
+        "bound",
+        "broke",
+        "stumped",
+        "appalled",
+        "stoned",
+        "buzzed",
+        "headed",
+        "be honored",
+        "be honoured"
+      ]
+    }
+  },
+  {
+    "nome": "Passive: perfect",
+    "categoria": "Voz passiva",
+    "nivel": "B2",
+    "formula": "has / have / had been + particípio",
+    "explicacao": "Voz passiva no present/past perfect: \"Haley has been arrested\" = Haley foi presa (e isso importa agora).",
+    "exemplos": [
+      "Haley has been arrested.",
+      "We've been invited to a party."
+    ],
+    "pegadinhas": "Não confundir com o present perfect continuous (has been + -ing). Inclui também \"could have been avoided\".",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "have"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "been"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "supposed",
+        "done",
+        "concerned",
+        "engaged",
+        "married",
+        "tired",
+        "gone",
+        "gotta",
+        "got",
+        "finished",
+        "excited",
+        "interested",
+        "scared",
+        "worried",
+        "screwed",
+        "involved",
+        "obsessed",
+        "confused",
+        "pissed",
+        "embarrassed",
+        "impressed",
+        "surprised",
+        "used to",
+        "dressed",
+        "prepared",
+        "qualified",
+        "related",
+        "located",
+        "sorted",
+        "freaked",
+        "stressed",
+        "psyched",
+        "swamped",
+        "stuck",
+        "spoiled",
+        "organized",
+        "organised",
+        "attracted",
+        "pre",
+        "thrilled",
+        "relieved",
+        "disappointed",
+        "annoyed",
+        "bored",
+        "amazed",
+        "shocked",
+        "terrified",
+        "exhausted",
+        "overwhelmed",
+        "devastated",
+        "flattered",
+        "stunned",
+        "offended",
+        "convinced",
+        "determined",
+        "committed",
+        "dedicated",
+        "satisfied",
+        "fascinated",
+        "frightened",
+        "depressed",
+        "delighted",
+        "bound",
+        "broke",
+        "stumped",
+        "appalled",
+        "stoned",
+        "buzzed",
+        "headed"
+      ]
+    }
+  },
+  {
+    "nome": "Passive: continuous",
+    "categoria": "Voz passiva",
+    "nivel": "B2",
+    "formula": "am / is / are / was / were + being + particípio",
+    "explicacao": "Passiva contínua: algo está (ou estava) sendo feito naquele momento. \"I'm being followed\" = estou sendo seguido.",
+    "exemplos": [
+      "You're being recorded.",
+      "I was being fed false data."
+    ],
+    "pegadinhas": "\"You're being silly\" (being + adjetivo) não é passiva; só entra com particípio.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "be"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "palavra",
+          "texto": "being"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "supposed",
+        "done",
+        "concerned",
+        "engaged",
+        "married",
+        "tired",
+        "gone",
+        "gotta",
+        "got",
+        "finished",
+        "excited",
+        "interested",
+        "scared",
+        "worried",
+        "screwed",
+        "involved",
+        "obsessed",
+        "confused",
+        "pissed",
+        "embarrassed",
+        "impressed",
+        "surprised",
+        "used to",
+        "dressed",
+        "prepared",
+        "qualified",
+        "related",
+        "located",
+        "sorted",
+        "freaked",
+        "stressed",
+        "psyched",
+        "swamped",
+        "stuck",
+        "spoiled",
+        "organized",
+        "organised",
+        "attracted",
+        "pre",
+        "thrilled",
+        "relieved",
+        "disappointed",
+        "annoyed",
+        "bored",
+        "amazed",
+        "shocked",
+        "terrified",
+        "exhausted",
+        "overwhelmed",
+        "devastated",
+        "flattered",
+        "stunned",
+        "offended",
+        "convinced",
+        "determined",
+        "committed",
+        "dedicated",
+        "satisfied",
+        "fascinated",
+        "frightened",
+        "depressed",
+        "delighted",
+        "bound",
+        "broke",
+        "stumped",
+        "appalled",
+        "stoned",
+        "buzzed",
+        "headed"
+      ]
+    }
+  },
+  {
+    "nome": "Get passive",
+    "categoria": "Voz passiva",
+    "nivel": "B2",
+    "formula": "get / got + particípio",
+    "explicacao": "Passiva com get, mais informal e muito comum na fala, quase sempre para algo que acontece de repente ou sem querer: get fired, get hurt, get married.",
+    "exemplos": [
+      "He got fired.",
+      "When are you going to get married?"
+    ],
+    "pegadinhas": "Get married/engaged/divorced/dressed aparecem muito. \"Get rid of\" (livrar-se) e \"get lost\" (some daqui) são expressões fixas e foram tiradas.",
+    "blocos": {
+      "pecas": [
+        {
+          "tipo": "forma",
+          "texto": "get"
+        },
+        {
+          "tipo": "adverbios"
+        },
+        {
+          "tipo": "participio"
+        }
+      ],
+      "excluir": [
+        "used to",
+        "rid",
+        "get set",
+        "upset",
+        "started",
+        "get done",
+        "got done",
+        "get going",
+        "get lost"
+      ]
+    }
+  }
+]

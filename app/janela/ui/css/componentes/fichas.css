@@ -1,0 +1,18 @@
+/* Fichas com contagem e explicação curta (js/componentes/fichas.js). */
+
+.fichas { display: flex; flex-wrap: wrap; gap: 6px; }
+.ficha {
+  display: inline-flex; flex-direction: column; align-items: flex-start; gap: 1px; max-width: 230px;
+  border: 1px solid var(--borda); background: var(--superficie); color: var(--texto);
+  border-radius: var(--raio-pequeno); padding: 5px 12px; font-size: 14px; font-weight: 600; text-align: left;
+}
+.ficha:hover { border-color: var(--destaque); }
+.ficha-topo { display: inline-flex; align-items: baseline; gap: 6px; }
+.ficha-numero { font-size: 12px; font-weight: 400; color: var(--texto-2); font-variant-numeric: tabular-nums; }
+.ficha-detalhe {
+  font-size: 12px; font-weight: 400; color: var(--texto-2); max-width: 100%;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.ficha[aria-pressed="true"] { background: var(--destaque); border-color: var(--destaque); color: var(--destaque-texto); }
+.ficha[aria-pressed="true"] .ficha-numero,
+.ficha[aria-pressed="true"] .ficha-detalhe { color: inherit; opacity: .85; }

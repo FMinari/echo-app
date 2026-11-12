@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.db
+*.db-journal
+dist/
+app/github.json

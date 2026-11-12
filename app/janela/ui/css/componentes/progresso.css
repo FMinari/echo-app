@@ -1,0 +1,17 @@
+/* Aviso de progresso no canto (js/componentes/progresso.js). */
+
+.progresso {
+  position: fixed; right: 20px; bottom: 20px; z-index: 11; display: inline-flex; align-items: center; gap: 10px;
+  max-width: min(360px, calc(100vw - 40px)); padding: 10px 14px; font-size: 14px;
+  background: var(--superficie); color: var(--texto); border: 1px solid var(--borda);
+  border-radius: var(--raio-pequeno); box-shadow: var(--sombra-flutuante);
+}
+.progresso[hidden] { display: none; }
+.progresso-roda {
+  width: 14px; height: 14px; flex: none; border-radius: 50%;
+  border: 2px solid var(--borda); border-top-color: var(--destaque); animation: progresso-girar .8s linear infinite;
+}
+@keyframes progresso-girar { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .progresso-roda { animation: none; border-color: var(--destaque); }
+}

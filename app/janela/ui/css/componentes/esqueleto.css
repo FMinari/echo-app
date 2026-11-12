@@ -1,0 +1,26 @@
+/* Skeleton (js/componentes/esqueleto.js) e o estado "atualizando" de uma área que já tem conteúdo. */
+
+.esqueleto {
+  display: block; border-radius: 6px; background: var(--superficie-2);
+  animation: esqueleto-pulso 1.3s ease-in-out infinite;
+}
+@keyframes esqueleto-pulso {
+  50% { opacity: .55; }
+}
+.esqueleto-linhas { display: flex; flex-direction: column; gap: 8px; }
+.esqueleto-fala { margin: 12px 0 10px; }
+.esqueleto-par { display: grid; grid-template-columns: 200px 1fr; gap: 12px; }
+.cartao-esqueleto header { align-items: center; }
+.cartao-esqueleto footer { margin-top: 14px; }
+.amostra-esqueleto .esqueleto { height: 34px !important; border-radius: 6px; }
+
+/* área que já mostra algo e está buscando de novo (outra página, filtro): fica esmaecida */
+[aria-busy="true"].atualizando { opacity: .55; transition: opacity .15s; pointer-events: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .esqueleto { animation: none; }
+  [aria-busy="true"].atualizando { transition: none; }
+}
+
+/* só para leitor de tela */
+.so-leitor { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }

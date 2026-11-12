@@ -1,0 +1,24 @@
+/* Avisos: rápido no rodapé (toast), erro no lugar de um conteúdo e o aviso no topo
+   (atualização encontrada, token vencido). */
+
+.toast {
+  position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 10;
+  background: var(--texto); color: var(--fundo); padding: 10px 16px; border-radius: var(--raio-pequeno); box-shadow: var(--sombra);
+  font-size: 14px;
+}
+.toast .btn-contorno { margin-left: 10px; }
+
+.erro { color: var(--perigo); background: var(--superficie); border: 1px solid var(--perigo); border-radius: var(--raio-pequeno); padding: 10px 12px; }
+.erro p { margin: 0; }
+.erro .btn-contorno { margin-top: 8px; }
+
+.aviso {
+  background: var(--superficie); border: 1px solid var(--destaque); border-radius: var(--raio);
+  padding: 14px 18px; margin-bottom: 20px; display: flex; flex-direction: column; gap: 8px; box-shadow: var(--sombra);
+}
+.aviso-alerta { border-color: var(--destaque-2); }
+.aviso p { margin: 0; }
+.aviso ul { margin: 0; padding-left: 20px; font-size: 14px; }
+.aviso progress { width: 100%; height: 10px; accent-color: var(--destaque); }
+.atualizacao-titulo { display: flex; flex-direction: column; }
+.atualizacao-titulo small { color: var(--texto-2); font-size: 12px; overflow-wrap: anywhere; }

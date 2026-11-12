@@ -1,0 +1,10 @@
+/* Balão (js/componentes/balao.js): o dicionário ao clicar numa palavra. */
+
+.balao {
+  position: fixed; z-index: 50; width: min(360px, calc(100vw - 16px)); max-height: min(420px, calc(100vh - 16px));
+  display: flex; flex-direction: column; background: var(--superficie); color: var(--texto);
+  border: 1px solid var(--borda); border-radius: var(--raio); box-shadow: var(--sombra-flutuante);
+}
+.balao header { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 10px 10px 6px 14px; }
+.balao header b { font-size: 16px; }
+.balao-corpo { padding: 0 14px 12px; overflow: auto; font-size: 14px; }

@@ -1,0 +1,30 @@
+/* Bloco recolhível (js/componentes/recolhivel.js). */
+
+.recolhivel > summary { display: flex; align-items: center; gap: 8px; cursor: pointer; list-style: none; user-select: none; }
+.recolhivel > summary::-webkit-details-marker { display: none; }
+.recolhivel-seta { display: grid; place-items: center; color: var(--texto-2); transition: transform .15s; }
+.recolhivel:not([open]) > summary .recolhivel-seta { transform: rotate(-90deg); }
+.recolhivel-marcador { width: 10px; height: 10px; border-radius: 3px; flex: none; }
+
+/* destaque: Séries / Filmes no resultado */
+.recolhivel-destaque + .recolhivel-destaque { margin-top: 8px; }
+.recolhivel-destaque > summary { padding: 10px 14px; background: var(--superficie-2); border-radius: var(--raio); gap: 10px; }
+.recolhivel-destaque .recolhivel-titulo { font-weight: 700; font-size: 16px; }
+.recolhivel-destaque .recolhivel-detalhe { color: var(--texto-2); font-size: 14px; }
+.recolhivel-destaque > .recolhivel-corpo { display: flex; flex-direction: column; gap: 12px; margin-top: 10px; }
+
+/* discreta: categorias da lista de estruturas */
+.recolhivel-discreta > summary {
+  font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--texto-2);
+  padding: 8px 10px 6px; border-radius: 7px;
+}
+.recolhivel-discreta > summary:hover { color: var(--texto); }
+.recolhivel-discreta .recolhivel-seta svg { width: 14px; height: 14px; }
+.recolhivel-discreta .recolhivel-detalhe { margin-left: auto; font-weight: 600; letter-spacing: 0; }
+.recolhivel-discreta > .recolhivel-corpo { display: flex; flex-direction: column; }
+
+/* simples: seta + texto, o corpo logo abaixo */
+.recolhivel-simples > summary { font-weight: 600; width: fit-content; }
+.recolhivel-simples > .recolhivel-corpo { margin-top: 8px; }
+
+@media (prefers-reduced-motion: reduce) { .recolhivel-seta { transition: none; } }

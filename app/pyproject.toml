@@ -1,0 +1,18 @@
+[project]
+name = "frases-series"
+version = "0.1.0"
+description = "Busca de estruturas gramaticais do inglês em falas de séries e filmes"
+requires-python = ">=3.12"
+# No PC da cliente o app só usa a biblioteca padrão, com o Python embutido do pacote (ver empacotar.py). Isto
+# é o ambiente do dev: o MCP (para o Claude) e o pywebview como navegador dos testes.
+dependencies = [
+    "mcp>=2.3.0",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pywebview[qt]>=6.2.1 ; sys_platform == 'linux'",
+]

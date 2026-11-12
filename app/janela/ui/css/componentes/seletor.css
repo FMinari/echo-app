@@ -1,0 +1,58 @@
+/* Seletores com busca (js/componentes/seletor.js). */
+
+.sel { position: relative; }
+.sel-botao {
+  width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  padding: 8px 10px; border: 1px solid var(--borda); border-radius: var(--raio-pequeno); background: var(--fundo); text-align: left;
+}
+.sel-botao[aria-expanded="true"] { border-color: var(--destaque); }
+.sel-botao svg { flex: none; opacity: .6; }
+.sel-texto { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sel-placeholder { color: var(--texto-2); }
+
+.sel-painel {
+  position: absolute; z-index: 20; top: calc(100% + 4px); left: 0; right: 0; min-width: 220px;
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio-pequeno);
+  box-shadow: var(--sombra-flutuante); overflow: hidden;
+}
+/* sem espaço embaixo, abre para cima (seletor.js, posicionar), com a busca embaixo, perto do botão */
+.sel-painel.sel-para-cima { top: auto; bottom: calc(100% + 4px); display: flex; flex-direction: column-reverse; }
+.sel-para-cima .sel-busca { border-bottom: 0; border-top: 1px solid var(--borda); }
+.sel-busca { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border-bottom: 1px solid var(--borda); color: var(--texto-2); }
+.sel-busca input { border: 0; background: transparent; padding: 0; outline: none; min-width: 0; }
+.sel-busca input:focus { outline: none; }
+
+/* altura fixa: ~6 opções de uma linha; o resto rola */
+.sel-lista { max-height: 246px; overflow-y: auto; padding: 4px; overscroll-behavior: contain; }
+.sel-grupo { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--texto-2); padding: 8px 8px 4px; }
+.sel-opcao { padding: 7px 8px; border-radius: 6px; cursor: pointer; display: flex; flex-direction: column; position: relative; }
+.sel-opcao.ativo { background: var(--superficie-2); }
+.sel-opcao[aria-selected="true"] .sel-rotulo { font-weight: 700; color: var(--destaque); }
+.sel-secundario { font-size: 12px; color: var(--texto-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sel-vazio { padding: 10px 8px; color: var(--texto-2); font-size: 14px; }
+.sel-acao {
+  position: absolute; right: 6px; top: 50%; transform: translateY(-50%); border: 0; background: none;
+  padding: 3px 8px; border-radius: 6px; font-size: 12px; color: var(--texto-2);
+}
+.sel-acao:hover, .sel-acao[data-confirmar="1"] { background: var(--destaque); color: var(--destaque-texto); }
+
+/* vários: a busca fica sempre à mostra e a lista abre logo abaixo dela */
+.sel-painel.sel-embutido { position: relative; z-index: auto; top: 0; box-shadow: none; overflow: visible; background: var(--fundo); }
+.sel-embutido .sel-busca { border-bottom: 0; }
+.sel-embutido .sel-lista {
+  position: absolute; z-index: 20; top: calc(100% + 4px); left: -1px; right: -1px;
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio-pequeno); box-shadow: var(--sombra-flutuante);
+}
+.sel-escolhidos { display: flex; flex-direction: column; gap: 6px; margin-top: 8px; }
+.sel-escolhidos:empty { display: none; }
+.sel-cartao {
+  display: grid; grid-template-columns: 1fr auto; align-items: center; column-gap: 8px;
+  background: var(--superficie-2); border-radius: var(--raio-pequeno); padding: 6px 6px 6px 10px; font-size: 14px; font-weight: 600;
+}
+.sel-cartao small { grid-column: 1; font-weight: 400; font-size: 12px; color: var(--texto-2); }
+.sel-tirar {
+  grid-column: 2; grid-row: 1 / span 2; border: 0; background: none; width: 28px; height: 28px; border-radius: 6px;
+  display: grid; place-items: center; color: var(--texto-2);
+}
+.sel-tirar:hover { background: var(--borda); color: var(--texto); }
+.sel-dica { margin: 0; font-size: 13px; color: var(--texto-2); }

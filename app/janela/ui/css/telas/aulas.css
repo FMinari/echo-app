@@ -1,0 +1,63 @@
+/* Tela Aulas: lista das aulas à esquerda, a aula aberta (ou a folha) à direita. */
+
+.aulas { display: grid; grid-template-columns: 280px 1fr; gap: 24px; align-items: start; }
+.lista-aulas { display: flex; flex-direction: column; gap: 8px; position: sticky; top: 92px; }
+#lista-aulas { display: flex; flex-direction: column; gap: 2px; }
+.item-aula.sem-aula { margin-top: 6px; border-top: 1px solid var(--borda); border-radius: 0 0 7px 7px; color: var(--texto-2); }
+.acoes-aula { align-items: flex-start; }
+.acoes-aula .campo-nome input { flex: 1 0 220px; }
+.detalhe .cartoes { display: flex; flex-direction: column; gap: 10px; }
+
+/* nota e "mover" embaixo de cada frase da aula */
+.extras-aula { display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start; margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--borda); }
+.campo-nota { flex: 1 1 320px; display: flex; flex-direction: column; gap: 2px; }
+.campo-nota .nota { min-height: 38px; font-size: 14px; }
+.nota-situacao { font-size: 12px; color: var(--ok); min-height: 16px; }
+.mover { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--texto-2); }
+.mover .sel-botao { min-width: 170px; }
+
+/* a folha: opções à esquerda, a prévia (papel) à direita */
+.folha-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.folha-topo h2 { margin: 0; }
+.folha-tela { display: grid; grid-template-columns: 280px 1fr; gap: 20px; align-items: start; }
+.folha-opcoes { display: flex; flex-direction: column; gap: 12px; position: sticky; top: 92px; }
+.folha-opcoes [hidden] { display: none; }
+.previa-folha { background: var(--superficie-2); border-radius: var(--raio); padding: 18px; overflow: auto; }
+
+/* a folha em si é papel: branca nos dois temas, como vai sair na impressão */
+.folha {
+  background: #fff; color: #1b1b1b; max-width: 720px; margin: 0 auto; padding: 40px 48px;
+  box-shadow: 0 1px 3px rgb(0 0 0 / .15); font-family: var(--fonte-frase); line-height: 1.5;
+}
+.folha h1 { font-family: var(--fonte); font-size: 22px; margin: 0 0 6px; }
+.folha-instrucao { font-style: italic; margin: 0 0 18px; }
+.folha-itens { padding-left: 22px; margin: 0; }
+.folha-itens > li { margin-bottom: 14px; break-inside: avoid; }
+.folha-frase { margin: 0; font-size: 16px; }
+.folha mark { background: none; color: inherit; font-weight: 700; text-decoration: underline; padding: 0; }
+.folha .lacuna { white-space: nowrap; }
+.folha-fonte { margin: 2px 0 0; font-family: var(--fonte); font-size: 12px; color: #666; }
+.folha-nota { margin: 2px 0 0; font-family: var(--fonte); font-size: 13px; color: #333; }
+.folha-gabarito { margin-top: 28px; padding-top: 16px; border-top: 1px solid #ccc; font-family: var(--fonte); }
+.folha-gabarito h2 { font-size: 16px; margin: 0 0 8px; }
+
+/* na impressão, só a folha (copiada para #impressao quando a prévia está aberta; sem ela, sai a tela) */
+#impressao { display: none; }
+@media print {
+  body:has(> #impressao) > *:not(#impressao) { display: none !important; }
+  body:has(> #impressao) { background: #fff; }
+  #impressao { display: block; }
+  /* margem 0 na página: o Edge não põe data, título e endereço no papel; a margem vem do padding,
+     repetido em cada página */
+  #impressao .folha {
+    box-shadow: none; max-width: none; padding: 16mm 18mm;
+    -webkit-box-decoration-break: clone; box-decoration-break: clone;
+  }
+  .folha-gabarito { break-before: page; border-top: 0; margin-top: 0; }
+}
+@page { margin: 0; }
+
+@media (max-width: 960px) {
+  .aulas, .folha-tela { grid-template-columns: 1fr; }
+  .lista-aulas, .folha-opcoes { position: static; }
+}

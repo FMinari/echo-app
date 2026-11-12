@@ -1,0 +1,12 @@
+/* Opções lado a lado, uma ligada (js/componentes/alternador.js). */
+
+.alternador {
+  display: flex; gap: 2px; padding: 3px; border-radius: var(--raio-pequeno);
+  background: var(--superficie-2); border: 1px solid var(--borda);
+}
+.alternador button {
+  flex: 1; border: 0; background: none; color: var(--texto-2); font-weight: 600; font-size: 14px;
+  padding: 7px 10px; border-radius: 6px;
+}
+.alternador button:hover { color: var(--texto); }
+.alternador button[aria-checked="true"] { background: var(--superficie); color: var(--texto); box-shadow: var(--sombra); }

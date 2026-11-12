@@ -1,0 +1,31 @@
+/* Cartão de uma frase (js/componentes/cartao-frase.js). */
+
+.cartao {
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 14px 18px; box-shadow: var(--sombra);
+}
+.cartao header { display: flex; justify-content: space-between; gap: 12px; font-size: 13px; color: var(--texto-2); }
+.cartao .onde b { color: var(--texto); font-weight: 600; }
+.tempo { font-variant-numeric: tabular-nums; white-space: nowrap; cursor: help; }
+.fala { font: 19px/1.45 var(--fonte-frase); margin: 8px 0 6px; }
+.quem { font: 700 13px/1 var(--fonte); text-transform: uppercase; letter-spacing: .04em; color: var(--destaque); margin-right: 4px; }
+.cena { margin: 0; font-size: 13px; color: var(--texto-2); font-style: italic; }
+
+.contexto { margin-top: 8px; font-size: 14px; }
+.recolhivel.contexto > summary { color: var(--texto-2); font-size: 13px; font-weight: 400; gap: 4px; }
+.recolhivel.contexto > .recolhivel-corpo { margin-top: 0; }
+.contexto ul { list-style: none; padding: 8px 0 0 12px; margin: 0; border-left: 2px solid var(--borda); display: flex; flex-direction: column; gap: 4px; }
+.contexto li b { font-weight: 600; }
+.contexto li.esta { font-weight: 600; }
+
+/* rodapé: Ouvir, Salvar áudio, Guardar e "Não é essa estrutura" parecem texto */
+.cartao footer { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; margin-top: 10px; font-size: 13px; }
+.cartao footer button { border: 0; background: none; padding: 0; color: var(--texto-2); font-weight: 600; }
+.cartao footer button:hover { color: var(--texto); }
+.cartao footer button:disabled { opacity: .5; cursor: progress; }
+.cartao footer .favoritar.ativo { color: var(--destaque); }
+.cartao footer .ouvir, .cartao footer .salvar-audio { display: inline-flex; align-items: center; gap: 6px; }
+.cartao footer .ouvir[data-tocando="1"] { color: var(--destaque); }
+.falso { display: inline-flex; gap: 10px; align-items: center; color: var(--texto-2); }
+.falso .confirmar { color: var(--perigo); }
+.cartao.removido { opacity: .45; }

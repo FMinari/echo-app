@@ -1,0 +1,111 @@
+/* Base: cores (claro e escuro), tipografia, campos de formulário e textos comuns. */
+
+/* Echo: preto e amarelo. No escuro o amarelo é o destaque; no claro os botões e links ficam pretos (amarelo
+   em fundo branco não dá para ler) e o amarelo vai para o que tem fundo: grifo da estrutura, texto dos botões
+   principais e a marca. Perigo (erro, apagar) tem cor própria, porque o destaque deixou de ser vermelho. */
+:root {
+  --fundo: #f6f6f2;
+  --superficie: #ffffff;
+  --superficie-2: #ecece6;
+  --borda: #e0e0d8;
+  --texto: #0b0b0b;
+  --texto-2: #57574f;
+  --destaque: #0b0b0b;      /* botões principais, links, o que está escolhido */
+  --destaque-texto: #ffd400;
+  --destaque-2: #8a6c00;    /* avisos de atenção e "Filmes": amarelo escuro, que dá para ver no branco */
+  --amarelo: #ffd400;       /* a cor da marca, sempre sobre preto ou como fundo */
+  --preto: #0b0b0b;
+  --marca-fundo: #ffd400;   /* <mark> da estrutura na frase */
+  --marca-texto: #0b0b0b;
+  --perigo: #c62828;
+  --perigo-texto: #ffffff;
+  --ok: #1d7a3a;
+  --sombra: 0 1px 2px rgb(0 0 0 / .06), 0 4px 14px rgb(0 0 0 / .05);
+  --sombra-flutuante: 0 8px 28px rgb(0 0 0 / .2);
+  --raio: 10px;
+  --raio-pequeno: 8px;
+  --fonte: "Segoe UI", system-ui, -apple-system, "Noto Sans", sans-serif;
+  --fonte-frase: Georgia, "Iowan Old Style", "Noto Serif", serif;
+  --fonte-mono: ui-monospace, Consolas, monospace;
+  color-scheme: light;
+}
+
+/* Escuro: pelo sistema (tema "Auto") ou fixo pelo botão. As duas regras repetem os valores porque
+   CSS não deixa juntar uma media query com um seletor. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) {
+    --fundo: #0b0b0b;
+    --superficie: #161616;
+    --superficie-2: #222222;
+    --borda: #2e2e2e;
+    --texto: #f5f5f0;
+    --texto-2: #a3a39b;
+    --destaque: #ffd400;
+    --destaque-texto: #0b0b0b;
+    --destaque-2: #f5f5f0;
+    --marca-fundo: #ffd400;
+    --marca-texto: #0b0b0b;
+    --perigo: #ff6b5b;
+    --perigo-texto: #0b0b0b;
+    --ok: #7ee08a;
+    --sombra: none;
+    color-scheme: dark;
+  }
+}
+:root[data-tema="escuro"] {
+  --fundo: #0b0b0b;
+  --superficie: #161616;
+  --superficie-2: #222222;
+  --borda: #2e2e2e;
+  --texto: #f5f5f0;
+  --texto-2: #a3a39b;
+  --destaque: #ffd400;
+  --destaque-texto: #0b0b0b;
+  --destaque-2: #f5f5f0;
+  --marca-fundo: #ffd400;
+  --marca-texto: #0b0b0b;
+  --perigo: #ff6b5b;
+  --perigo-texto: #0b0b0b;
+  --ok: #7ee08a;
+  --sombra: none;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--fundo);
+  color: var(--texto);
+  font: 15px/1.5 var(--fonte);
+  min-height: 100vh;
+}
+[hidden] { display: none !important; }
+svg { width: 16px; height: 16px; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.icone-cheio { fill: currentColor; }
+
+/* campos */
+button, input, select, textarea { font: inherit; color: inherit; }
+button { cursor: pointer; }
+button:disabled { opacity: .5; cursor: default; }
+select, input, textarea {
+  width: 100%; padding: 8px 10px; border: 1px solid var(--borda); border-radius: var(--raio-pequeno);
+  background: var(--fundo);
+}
+input[type="checkbox"] { width: auto; }
+textarea { resize: vertical; min-height: 64px; }
+select:focus, input:focus, textarea:focus, button:focus-visible { outline: 2px solid var(--destaque); outline-offset: 1px; }
+code, .mono { font-family: var(--fonte-mono); font-size: 13px; }
+
+/* rótulo + campo, em coluna */
+.campo { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.campo > span { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--texto-2); }
+
+/* textos comuns */
+mark { background: var(--marca-fundo); color: var(--marca-texto); padding: 0 2px; border-radius: 3px; }
+.ajuda { font-size: 13px; color: var(--texto-2); margin: 0; }
+.carregando { color: var(--texto-2); padding: 24px 4px; }
+.vazio { text-align: center; color: var(--texto-2); padding: 56px 20px; border: 1px dashed var(--borda); border-radius: var(--raio); }
+.vazio-titulo { color: var(--texto); font-size: 16px; }
+.botoes { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+/* botão com ícone + texto */
+.btn, .btn-link, .favoritar { display: inline-flex; align-items: center; justify-content: center; gap: 6px; }

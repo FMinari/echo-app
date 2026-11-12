@@ -1,0 +1,135 @@
+[
+  {
+    "versao": "2.1.1",
+    "data": "2026-11-11",
+    "itens": [
+      "Ajustes nos textos das mensagens de erro e das instruções de atualização."
+    ]
+  },
+  {
+    "versao": "2.1",
+    "data": "2026-11-05",
+    "itens": [
+      "Agora a busca também procura em músicas! Para começar, três: Love Story (Taylor Swift), drivers license (Olivia Rodrigo) e If I Were a Boy (Beyoncé). Mais músicas chegam com as próximas atualizações.",
+      "As frases das músicas aparecem numa parte própria do resultado, \"Músicas\", depois de Séries e Filmes. Em \"Séries, filmes e músicas\" dá para escolher um artista ou \"Todas as músicas\".",
+      "Na música, o tempo é o momento exato do verso (nas séries e filmes continua sendo uma estimativa). Na folha, \"De onde é\" mostra o artista e a música.",
+      "O refrão não se repete no resultado: cada verso aparece uma vez só.",
+      "Na Text to Audio, a lista de vozes abre para cima quando não cabe embaixo (antes ela saía da janela)."
+    ]
+  },
+  {
+    "versao": "2.0",
+    "data": "2026-10-30",
+    "itens": [
+      "O Sitcomática agora se chama Echo, com cara nova: preto e amarelo, logo novo e ícone novo. O atalho na Área de Trabalho troca de nome sozinho.",
+      "Lá em cima ficam as três partes do app: Frases (com Buscar e Estruturas), Aulas e Text to Audio. O Sobre virou um botão pequeno ao lado do tema, e embaixo do logo aparecem a versão e a data da atualização.",
+      "Text to Audio: escreva um texto seu em inglês, guarde numa aula e ouça. \"Salvar áudio\" grava o texto num MP3 em Músicas › Echo, pronto para tocar na aula ou mandar para os alunos.",
+      "Na hora de ouvir ou de salvar o áudio, escolha a voz, a velocidade, o tom e o volume da leitura. Vale só para aquela hora: o texto não muda.",
+      "Cada aula mostra os textos dela, e dá para escrever um texto novo direto de lá.",
+      "Texto longo é lido até o fim no \"Ouvir\" (as vozes \"Online\" paravam no meio).",
+      "Mudou um texto e trocou de tela sem salvar? O app salva sozinho e avisa.",
+      "Os áudios novos ficam em Músicas › Echo. Os que você já tinha salvado continuam em Músicas › Sitcomática."
+    ]
+  },
+  {
+    "versao": "1.4.1",
+    "data": "2026-10-13",
+    "itens": [
+      "\"Salvar áudio\" em cada frase: o computador grava a frase num arquivo de áudio, que fica em Músicas › Sitcomática, pronto para tocar na aula ou mandar para os alunos. Depois de salvar, \"Mostrar na pasta\" abre a pasta com o arquivo.",
+      "O áudio sai com a voz e a velocidade escolhidas na aba Sobre. As vozes \"Online\" não dão para gravar: nesse caso vai uma voz em inglês do Windows, e o aviso diz qual.",
+      "\"Tirar da aula\" agora manda a frase para \"Sem aula\", com a nota, em vez de apagar. Apagar de vez só em \"Sem aula\", com dois cliques.",
+      "A folha para os alunos fica pronta bem mais rápido, não some quando você troca de aba e sai impressa também pelo Ctrl+P. No papel não aparecem mais a data e o endereço do app, e o PDF ganha o nome da folha.",
+      "O dicionário mostra primeiro o sentido mais comum (saw: ver, e depois serra) e entende contrações (didn't: do + not).",
+      "A busca escrita entende I'm, I'd, ex-wife, e-mail, fiancé e Mr. Geller, e o \"Tempo do verbo\" funciona com palavras como plan e date.",
+      "Montar uma estrutura com várias peças \"no meio\" seguidas não deixa mais o app parado.",
+      "O app não fecha mais sozinho com duas janelas abertas, com a janela de impressão aberta ou quando o computador volta da suspensão.",
+      "Atualizações mais seguras: se algo der errado no meio da instalação, o app volta a ser como estava."
+    ]
+  },
+  {
+    "versao": "1.4",
+    "data": "2026-10-12",
+    "itens": [
+      "Favoritos virou Aulas: crie uma aula, escolha ela em \"Guardar frases na aula\" (na tela Buscar) e o \"Guardar\" de cada frase põe ela lá. Suas frases guardadas antes estão em \"Sem aula\".",
+      "Em cada frase da aula dá para escrever uma nota (salva sozinha) e mover para outra aula. Dá também para renomear e apagar a aula (as frases vão para \"Sem aula\").",
+      "\"Fazer folha para os alunos\": de uma aula, uma folha de Exemplos ou de Completar (com a dica do verbo e o gabarito no fim), pronta para imprimir ou salvar em PDF.",
+      "\"Ouvir\" em cada frase: o computador lê a frase em inglês. A voz e a velocidade (normal, devagar, bem devagar) ficam na aba Sobre.",
+      "Clique numa palavra da frase para ver o que ela quer dizer em português (dicionário do Wiktionary).",
+      "Com o app aberto, ele procura versão nova sozinho de tempos em tempos e quando você volta para a janela; um aviso no canto mostra que está procurando e o que achou.",
+      "Na aba Sobre, as versões antigas ficam recolhidas; a sua fica aberta.",
+      "Antes de mudar o jeito como seus dados são guardados (como nesta versão, para as Aulas), o app faz uma cópia de segurança deles."
+    ]
+  },
+  {
+    "versao": "1.3.1",
+    "data": "2026-10-12",
+    "itens": [
+      "A busca escrita e a lista de phrasal verbs ficaram bem mais rápidas (na primeira vez que o app abre depois da atualização, ele leva uns segundos se preparando, sem atrapalhar).",
+      "As fichas dos phrasal verbs agora dizem o que cada um quer dizer (são mais de 300), e o resultado mostra o significado completo lá em cima.",
+      "\"Guardar como estrutura\": achou o que queria na busca escrita? Guarde com um nome e ela aparece em Estruturas, na categoria \"Minhas buscas\".",
+      "Na aba Sobre tem \"Desinstalar\", para tirar o app do computador (você escolhe se apaga também suas estruturas e favoritos).",
+      "Saíram as últimas menções ao Claude Desktop."
+    ]
+  },
+  {
+    "versao": "1.3",
+    "data": "2026-10-12",
+    "itens": [
+      "O Windows não bloqueia mais o app: agora ele usa o Python oficial (do python.org) e abre numa janela do Microsoft Edge, sem barra de endereço. Essa janela é só do app.",
+      "Saiu a ligação com o Claude Desktop.",
+      "Nova busca: em Buscar, escolha \"Escrever\" e digite o que quer achar nas falas (take off, I wish I had, used to). Nada fica salvo.",
+      "Escreva só um verbo (get, be, take, look…) e aparecem todos os phrasal verbs dele que existem nas falas, com quantas frases cada um. Clique num para ver os exemplos.",
+      "\"Aceitar outras formas\": take também acha took, taking e take it off. Desligado, acha só do jeito que você escreveu.",
+      "\"Tempo do verbo\": mostra só o verbo no presente, no passado, no particípio, com -ing ou na forma básica.",
+      "Na aba Estruturas, as categorias abrem e fecham (começam todas fechadas; procurando, abrem sozinhas).",
+      "Enquanto procura nas falas, aparece um balão de \"digitando\" e o formato dos resultados que vão chegar.",
+      "Trocar de página ou filtrar não apaga mais a tela: o resultado atual fica esmaecido até o novo chegar.",
+      "Os botões Salvar e Apagar da estrutura ficam sempre à vista no rodapé, mesmo com o formulário comprido.",
+      "Ícones novos (estrela de Guardar, setas, fechar) com o mesmo desenho em qualquer computador.",
+      "Por dentro: a tela foi reorganizada para ficar mais fácil de manter."
+    ]
+  },
+  {
+    "versao": "1.2",
+    "data": "2026-10-07",
+    "itens": [
+      "O app agora procura atualizações sozinho pela internet: ao abrir, se tiver versão nova (ou séries e filmes novos), ele avisa e instala com um clique.",
+      "Nova lista “Versões” na aba Sobre: se uma versão nova não ficou boa, dá para voltar para uma anterior (seus dados continuam).",
+      "Nova seção “Contato”, na aba Sobre."
+    ]
+  },
+  {
+    "versao": "1.1.1",
+    "data": "2026-10-07",
+    "itens": [
+      "Resultados em páginas: em cada parte (Séries e Filmes) dá para ir para a próxima página, voltar, ou pular para a primeira e a última, sem repetir frase.",
+      "“Mostrar 10, 20 ou 40 por página” fica agora na tela de resultados (e o app lembra a sua escolha). Saíram o “Quantas” e o “Outros exemplos” da busca.",
+      "Atualizações agora chegam num arquivo do Sitcomática (com o ícone do balão): é só dar dois cliques nele que o app abre e mostra o que mudou."
+    ]
+  },
+  {
+    "versao": "1.1",
+    "data": "2026-10-07",
+    "itens": [
+      "Muito mais estruturas prontas: agora são 186 (eram 19). Entraram os tempos verbais básicos (present simple, past simple, present e past continuous, will…), modais (have to, should, be supposed to…), 42 phrasal verbs, comparações, voz passiva, perguntas, conectores e mais.",
+      "O app agora se atualiza sozinho: quando sair uma versão nova, é só baixar o arquivo e abrir o Sitcomática. Ele acha a atualização nos Downloads, mostra o que mudou e instala com um clique.",
+      "Na aba Sobre dá para procurar a atualização de novo ou escolher o arquivo em outra pasta.",
+      "Criar estrutura ficou fácil: monte a regra com peças, sem precisar do Claude. Ex.: “Alguém ou algo” + “Verbo no passado” já acha o past simple com qualquer verbo, não precisa listar os verbos. Dá para testar antes de salvar.",
+      "A categoria agora é escolhida numa lista (ou você cria uma nova), sem duplicar “Tempos Verbais” e “Tempos verbais”.",
+      "As buscas das estruturas que vêm com o app já saem prontas, sem espera.",
+      "Correções: sumiu o “null” da tela de nova estrutura; a estrutura que estava só com “-” na regra ganhou a regra certa."
+    ]
+  },
+  {
+    "versao": "1.0",
+    "data": "2026-10-07",
+    "itens": [
+      "Primeira versão do Sitcomática.",
+      "Busca de estruturas do inglês em 9 séries e 101 filmes (Disney, Pixar, DreamWorks, Marvel, musicais, comédias).",
+      "Atalhos “Todas as séries” e “Todos os filmes”, grupos prontos (Pixar, Marvel, High School Musical…) e grupos que você monta.",
+      "Resultado separado em Séries e Filmes, cada um recolhível, e filtro por série, filme ou personagem.",
+      "Favoritos, contexto da cena e “Não é essa estrutura” para tirar frases erradas.",
+      "Pasta de erros e cópia de segurança diária das suas estruturas, favoritos e grupos."
+    ]
+  }
+]
